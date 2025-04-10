@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<dblpperson name="Chin Ann Ong" pid="59/4829" n="6">
+<person key="homepages/59/4829" mdate="2023-01-22">
+<author pid="59/4829">Chin Ann Ong</author>
+<author pid="59/4829">Ong Chin Ann</author>
+<note type="affiliation">Swinburne University of Technology, School of Engineering, Computing and Science, Kuching, Malaysia</note>
+<url>https://orcid.org/0000-0003-0335-9011</url>
+</person>
+<r><article key="journals/joeuc/OngTN19" mdate="2025-01-19">
+<author orcid="0000-0003-0335-9011" pid="59/4829">Chin Ann Ong</author>
+<author pid="192/8306">Fu Swee Tee</author>
+<author pid="242/3406">Voon Yang Nen</author>
+<title>A Study on Satisfaction Level Among Amateur Web Application Developers Towards Pigeon-Table as Nano Web Development Framework.</title>
+<pages>97-112</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>J. Organ. End User Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/JOEUC.2019070106</ee>
+<ee>https://www.wikidata.org/entity/Q128047897</ee>
+<url>db/journals/joeuc/joeuc31.html#OngTN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsce/OngL14" mdate="2021-10-14">
+<author orcid="0000-0003-0335-9011" pid="59/4829">Ong Chin Ann</author>
+<author orcid="0000-0002-6071-6399" pid="78/2228">Lau Bee Theng</author>
+<title>Human activity recognition: A review.</title>
+<pages>389-393</pages>
+<year>2014</year>
+<booktitle>ICCSCE</booktitle>
+<ee>https://doi.org/10.1109/ICCSCE.2014.7072750</ee>
+<crossref>conf/iccsce/2014</crossref>
+<url>db/conf/iccsce/iccsce2014.html#OngL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/itse/OngL12" mdate="2021-10-14">
+<author orcid="0000-0003-0335-9011" pid="59/4829">Ong Chin Ann</author>
+<author orcid="0000-0002-6071-6399" pid="78/2228">Lau Bee Theng</author>
+<title>Helping the disabled people: the potentials of biometric information.</title>
+<year>2012</year>
+<volume>9</volume>
+<journal>Interact. Technol. Smart Educ.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/17415651211258272</ee>
+<url>db/journals/itse/itse9.html#OngL12</url>
+<pages>153-170</pages>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEicics/OngL11" mdate="2021-10-14">
+<author orcid="0000-0003-0335-9011" pid="59/4829">Ong Chin Ann</author>
+<author orcid="0000-0002-6071-6399" pid="78/2228">Lau Bee Theng</author>
+<title>A study on the effectiveness of biometrics based alternative communication tool.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ICICS</booktitle>
+<ee>https://doi.org/10.1109/ICICS.2011.6173578</ee>
+<crossref>conf/IEEEicics/2011</crossref>
+<url>db/conf/IEEEicics/IEEEicics2011.html#OngL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigpro/LeeO01" mdate="2020-02-22">
+<author pid="71/1849">Dominic S. Lee</author>
+<author pid="59/4829">Chin Ann Ong</author>
+<title>Quasi-subtractive dithering.</title>
+<pages>2321-2331</pages>
+<year>2001</year>
+<volume>81</volume>
+<journal>Signal Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/S0165-1684(01)00110-4</ee>
+<url>db/journals/sigpro/sigpro81.html#LeeO01</url>
+</article>
+</r>
+<r><article key="journals/tip/OngC99" mdate="2020-05-10">
+<author pid="59/4829">Chin Ann Ong</author>
+<author pid="92/4907">Jonathon A. Chambers</author>
+<title>An enhanced NAS-RIF algorithm for blind image deconvolution.</title>
+<pages>988-992</pages>
+<year>1999</year>
+<volume>8</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/83.772250</ee>
+<ee>https://www.wikidata.org/entity/Q51893268</ee>
+<url>db/journals/tip/tip8.html#OngC99</url>
+</article>
+</r>
+<coauthors n="5" nc="1">
+<co c="-1"><na f="c/Chambers:Jonathon_A=" pid="92/4907">Jonathon A. Chambers</na></co>
+<co c="-1"><na f="l/Lee:Dominic_S=" pid="71/1849">Dominic S. Lee</na></co>
+<co c="0"><na f="n/Nen:Voon_Yang" pid="242/3406">Voon Yang Nen</na></co>
+<co c="0"><na f="t/Tee:Fu_Swee" pid="192/8306">Fu Swee Tee</na></co>
+<co c="0"><na f="t/Theng:Lau_Bee" pid="78/2228">Lau Bee Theng</na></co>
+</coauthors>
+</dblpperson>
+

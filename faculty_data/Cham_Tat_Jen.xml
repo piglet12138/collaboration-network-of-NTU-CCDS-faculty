@@ -1,0 +1,2207 @@
+<?xml version="1.0"?>
+<dblpperson name="Tat-Jen Cham" pid="29/3808" n="140">
+<person key="homepages/29/3808" mdate="2023-09-20">
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="29/3808">Cham Tat Jen</author>
+<url>https://orcid.org/0000-0001-5264-2572</url>
+<url>https://www.wikidata.org/entity/Q92560072</url>
+<url>https://d-nb.info/gnd/132728621</url>
+</person>
+<r><article key="journals/tsmc/GuptaLCL25" mdate="2025-01-25">
+<author orcid="0000-0003-3344-863X" pid="75/2684">Meenakshi Gupta</author>
+<author orcid="0009-0000-3019-0608" pid="360/8162">Mingyuan Lei</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-1932-5377" pid="95/5930">Hwee Kuan Lee</author>
+<title>D-LORD for Motion Stylization.</title>
+<pages>1374-1387</pages>
+<year>2025</year>
+<month>February</month>
+<volume>55</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSMC.2024.3502498</ee>
+<url>db/journals/tsmc/tsmc55.html#GuptaLCL25</url>
+<stream>streams/journals/tsmc</stream>
+</article>
+</r>
+<r><article key="journals/pami/ZhengSCCLP24" mdate="2024-11-30">
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0002-3664-572X" pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author pid="17/1788">Linjie Luo</author>
+<author orcid="0000-0002-9977-8247" pid="71/5859">Dinh Phung 0001</author>
+<title>Bridging Global Context Interactions for High-Fidelity Pluralistic Image Completion.</title>
+<pages>8320-8333</pages>
+<year>2024</year>
+<month>December</month>
+<volume>46</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TPAMI.2024.3403695</ee>
+<url>db/journals/pami/pami46.html#ZhengSCCLP24</url>
+<stream>streams/journals/pami</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HutZZWTC24" mdate="2025-03-03">
+<author pid="386/6305">Minghui Hut</author>
+<author pid="58/2566">Jianbin Zheng</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls.</title>
+<pages>7331-7340</pages>
+<year>2024</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52733.2024.00700</ee>
+<crossref>conf/cvpr/2024</crossref>
+<url>db/conf/cvpr/cvpr2024.html#HutZZWTC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/TangC24" mdate="2025-03-03">
+<author orcid="0009-0002-6630-7008" pid="336/5579">Zhe Jun Tang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting.</title>
+<pages>143-159</pages>
+<year>2024</year>
+<booktitle>ECCV (14)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72630-9_9</ee>
+<crossref>conf/eccv/2024-14</crossref>
+<url>db/conf/eccv/eccv2024-14.html#TangC24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WuZWC24" mdate="2024-10-22">
+<author orcid="0000-0003-2195-9942" pid="17/1976">Tianhao Wu</author>
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-8764-6178" pid="217/2011">Qianyi Wu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition.</title>
+<pages>255-272</pages>
+<year>2024</year>
+<booktitle>ECCV (57)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72998-0_15</ee>
+<crossref>conf/eccv/2024-57</crossref>
+<url>db/conf/eccv/eccv2024-57.html#WuZWC24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChenXZZPGCC24" mdate="2024-11-30">
+<author orcid="0000-0003-0943-1512" pid="236/6258">Yuedong Chen</author>
+<author orcid="0000-0003-1313-3358" pid="236/6248">Haofei Xu</author>
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0002-0074-0303" pid="145/1096">Bohan Zhuang</author>
+<author orcid="0000-0003-2448-2318" pid="p/MarcPollefeys">Marc Pollefeys</author>
+<author orcid="0000-0002-8151-3726" pid="40/5825-1">Andreas Geiger 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images.</title>
+<pages>370-386</pages>
+<year>2024</year>
+<booktitle>ECCV (21)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72664-4_21</ee>
+<crossref>conf/eccv/2024-21</crossref>
+<url>db/conf/eccv/eccv2024-21.html#ChenXZZPGCC24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/WuZC24" mdate="2024-08-07">
+<author pid="17/1976">Tianhao Wu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>PanoDiffusion: 360-degree Panorama Outpainting via Diffusion.</title>
+<year>2024</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=ZNzDXDFZ0B</ee>
+<crossref>conf/iclr/2024</crossref>
+<url>db/conf/iclr/iclr2024.html#WuZC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChenZXZVC024" mdate="2025-02-13">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="236/6248">Haofei Xu</author>
+<author pid="145/1096">Bohan Zhuang</author>
+<author pid="99/2825">Andrea Vedaldi</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/c196239c5f9481e0db2755f31fe4585f-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#ChenZXZVC024</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-19159" mdate="2024-10-06">
+<author pid="58/2566">Jianbin Zheng</author>
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="261/7701">Zhongyi Fan</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="140/4707">Changxing Ding</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Trajectory Consistency Distillation.</title>
+<year>2024</year>
+<volume>abs/2402.19159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.19159</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-19159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14619" mdate="2024-10-06">
+<author pid="17/1976">Tianhao Wu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="217/2011">Qianyi Wu</author>
+<title>ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition.</title>
+<year>2024</year>
+<volume>abs/2403.14619</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14619</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14619</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14627" mdate="2024-10-06">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="236/6248">Haofei Xu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="145/1096">Bohan Zhuang</author>
+<author pid="p/MarcPollefeys">Marc Pollefeys</author>
+<author pid="40/5825-1">Andreas Geiger 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images.</title>
+<year>2024</year>
+<volume>abs/2403.14627</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14627</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14627</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-03753" mdate="2024-10-06">
+<author pid="336/5579">Zhe Jun Tang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting.</title>
+<year>2024</year>
+<volume>abs/2408.03753</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.03753</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-03753</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-04924" mdate="2025-03-03">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="236/6248">Haofei Xu</author>
+<author pid="145/1096">Bohan Zhuang</author>
+<author pid="99/2825">Andrea Vedaldi</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views.</title>
+<year>2024</year>
+<volume>abs/2411.04924</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.04924</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-04924</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-09176" mdate="2025-01-01">
+<author pid="72/6811">Bo Wang</author>
+<author pid="274/8707">Dingwei Tan</author>
+<author pid="120/3172">Yen-Ling Kuo</author>
+<author pid="78/8139">Zhaowei Sun</author>
+<author pid="47/10734">Jeremy M. Wolfe</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="160/7116">Mengmi Zhang</author>
+<title>Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging.</title>
+<year>2024</year>
+<volume>abs/2411.09176</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.09176</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-09176</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-04097" mdate="2025-01-14">
+<author pid="75/2684">Meenakshi Gupta</author>
+<author pid="360/8162">Mingyuan Lei</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="95/5930">Hwee Kuan Lee</author>
+<title>D-LORD for Motion Stylization.</title>
+<year>2024</year>
+<volume>abs/2412.04097</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.04097</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-04097</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-06174" mdate="2025-01-15">
+<author pid="169/2012">Yuzhu Ji</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>One-shot Human Motion Transfer via Occlusion-Robust Flow Prediction and Neural Texturing.</title>
+<year>2024</year>
+<volume>abs/2412.06174</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.06174</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-06174</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/TangCZ23" mdate="2025-03-03">
+<author pid="336/5579">Zhe Jun Tang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="203/8513">Haiyu Zhao</author>
+<title>ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field.</title>
+<pages>16559-16568</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.01589</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#TangCZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/0001ZYCZWTS23" mdate="2024-07-24">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="254/9451">Zuopeng Yang</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="208/4220">Heliang Zheng</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="s/PNSuganthan">Ponnuthurai N. Suganthan</author>
+<title>Unified Discrete Diffusion for Simultaneous Vision-Language Generation.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=8JqINxA-2a</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#0001ZYCZWTS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/0001ZLZWTC23" mdate="2024-03-01">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="58/2566">Jianbin Zheng</author>
+<author pid="225/5519">Daqing Liu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>Cocktail: Mixing Multi-Modality Control for Text-Conditional Image Generation.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/668563ef18fbfef0b66af491ea334d5f-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#0001ZLZWTC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-13817" mdate="2024-10-06">
+<author pid="336/5579">Zhe Jun Tang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="203/8513">Haiyu Zhao</author>
+<title>ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field.</title>
+<year>2023</year>
+<volume>abs/2303.13817</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.13817</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-13817</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-12294" mdate="2024-10-06">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="236/6248">Haofei Xu</author>
+<author pid="217/2011">Qianyi Wu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Explicit Correspondence Matching for Generalizable Neural Radiance Fields.</title>
+<year>2023</year>
+<volume>abs/2304.12294</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.12294</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-12294</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-00964" mdate="2023-06-12">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="58/2566">Jianbin Zheng</author>
+<author pid="225/5519">Daqing Liu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation.</title>
+<year>2023</year>
+<volume>abs/2306.00964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.00964</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-00964</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-03177" mdate="2024-10-06">
+<author pid="17/1976">Tianhao Wu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model.</title>
+<year>2023</year>
+<volume>abs/2307.03177</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.03177</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-03177</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-15744" mdate="2024-10-06">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="58/2566">Jianbin Zheng</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls.</title>
+<year>2023</year>
+<volume>abs/2311.15744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.15744</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-15744</url>
+</article>
+</r>
+<r><article key="journals/pr/ChenSSCCZ22" mdate="2024-10-06">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0002-9383-8384" pid="180/2845">Zhiwen Shao</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<title>GeoConv: Geodesic guided convolution for facial action unit recognition.</title>
+<pages>108355</pages>
+<year>2022</year>
+<volume>122</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2021.108355</ee>
+<url>db/journals/pr/pr122.html#ChenSSCCZ22</url>
+</article>
+</r>
+<r><article key="journals/taffco/ShaoCCLM22" mdate="2024-10-06">
+<author orcid="0000-0002-9383-8384" pid="180/2845">Zhiwen Shao</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author orcid="0000-0003-1653-4341" pid="10/4950">Lizhuang Ma</author>
+<title>Unconstrained Facial Action Unit Detection via Latent Feature Domain.</title>
+<pages>1111-1126</pages>
+<year>2022</year>
+<volume>13</volume>
+<journal>IEEE Trans. Affect. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TAFFC.2021.3091331</ee>
+<url>db/journals/taffco/taffco13.html#ShaoCCLM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HuWCYS22" mdate="2024-10-06">
+<author orcid="0000-0002-3658-0890" pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="00/8454">Yujie Wang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="s/PNSuganthan">Ponnuthurai N. Suganthan</author>
+<title>Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.</title>
+<pages>11492-11501</pages>
+<year>2022</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52688.2022.01121</ee>
+<crossref>conf/cvpr/2022</crossref>
+<url>db/conf/cvpr/cvpr2022.html#HuWCYS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhengC0P22" mdate="2024-10-06">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="71/5859">Dinh Q. Phung</author>
+<title>Bridging Global Context Interactions for High-Fidelity Image Completion.</title>
+<pages>11502-11512</pages>
+<year>2022</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52688.2022.01122</ee>
+<crossref>conf/cvpr/2022</crossref>
+<url>db/conf/cvpr/cvpr2022.html#ZhengC0P22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/HuC22" mdate="2024-10-06">
+<author pid="04/2380">Bo Hu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.</title>
+<pages>439-456</pages>
+<year>2022</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19772-7_26</ee>
+<crossref>conf/eccv/2022-4</crossref>
+<url>db/conf/eccv/eccv2022-4.html#HuC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChenWZCC22" mdate="2022-11-13">
+<author orcid="0000-0003-0943-1512" pid="236/6258">Yuedong Chen</author>
+<author orcid="0000-0001-8764-6178" pid="217/2011">Qianyi Wu</author>
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.</title>
+<pages>730-748</pages>
+<year>2022</year>
+<booktitle>ECCV (14)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19781-9_42</ee>
+<crossref>conf/eccv/2022-14</crossref>
+<url>db/conf/eccv/eccv2022-14.html#ChenWZCC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/TangC22" mdate="2024-10-06">
+<author orcid="0009-0002-6630-7008" pid="336/5579">Zhe Jun Tang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>MPT-Net: Mask Point Transformer Network for Large Scale Point Cloud Semantic Segmentation.</title>
+<pages>10611-10618</pages>
+<year>2022</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS47612.2022.9981809</ee>
+<crossref>conf/iros/2022</crossref>
+<url>db/conf/iros/iros2022.html#TangC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/SongC0Z22" mdate="2024-10-06">
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<title>Real-time Shadow-aware Portrait Relighting in Virtual Backgrounds for Realistic Telepresence.</title>
+<pages>729-738</pages>
+<year>2022</year>
+<booktitle>ISMAR</booktitle>
+<ee>https://doi.org/10.1109/ISMAR55827.2022.00091</ee>
+<crossref>conf/ismar/2022</crossref>
+<url>db/conf/ismar/ismar2022.html#SongC0Z22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ChenYC022" mdate="2024-11-18">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="63/1534-21">Xu Yang 0021</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Towards Unbiased Visual Emotion Recognition via Causal Intervention.</title>
+<pages>60-69</pages>
+<year>2022</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3503161.3547936</ee>
+<crossref>conf/mm/2022</crossref>
+<url>db/conf/mm/mm2022.html#ChenYC022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-10821" mdate="2024-10-06">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="217/2011">Qianyi Wu</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.</title>
+<year>2022</year>
+<volume>abs/2203.10821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.10821</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-10821</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-01931" mdate="2024-10-06">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="71/5859">Dinh Q. Phung</author>
+<author pid="17/1788">Linjie Luo</author>
+<title>High-Quality Pluralistic Image Completion via Code Shared VQGAN.</title>
+<year>2022</year>
+<volume>abs/2204.01931</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.01931</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-01931</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-06235" mdate="2024-10-06">
+<author pid="04/2380">Bo Hu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.</title>
+<year>2022</year>
+<volume>abs/2207.06235</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.06235</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-06235</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-14842" mdate="2024-10-06">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="208/4220">Heliang Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="174/7172">Chaoyue Wang</author>
+<author pid="254/9451">Zuopeng Yang</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="s/PNSuganthan">Ponnuthurai N. Suganthan</author>
+<title>Unified Discrete Diffusion for Simultaneous Vision-Language Generation.</title>
+<year>2022</year>
+<volume>abs/2211.14842</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.14842</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-14842</url>
+</article>
+</r>
+<r><article key="journals/cgf/SongCCZ21" mdate="2022-10-02">
+<author orcid="0000-0002-3664-572X" pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<title>Half-body Portrait Relighting with Overcomplete Lighting Representation.</title>
+<pages>371-381</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>6</number>
+<ee>https://doi.org/10.1111/cgf.14384</ee>
+<url>db/journals/cgf/cgf40.html#SongCCZ21</url>
+</article>
+</r>
+<r><article key="journals/ijcv/ZhengCC21" mdate="2024-10-06">
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Pluralistic Free-Form Image Completion.</title>
+<pages>2786-2805</pages>
+<year>2021</year>
+<volume>129</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11263-021-01502-7</ee>
+<url>db/journals/ijcv/ijcv129.html#ZhengCC21</url>
+</article>
+</r>
+<r><article key="journals/ijcv/ZhengDSCC21" mdate="2024-10-06">
+<author orcid="0000-0002-3584-9640" pid="195/8988">Chuanxia Zheng</author>
+<author pid="290/1948">Duy-Son Dao</author>
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.</title>
+<pages>3195-3215</pages>
+<year>2021</year>
+<volume>129</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s11263-021-01517-0</ee>
+<url>db/journals/ijcv/ijcv129.html#ZhengDSCC21</url>
+</article>
+</r>
+<r><article key="journals/tog/SongLLMLZC21" mdate="2025-01-19">
+<author pid="189/7103">Guoxian Song</author>
+<author pid="17/1788">Linjie Luo</author>
+<author pid="72/2590">Jing Liu</author>
+<author pid="40/2853">Wan-Chun Ma</author>
+<author pid="92/1060">Chun-Pong Lai</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>AgileGAN: stylizing portraits by inversion-consistent transfer learning.</title>
+<pages>117:1-117:13</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3450626.3459771</ee>
+<ee>https://www.wikidata.org/entity/Q131012485</ee>
+<url>db/journals/tog/tog40.html#SongLLMLZC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhengC021" mdate="2024-10-06">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>The Spatially-Correlative Loss for Various Image Translation Tasks.</title>
+<pages>16407-16417</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Zheng_The_Spatially-Correlative_Loss_for_Various_Image_Translation_Tasks_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.01614</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#ZhengC021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/Cai0ZC0Y0ZYDSLM21" mdate="2025-03-03">
+<author orcid="0000-0002-0993-4024" pid="227/4399">Yujun Cai</author>
+<author orcid="0000-0001-5921-2575" pid="50/5889-1">Yiwei Wang 0001</author>
+<author pid="232/1993-3">Yiheng Zhu 0003</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="42/3332">Junsong Yuan 0001</author>
+<author pid="95/3736-36">Jun Liu 0036</author>
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="42/4198">Sijie Yan</author>
+<author orcid="0000-0003-4868-6526" pid="230/1216">Henghui Ding</author>
+<author pid="88/6582">Xiaohui Shen</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</author>
+<title>A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder<sup>&#8727;</sup>.</title>
+<pages>11625-11635</pages>
+<year>2021</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV48922.2021.01144</ee>
+<crossref>conf/iccv/2021</crossref>
+<url>db/conf/iccv/iccv2021.html#Cai0ZC0Y0ZYDSLM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-00845" mdate="2021-04-12">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>TFill: Image Completion via a Transformer-Based Architecture.</title>
+<year>2021</year>
+<volume>abs/2104.00845</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.00845</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-00845</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-00854" mdate="2021-04-12">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>The Spatially-Correlative Loss for Various Image Translation Tasks.</title>
+<year>2021</year>
+<volume>abs/2104.00854</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.00854</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-00854</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-05367" mdate="2021-04-19">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="290/1948">Duy-Son Dao</author>
+<author pid="189/7103">Guoxian Song</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.</title>
+<year>2021</year>
+<volume>abs/2104.05367</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.05367</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-05367</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-13425" mdate="2021-06-30">
+<author pid="189/7103">Guoxian Song</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<title>Half-body Portrait Relighting with Overcomplete Lighting Representation.</title>
+<year>2021</year>
+<volume>abs/2106.13425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.13425</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-13425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-12096" mdate="2024-11-18">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="63/1534-21">Xu Yang 0021</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Towards Unbiased Visual Emotion Recognition via Causal Intervention.</title>
+<year>2021</year>
+<volume>abs/2107.12096</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.12096</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-12096</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-01799" mdate="2022-11-17">
+<author pid="163/9000-1">Minghui Hu 0001</author>
+<author pid="00/8454">Yujie Wang</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="06/5852">Jianfei Yang</author>
+<author pid="s/PNSuganthan">Ponnuthurai N. Suganthan</author>
+<title>Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.</title>
+<year>2021</year>
+<volume>abs/2112.01799</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.01799</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-01799</url>
+</article>
+</r>
+<r><article key="journals/ivc/SongZCC20" mdate="2024-10-06">
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Recovering facial reflectance and geometry from multi-view images.</title>
+<pages>103897</pages>
+<year>2020</year>
+<volume>96</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2020.103897</ee>
+<url>db/journals/ivc/ivc96.html#SongZCC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/CaiHWC0YLYZSLLM20" mdate="2025-03-03">
+<author orcid="0000-0002-0993-4024" pid="227/4399">Yujun Cai</author>
+<author orcid="0000-0002-6715-8676" pid="74/2101-4">Lin Huang 0004</author>
+<author orcid="0000-0001-5921-2575" pid="50/5889-1">Yiwei Wang 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-7901-8793" pid="42/3332">Junsong Yuan 0001</author>
+<author orcid="0000-0002-4365-4165" pid="95/3736-36">Jun Liu 0036</author>
+<author pid="63/1534-21">Xu Yang 0021</author>
+<author pid="232/1993-3">Yiheng Zhu 0003</author>
+<author pid="88/6582">Xiaohui Shen</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="72/2590-50">Jing Liu 0050</author>
+<author orcid="0000-0002-1459-5960" pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</author>
+<title>Learning Progressive Joint Propagation for Human Motion Prediction.</title>
+<pages>226-242</pages>
+<year>2020</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58571-6_14</ee>
+<crossref>conf/eccv/2020-7</crossref>
+<url>db/conf/eccv/eccv2020-7.html#CaiHWC0YLYZSLLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/XiaGSCCF20" mdate="2024-10-06">
+<author pid="219/8207">Xinxing Xia</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Yunqing Guan 0001</author>
+<author pid="36/2946">Andrei State</author>
+<author pid="224/0700">Praneeth Chakravarthula</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Towards Eyeglass-style Holographic Near-eye Displays with Statically.</title>
+<pages>312-319</pages>
+<year>2020</year>
+<booktitle>ISMAR</booktitle>
+<ee>https://doi.org/10.1109/ISMAR50242.2020.00057</ee>
+<crossref>conf/ismar/2020</crossref>
+<url>db/conf/ismar/ismar2020.html#XiaGSCCF20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-03055" mdate="2020-06-10">
+<author pid="236/6258">Yuedong Chen</author>
+<author pid="189/7103">Guoxian Song</author>
+<author pid="180/2845">Zhiwen Shao</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="132/5498">Jianming Zheng</author>
+<title>GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition.</title>
+<year>2020</year>
+<volume>abs/2003.03055</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.03055</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-03055</url>
+</article>
+</r>
+<r><article key="journals/cgf/DengZCC19" mdate="2025-01-19">
+<author pid="147/4642">Teng Deng</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Shading-Based Surface Recovery Using Subdivision-Based Representation.</title>
+<pages>417-428</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/cgf.13539</ee>
+<ee>https://www.wikidata.org/entity/Q129247954</ee>
+<url>db/journals/cgf/cgf38.html#DengZCC19</url>
+</article>
+</r>
+<r><article key="journals/ijon/LiuSCCZ19" mdate="2025-01-19">
+<author orcid="0000-0003-1447-6256" pid="51/8175">Zhilei Liu</author>
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="38/5125">Juyong Zhang</author>
+<title>Conditional adversarial synthesis of 3D facial action units.</title>
+<pages>200-208</pages>
+<year>2019</year>
+<volume>355</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2019.05.003</ee>
+<ee>https://www.wikidata.org/entity/Q127941299</ee>
+<url>db/journals/ijon/ijon355.html#LiuSCCZ19</url>
+</article>
+</r>
+<r><article key="journals/pami/ShengCCPN19" mdate="2022-10-11">
+<author orcid="0000-0002-8525-9163" pid="132/1772">Lu Sheng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-3979-1236" pid="98/2506">Vladimir Pavlovic 0001</author>
+<author orcid="0000-0003-1946-3235" pid="n/KingNgiNgan">King Ngi Ngan</author>
+<title>Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking.</title>
+<pages>1994-2007</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPAMI.2018.2877675</ee>
+<ee>https://www.wikidata.org/entity/Q58119517</ee>
+<url>db/journals/pami/pami41.html#ShengCCPN19</url>
+</article>
+</r>
+<r><article key="journals/tvcg/XiaGSCRCF19" mdate="2024-08-04">
+<author pid="219/8207">Xinxing Xia</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Yunqing Guan 0001</author>
+<author pid="36/2946">Andrei State</author>
+<author pid="224/0700">Praneeth Chakravarthula</author>
+<author pid="125/1529">Kishore Rathinavel</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Towards a Switchable AR/VR Near-eye Display with Accommodation-Vergence and Eyeglass Prescription Support.</title>
+<pages>3114-3124</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVCG.2019.2932238</ee>
+<ee>https://www.wikidata.org/entity/Q92560074</ee>
+<url>db/journals/tvcg/tvcg25.html#XiaGSCRCF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhengCC19" mdate="2020-10-25">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Pluralistic Image Completion.</title>
+<pages>1438-1447</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00153</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ZhengCC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/CaiGLCCYM19" mdate="2025-03-03">
+<author orcid="0000-0002-0993-4024" pid="227/4399">Yujun Cai</author>
+<author pid="182/2301">Liuhao Ge</author>
+<author orcid="0000-0002-4365-4165" pid="95/3736-36">Jun Liu 0036</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="42/3332">Junsong Yuan 0001</author>
+<author orcid="0000-0002-1459-5960" pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</author>
+<title>Exploiting Spatial-Temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks.</title>
+<pages>2272-2281</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00236</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#CaiGLCCYM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-06765" mdate="2020-06-10">
+<author pid="189/7103">Guoxian Song</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<author pid="38/5125">Juyong Zhang</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.</title>
+<year>2019</year>
+<volume>abs/1901.06765</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.06765</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-06765</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-00304" mdate="2024-05-15">
+<author pid="04/2380">Bo Hu</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="42/3332">Junsong Yuan 0001</author>
+<title>Progress Regression RNN for Online Spatial-Temporal Action Localization in Unconstrained Videos.</title>
+<year>2019</year>
+<volume>abs/1903.00304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.00304</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-00304</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-04227" mdate="2020-06-10">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Pluralistic Image Completion.</title>
+<year>2019</year>
+<volume>abs/1903.04227</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.04227</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-04227</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-10143" mdate="2021-01-23">
+<author pid="180/2845">Zhiwen Shao</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author pid="10/4950">Lizhuang Ma</author>
+<title>Weakly-Supervised Unconstrained Action Unit Detection via Feature Disentanglement.</title>
+<year>2019</year>
+<volume>abs/1903.10143</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.10143</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-10143</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02114" mdate="2022-10-11">
+<author pid="132/1772">Lu Sheng</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="98/2506">Vladimir Pavlovic 0001</author>
+<author pid="n/KingNgiNgan">King Ngi Ngan</author>
+<title>Visibility Constrained Generative Model for Depth-based 3D Facial Pose Tracking.</title>
+<year>2019</year>
+<volume>abs/1905.02114</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02114</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02114</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11999" mdate="2020-06-10">
+<author pid="189/7103">Guoxian Song</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>Recovering Facial Reflectance and Geometry from Multi-view Images.</title>
+<year>2019</year>
+<volume>abs/1911.11999</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11999</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11999</url>
+</article>
+</r>
+<r><article key="journals/pami/XuDZZCC18" mdate="2022-10-02">
+<author orcid="0000-0001-5464-9858" pid="95/7448">Di Xu</author>
+<author pid="86/5155">Qi Duan</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<author pid="38/5125">Juyong Zhang</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Shading-Based Surface Detail Recovery Under General Unknown Illumination.</title>
+<pages>423-436</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2671458</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2671458</ee>
+<ee>https://www.wikidata.org/entity/Q54305759</ee>
+<url>db/journals/pami/pami40.html#XuDZZCC18</url>
+</article>
+</r>
+<r><article key="journals/tomccap/WangCLC18" mdate="2020-10-26">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Structure-Aware Multimodal Feature Fusion for RGB-D Scene Classification and Beyond.</title>
+<pages>39:1-39:22</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>ACM Trans. Multim. Comput. Commun. Appl.</journal>
+<number>2s</number>
+<ee>https://doi.org/10.1145/3115932</ee>
+<url>db/journals/tomccap/tomccap14.html#WangCLC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgi/XiaGSCF18" mdate="2024-08-04">
+<author pid="219/8207">Xinxing Xia</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Yunqing Guan 0001</author>
+<author pid="36/2946">Andrei State</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Towards Efficient 3D Calibration for Different Types of Multi-view Autostereoscopic 3D Displays.</title>
+<pages>169-174</pages>
+<year>2018</year>
+<booktitle>CGI</booktitle>
+<ee>https://doi.org/10.1145/3208159.3208190</ee>
+<crossref>conf/cgi/2018</crossref>
+<url>db/conf/cgi/cgi2018.html#XiaGSCF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhengCC18" mdate="2024-10-06">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>T ^2 2 Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.</title>
+<pages>798-814</pages>
+<year>2018</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01234-2_47</ee>
+<crossref>conf/eccv/2018-7</crossref>
+<url>db/conf/eccv/eccv2018-7.html#ZhengCC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ZhaoCRCZ18" mdate="2023-03-24">
+<author pid="187/1639">Chenqiu Zhao</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="149/1241">Xinyu Ren</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author pid="227/7205">Haichen Zhu</author>
+<title>Background Subtraction Based on Deep Pixel Distribution Learning.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2018.8486510</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2018.8486510</ee>
+<crossref>conf/icmcs/2018</crossref>
+<url>db/conf/icmcs/icme2018.html#ZhaoCRCZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SongCCZZF18" mdate="2020-10-25">
+<author pid="189/7103">Guoxian Song</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<author pid="38/5125">Juyong Zhang</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.</title>
+<pages>923-931</pages>
+<year>2018</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3240508.3240570</ee>
+<crossref>conf/mm/2018</crossref>
+<url>db/conf/mm/mm2018.html#SongCCZZF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vcip/DengZCC18" mdate="2020-10-25">
+<author pid="147/4642">Teng Deng</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>SubdSH: Subdivision-based Spherical Harmonics Field for Real-time Shading-based Refinement under Challenging Unknown Illumination.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>VCIP</booktitle>
+<ee>https://doi.org/10.1109/VCIP.2018.8698629</ee>
+<crossref>conf/vcip/2018</crossref>
+<url>db/conf/vcip/vcip2018.html#DengZCC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-07421" mdate="2020-06-10">
+<author pid="51/8175">Zhilei Liu</author>
+<author pid="189/7103">Guoxian Song</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="38/5125">Juyong Zhang</author>
+<title>Conditional Adversarial Synthesis of 3D Facial Action Units.</title>
+<year>2018</year>
+<volume>abs/1802.07421</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.07421</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-07421</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-01454" mdate="2020-06-10">
+<author pid="195/8988">Chuanxia Zheng</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>T2Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.</title>
+<year>2018</year>
+<volume>abs/1808.01454</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.01454</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-01454</url>
+</article>
+</r>
+<r><article key="journals/ivc/DengCCZ17" mdate="2022-10-02">
+<author orcid="0000-0001-7431-4748" pid="147/4642">Teng Deng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<title>Multiple consumer-grade depth camera registration using everyday objects.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<volume>62</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2017.03.005</ee>
+<url>db/journals/ivc/ivc62.html#DengCCZ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ShengCCPN17" mdate="2024-10-06">
+<author orcid="0000-0002-8525-9163" pid="132/1772">Lu Sheng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-3979-1236" pid="98/2506">Vladimir Pavlovic 0001</author>
+<author orcid="0000-0003-1946-3235" pid="n/KingNgiNgan">King Ngi Ngan</author>
+<title>A Generative Model for Depth-Based Robust 3D Facial Pose Tracking.</title>
+<pages>4598-4607</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.489</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2017.489</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#ShengCCPN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/TanFDCC17" mdate="2024-10-06">
+<author orcid="0000-0001-7418-5878" pid="122/4804">Fuwen Tan</author>
+<author orcid="0000-0002-5238-593X" pid="38/803">Chi-Wing Fu</author>
+<author pid="147/4642">Teng Deng</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>FaceCollage: A Rapidly Deployable System for Real-time Head Reconstruction for On-The-Go 3D Telepresence.</title>
+<pages>64-72</pages>
+<year>2017</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3123266.3123281</ee>
+<crossref>conf/mm/2017</crossref>
+<url>db/conf/mm/mm2017.html#TanFDCC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/0001CLC16" mdate="2023-03-24">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Modality and Component Aware Feature Fusion for RGB-D Scene Classification.</title>
+<pages>5995-6004</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.645</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2016.645</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#0001CLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/PhamPCC16" mdate="2022-10-11">
+<author pid="155/3138">Hai Xuan Pham</author>
+<author orcid="0000-0003-3979-1236" pid="98/2506">Vladimir Pavlovic 0001</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Robust real-time performance-driven 3D face tracking.</title>
+<pages>1851-1856</pages>
+<year>2016</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2016.7899906</ee>
+<crossref>conf/icpr/2016</crossref>
+<url>db/conf/icpr/icpr2016.html#PhamPCC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jstsp/ZhaoFCC15" mdate="2020-12-29">
+<author pid="33/7242">Mengyao Zhao</author>
+<author orcid="0000-0002-5238-593X" pid="38/803">Chi-Wing Fu</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Real-Time and Temporal-Coherent Foreground Extraction With Commodity RGBD Camera.</title>
+<pages>449-461</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSTSP.2014.2382476</ee>
+<url>db/journals/jstsp/jstsp9.html#ZhaoFCC15</url>
+</article>
+</r>
+<r><article key="journals/sivp/FarahzadehCS15" mdate="2020-10-26">
+<author pid="69/8938">Elahe Farahzadeh</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-4148-2600" pid="10/323">Andrzej Sluzek</author>
+<title>Scene recognition by semantic visual words.</title>
+<pages>1935-1944</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Signal Image Video Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11760-014-0687-7</ee>
+<url>db/journals/sivp/sivp9.html#FarahzadehCS15</url>
+</article>
+</r>
+<r><article key="journals/tip/0001LCWC15" mdate="2021-04-09">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author pid="71/4292-12">Gang Wang 0012</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Unsupervised Joint Feature Learning and Encoding for RGB-D Scene Labeling.</title>
+<pages>4459-4473</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIP.2015.2465133</ee>
+<ee>https://www.wikidata.org/entity/Q40639720</ee>
+<url>db/journals/tip/tip24.html#0001LCWC15</url>
+</article>
+</r>
+<r><article key="journals/tist/ChenCZCS15" mdate="2025-01-19">
+<author pid="123/2877">Chongyu Chen</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-5062-6226" pid="09/5452">Jianmin Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="97/3742">Guangming Shi</author>
+<title>Kinect Depth Recovery Using a Color-Guided, Region-Adaptive, and Depth-Selective Framework.</title>
+<pages>12:1-12:19</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>ACM Trans. Intell. Syst. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2700475</ee>
+<ee>https://www.wikidata.org/entity/Q125623618</ee>
+<url>db/journals/tist/tist6.html#ChenCZCS15</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChenTTJ15" mdate="2020-10-26">
+<author pid="127/7214">Marcus Chen</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor W. Tsang</author>
+<author pid="49/2007">Mingkui Tan</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Cham Tat Jen</author>
+<title>A Unified Feature Selection Framework for Graph Embedding on High Dimensional Data.</title>
+<pages>1465-1477</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2382599</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2382599</ee>
+<ee>https://www.wikidata.org/entity/Q58827829</ee>
+<url>db/journals/tkde/tkde27.html#ChenTTJ15</url>
+</article>
+</r>
+<r><article key="journals/tmm/0001LCCW15" mdate="2021-04-09">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="71/4292-12">Gang Wang 0012</author>
+<title>Large-Margin Multi-Modal Deep Learning for RGB-D Object Recognition.</title>
+<pages>1887-1898</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TMM.2015.2476655</ee>
+<url>db/journals/tmm/tmm17.html#0001LCCW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acpr/TanCW15" mdate="2022-09-19">
+<author pid="181/4463">Sing Kuang Tan</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="w/JianxinWu">Jianxin Wu 0001</author>
+<title>Steerable second order intensity features for pedestrian detection.</title>
+<pages>311-315</pages>
+<year>2015</year>
+<booktitle>ACPR</booktitle>
+<ee>https://doi.org/10.1109/ACPR.2015.7486516</ee>
+<crossref>conf/acpr/2015</crossref>
+<url>db/conf/acpr/acpr2015.html#TanCW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/ChenVTC15" mdate="2020-10-25">
+<author pid="127/7214">Marcus Chen</author>
+<author pid="92/8616">Santiago Velasco-Forero</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor W. Tsang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Objects co-segmentation: Propagated from simpler images.</title>
+<pages>1682-1686</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7178257</ee>
+<ee>https://www.wikidata.org/entity/Q58827839</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#ChenVTC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/0001CLC15" mdate="2023-03-23">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>MMSS: Multi-modal Sharable and Specific Feature Learning for RGB-D Object Recognition.</title>
+<pages>1125-1133</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.134</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2015.134</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#0001CLC15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PhamCDPCC15" mdate="2022-10-11">
+<author pid="155/3138">Hai Xuan Pham</author>
+<author pid="123/2877">Chongyu Chen</author>
+<author pid="166/1429">Luc N. Dao</author>
+<author pid="98/2506">Vladimir Pavlovic 0001</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="29/3808">Tat-Jen Cham</author>
+<title>Robust Performance-driven 3D Face Tracking in Long Range Depth Scenes.</title>
+<year>2015</year>
+<volume>abs/1507.02779</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02779</ee>
+<url>db/journals/corr/corr1507.html#PhamCDPCC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/XuDZZCC14" mdate="2023-03-24">
+<author pid="95/7448">Di Xu</author>
+<author pid="86/5155">Qi Duan</author>
+<author pid="132/5498">Jianming Zheng</author>
+<author pid="38/5125">Juyong Zhang</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Recovering Surface Details under General Unknown Illumination Using Shading and Coarse Multi-view Stereo.</title>
+<pages>1526-1533</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.198</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2014.198</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#XuDZZCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WangLWCC14" mdate="2024-10-06">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author pid="71/4292-12">Gang Wang 0012</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.</title>
+<pages>453-467</pages>
+<year>2014</year>
+<booktitle>ECCV (5)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-10602-1_30</ee>
+<crossref>conf/eccv/2014-5</crossref>
+<url>db/conf/eccv/eccv2014-5.html#WangLWCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurographics/FleuryPCF14" mdate="2020-10-25">
+<author pid="01/2844">C&#233;dric Fleury</author>
+<author pid="15/3519">Tiberiu Popa</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Merging Live and pre-Captured Data to support Full 3D Head Reconstruction for Telepresence.</title>
+<pages>9-12</pages>
+<year>2014</year>
+<booktitle>Eurographics (Short Papers)</booktitle>
+<ee>https://doi.org/10.2312/egsh.20141002</ee>
+<crossref>conf/eurographics/2014short</crossref>
+<url>db/conf/eurographics/eg-short2014.html#FleuryPCF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/0001LCWC14" mdate="2021-04-09">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author orcid="0000-0002-6121-5529" pid="09/6350">Jiwen Lu</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author pid="71/4292-12">Gang Wang 0012</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Estimating spatial layout of rooms from RGB-D videos.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2014.6958786</ee>
+<crossref>conf/mmsp/2014</crossref>
+<url>db/conf/mmsp/mmsp2014.html#0001LCWC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/DengLCCF13" mdate="2023-03-24">
+<author pid="147/4642">Teng Deng</author>
+<author pid="66/3387">Hui Li</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Kinect Shadow Detection and Classification.</title>
+<pages>708-713</pages>
+<year>2013</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2013.97</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCVW.2013.97</ee>
+<crossref>conf/iccvw/2013</crossref>
+<url>db/conf/iccvw/iccvw2013.html#DengLCCF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ZhaoTFTCC13" mdate="2024-10-06">
+<author pid="33/7242">Mengyao Zhao</author>
+<author orcid="0000-0001-7418-5878" pid="122/4804">Fuwen Tan</author>
+<author orcid="0000-0002-5238-593X" pid="38/803">Chi-Wing Fu</author>
+<author pid="34/4366">Chi-Keung Tang</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>High-quality Kinect depth filtering for real-time 3D telepresence.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2013.6607501</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2013.6607501</ee>
+<crossref>conf/icmcs/2013</crossref>
+<url>db/conf/icmcs/icme2013.html#ZhaoTFTCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/ChenCZCS13" mdate="2020-10-25">
+<author pid="123/2877">Chongyu Chen</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author pid="09/5452">Jianmin Zheng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="97/3742">Guangming Shi</author>
+<title>A color-guided, region-adaptive and depth-selective unified framework for Kinect depth recovery.</title>
+<pages>7-12</pages>
+<year>2013</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2013.6659255</ee>
+<crossref>conf/mmsp/2013</crossref>
+<url>db/conf/mmsp/mmsp2013.html#ChenCZCS13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-5913" mdate="2018-08-13">
+<author pid="127/7214">Marcus Chen</author>
+<author pid="29/3808">Cham Tat Jen</author>
+<author pid="41/251">Sze Kim Pang</author>
+<author pid="97/5934">Alvina Goh</author>
+<title>A Diffusion Process on Riemannian Manifold for Visual Tracking</title>
+<ee type="oa">http://arxiv.org/abs/1303.5913</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.5913</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-5913</url>
+</article>
+</r>
+<r><inproceedings key="conf/pcm/XuCCFZ12" mdate="2024-10-06">
+<author pid="95/7448">Di Xu</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="122/2669">Philip Fu</author>
+<author pid="38/5125">Juyong Zhang</author>
+<title>Kinect-Based Easy 3D Object Reconstruction.</title>
+<pages>476-483</pages>
+<year>2012</year>
+<booktitle>PCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34778-8_44</ee>
+<crossref>conf/pcm/2012</crossref>
+<url>db/conf/pcm/pcm2012.html#XuCCFZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/ChenKJG11" mdate="2021-08-09">
+<author pid="127/7214">Marcus Chen</author>
+<author pid="41/251">Sze Kim Pang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Cham Tat Jen</author>
+<author pid="97/5934">Alvina Goh</author>
+<title>Visual tracking with generative template model based on Riemannian manifold of covariances.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/5977454/</ee>
+<crossref>conf/fusion/2011</crossref>
+<url>db/conf/fusion/fusion2011.html#ChenKJG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/TengC11" mdate="2024-10-06">
+<author pid="69/10238">Xiao Teng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Image Relighting by Analogy.</title>
+<pages>78-89</pages>
+<year>2011</year>
+<booktitle>ISVC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24028-7_8</ee>
+<crossref>conf/isvc/2011-1</crossref>
+<url>db/conf/isvc/isvc2011-1.html#TengC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcsv/HuangXC10" mdate="2023-08-08">
+<author pid="15/6040-14">Yi Huang 0014</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Face and Human Gait Recognition Using Image-to-Class Distance.</title>
+<pages>431-438</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCSVT.2009.2035852</ee>
+<url>db/journals/tcsv/tcsv20.html#HuangXC10</url>
+</article>
+</r>
+<r><article key="journals/tcsv/XuCYDC10" mdate="2020-10-26">
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="54/7057">Lixin Duan</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Near Duplicate Identification With Spatially Aligned Pyramid Matching.</title>
+<pages>1068-1079</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TCSVT.2010.2051286</ee>
+<url>db/journals/tcsv/tcsv20.html#XuCYDC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChamCTPC10" mdate="2023-03-24">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="47/849">Arridhana Ciptadi</author>
+<author pid="55/8652">Wei-Chian Tan</author>
+<author pid="86/4091">Minh-Tri Pham</author>
+<author pid="05/2952">Liang-Tien Chia</author>
+<title>Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map.</title>
+<pages>366-373</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540191</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540191</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#ChamCTPC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/PhamGHC10" mdate="2023-09-30">
+<author pid="86/4091">Minh-Tri Pham</author>
+<author orcid="0000-0002-2150-5986" pid="89/4402-2">Yang Gao 0002</author>
+<author pid="04/8653">Viet-Dung Hoang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Fast polygonal integration and its application in extending haar-like features to improve object detection.</title>
+<pages>942-949</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540117</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540117</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#PhamGHC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/PhamHC08" mdate="2023-03-24">
+<author pid="86/4091">Minh-Tri Pham</author>
+<author pid="67/5817">V-D. D. Hoang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Detection with multi-exit asymmetric boosting.</title>
+<year>2008</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2008.4587738</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2008.4587738</ee>
+<crossref>conf/cvpr/2008</crossref>
+<url>db/conf/cvpr/cvpr2008.html#PhamHC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/XuCYC08" mdate="2023-03-24">
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Near duplicate image identification with patially Aligned Pyramid Matching.</title>
+<year>2008</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2008.4587720</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2008.4587720</ee>
+<crossref>conf/cvpr/2008</crossref>
+<url>db/conf/cvpr/cvpr2008.html#XuCYC08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvcg/SummetFCRS07" mdate="2020-10-26">
+<author pid="98/4725">Jay Summet</author>
+<author pid="91/6127">Matthew Flagg</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-1793-5462" pid="r/JMRehg">James M. Rehg</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<title>Shadow Elimination and Blinding Light Suppression for Interactive Projected Displays.</title>
+<pages>508-517</pages>
+<year>2007</year>
+<volume>13</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVCG.2007.1007</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVCG.2007.1007</ee>
+<ee>https://www.wikidata.org/entity/Q79931994</ee>
+<url>db/journals/tvcg/tvcg13.html#SummetFCRS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChenC07" mdate="2023-12-07">
+<author pid="16/3283-69">Xi Chen 0069</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>High Distortion and Non-Structural Image Matching via Feature Co-occurrence.</title>
+<year>2007</year>
+<crossref>conf/cvpr/2007</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2007.383127</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2007.383127</ee>
+<url>db/conf/cvpr/cvpr2007.html#ChenC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/PhamC07" mdate="2023-03-24">
+<author pid="86/4091">Minh-Tri Pham</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Online Learning Asymmetric Boosted Classifiers for Object Detection.</title>
+<year>2007</year>
+<crossref>conf/cvpr/2007</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2007.383083</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2007.383083</ee>
+<url>db/conf/cvpr/cvpr2007.html#PhamC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/PhamC07" mdate="2023-03-23">
+<author pid="86/4091">Minh-Tri Pham</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Fast training and selection of Haar features using statistics in boosting-based face detection.</title>
+<pages>1-7</pages>
+<year>2007</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2007.4409038</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2007.4409038</ee>
+<crossref>conf/iccv/2007</crossref>
+<url>db/conf/iccv/iccv2007.html#PhamC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/YeoCCR07" mdate="2023-03-24">
+<author orcid="0000-0002-7618-1472" pid="52/910">Chai Kiat Yeo</author>
+<author pid="05/2952">Liang-Tien Chia</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="37/5441">D. Rajon</author>
+<title>Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.</title>
+<pages>1059-1062</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4284836</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2007.4284836</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#YeoCCR07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mmm/2007-1" mdate="2020-06-10">
+<editor pid="29/3808">Tat-Jen Cham</editor>
+<editor pid="83/6096">Jianfei Cai 0001</editor>
+<editor pid="73/2262">Chitra Dorai</editor>
+<editor pid="95/3115">Deepu Rajan</editor>
+<editor pid="24/6606">Tat-Seng Chua</editor>
+<editor pid="05/2952">Liang-Tien Chia</editor>
+<title>Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part I</title>
+<booktitle>MMM (1)</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4351</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-69421-2</isbn>
+<ee>https://doi.org/10.1007/978-3-540-69423-6</ee>
+<url>db/conf/mmm/mmm2007-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/mmm/2007-2" mdate="2020-06-10">
+<editor pid="29/3808">Tat-Jen Cham</editor>
+<editor pid="83/6096">Jianfei Cai 0001</editor>
+<editor pid="73/2262">Chitra Dorai</editor>
+<editor pid="95/3115">Deepu Rajan</editor>
+<editor pid="24/6606">Tat-Seng Chua</editor>
+<editor pid="05/2952">Liang-Tien Chia</editor>
+<title>Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part II</title>
+<booktitle>MMM (2)</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4352</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-69428-1</isbn>
+<ee>https://doi.org/10.1007/978-3-540-69429-8</ee>
+<url>db/conf/mmm/mmm2007-2.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/accv/PongC06" mdate="2024-10-06">
+<author pid="95/1223">Hon-Keat Pong</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Alignment of 3D Models to Images Using Region-Based Mutual Information and Neighborhood Extended Gaussian Images.</title>
+<pages>60-69</pages>
+<year>2006</year>
+<crossref>conf/accv/2006-1</crossref>
+<booktitle>ACCV (1)</booktitle>
+<ee>https://doi.org/10.1007/11612032_7</ee>
+<url>db/conf/accv/accv2006-1.html#PongC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/PongC06a" mdate="2024-10-06">
+<author pid="95/1223">Hon-Keat Pong</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Object Detection Using a Cascade of 3D Models.</title>
+<pages>284-293</pages>
+<year>2006</year>
+<crossref>conf/accv/2006-2</crossref>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/11612704_29</ee>
+<url>db/conf/accv/accv2006-2.html#PongC06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BrownSC06" mdate="2025-02-28">
+<author pid="02/4733">Michael S. Brown</author>
+<author pid="58/3960-10">Peng Song 0010</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Image Pre-Conditioning for Out-of-Focus Projector Blur.</title>
+<pages>1956-1963</pages>
+<year>2006</year>
+<crossref>conf/cvpr/2006</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2006.145</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2006.145</ee>
+<url>db/conf/cvpr/cvpr2006.html#BrownSC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/PongC06" mdate="2023-03-24">
+<author pid="95/1223">Hon-Keat Pong</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Optimal Cascade Construction for Detection using 3D Models.</title>
+<pages>808-811</pages>
+<year>2006</year>
+<crossref>conf/icpr/2006</crossref>
+<booktitle>ICPR (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2006.908</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2006.908</ee>
+<url>db/conf/icpr/icpr2006-1.html#PongC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/FengC05" mdate="2023-03-24">
+<author pid="66/6922">Zhou Feng</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Video-based Human Action Classi.cation with Ambiguous Correspondences.</title>
+<pages>82</pages>
+<year>2005</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2005.549</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2005.549</ee>
+<crossref>conf/cvpr/2005w</crossref>
+<url>db/conf/cvpr/cvprw2005.html#FengC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SongC05" mdate="2023-03-24">
+<author pid="58/3960-10">Peng Song 0010</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>A Theory for Photometric Self-Calibration of Multiple Overlapping Projectors and Cameras.</title>
+<pages>97</pages>
+<year>2005</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2005.398</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2005.398</ee>
+<crossref>conf/cvpr/2005w</crossref>
+<url>db/conf/cvpr/cvprw2005.html#SongC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChenC05" mdate="2025-02-28">
+<author pid="16/3283-69">Xi Chen 0069</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Learning Feature Distance Measures for Image Correspondences.</title>
+<pages>560-567</pages>
+<year>2005</year>
+<crossref>conf/cvpr/2005</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2005.205</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2005.205</ee>
+<url>db/conf/cvpr/cvpr2005.html#ChenC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ChenC04" mdate="2023-12-07">
+<author pid="16/3283-69">Xi Chen 0069</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Discriminative Distance Measures for Image Matching.</title>
+<pages>691-695</pages>
+<year>2004</year>
+<crossref>conf/icpr/2004</crossref>
+<booktitle>ICPR (3)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2004.1334623</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2004.1334623</ee>
+<url>db/conf/icpr/icpr2004-3.html#ChenC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChamRSS03" mdate="2025-02-28">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0003-1793-5462" pid="r/JMRehg">James M. Rehg</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<author pid="54/1919">Gita Sukthankar</author>
+<title>Shadow Elimination and Occluder Light Suppression for Multi-Projector Displays.</title>
+<pages>513-520</pages>
+<year>2003</year>
+<crossref>conf/cvpr/2003</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2003.1211510</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2003.1211510</ee>
+<url>db/conf/cvpr/cvpr2003.html#ChamRSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/RehgFCSS02" mdate="2020-10-25">
+<author pid="r/JMRehg">James M. Rehg</author>
+<author pid="91/6127">Matthew Flagg</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<author pid="54/1919">Gita Sukthankar</author>
+<title>Projected light displays using visual feedback.</title>
+<pages>926-932</pages>
+<year>2002</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2002.1238548</ee>
+<crossref>conf/icarcv/2002</crossref>
+<url>db/conf/icarcv/icarcv2002.html#RehgFCSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/ChamKJ02" mdate="2020-10-25">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="89/4592">Shyam Krishnamoorthy</author>
+<author pid="56/4313">Michael Jones</author>
+<title>Analogous view transfer for gaze correction in video sequences.</title>
+<pages>1415-1420</pages>
+<year>2002</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2002.1234980</ee>
+<crossref>conf/icarcv/2002</crossref>
+<url>db/conf/icarcv/icarcv2002.html#ChamKJ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/DiFrancoCR01" mdate="2025-02-28">
+<author pid="75/4880">David E. DiFranco</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="r/JMRehg">James M. Rehg</author>
+<title>Reconstruction of 3-D Figure Motion from 2-D Correspondences.</title>
+<pages>I:307-314</pages>
+<year>2001</year>
+<crossref>conf/cvpr/2001</crossref>
+<booktitle>CVPR (1)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2001.990491</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2001.990491</ee>
+<url>db/conf/cvpr/cvpr2001.html#DiFrancoCR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SukthankarCS01" mdate="2025-02-28">
+<author pid="57/3775">Rahul Sukthankar</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="54/1919">Gita Sukthankar</author>
+<title>Dynamic Shadow Elimination for Multi-Projector Displays.</title>
+<pages>II:151-157</pages>
+<year>2001</year>
+<crossref>conf/cvpr/2001</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2001.990943</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2001.990943</ee>
+<url>db/conf/cvpr/cvpr2001.html#SukthankarCS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/SukthankarCSRHL01" mdate="2023-03-23">
+<author pid="57/3775">Rahul Sukthankar</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="54/1919">Gita Sukthankar</author>
+<author pid="r/JMRehg">James M. Rehg</author>
+<author pid="29/331">David Hsu</author>
+<author pid="39/2593">Thomas Leung</author>
+<title>Self-Calibrating Camera Projector Systems for Interactive Displays and Presentations.</title>
+<pages>748</pages>
+<year>2001</year>
+<crossref>conf/iccv/2001-2</crossref>
+<booktitle>ICCV</booktitle>
+<url>db/conf/iccv/iccv2001-2.html#SukthankarCSRHL01</url>
+<ee>https://doi.org/10.1109/ICCV.2001.937710</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2001.937710</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hybrid/PavlovicRC00" mdate="2024-10-06">
+<author pid="98/2506">Vladimir Pavlovic 0001</author>
+<author orcid="0000-0003-1793-5462" pid="r/JMRehg">James M. Rehg</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>A Dynamic Bayesian Network Approach to Tracking Using Learned Switching Dynamic Models.</title>
+<pages>366-380</pages>
+<ee>https://doi.org/10.1007/3-540-46430-1_31</ee>
+<year>2000</year>
+<crossref>conf/hybrid/2000</crossref>
+<booktitle>HSCC</booktitle>
+<url>db/conf/hybrid/hscc2000.html#PavlovicRC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/RehgKC00" mdate="2020-10-25">
+<author orcid="0000-0003-1793-5462" pid="r/JMRehg">James M. Rehg</author>
+<author pid="k/SingBingKang">Sing Bing Kang</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<title>Video Editing Using Figure Tracking and Image-Based Rendering.</title>
+<year>2000</year>
+<crossref>conf/icip/2000</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2000.html#RehgKC00</url>
+<ee>https://doi.org/10.1109/ICIP.2000.899213</ee>
+<pages>17-20</pages>
+</inproceedings>
+</r>
+<r><article key="journals/pami/ChamC99" mdate="2020-10-26">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-8999-2151" pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Automated B-Spline Curve Representation Incorporating MDL and Error-Minimizing Control Point Insertion Strategies.</title>
+<pages>49-53</pages>
+<year>1999</year>
+<volume>21</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/34.745733</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/34.745733</ee>
+<url>db/journals/pami/pami21.html#ChamC99</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChamR99" mdate="2023-03-24">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="r/JMRehg">James M. Rehg</author>
+<title>A Multiple Hypothesis Approach to Figure Tracking.</title>
+<pages>2239-2245</pages>
+<year>1999</year>
+<crossref>conf/cvpr/1999</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1999.784636</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.1999.784636</ee>
+<url>db/conf/cvpr/cvpr1999.html#ChamR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/PavlovicRCM99" mdate="2023-03-23">
+<author orcid="0000-0003-3979-1236" pid="98/2506">Vladimir Pavlovic 0001</author>
+<author pid="r/JMRehg">James M. Rehg</author>
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="26/2599">Kevin P. Murphy</author>
+<title>A Dynamic Bayesian Network Approach to Figure Tracking using Learned Dynamic Models.</title>
+<pages>94-101</pages>
+<year>1999</year>
+<crossref>conf/iccv/1999</crossref>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.1999.791203</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.1999.791203</ee>
+<url>db/conf/iccv/iccv1999.html#PavlovicRCM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ChamR99" mdate="2023-03-23">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="r/JMRehg">James M. Rehg</author>
+<title>Dynamic Feature Ordering for Efficient Registration.</title>
+<pages>1084-1091</pages>
+<year>1999</year>
+<crossref>conf/iccv/1999</crossref>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.1999.790395</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.1999.790395</ee>
+<url>db/conf/iccv/iccv1999.html#ChamR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChamC98" mdate="2023-03-24">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-8999-2151" pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>A Statistical Framework for Long-Range Feature Matching in Uncalibrated Image Mosaicing.</title>
+<pages>442-447</pages>
+<year>1998</year>
+<crossref>conf/cvpr/1998</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1998.698643</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.1998.698643</ee>
+<url>db/conf/cvpr/cvpr1998.html#ChamC98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChamC97" mdate="2023-03-24">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Stereo Coupled Active Contours.</title>
+<pages>1094-1099</pages>
+<year>1997</year>
+<crossref>conf/cvpr/1997</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1997.609466</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.1997.609466</ee>
+<url>db/conf/cvpr/cvpr1997.html#ChamC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/ChamC96" mdate="2021-02-03">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Automated B-Spline Curve Representation with MDL-based Active Contours.</title>
+<year>1996</year>
+<crossref>conf/bmvc/1996</crossref>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.10.6</ee>
+<url>db/conf/bmvc/bmvc1996.html#ChamC96</url>
+<pages>1-10</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChamC96" mdate="2020-10-25">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Geometric Saliency of Curve Correspondances and Grouping of Symmetric Comntours.</title>
+<pages>385-398</pages>
+<year>1996</year>
+<crossref>conf/eccv/1996-1</crossref>
+<booktitle>ECCV (1)</booktitle>
+<url>db/conf/eccv/eccv1996-1.html#ChamC96</url>
+<ee>https://doi.org/10.1007/BFb0015552</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ivc/ChamC95" mdate="2025-01-19">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author orcid="0000-0002-8999-2151" pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Symmetry detection through local skewed symmetries.</title>
+<pages>439-450</pages>
+<year>1995</year>
+<volume>13</volume>
+<journal>Image Vis. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0262-8856(95)99731-F</ee>
+<ee>https://www.wikidata.org/entity/Q126628546</ee>
+<url>db/journals/ivc/ivc13.html#ChamC95</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/ChamC94" mdate="2021-02-03">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>Skewed Symmetry Detection Through Local Skewed Symmetries.</title>
+<pages>1-10</pages>
+<year>1994</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.8.54</ee>
+<crossref>conf/bmvc/1994</crossref>
+<url>db/conf/bmvc/bmvc1994.html#ChamC94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ChamC94" mdate="2023-03-24">
+<author orcid="0000-0001-5264-2572" pid="29/3808">Tat-Jen Cham</author>
+<author pid="c/RobertoCipolla">Roberto Cipolla</author>
+<title>A local approach to recovering global skewed symmetry.</title>
+<pages>222-226</pages>
+<year>1994</year>
+<booktitle>ICPR (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.1994.576261</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.1994.576261</ee>
+<crossref>conf/icpr/1994-1</crossref>
+<url>db/conf/icpr/icpr1994-1.html#ChamC94</url>
+</inproceedings>
+</r>
+<coauthors n="140" nc="2">
+<co c="0"><na f="b/Brown:Michael_S=" pid="02/4733">Michael S. Brown</na></co>
+<co c="0"><na f="c/Cai_0001:Jianfei" pid="83/6096">Jianfei Cai 0001</na></co>
+<co c="0"><na f="c/Cai:Yujun" pid="227/4399">Yujun Cai</na></co>
+<co c="0"><na f="c/Chakravarthula:Praneeth" pid="224/0700">Praneeth Chakravarthula</na></co>
+<co c="0"><na f="c/Chang:Shih=Fu" pid="c/ShihFuChang">Shih-Fu Chang</na></co>
+<co c="0"><na f="c/Chen:Chongyu" pid="123/2877">Chongyu Chen</na></co>
+<co c="0"><na f="c/Chen:Marcus" pid="127/7214">Marcus Chen</na></co>
+<co c="-1"><na f="c/Chen_0069:Xi" pid="16/3283-69">Xi Chen 0069</na></co>
+<co c="0"><na f="c/Chen:Yuedong" pid="236/6258">Yuedong Chen</na></co>
+<co c="0"><na f="c/Chia:Liang=Tien" pid="05/2952">Liang-Tien Chia</na></co>
+<co c="0"><na f="c/Chua:Tat=Seng" pid="24/6606">Tat-Seng Chua</na></co>
+<co c="0"><na f="c/Cipolla:Roberto" pid="c/RobertoCipolla">Roberto Cipolla</na></co>
+<co c="0"><na f="c/Ciptadi:Arridhana" pid="47/849">Arridhana Ciptadi</na></co>
+<co c="0"><na f="d/Dao:Duy=Son" pid="290/1948">Duy-Son Dao</na></co>
+<co c="0"><na f="d/Dao:Luc_N=" pid="166/1429">Luc N. Dao</na></co>
+<co c="0"><na f="d/Deng:Teng" pid="147/4642">Teng Deng</na></co>
+<co c="0"><na f="d/DiFranco:David_E=" pid="75/4880">David E. DiFranco</na></co>
+<co c="0"><na f="d/Ding:Changxing" pid="140/4707">Changxing Ding</na></co>
+<co c="0"><na f="d/Ding:Henghui" pid="230/1216">Henghui Ding</na></co>
+<co c="0"><na f="d/Dorai:Chitra" pid="73/2262">Chitra Dorai</na></co>
+<co c="0"><na f="d/Duan:Lixin" pid="54/7057">Lixin Duan</na></co>
+<co c="0"><na f="d/Duan:Qi" pid="86/5155">Qi Duan</na></co>
+<co c="0"><na f="f/Fan:Zhongyi" pid="261/7701">Zhongyi Fan</na></co>
+<co c="0"><na f="f/Farahzadeh:Elahe" pid="69/8938">Elahe Farahzadeh</na></co>
+<co c="-1"><na f="f/Feng:Zhou" pid="66/6922">Zhou Feng</na></co>
+<co c="0"><na f="f/Flagg:Matthew" pid="91/6127">Matthew Flagg</na></co>
+<co c="0"><na f="f/Fleury:C=eacute=dric" pid="01/2844">C&#233;dric Fleury</na></co>
+<co c="0"><na f="f/Fu:Chi=Wing" pid="38/803">Chi-Wing Fu</na></co>
+<co c="0"><na f="f/Fu:Philip" pid="122/2669">Philip Fu</na></co>
+<co c="0"><na f="f/Fuchs:Henry" pid="f/HenryFuchs">Henry Fuchs</na></co>
+<co c="0"><na f="g/Gao_0002:Yang" pid="89/4402-2">Yang Gao 0002</na></co>
+<co c="0"><na f="g/Ge:Liuhao" pid="182/2301">Liuhao Ge</na></co>
+<co c="0"><na f="g/Geiger_0001:Andreas" pid="40/5825-1">Andreas Geiger 0001</na></co>
+<co c="0"><na f="g/Goh:Alvina" pid="97/5934">Alvina Goh</na></co>
+<co c="0" n="2"><na f="g/Guan:Frank" pid="202/0204">Frank Guan</na><na>Yunqing Guan 0001</na></co>
+<co c="1"><na f="g/Gupta:Meenakshi" pid="75/2684">Meenakshi Gupta</na></co>
+<co c="0"><na f="h/Hoang:V=D=_D=" pid="67/5817">V-D. D. Hoang</na></co>
+<co c="0"><na f="h/Hoang:Viet=Dung" pid="04/8653">Viet-Dung Hoang</na></co>
+<co c="0"><na f="h/Hsu:David" pid="29/331">David Hsu</na></co>
+<co c="0"><na f="h/Hu:Bo" pid="04/2380">Bo Hu</na></co>
+<co c="0"><na f="h/Hu_0001:Minghui" pid="163/9000-1">Minghui Hu 0001</na></co>
+<co c="0"><na f="h/Huang_0004:Lin" pid="74/2101-4">Lin Huang 0004</na></co>
+<co c="0"><na f="h/Huang_0014:Yi" pid="15/6040-14">Yi Huang 0014</na></co>
+<co c="0"><na f="h/Hut:Minghui" pid="386/6305">Minghui Hut</na></co>
+<co c="0"><na f="j/Ji:Yuzhu" pid="169/2012">Yuzhu Ji</na></co>
+<co c="0"><na f="j/Jones:Michael" pid="56/4313">Michael Jones</na></co>
+<co c="0"><na f="k/Kang:Sing_Bing" pid="k/SingBingKang">Sing Bing Kang</na></co>
+<co c="0"><na f="k/Krishnamoorthy:Shyam" pid="89/4592">Shyam Krishnamoorthy</na></co>
+<co c="0"><na f="k/Kuo:Yen=Ling" pid="120/3172">Yen-Ling Kuo</na></co>
+<co c="0"><na f="l/Lai:Chun=Pong" pid="92/1060">Chun-Pong Lai</na></co>
+<co c="1"><na f="l/Lee:Hwee_Kuan" pid="95/5930">Hwee Kuan Lee</na></co>
+<co c="1"><na f="l/Lei:Mingyuan" pid="360/8162">Mingyuan Lei</na></co>
+<co c="0" n="2"><na f="l/Leung:Thomas_K=" pid="39/2593">Thomas K. Leung</na><na>Thomas Leung</na></co>
+<co c="0"><na f="l/Li:Hui" pid="66/3387">Hui Li</na></co>
+<co c="0"><na f="l/Liu:Daqing" pid="225/5519">Daqing Liu</na></co>
+<co c="0"><na f="l/Liu:Ding" pid="26/5200">Ding Liu</na></co>
+<co c="0"><na f="l/Liu:Jing" pid="72/2590">Jing Liu</na></co>
+<co c="0"><na f="l/Liu_0050:Jing" pid="72/2590-50">Jing Liu 0050</na></co>
+<co c="0"><na f="l/Liu_0036:Jun" pid="95/3736-36">Jun Liu 0036</na></co>
+<co c="0"><na f="l/Liu:Zhilei" pid="51/8175">Zhilei Liu</na></co>
+<co c="0"><na f="l/Lu:Jiwen" pid="09/6350">Jiwen Lu</na></co>
+<co c="0"><na f="l/Lu:Xuequan" pid="137/2585">Xuequan Lu</na></co>
+<co c="0"><na f="l/Luo:Linjie" pid="17/1788">Linjie Luo</na></co>
+<co c="0"><na f="m/Ma:Lizhuang" pid="10/4950">Lizhuang Ma</na></co>
+<co c="0"><na f="m/Ma:Wan=Chun" pid="40/2853">Wan-Chun Ma</na></co>
+<co c="0"><na f="m/Magnenat=Thalmann:Nadia" pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</na></co>
+<co c="0" n="2"><na f="m/Murphy_0002:Kevin" pid="26/2599">Kevin Murphy 0002</na><na>Kevin P. Murphy</na></co>
+<co c="0"><na f="n/Ngan:King_Ngi" pid="n/KingNgiNgan">King Ngi Ngan</na></co>
+<co c="0"><na f="p/Pang:Sze_Kim" pid="41/251">Sze Kim Pang</na></co>
+<co c="0"><na f="p/Pavlovic_0001:Vladimir" pid="98/2506">Vladimir Pavlovic 0001</na></co>
+<co c="0"><na f="p/Pham:Hai_Xuan" pid="155/3138">Hai Xuan Pham</na></co>
+<co c="0"><na f="p/Pham:Minh=Tri" pid="86/4091">Minh-Tri Pham</na></co>
+<co c="0" n="2"><na f="p/Phung:Dinh_Q=" pid="71/5859">Dinh Q. Phung</na><na>Dinh Phung 0001</na></co>
+<co c="0"><na f="p/Pollefeys:Marc" pid="p/MarcPollefeys">Marc Pollefeys</na></co>
+<co c="-1"><na f="p/Pong:Hon=Keat" pid="95/1223">Hon-Keat Pong</na></co>
+<co c="0"><na f="p/Popa:Tiberiu" pid="15/3519">Tiberiu Popa</na></co>
+<co c="0"><na f="r/Rajan:Deepu" pid="95/3115">Deepu Rajan</na></co>
+<co c="0"><na f="r/Rajon:D=" pid="37/5441">D. Rajon</na></co>
+<co c="0"><na f="r/Rathinavel:Kishore" pid="125/1529">Kishore Rathinavel</na></co>
+<co c="0"><na f="r/Rehg:James_M=" pid="r/JMRehg">James M. Rehg</na></co>
+<co c="0"><na f="r/Ren:Xinyu" pid="149/1241">Xinyu Ren</na></co>
+<co c="0"><na f="s/Shao:Zhiwen" pid="180/2845">Zhiwen Shao</na></co>
+<co c="0"><na f="s/Shen:Xiaohui" pid="88/6582">Xiaohui Shen</na></co>
+<co c="0"><na f="s/Sheng:Lu" pid="132/1772">Lu Sheng</na></co>
+<co c="0"><na f="s/Shi:Guangming" pid="97/3742">Guangming Shi</na></co>
+<co c="0" n="2"><na f="s/Sluzek:Andrzej_Stefan" pid="10/323">Andrzej Stefan Sluzek</na><na>Andrzej Sluzek</na></co>
+<co c="0"><na f="s/Song:Guoxian" pid="189/7103">Guoxian Song</na></co>
+<co c="0"><na f="s/Song_0010:Peng" pid="58/3960-10">Peng Song 0010</na></co>
+<co c="0"><na f="s/State:Andrei" pid="36/2946">Andrei State</na></co>
+<co c="0"><na f="s/Suganthan:Ponnuthurai_N=" pid="s/PNSuganthan">Ponnuthurai N. Suganthan</na></co>
+<co c="0" n="2"><na f="s/Sukthankar:Gita_Reese" pid="54/1919">Gita Reese Sukthankar</na><na>Gita Sukthankar</na></co>
+<co c="0"><na f="s/Sukthankar:Rahul" pid="57/3775">Rahul Sukthankar</na></co>
+<co c="0"><na f="s/Summet:Jay" pid="98/4725">Jay Summet</na></co>
+<co c="0"><na f="s/Sun:Zhaowei" pid="78/8139">Zhaowei Sun</na></co>
+<co c="0"><na f="t/Tan:Dingwei" pid="274/8707">Dingwei Tan</na></co>
+<co c="0"><na f="t/Tan:Fuwen" pid="122/4804">Fuwen Tan</na></co>
+<co c="0"><na f="t/Tan:Mingkui" pid="49/2007">Mingkui Tan</na></co>
+<co c="0"><na f="t/Tan:Sing_Kuang" pid="181/4463">Sing Kuang Tan</na></co>
+<co c="0"><na f="t/Tan:Wei=Chian" pid="55/8652">Wei-Chian Tan</na></co>
+<co c="0"><na f="t/Tang:Chi=Keung" pid="34/4366">Chi-Keung Tang</na></co>
+<co c="0"><na f="t/Tang:Zhe_Jun" pid="336/5579">Zhe Jun Tang</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Teng:Xiao" pid="69/10238">Xiao Teng</na></co>
+<co c="0"><na f="t/Tsang:Ivor_W=" pid="35/5873">Ivor W. Tsang</na></co>
+<co c="0"><na f="v/Vedaldi:Andrea" pid="99/2825">Andrea Vedaldi</na></co>
+<co c="0"><na f="v/Velasco=Forero:Santiago" pid="92/8616">Santiago Velasco-Forero</na></co>
+<co c="0"><na f="w/Wang_0001:Anran" pid="138/4209-1">Anran Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Bo" pid="72/6811">Bo Wang</na></co>
+<co c="0"><na f="w/Wang:Chaoyue" pid="174/7172">Chaoyue Wang</na></co>
+<co c="0"><na f="w/Wang_0012:Gang" pid="71/4292-12">Gang Wang 0012</na></co>
+<co c="0"><na f="w/Wang_0001:Yiwei" pid="50/5889-1">Yiwei Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yujie" pid="00/8454">Yujie Wang</na></co>
+<co c="0"><na f="w/Wolfe:Jeremy_M=" pid="47/10734">Jeremy M. Wolfe</na></co>
+<co c="0"><na f="w/Wu_0001:Jianxin" pid="w/JianxinWu">Jianxin Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Qianyi" pid="217/2011">Qianyi Wu</na></co>
+<co c="0"><na f="w/Wu:Tianhao" pid="17/1976">Tianhao Wu</na></co>
+<co c="0"><na f="x/Xia:Xinxing" pid="219/8207">Xinxing Xia</na></co>
+<co c="0"><na f="x/Xu:Di" pid="95/7448">Di Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Dong" pid="09/3493-1">Dong Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Haofei" pid="236/6248">Haofei Xu</na></co>
+<co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
+<co c="0"><na f="y/Yan:Sijie" pid="42/4198">Sijie Yan</na></co>
+<co c="0"><na f="y/Yang:Jianfei" pid="06/5852">Jianfei Yang</na></co>
+<co c="0"><na f="y/Yang_0021:Xu" pid="63/1534-21">Xu Yang 0021</na></co>
+<co c="0"><na f="y/Yang:Zuopeng" pid="254/9451">Zuopeng Yang</na></co>
+<co c="0"><na f="y/Yeo:Chai_Kiat" pid="52/910">Chai Kiat Yeo</na></co>
+<co c="0"><na f="y/Yuan_0001:Junsong" pid="42/3332">Junsong Yuan 0001</na></co>
+<co c="0"><na f="z/Zhang:Juyong" pid="38/5125">Juyong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Mengmi" pid="160/7116">Mengmi Zhang</na></co>
+<co c="0"><na f="z/Zhao:Chenqiu" pid="187/1639">Chenqiu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Haiyu" pid="203/8513">Haiyu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Mengyao" pid="33/7242">Mengyao Zhao</na></co>
+<co c="0"><na f="z/Zheng:Chuanxia" pid="195/8988">Chuanxia Zheng</na></co>
+<co c="0"><na f="z/Zheng:Heliang" pid="208/4220">Heliang Zheng</na></co>
+<co c="0"><na f="z/Zheng:Jianbin" pid="58/2566">Jianbin Zheng</na></co>
+<co c="0"><na f="z/Zheng:Jianmin" pid="09/5452">Jianmin Zheng</na></co>
+<co c="0"><na f="z/Zheng:Jianming" pid="132/5498">Jianming Zheng</na></co>
+<co c="0"><na f="z/Zhu:Haichen" pid="227/7205">Haichen Zhu</na></co>
+<co c="0"><na f="z/Zhu_0003:Yiheng" pid="232/1993-3">Yiheng Zhu 0003</na></co>
+<co c="0"><na f="z/Zhuang:Bohan" pid="145/1096">Bohan Zhuang</na></co>
+</coauthors>
+</dblpperson>
+

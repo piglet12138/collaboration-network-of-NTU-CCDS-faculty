@@ -1,0 +1,4244 @@
+<?xml version="1.0"?>
+<dblpperson name="Zhiqi Shen 0001" pid="03/1554-1" n="256">
+<person key="homepages/03/1554-1" mdate="2025-01-10">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<note type="affiliation">Nanyang Technological University, School of Computer Engineering, Singapore</note>
+<url>http://www.ntu.edu.sg/home/zqshen/</url>
+<url>https://orcid.org/0000-0001-7626-7295</url>
+<url>https://www.wikidata.org/entity/Q130823644</url>
+</person>
+<homonyms n="6">
+<h f="s/Shen:Zhiqi"><name>Zhiqi Shen</name>
+</h>
+<h f="s/Shen_0002:Zhiqi"><person key="homepages/03/1554-2" mdate="2021-10-26">
+<author pid="03/1554-2">Zhiqi Shen 0002</author>
+<url>https://scholar.google.com/citations?user=FYUEZ3wAAAAJ</url>
+<url>https://orcid.org/0000-0003-4495-9697</url>
+<note type="affiliation">National University of Singapore, Singapore</note>
+</person>
+</h>
+<h f="s/Shen_0003:Zhiqi"><person key="homepages/03/1554-3" mdate="2024-04-09">
+<author pid="03/1554-3">Zhiqi Shen 0003</author>
+<note type="affiliation">Beihang University, Beijing, China</note>
+<url>https://orcid.org/0000-0002-6922-2360</url>
+</person>
+</h>
+<h f="s/Shen_0004:Zhiqi"><person key="homepages/03/1554-4" mdate="2021-08-24">
+<author pid="03/1554-4">Zhiqi Shen 0004</author>
+<note type="affiliation">Harbin University of Science and Technology, Heilongjiang, China</note>
+</person>
+</h>
+<h f="s/Shen_0005:Zhiqi"><person key="homepages/03/1554-5" mdate="2021-08-24">
+<author pid="03/1554-5">Zhiqi Shen 0005</author>
+<note type="affiliation">Southeast University, Nanjing, China</note>
+</person>
+</h>
+<h f="s/Shen_0006:Zhiqi"><person key="homepages/389/4416" mdate="2024-11-20">
+<author pid="389/4416">Zhiqi Shen 0006</author>
+<note type="affiliation">Rhymes AI</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/apin/ZhangZZNS25" mdate="2025-02-14">
+<author pid="174/8544">Xiaoxiong Zhang</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Personalized federated knowledge graph embedding with client-wise relation graph.</title>
+<pages>318</pages>
+<year>2025</year>
+<month>February</month>
+<volume>55</volume>
+<journal>Appl. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10489-024-06211-5</ee>
+<url>db/journals/apin/apin55.html#ZhangZZNS25</url>
+<stream>streams/journals/apin</stream>
+</article>
+</r>
+<r><article key="journals/tnn/ZhangZSL25" mdate="2025-01-25">
+<author orcid="0000-0002-3840-4815" pid="40/2812">Honglei Zhang</author>
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0003-2965-6196" pid="40/7652">Yidong Li</author>
+<title>PrivFR: Privacy-Enhanced Federated Recommendation With Shared Hash Embedding.</title>
+<pages>32-46</pages>
+<year>2025</year>
+<month>January</month>
+<volume>36</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNNLS.2024.3387757</ee>
+<url>db/journals/tnn/tnn36.html#ZhangZSL25</url>
+<stream>streams/journals/tnn</stream>
+</article>
+</r>
+<r><data key="data/11/JingZCTS25" mdate="2025-02-17">
+<author pid="267/9525">Jiazheng Jing</author>
+<author pid="19/6790-2">Yinan Zhang 0002</author>
+<author pid="33/3675">Ping Chen</author>
+<author pid="268/5443">Zhenchao Tao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Haodf Doctor Recommendation Dataset.</title>
+<year>2025</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/tbax-nf45</ee>
+<publisher>IEEE DataPort</publisher>
+<stream>streams/repo/ieeedataport</stream>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-13969" mdate="2025-02-26">
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="181/2812-94">Hao Wang 0094</author>
+<author pid="398/0577">Nicolas Vun</author>
+<title>InsTex: Indoor Scenes Stylized Texture Synthesis.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.13969</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.13969</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-13969</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-01117" mdate="2025-03-10">
+<author pid="353/6061">Yunchuan Guan</author>
+<author pid="97/2274-40">Yu Liu 0040</author>
+<author pid="78/2949-1">Ke Zhou 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<author pid="78/4381">Jenq-Neng Hwang</author>
+<author pid="13/7007">Lei Li</author>
+<title>Learning to Learn Weight Generation via Trajectory Diffusion.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.01117</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.01117</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-01117</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-08302" mdate="2025-03-18">
+<author pid="293/1098">Shibo Feng</author>
+<author pid="84/8411">Peilin Zhao</author>
+<author pid="74/7037-14">Liu Liu 0014</author>
+<author pid="77/2927">Pengcheng Wu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.08302</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.08302</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-08302</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-11466" mdate="2025-03-19">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="368/0771">Wanjin Feng</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>GiFT: Gibbs Fine-Tuning for Code Generation.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.11466</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.11466</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-11466</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/eswa/XingHDSHW24" mdate="2024-08-22">
+<author orcid="0000-0003-4980-1813" pid="237/8120">Yongheng Xing</author>
+<author pid="48/5388-1">Liang Hu 0001</author>
+<author pid="268/5896">Xinqi Du</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="168/2861">Juncheng Hu</author>
+<author orcid="0000-0002-0732-7343" pid="90/4225-14">Feng Wang 0014</author>
+<title>A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming.</title>
+<pages>124724</pages>
+<year>2024</year>
+<volume>255</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2024.124724</ee>
+<url>db/journals/eswa/eswa255.html#XingHDSHW24</url>
+<stream>streams/journals/eswa</stream>
+</article>
+</r>
+<r><article key="journals/ijcrowdsci/ChenYLS24" mdate="2024-07-01">
+<author pid="33/3675">Ping Chen</author>
+<author pid="151/3736">Xinjia Yu</author>
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Enhancing the Well-Being of Seniors: A Teachable Agent for Ikigai.</title>
+<pages>71-76</pages>
+<year>2024</year>
+<volume>8</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.26599/ijcs.2024.9100006</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci8.html#ChenYLS24</url>
+</article>
+</r>
+<r><article key="journals/ijcrowdsci/ZhuCXQS24" mdate="2024-07-01">
+<author pid="337/4267">Fanglin Zhu</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="48/2774">Zhe Qu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Survey of Personalized Medicine Recommendation.</title>
+<pages>77-82</pages>
+<year>2024</year>
+<volume>8</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.26599/ijcs.2023.9100013</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci8.html#ZhuCXQS24</url>
+</article>
+</r>
+<r><article key="journals/ijcv/WangLMWFS24" mdate="2024-11-06">
+<author orcid="0000-0002-3086-3128" pid="181/2812-94">Hao Wang 0094</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="166/2791">Ana Garcia del Molino</author>
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author pid="56/8278">Jiashi Feng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>ManiCLIP: Multi-attribute Face Manipulation from Text.</title>
+<pages>4616-4632</pages>
+<year>2024</year>
+<month>October</month>
+<volume>132</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11263-024-02088-6</ee>
+<url>db/journals/ijcv/ijcv132.html#WangLMWFS24</url>
+<stream>streams/journals/ijcv</stream>
+</article>
+</r>
+<r><article key="journals/iotj/XingHDSHW24" mdate="2024-10-03">
+<author orcid="0000-0003-4980-1813" pid="237/8120">Yongheng Xing</author>
+<author orcid="0000-0002-6077-1873" pid="48/5388-1">Liang Hu 0001</author>
+<author orcid="0000-0003-0195-6859" pid="268/5896">Xinqi Du</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6232-9093" pid="168/2861">Juncheng Hu</author>
+<author orcid="0000-0002-0732-7343" pid="90/4225-14">Feng Wang 0014</author>
+<title>CCDF-TAP: A Context-Aware Conflict Detection Framework for IoT Trigger-Action Programming With Graph Neural Network.</title>
+<pages>31534-31544</pages>
+<year>2024</year>
+<month>October</month>
+<volume>11</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>19</number>
+<ee>https://doi.org/10.1109/JIOT.2024.3418459</ee>
+<url>db/journals/iotj/iotj11.html#XingHDSHW24</url>
+<stream>streams/journals/iotj</stream>
+</article>
+</r>
+<r><article key="journals/tkdd/ZhangLZCWXSC24" mdate="2025-01-19">
+<author orcid="0000-0002-5808-5313" pid="97/8704-199">Lei Zhang 0199</author>
+<author orcid="0000-0001-9031-9696" pid="29/4867-20">Yong Liu 0020</author>
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author orcid="0000-0003-4945-4049" pid="50/9348">Yiming Cao</author>
+<author orcid="0000-0001-7802-0931" pid="143/0523">Xingyu Wu</author>
+<author orcid="0000-0002-1891-6186" pid="176/8839">Yonghui Xu</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-8262-8883" pid="82/5713">Lizhen Cui</author>
+<title>Package Arrival Time Prediction via Knowledge Distillation Graph Neural Network.</title>
+<pages>108:1-108:19</pages>
+<year>2024</year>
+<month>June</month>
+<volume>18</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3643033</ee>
+<ee>https://www.wikidata.org/entity/Q129504432</ee>
+<url>db/journals/tkdd/tkdd18.html#ZhangLZCWXSC24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/DongWFO0RX24" mdate="2024-04-02">
+<author pid="07/2924">Yi Dong</author>
+<author pid="29/8340">Yuxi Wang</author>
+<author pid="371/4485">Ruoxi Fan</author>
+<author pid="336/7634">Wenqi Ouyang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<title>ChromaFusionNet (CFNet): Natural Fusion of Fine-Grained Color Editing.</title>
+<pages>1591-1599</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i2.27925</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#DongWFO0RX24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Zhang0Z024" mdate="2024-04-02">
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Dual-View Whitening on Pre-trained Text Embeddings for Sequential Recommendation.</title>
+<pages>9332-9340</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i8.28786</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#Zhang0Z024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ShiCJZLTY0L24" mdate="2024-05-15">
+<author pid="s/YuliangShi">Yuliang Shi</author>
+<author pid="31/6230">Lin Cheng</author>
+<author pid="15/11195">Cheng Jiang</author>
+<author pid="181/2846">Hui Zhang</author>
+<author pid="242/1083">Guifeng Li</author>
+<author pid="49/5418">Xiaoli Tang</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>IBCA: An Intelligent Platform for Social Insurance Benefit Qualification Status Assessment.</title>
+<pages>22815-22823</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30316</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#ShiCJZLTY0L24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/LiZS24" mdate="2025-01-19">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search.</title>
+<pages>1371-1389</pages>
+<year>2024</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.acl-long.75</ee>
+<ee type="oa">https://aclanthology.org/2024.acl-long.75</ee>
+<ee>https://www.wikidata.org/entity/Q131457683</ee>
+<crossref>conf/acl/2024-1</crossref>
+<url>db/conf/acl/acl2024-1.html#LiZS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/FengDZZPFZSL24" mdate="2025-02-05">
+<author orcid="0009-0002-7239-3467" pid="380/8775">Haiyue Feng</author>
+<author orcid="0000-0003-2689-886X" pid="318/5105">Sixuan Du</author>
+<author orcid="0000-0003-4589-0775" pid="151/4214">Gaoxia Zhu</author>
+<author pid="55/3266">Yan Zou</author>
+<author pid="381/0015">Poh Boon Phua</author>
+<author orcid="0000-0002-7691-5587" pid="84/485">Yuhong Feng</author>
+<author pid="98/10074">Haoming Zhong</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-5367-4709" pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Leveraging Large Language Models for Automated Chinese Essay Scoring.</title>
+<pages>454-467</pages>
+<year>2024</year>
+<booktitle>AIED (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-64302-6_32</ee>
+<crossref>conf/aied/2024-1</crossref>
+<url>db/conf/aied/aied2024-1.html#FengDZZPFZSL24</url>
+<stream>streams/conf/aied</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/QiuCZHW024" mdate="2024-05-15">
+<author pid="57/7487">Yang Qiu</author>
+<author pid="33/3675">Ping Chen</author>
+<author pid="68/6056">Huiguo Zhang</author>
+<author pid="95/6229">Bo Huang</author>
+<author pid="18/5410-4">Di Wang 0004</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Engaging the Elderly in Exercise with Agents: A Gamified Stationary Bike System for Sarcopenia Management.</title>
+<pages>2818-2820</pages>
+<year>2024</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3635637.3663298</ee>
+<crossref>conf/atal/2024</crossref>
+<url>db/conf/atal/aamas2024.html#QiuCZHW024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ZhangZZ0GX0C24" mdate="2024-11-30">
+<author orcid="0009-0006-5777-0593" pid="14/5888">Yixin Zhang</author>
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0009-0008-9651-8264" pid="337/4267">Fanglin Zhu</author>
+<author orcid="0000-0001-7475-9739" pid="83/622-14">Ning Liu 0014</author>
+<author orcid="0000-0002-8124-5186" pid="71/6601">Wei Guo</author>
+<author orcid="0000-0002-1891-6186" pid="176/8839">Yonghui Xu</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-8262-8883" pid="82/5713">Lizhen Cui</author>
+<title>Multi-modal Food Recommendation with Health-aware Knowledge Distillation.</title>
+<pages>3279-3289</pages>
+<year>2024</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3627673.3679580</ee>
+<crossref>conf/cikm/2024</crossref>
+<url>db/conf/cikm/cikm2024.html#ZhangZZ0GX0C24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ZhangTWTC024" mdate="2025-01-19">
+<author orcid="0000-0002-6315-1856" pid="271/9582">Bolin Zhang</author>
+<author orcid="0009-0009-8645-5981" pid="353/2929">Yimin Tian</author>
+<author orcid="0009-0000-6832-6152" pid="96/2203">Shengwei Wang</author>
+<author orcid="0000-0001-8800-4513" pid="35/10549">Zhiying Tu</author>
+<author orcid="0000-0003-2973-7252" pid="139/4115">Dianhui Chu</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>GongBu: Easily Fine-tuning LLMs for Domain-specific Adaptation.</title>
+<pages>5309-5313</pages>
+<year>2024</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3627673.3679233</ee>
+<ee>https://www.wikidata.org/entity/Q130823647</ee>
+<crossref>conf/cikm/2024</crossref>
+<url>db/conf/cikm/cikm2024.html#ZhangTWTC024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WangQY0ZF024" mdate="2024-11-18">
+<author pid="157/9888">Yongjie Wang</author>
+<author pid="379/6504">Xiaoqi Qiu</author>
+<author pid="146/8072">Yu Yue</author>
+<author pid="46/5508-2">Xu Guo 0002</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="84/485">Yuhong Feng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Survey on Natural Language Counterfactual Generation.</title>
+<pages>4798-4818</pages>
+<year>2024</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.findings-emnlp.276</ee>
+<crossref>conf/emnlp/2024f</crossref>
+<url>db/conf/emnlp/emnlp2024f.html#WangQY0ZF024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/QiuTNS24" mdate="2024-10-06">
+<author pid="57/7487">Yang Qiu</author>
+<author orcid="0000-0002-8724-9399" pid="175/5246">Benny Toh Hsiang Tan</author>
+<author pid="344/1559">Vun Chan Hua Nicholas</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>The Impact of Playfulness Trait on Attitude and Intention Towards Gamified Health Behavior.</title>
+<pages>81-97</pages>
+<year>2024</year>
+<booktitle>HCI (47)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-60692-2_7</ee>
+<crossref>conf/hci/2024-47</crossref>
+<url>db/conf/hci/hci2024-47.html#QiuTNS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/XiongZ0R024" mdate="2024-08-05">
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Image Aesthetics Assessment Via Learnable Queries.</title>
+<pages>2805-2809</pages>
+<year>2024</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP48485.2024.10446282</ee>
+<crossref>conf/icassp/2024</crossref>
+<url>db/conf/icassp/icassp2024.html#XiongZ0R024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Zhang0Z024" mdate="2024-07-29">
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation.</title>
+<pages>530-543</pages>
+<year>2024</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE60146.2024.00063</ee>
+<crossref>conf/icde/2024</crossref>
+<url>db/conf/icde/icde2024.html#Zhang0Z024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/XiongZ0R024" mdate="2024-10-07">
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Multi-modal Learnable Queries for Image Aesthetics Assessment.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME57554.2024.10687472</ee>
+<crossref>conf/icmcs/2024</crossref>
+<url>db/conf/icmcs/icme2024.html#XiongZ0R024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Zeng0C0YZ24" mdate="2025-02-11">
+<author pid="290/6947">Bixiao Zeng</author>
+<author pid="19/1551-5">Xiaodong Yang 0005</author>
+<author pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="69/9936">Hanchao Yu</author>
+<author pid="54/1591-2">Yingwei Zhang 0002</author>
+<title>FedES: Federated Early-Stopping for Hindering Memorizing Heterogeneous Label Noise.</title>
+<pages>5416-5424</pages>
+<year>2024</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://www.ijcai.org/proceedings/2024/599</ee>
+<crossref>conf/ijcai/2024</crossref>
+<url>db/conf/ijcai/ijcai2024.html#Zeng0C0YZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/DongWFOL0RXH24" mdate="2025-01-19">
+<author orcid="0009-0002-6017-2886" pid="07/2924">Yi Dong</author>
+<author orcid="0009-0002-1339-5577" pid="29/8340">Yuxi Wang</author>
+<author orcid="0000-0003-2601-8148" pid="77/4730-8">Zheng Fang 0008</author>
+<author orcid="0009-0009-2273-5984" pid="336/7634">Wenqi Ouyang</author>
+<author orcid="0000-0002-8974-2064" pid="147/7708">Xianhui Lin</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-9111-055X" pid="61/7591">Peiran Ren</author>
+<author orcid="0000-0002-3671-799X" pid="234/8028">Xuansong Xie</author>
+<author orcid="0000-0001-7542-296X" pid="68/4388">Qingming Huang</author>
+<title>MovingColor: Seamless Fusion of Fine-grained Video Color Enhancement.</title>
+<pages>7454-7463</pages>
+<year>2024</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3664647.3681130</ee>
+<ee>https://www.wikidata.org/entity/Q131167055</ee>
+<crossref>conf/mm/2024</crossref>
+<url>db/conf/mm/mm2024.html#DongWFOL0RXH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WangH0Z024" mdate="2025-01-19">
+<author orcid="0000-0003-2920-6099" pid="88/8398-6">Tianyi Wang 0006</author>
+<author orcid="0009-0003-9527-3457" pid="339/2080">Mengxiao Huang</author>
+<author orcid="0000-0001-7436-0162" pid="195/8828-2">Harry Cheng 0002</author>
+<author orcid="0009-0006-3631-1427" pid="49/4478">Xiao Zhang</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks.</title>
+<pages>10515-10524</pages>
+<year>2024</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3664647.3680869</ee>
+<ee>https://www.wikidata.org/entity/Q131166038</ee>
+<crossref>conf/mm/2024</crossref>
+<url>db/conf/mm/mm2024.html#WangH0Z024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/0002WCS0024" mdate="2025-02-13">
+<author pid="296/2326-2">Jianan Zhou 0002</author>
+<author pid="192/4964">Yaoxin Wu</author>
+<author pid="178/8621">Zhiguang Cao</author>
+<author pid="50/5489">Wen Song</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Collaboration! Towards Robust Neural Methods for Routing Problems.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/dc709714c52b35f2f34aca2a92b06bc8-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#0002WCS0024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pricai/ZhangZMZXSC24" mdate="2024-12-05">
+<author pid="14/5888">Yixin Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="283/3506">Qianwen Meng</author>
+<author pid="337/4267">Fanglin Zhu</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Multi-modal Food Recommendation Using Clustering and Self-supervised Learning.</title>
+<pages>269-281</pages>
+<year>2024</year>
+<booktitle>PRICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-981-96-0116-5_22</ee>
+<crossref>conf/pricai/2024-1</crossref>
+<url>db/conf/pricai/pricai2024-1.html#ZhangZMZXSC24</url>
+<stream>streams/conf/pricai</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Su0JX024" mdate="2025-01-19">
+<author orcid="0000-0003-2957-3673" pid="313/9326">Zhixiang Su</author>
+<author orcid="0000-0002-7177-7410" pid="19/6790-2">Yinan Zhang 0002</author>
+<author orcid="0000-0002-3371-8196" pid="267/9525">Jiazheng Jing</author>
+<author orcid="0009-0008-6392-6747" pid="15/3437">Jie Xiao</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Enabling Patient-side Disease Prediction via the Integration of Patient Narratives.</title>
+<pages>581-584</pages>
+<year>2024</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3589335.3651498</ee>
+<ee>https://www.wikidata.org/entity/Q131197623</ee>
+<crossref>conf/www/2024c</crossref>
+<url>db/conf/www/www2024c.html#Su0JX024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ZhangZZ024" mdate="2025-01-19">
+<author orcid="0000-0001-5319-875X" pid="22/9542">Lingzi Zhang</author>
+<author orcid="0000-0002-7177-7410" pid="19/6790-2">Yinan Zhang 0002</author>
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>GreenRec: A Large-Scale Dataset for Green Food Recommendation.</title>
+<pages>625-628</pages>
+<year>2024</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3589335.3651516</ee>
+<ee>https://www.wikidata.org/entity/Q131197728</ee>
+<crossref>conf/www/2024c</crossref>
+<url>db/conf/www/www2024c.html#ZhangZZ024</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-04514" mdate="2024-02-29">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search.</title>
+<year>2024</year>
+<volume>abs/2401.04514</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.04514</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-04514</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-13203" mdate="2024-07-24">
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="74/3859">Hong Huang</author>
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="181/2812-94">Hao Wang 0094</author>
+<author pid="69/8028">Nicholas Vun</author>
+<title>Style-Consistent 3D Indoor Scene Synthesis with Decoupled Objects.</title>
+<year>2024</year>
+<volume>abs/2401.13203</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.13203</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-13203</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-14043" mdate="2024-02-29">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="301/6374">Jonathan Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Towards Goal-oriented Large Language Model Prompting: A Survey.</title>
+<year>2024</year>
+<volume>abs/2401.14043</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.14043</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-14043</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-10602" mdate="2024-02-26">
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation.</title>
+<year>2024</year>
+<volume>abs/2402.10602</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.10602</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-10602</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-10415" mdate="2024-08-13">
+<author pid="157/9888">Yongjie Wang</author>
+<author pid="07/4227">Tong Zhang</author>
+<author pid="46/5508-2">Xu Guo 0002</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Gradient based Feature Attribution in Explainable AI: A Technical Review.</title>
+<year>2024</year>
+<volume>abs/2403.10415</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.10415</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-10415</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-01326" mdate="2024-06-11">
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Multi-modal Learnable Queries for Image Aesthetics Assessment.</title>
+<year>2024</year>
+<volume>abs/2405.01326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.01326</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-01326</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-02935" mdate="2024-06-07">
+<author pid="313/9326">Zhixiang Su</author>
+<author pid="19/6790-2">Yinan Zhang 0002</author>
+<author pid="267/9525">Jiazheng Jing</author>
+<author pid="15/3437">Jie Xiao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Enabling Patient-side Disease Prediction via the Integration of Patient Narratives.</title>
+<year>2024</year>
+<volume>abs/2405.02935</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.02935</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-02935</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-03933" mdate="2025-02-06">
+<author pid="40/2812">Honglei Zhang</author>
+<author pid="145/4965-1">Haoxuan Li 0001</author>
+<author pid="379/6197">Jundong Chen 0003</author>
+<author pid="267/5483">Sen Cui</author>
+<author pid="334/2843">Kunda Yan</author>
+<author pid="293/3368">Abudukelimu Wuerkaixi</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="40/7652">Yidong Li</author>
+<title>Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation.</title>
+<year>2024</year>
+<volume>abs/2406.03933</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.03933</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-03933</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-11943" mdate="2024-07-26">
+<author pid="174/8544">Xiaoxiong Zhang</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph.</title>
+<year>2024</year>
+<volume>abs/2406.11943</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.11943</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-11943</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-13225" mdate="2024-07-12">
+<author pid="174/8544">Xiaoxiong Zhang</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Communication-Efficient Federated Knowledge Graph Embedding with Entity-Wise Top-K Sparsification.</title>
+<year>2024</year>
+<volume>abs/2406.13225</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.13225</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-13225</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-18962" mdate="2024-07-26">
+<author pid="14/5888">Yixin Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="283/3506">Qianwen Meng</author>
+<author pid="337/4267">Fanglin Zhu</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Multi-modal Food Recommendation using Clustering and Self-supervised Learning.</title>
+<year>2024</year>
+<volume>abs/2406.18962</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.18962</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-18962</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-03993" mdate="2024-08-07">
+<author pid="157/9888">Yongjie Wang</author>
+<author pid="379/6504">Xiaoqi Qiu</author>
+<author pid="146/8072">Yu Yue</author>
+<author pid="46/5508-2">Xu Guo 0002</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="84/485">Yuhong Feng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Survey on Natural Language Counterfactual Generation.</title>
+<year>2024</year>
+<volume>abs/2407.03993</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.03993</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-03993</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-05748" mdate="2024-09-30">
+<author pid="174/8544">Xiaoxiong Zhang</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Low-Dimensional Federated Knowledge Graph Embedding via Knowledge Distillation.</title>
+<year>2024</year>
+<volume>abs/2408.05748</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.05748</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-05748</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-02267" mdate="2024-11-18">
+<author pid="353/6061">Yunchuan Guan</author>
+<author pid="97/2274-40">Yu Liu 0040</author>
+<author pid="345/7081">Ketong Liu</author>
+<author pid="78/2949-1">Ke Zhou 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Unsupervised Meta-Learning via Dynamic Head and Heterogeneous Task Construction for Few-Shot Classification.</title>
+<year>2024</year>
+<volume>abs/2410.02267</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.02267</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-02267</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-04968" mdate="2024-11-18">
+<author pid="296/2326-2">Jianan Zhou 0002</author>
+<author pid="192/4964">Yaoxin Wu</author>
+<author pid="178/8621">Zhiguang Cao</author>
+<author pid="50/5489">Wen Song</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Collaboration! Towards Robust Neural Methods for Routing Problems.</title>
+<year>2024</year>
+<volume>abs/2410.04968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.04968</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-04968</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-07658" mdate="2025-01-03">
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="97/8704-199">Lei Zhang 0199</author>
+<author pid="40/2812">Honglei Zhang</author>
+<author pid="14/5888">Yixin Zhang</author>
+<author pid="174/8544">Xiaoxiong Zhang</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Advancing Sustainability via Recommender Systems: A Survey.</title>
+<year>2024</year>
+<volume>abs/2411.07658</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.07658</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-07658</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-17209" mdate="2025-01-01">
+<author pid="88/8398-6">Tianyi Wang 0006</author>
+<author pid="339/2080">Mengxiao Huang</author>
+<author pid="195/8828-2">Harry Cheng 0002</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks.</title>
+<year>2024</year>
+<volume>abs/2411.17209</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.17209</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-17209</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-16447" mdate="2025-01-23">
+<author pid="57/3385">Xiao Yang</author>
+<author pid="161/1043">Xuejiao Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Generalizable Anomaly Detection Method in Dynamic Graphs.</title>
+<year>2024</year>
+<volume>abs/2412.16447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.16447</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-16447</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/cbm/WangLSQ23" mdate="2023-09-24">
+<author orcid="0000-0001-9712-8964" pid="56/3082">Yongwei Wang</author>
+<author pid="86/6196">Yuan Li</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="356/8695">Yuhui Qiao</author>
+<title>Reversing skin cancer adversarial examples by multiscale diffusive and denoising aggregation mechanism.</title>
+<pages>107310</pages>
+<year>2023</year>
+<month>September</month>
+<volume>164</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2023.107310</ee>
+<url>db/journals/cbm/cbm164.html#WangLSQ23</url>
+</article>
+</r>
+<r><article key="journals/tetci/ZhouLLWSFZ23" mdate="2024-08-01">
+<author orcid="0000-0001-8681-7326" pid="69/5011-1">Wei Zhou 0001</author>
+<author orcid="0000-0001-9031-9696" pid="29/4867-20">Yong Liu 0020</author>
+<author orcid="0000-0001-9013-2020" pid="82/0">Min Li</author>
+<author pid="02/5889-108">Yu Wang 0108</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-8356-7242" pid="07/5681-1">Liang Feng 0001</author>
+<author orcid="0000-0001-8479-6904" pid="17/4590">Zexuan Zhu</author>
+<title>Dynamic Multi-Objective Optimization Framework With Interactive Evolution for Sequential Recommendation.</title>
+<pages>1228-1241</pages>
+<year>2023</year>
+<month>August</month>
+<volume>7</volume>
+<journal>IEEE Trans. Emerg. Top. Comput. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TETCI.2023.3251352</ee>
+<url>db/journals/tetci/tetci7.html#ZhouLLWSFZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/Yin00CS023" mdate="2025-03-10">
+<author pid="327/1508">Feiyu Yin</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="37/10606">Lisi Chen 0001</author>
+<author pid="29/8750">Shuo Shang</author>
+<author pid="51/4558-5">Peng Han 0005</author>
+<title>Next POI Recommendation with Dynamic Graph and Explicit Dependency.</title>
+<pages>4827-4834</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i4.25608</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#Yin00CS023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/MengQLCX023" mdate="2024-07-19">
+<author pid="283/3506">Qianwen Meng</author>
+<author pid="37/7950">Hangwei Qian</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series.</title>
+<pages>9153-9161</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i8.26098</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#MengQLCX023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Wang0023b" mdate="2023-09-04">
+<author pid="56/3082">Yongwei Wang</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Revisiting Item Promotion in GNN-Based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.</title>
+<pages>15206-15214</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i12.26774</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#Wang0023b</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ChenYL023" mdate="2024-07-01">
+<author pid="33/3675">Ping Chen</author>
+<author pid="151/3736">Xinjia Yu</author>
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Teachable Agent to Enhance Elderly's Ikigai.</title>
+<pages>2319-2321</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598920</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#ChenYL023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/QiuWXCS23" mdate="2024-10-06">
+<author orcid="0009-0006-1605-6430" pid="277/5331">Hongyu Qiu</author>
+<author pid="56/3082">Yongwei Wang</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation.</title>
+<pages>5559-5568</pages>
+<year>2023</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData59044.2023.10386788</ee>
+<crossref>conf/bigdataconf/2023</crossref>
+<url>db/conf/bigdataconf/bigdataconf2023.html#QiuWXCS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/JingZ0023" mdate="2024-02-20">
+<author orcid="0000-0002-3371-8196" pid="267/9525">Jiazheng Jing</author>
+<author orcid="0000-0002-7177-7410" pid="19/6790-2">Yinan Zhang 0002</author>
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.</title>
+<pages>1014-1024</pages>
+<year>2023</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3583780.3614801</ee>
+<crossref>conf/cikm/2023</crossref>
+<url>db/conf/cikm/cikm2023.html#JingZ0023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangWZWCXCS23" mdate="2024-07-17">
+<author pid="97/8704-199">Lei Zhang 0199</author>
+<author pid="46/4129">Mingliang Wang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="143/0523">Xingyu Wu</author>
+<author pid="50/9348">Yiming Cao</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.</title>
+<pages>606-618</pages>
+<year>2023</year>
+<booktitle>DASFAA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-30678-5_46</ee>
+<crossref>conf/dasfaa/2023-4</crossref>
+<url>db/conf/dasfaa/dasfaa2023-4.html#ZhangWZWCXCS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Zhou0Z023" mdate="2025-01-15">
+<author orcid="0000-0002-4056-4148" pid="76/7825">Hongyu Zhou</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation.</title>
+<pages>3123-3130</pages>
+<year>2023</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA230631</ee>
+<crossref>conf/ecai/2023</crossref>
+<url>db/conf/ecai/ecai2023.html#Zhou0Z023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/0001Z023" mdate="2024-04-12">
+<author pid="224/1771-1">Yige Xu 0001</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Efficient Cross-Task Prompt Tuning for Few-Shot Conversational Emotion Recognition.</title>
+<pages>11654-11666</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.780</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.780</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#0001Z023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangZZCXWWLC023" mdate="2024-07-24">
+<author pid="97/8704-199">Lei Zhang 0199</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="50/9348">Yiming Cao</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="46/4129">Mingliang Wang</author>
+<author pid="143/0523">Xingyu Wu</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression.</title>
+<pages>3403-3416</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00261</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#ZhangZZCXWWLC023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/XiongYS23" mdate="2023-09-05">
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Federated Learning for Personalized Image Aesthetics Assessment.</title>
+<pages>336-341</pages>
+<year>2023</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME55011.2023.00065</ee>
+<crossref>conf/icmcs/2023</crossref>
+<url>db/conf/icmcs/icme2023.html#XiongYS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/WangLCJSY23" mdate="2023-10-01">
+<author pid="122/0054">Shipeng Wang</author>
+<author pid="70/2558">Qingzhong Li</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="63/7673">Yali Jiang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>CSP-RM: Reputation Management Decision Support for Crowdsourcing Service Providers.</title>
+<pages>161-169</pages>
+<year>2023</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS60048.2023.00035</ee>
+<crossref>conf/icws/2023</crossref>
+<url>db/conf/icws/icws2023.html#WangLCJSY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ZhouS23" mdate="2023-11-09">
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation.</title>
+<pages>935-943</pages>
+<year>2023</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3581783.3611943</ee>
+<crossref>conf/mm/2023</crossref>
+<url>db/conf/mm/mm2023.html#ZhouS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/ZhouWLW0L23" mdate="2023-03-16">
+<author orcid="0000-0003-0948-8033" pid="05/3403-8">Xin Zhou 0008</author>
+<author orcid="0000-0003-1678-931X" pid="305/0475">Jinglong Wang</author>
+<author orcid="0000-0001-9031-9696" pid="29/4867-20">Yong Liu 0020</author>
+<author orcid="0000-0001-7802-0931" pid="143/0523">Xingyu Wu</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<title>Inductive Graph Transformer for Delivery Time Estimation.</title>
+<pages>679-687</pages>
+<year>2023</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3539597.3570409</ee>
+<crossref>conf/wsdm/2023</crossref>
+<url>db/conf/wsdm/wsdm2023.html#ZhouWLW0L23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-12097" mdate="2023-08-15">
+<author pid="76/7825">Hongyu Zhou</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation.</title>
+<year>2023</year>
+<volume>abs/2301.12097</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.12097</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-12097</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-04473" mdate="2023-08-14">
+<author pid="76/7825">Hongyu Zhou</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions.</title>
+<year>2023</year>
+<volume>abs/2302.04473</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.04473</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-04473</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-07429" mdate="2024-07-22">
+<author pid="97/8704-199">Lei Zhang 0199</author>
+<author pid="46/4129">Mingliang Wang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="143/0523">Xingyu Wu</author>
+<author pid="50/9348">Yiming Cao</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.</title>
+<year>2023</year>
+<volume>abs/2302.07429</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.07429</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-07429</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-11879" mdate="2023-08-14">
+<author pid="22/9542">Lingzi Zhang</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning.</title>
+<year>2023</year>
+<volume>abs/2303.11879</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.11879</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-11879</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-15805" mdate="2024-02-05">
+<author pid="141/9087">Yunfan Zhang</author>
+<author orcid="0000-0002-3086-3128" pid="181/2812-94">Hao Wang 0094</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="344/1559">Vun Chan Hua Nicholas</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>StarNet: Style-Aware 3D Point Cloud Generation.</title>
+<year>2023</year>
+<volume>abs/2303.15805</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.15805</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-15805</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15811" mdate="2023-06-13">
+<author pid="57/3385">Xiao Yang</author>
+<author pid="161/1043">Xuejiao Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Unifying gradient regularization for Heterogeneous Graph Neural Networks.</title>
+<year>2023</year>
+<volume>abs/2305.15811</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15811</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15811</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-01578" mdate="2023-08-21">
+<author pid="283/3506">Qianwen Meng</author>
+<author pid="37/7950">Hangwei Qian</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Unsupervised Representation Learning for Time Series: A Review.</title>
+<year>2023</year>
+<volume>abs/2308.01578</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.01578</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-01578</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-08799" mdate="2024-03-06">
+<author pid="267/9525">Jiazheng Jing</author>
+<author pid="19/6790-2">Yinan Zhang 0002</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.</title>
+<year>2023</year>
+<volume>abs/2308.08799</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.08799</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-08799</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-02861" mdate="2023-09-12">
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="141/9087">Yunfan Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Image Aesthetics Assessment via Learnable Queries.</title>
+<year>2023</year>
+<volume>abs/2309.02861</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.02861</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-02861</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-14614" mdate="2023-11-02">
+<author pid="224/1771-1">Yige Xu 0001</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Efficient Cross-Task Prompt Tuning for Few-Shot Conversational Emotion Recognition.</title>
+<year>2023</year>
+<volume>abs/2310.14614</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.14614</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-14614</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-14871" mdate="2024-07-19">
+<author pid="284/1243">Honghao Fu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<author pid="181/2812-94">Hao Wang 0094</author>
+<title>BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction.</title>
+<year>2023</year>
+<volume>abs/2312.14871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.14871</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-14871</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/ZongLXZSYC22" mdate="2022-04-29">
+<author pid="319/3469">Xiaoning Zong</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="14/5888">Yixin Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="37/7671">Yonghua Yang</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>SAER: Sentiment-Opinion Alignment Explainable Recommendation.</title>
+<pages>315-322</pages>
+<year>2022</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-00126-0_24</ee>
+<crossref>conf/dasfaa/2022-2</crossref>
+<url>db/conf/dasfaa/dasfaa2022-2.html#ZongLXZSYC22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-09979" mdate="2023-02-21">
+<author pid="56/3082">Yongwei Wang</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.</title>
+<year>2022</year>
+<volume>abs/2208.09979</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.09979</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-09979</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02863" mdate="2023-08-15">
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="305/0475">Jinglong Wang</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="143/0523">Xingyu Wu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Inductive Graph Transformer for Delivery Time Estimation.</title>
+<year>2022</year>
+<volume>abs/2211.02863</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02863</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02863</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-01141" mdate="2023-02-21">
+<author pid="283/3506">Qianwen Meng</author>
+<author pid="37/7950">Hangwei Qian</author>
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series.</title>
+<year>2022</year>
+<volume>abs/2212.01141</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.01141</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-01141</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-14676" mdate="2024-10-06">
+<author orcid="0000-0002-2025-1013" pid="122/0054">Shipeng Wang</author>
+<author pid="70/2558">Qingzhong Li</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="64/6062">Zhongmin Yan</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author pid="188/7845">Zhuan Shi</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Towards AI-Empowered Crowdsourcing.</title>
+<year>2022</year>
+<volume>abs/2212.14676</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.14676</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-14676</url>
+</article>
+</r>
+<r><article key="journals/ijhci/ZhangSLYM21" mdate="2025-02-04">
+<author orcid="0000-0001-9431-3646" pid="55/2270-49">Hao Zhang 0049</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="293/0528">Dazhong Yuan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Ping Pong: An Exergame for Cognitive Inhibition Training.</title>
+<pages>1104-1115</pages>
+<year>2021</year>
+<volume>37</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1080/10447318.2020.1870826</ee>
+<url>db/journals/ijhci/ijhci37.html#ZhangSLYM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/0040000GRXCM21" mdate="2022-07-18">
+<author pid="52/5716-40">Chang Liu 0040</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="70/1211-1">Boyang Li 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.</title>
+<pages>6811-6820</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Noise-Resistant_Deep_Metric_Learning_With_Ranking-Based_Instance_Selection_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.00674</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#0040000GRXCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/PanZZS21" mdate="2021-08-24">
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="68/10186">Yaming Zhang</author>
+<author pid="55/2270-49">Hao Zhang 0049</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Coaching Older Adults in Health Games: A Goal Oriented Modelling Approach.</title>
+<pages>424-442</pages>
+<year>2021</year>
+<booktitle>HCI (14)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-77685-5_31</ee>
+<crossref>conf/hci/2021-14</crossref>
+<url>db/conf/hci/hci2021-14.html#PanZZS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/ZhangXLL021" mdate="2024-05-07">
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="176/8839">Yonghui Xu</author>
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="59/100">Weiming Li</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Serious Mobile Game for Neurodegenerative Diseases Rehabilitation and Risk Estimation.</title>
+<pages>103-107</pages>
+<year>2021</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3503181.3503198</ee>
+<crossref>conf/iccse/2021</crossref>
+<url>db/conf/iccse/iccse2021.html#ZhangXLL021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/Liu0ZC21" mdate="2024-03-06">
+<author pid="29/4867-20">Yong Liu 0020</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="19/6790-2">Yinan Zhang 0002</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation.</title>
+<pages>132-139</pages>
+<year>2021</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3503181.3503203</ee>
+<crossref>conf/iccse/2021</crossref>
+<url>db/conf/iccse/iccse2021.html#Liu0ZC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiuY0DYGWRXCM21" mdate="2025-03-04">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="266/2835">Ian Dixon</author>
+<author pid="199/5600">Yingxue Yu</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME51207.2021.9428292</ee>
+<crossref>conf/icmcs/2021</crossref>
+<url>db/conf/icmcs/icme2021.html#LiuY0DYGWRXCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/LeungSZM21" mdate="2024-10-06">
+<author orcid="0000-0002-7011-0753" pid="301/6374">Jonathan Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Goal Modelling for Deep Reinforcement Learning Agents.</title>
+<pages>271-286</pages>
+<year>2021</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86486-6_17</ee>
+<crossref>conf/pkdd/2021-1</crossref>
+<url>db/conf/pkdd/pkdd2021-1.html#LeungSZM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-16047" mdate="2021-10-14">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-6230-2376" pid="70/1211-1">Boyang Li 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.</title>
+<year>2021</year>
+<volume>abs/2103.16047</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.16047</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-16047</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-01431" mdate="2021-10-14">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="70/1211-1">Boyang Li 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.</title>
+<year>2021</year>
+<volume>abs/2108.01431</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.01431</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-01431</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuYDSYDGWRXCM20" mdate="2025-03-04">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="07/2924">Yi Dong</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="199/5600">Yingxue Yu</author>
+<author pid="266/2835">Ian Dixon</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).</title>
+<pages>13865-13866</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i10.7205</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#LiuYDSYDGWRXCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ZengSCLWCM20" mdate="2022-07-26">
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="02/5889-108">Yu Wang 0108</author>
+<author pid="26/16">Ying Chi</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Explainable and Contextual Preferences based Decision Making with Assumption-based Argumentation for Diagnostics and Prognostics of Alzheimer's Disease.</title>
+<pages>2071-2073</pages>
+<year>2020</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3398761.3399078</ee>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p2071.pdf</ee>
+<crossref>conf/atal/2020</crossref>
+<url>db/conf/atal/aamas2020.html#ZengSCLWCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LiuLYSDGWRXCM20" mdate="2025-03-04">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="269/4536">Zhao Yong Lim</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="266/2835">Ian Dixon</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An AI-empowered Visual Storyline Generator.</title>
+<pages>5267-5269</pages>
+<year>2020</year>
+<note>Demo</note>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2020/765</ee>
+<crossref>conf/ijcai/2020</crossref>
+<url>db/conf/ijcai/ijcai2020.html#LiuLYSDGWRXCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZengJZSJMCLM20" mdate="2021-08-24">
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author pid="30/929">Yanci Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="15/78">Martin J. McKeown</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Gamified Assessment Platform for Predicting the Risk of Dementia +Parkinson's disease (DPD) Co-Morbidity.</title>
+<pages>5297-5299</pages>
+<year>2020</year>
+<note>Demo</note>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2020/775</ee>
+<crossref>conf/ijcai/2020</crossref>
+<url>db/conf/ijcai/ijcai2020.html#ZengJZSJMCLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/ZengSTCLWCM20" mdate="2024-10-06">
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-8724-9399" pid="175/5246">Benny Toh Hsiang Tan</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="02/5889-108">Yu Wang 0108</author>
+<author pid="26/16">Ying Chi</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Explainable and Argumentation-based Decision Making with Qualitative Preferences for Diagnostics and Prognostics of Alzheimer's Disease.</title>
+<pages>816-826</pages>
+<year>2020</year>
+<booktitle>KR</booktitle>
+<ee type="oa">https://doi.org/10.24963/kr.2020/84</ee>
+<crossref>conf/kr/2020</crossref>
+<url>db/conf/kr/kr2020.html#ZengSTCLWCM20</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lncs/Chen0Q0CS20" mdate="2025-03-03">
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="19/1551-5">Xiaodong Yang 0005</author>
+<author pid="216/7508">Xin Qin</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="92/3977">Piu Chan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Dealing with Label Quality Disparity in Federated Learning.</title>
+<pages>108-121</pages>
+<year>2020</year>
+<crossref>series/lncs/12500</crossref>
+<booktitle>Federated Learning</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-63076-8_8</ee>
+<url>db/series/lncs/lncs12500.html#Chen0Q0CS20</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-11359" mdate="2025-02-13">
+<author pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="19/1551-5">Xiaodong Yang 0005</author>
+<author pid="216/7508">Xin Qin</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="98/449">Biao Chen</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>FOCUS: Dealing with Label Quality Disparity in Federated Learning.</title>
+<year>2020</year>
+<volume>abs/2001.11359</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.11359</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-11359</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZengMLSC19" mdate="2023-05-01">
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<title>Computing Argumentative Explanations in Bipolar Argumentation Frameworks.</title>
+<pages>10079-10080</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.330110079</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZengMLSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuSCZL19" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="23/7137">Yongqing Zheng</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Ethically Aligned Multi-agent Coordination to Enhance Social Welfare.</title>
+<pages>2300-2302</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3332091</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#YuSCZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chiplay/00490MSL19" mdate="2021-08-24">
+<author orcid="0000-0001-9431-3646" pid="55/2270-49">Hao Zhang 0049</author>
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Towards Age-friendly Exergame Design: The Role of Familiarity.</title>
+<pages>45-57</pages>
+<year>2019</year>
+<booktitle>CHI PLAY</booktitle>
+<ee>https://doi.org/10.1145/3311350.3347191</ee>
+<crossref>conf/chiplay/2019</crossref>
+<url>db/conf/chiplay/chiplay2019.html#00490MSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LiuD0SGWZRXCM19" mdate="2025-03-04">
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="07/2924">Yi Dong</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Generating Persuasive Visual Storylines for Promotional Videos.</title>
+<pages>901-910</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357906</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#LiuD0SGWZRXCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/ZhangM0TS19" mdate="2021-08-24">
+<author orcid="0000-0001-9431-3646" pid="55/2270-49">Hao Zhang 0049</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>The Effect of Familiarity on Older Adults' Engagement in Exergames.</title>
+<pages>277-288</pages>
+<year>2019</year>
+<booktitle>HCI (28)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22015-0_22</ee>
+<crossref>conf/hci/2019-28</crossref>
+<url>db/conf/hci/hci2019-28.html#ZhangM0TS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica2/Leung0M19" mdate="2024-10-06">
+<author orcid="0000-0002-7011-0753" pid="301/6374">Jonathan Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Goal-Oriented Modelling for Virtual Assistants.</title>
+<pages>73-76</pages>
+<year>2019</year>
+<booktitle>ICA</booktitle>
+<ee>https://doi.org/10.1109/AGENTS.2019.8929177</ee>
+<crossref>conf/ica2/2019</crossref>
+<url>db/conf/ica2/ica2019.html#Leung0M19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/DongLS0GWZRX19" mdate="2025-03-04">
+<author pid="07/2924">Yi Dong</author>
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<title>Personalized Video Summarization with Idiom Adaptation.</title>
+<pages>1041-1043</pages>
+<year>2019</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3343031.3350584</ee>
+<crossref>conf/mm/2019</crossref>
+<url>db/conf/mm/mm2019.html#DongLS0GWZRX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmasia/Dong0SGWZRX0H19" mdate="2025-03-04">
+<author pid="07/2924">Yi Dong</author>
+<author orcid="0000-0002-4174-0596" pid="52/5716-40">Chang Liu 0040</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="68/4388">Qingming Huang</author>
+<title>Domain Specific and Idiom Adaptive Video Summarization.</title>
+<pages>49:1-49:6</pages>
+<year>2019</year>
+<booktitle>MMAsia</booktitle>
+<ee>https://doi.org/10.1145/3338533.3366603</ee>
+<crossref>conf/mmasia/2019</crossref>
+<url>db/conf/mmasia/mmasia2019.html#Dong0SGWZRX0H19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-11588" mdate="2025-03-04">
+<author pid="52/5716-40">Chang Liu 0040</author>
+<author pid="07/2924">Yi Dong</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="153/2320">Zhanning Gao</author>
+<author pid="36/3184-8">Pan Wang 0008</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="61/7591">Peiran Ren</author>
+<author pid="234/8028">Xuansong Xie</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Generating Persuasive Visual Storylines for Promotional Videos.</title>
+<year>2019</year>
+<volume>abs/1908.11588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.11588</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-11588</url>
+</article>
+</r>
+<r><article key="journals/ijcrowdsci/00060P0C18" mdate="2025-01-19">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Towards data-driven software engineering skills assessment.</title>
+<pages>123-135</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1108/ijcs-07-2018-0014</ee>
+<ee>https://www.wikidata.org/entity/Q114374659</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci2.html#00060P0C18</url>
+</article>
+</r>
+<r><article key="journals/iotj/ShenYYMCL18" mdate="2025-02-11">
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="17/1050">Ling Yu</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Dynamic Generation of Internet of Things Organizational Structures Through Evolutionary Computing.</title>
+<pages>943-954</pages>
+<year>2018</year>
+<volume>5</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JIOT.2018.2795548</ee>
+<url>db/journals/iotj/iotj5.html#ShenYYMCL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/YuMTFHGSML18" mdate="2025-01-31">
+<author pid="151/3736">Xinjia Yu</author>
+<author pid="118/5253-1">Lei Meng 0001</author>
+<author pid="153/0728">Xiaohai Tian</author>
+<author pid="54/11141">Simon Fauvel</author>
+<author pid="95/6229">Bo Huang</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Yunqing Guan 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Usability Analysis of the Novel Functions to Assist the Senior Customers in Online Shopping.</title>
+<pages>173-185</pages>
+<year>2018</year>
+<booktitle>HCI (13)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91521-0_14</ee>
+<crossref>conf/hci/2018-13</crossref>
+<url>db/conf/hci/hci2018-13.html#YuMTFHGSML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/LiuMMJSL18" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-4048-0817" pid="15/78">Martin J. McKeown</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Pumpkin Garden: A Mobile Game Platform for Monitoring Parkinson's Disease Symptoms.</title>
+<pages>546-560</pages>
+<year>2018</year>
+<booktitle>HCI (27)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92037-5_38</ee>
+<crossref>conf/hci/2018-27</crossref>
+<url>db/conf/hci/hci2018-27.html#LiuMMJSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/LinSZC18" mdate="2025-01-19">
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/9936">Anting Zhang</author>
+<author pid="99/1019">Yueting Chai</author>
+<title>Blockchain and IoT based Food Traceability for Smart Agriculture.</title>
+<pages>3:1-3:6</pages>
+<year>2018</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3265689.3265692</ee>
+<ee>https://www.wikidata.org/entity/Q130879435</ee>
+<crossref>conf/iccse/2018</crossref>
+<url>db/conf/iccse/iccse2018.html#LinSZC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/ZengFTWQKLSC18" mdate="2025-03-03">
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author pid="54/11141">Simon Fauvel</author>
+<author orcid="0000-0002-8724-9399" pid="175/5246">Benny Toh Hsiang Tan</author>
+<author orcid="0000-0002-3171-4001" pid="18/5410-4">Di Wang 0004</author>
+<author orcid="0000-0003-0836-782X" pid="57/7487">Yang Qiu</author>
+<author pid="233/2348">Pamela Chew Oi Khuan</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<title>Towards Long-term Tracking and Detection of Early Dementia: A Computerized Cognitive Test Battery with Gamification.</title>
+<pages>30:1-30:10</pages>
+<year>2018</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3265689.3265719</ee>
+<crossref>conf/iccse/2018</crossref>
+<url>db/conf/iccse/iccse2018.html#ZengFTWQKLSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/YuSMLL018" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Building Ethics into Artificial Intelligence.</title>
+<pages>5527-5533</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/779</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#YuSMLL018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/ShenCSL18" mdate="2025-03-03">
+<author pid="146/1992">Jianfei Shen</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>A Two-Stage Incremental Update Method for Fall Detection with Wearable Device.</title>
+<pages>364-371</pages>
+<year>2018</year>
+<booktitle>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</booktitle>
+<ee>https://doi.org/10.1109/SmartWorld.2018.00093</ee>
+<crossref>conf/uic/2018</crossref>
+<url>db/conf/uic/uic2018.html#ShenCSL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-00516" mdate="2025-02-13">
+<author pid="19/2969-1">Jindong Wang 0001</author>
+<author pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="44/10349">Shuji Hao</author>
+<author orcid="0000-0003-3636-0035" pid="126/2373-1">Wenjie Feng 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Balanced Distribution Adaptation for Transfer Learning.</title>
+<year>2018</year>
+<volume>abs/1807.00516</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.00516</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-00516</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-02953" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Building Ethics into Artificial Intelligence.</title>
+<year>2018</year>
+<volume>abs/1812.02953</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.02953</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-02953</url>
+</article>
+</r>
+<r><article key="journals/bspc/QiGCSW17" mdate="2021-08-24">
+<author pid="42/1897">Huan Qi</author>
+<author pid="53/1850">Zhenyu Guo</author>
+<author pid="34/6795-1">Xun Chen 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="13/3672-1">Z. Jane Wang 0001</author>
+<title>Video-based human heart rate measurement using joint blind source separation.</title>
+<pages>309-320</pages>
+<year>2017</year>
+<volume>31</volume>
+<journal>Biomed. Signal Process. Control.</journal>
+<ee>https://doi.org/10.1016/j.bspc.2016.08.020</ee>
+<url>db/journals/bspc/bspc31.html#QiGCSW17</url>
+</article>
+</r>
+<r><article key="journals/ida/MeiYSM17" mdate="2022-01-03">
+<author pid="36/8017">Jian-Ping Mei</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A social influence based trust model for recommender systems.</title>
+<pages>263-277</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>Intell. Data Anal.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/IDA-150479</ee>
+<url>db/journals/ida/ida21.html#MeiYSM17</url>
+</article>
+</r>
+<r><article key="journals/ijcrowdsci/ZengML017" mdate="2025-01-19">
+<author orcid="0000-0002-7787-5644" pid="149/8306">Zhiwei Zeng</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Computerizing Trail Making Test for long-term cognitive self-assessment.</title>
+<pages>83-99</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1108/ijcs-12-2016-0002</ee>
+<ee>https://www.wikidata.org/entity/Q114374551</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci1.html#ZengML017</url>
+</article>
+</r>
+<r><article key="journals/ijcrowdsci/00060ML17" mdate="2025-02-04">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Using blockchain to build trusted LoRaWAN sharing server.</title>
+<pages>270-280</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1108/ijcs-08-2017-0010</ee>
+<ee>https://www.wikidata.org/entity/Q114374640</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci1.html#00060ML17</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/TianMLSCLGM17" mdate="2025-02-04">
+<author pid="153/0728">Xiaohai Tian</author>
+<author pid="118/5253-1">Lei Meng 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0001-6257-7399" pid="c/ChngEngSiong">Eng Siong Chng</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Frank Guan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Novel Functional Technologies for Age-Friendly E-commerce.</title>
+<pages>150-158</pages>
+<year>2017</year>
+<booktitle>HCI (28)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-58536-9_13</ee>
+<crossref>conf/hci/2017-28</crossref>
+<url>db/conf/hci/hci2017-28.html#TianMLSCLGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica2/ShenFC17" mdate="2023-06-13">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="54/11141">Simon Fauvel</author>
+<author pid="82/5713">Lizhen Cui</author>
+<title>Efficient scheduling in crowdsourcing based on workers' mood.</title>
+<pages>121-126</pages>
+<year>2017</year>
+<booktitle>ICA</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AGENTS.2017.8015317</ee>
+<crossref>conf/ica2/2017</crossref>
+<url>db/conf/ica2/ica2017.html#ShenFC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/LinSM17" mdate="2025-01-19">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Using Blockchain Technology to Build Trust in Sharing LoRaWAN IoT.</title>
+<pages>38-43</pages>
+<year>2017</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3126973.3126980</ee>
+<ee>https://www.wikidata.org/entity/Q130883365</ee>
+<crossref>conf/iccse/2017</crossref>
+<url>db/conf/iccse/iccse2017.html#LinSM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/FengS17" mdate="2022-10-02">
+<author orcid="0000-0002-4196-9366" pid="140/7434">Kaiyu Feng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Compressing Trajectory for Trajectory Indexing.</title>
+<pages>68-71</pages>
+<year>2017</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3126973.3126979</ee>
+<crossref>conf/iccse/2017</crossref>
+<url>db/conf/iccse/iccse2017.html#FengS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/MengHTSCGML17" mdate="2025-01-31">
+<author pid="118/5253-1">Lei Meng 0001</author>
+<author pid="166/6457">Nguyen Quy Hy</author>
+<author pid="153/0728">Xiaohai Tian</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0001-6257-7399" pid="c/ChngEngSiong">Eng Siong Chng</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Frank Yunqing Guan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Towards Age-friendly E-commerce Through Crowd-Improved Speech Recognition, Multimodal Search, and Personalized Speech Feedback.</title>
+<pages>127-135</pages>
+<year>2017</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3126973.3129306</ee>
+<crossref>conf/iccse/2017</crossref>
+<url>db/conf/iccse/iccse2017.html#MengHTSCGML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/WangCHFS17" mdate="2025-03-03">
+<author orcid="0000-0002-4833-0880" pid="19/2969-1">Jindong Wang 0001</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="44/10349">Shuji Hao</author>
+<author orcid="0000-0003-3636-0035" pid="126/2373-1">Wenjie Feng 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Balanced Distribution Adaptation for Transfer Learning.</title>
+<pages>1129-1134</pages>
+<year>2017</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2017.150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2017.150</ee>
+<crossref>conf/icdm/2017</crossref>
+<url>db/conf/icdm/icdm2017.html#WangCHFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/FanZLS17" mdate="2024-05-07">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Robust unobtrusive fall detection using infrared array sensors.</title>
+<pages>194-199</pages>
+<year>2017</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2017.8170428</ee>
+<crossref>conf/mfi/2017</crossref>
+<url>db/conf/mfi/mfi2017.html#FanZLS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dss/MiaoYSL16" mdate="2023-08-28">
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Balancing quality and budget considerations in mobile crowdsourcing.</title>
+<pages>56-64</pages>
+<year>2016</year>
+<volume>90</volume>
+<journal>Decis. Support Syst.</journal>
+<ee>https://doi.org/10.1016/j.dss.2016.06.019</ee>
+<ee>https://www.wikidata.org/entity/Q114387742</ee>
+<url>db/journals/dss/dss90.html#MiaoYSL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/YuMSLL016" mdate="2023-09-04">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Infusing Human Factors into Algorithmic Crowdsourcing.</title>
+<pages>4062-4064</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v30i2.19073</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YuMSLL016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ShenYMLC16" mdate="2025-02-13">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="163/8053">Siyao Li</author>
+<author pid="48/1091-1">Yiqiang Chen 0001</author>
+<title>Multi-Agent System Development MADE Easy.</title>
+<pages>4391-4392</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v30i1.9827</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ShenYMLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2025-02-04">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="178/8632">Nur Syahidah Bte Khalid</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Productive Aging through Intelligent Personalized Crowdsourcing.</title>
+<pages>4405-</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v30i1.9822</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YuMLPKSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LiuSYLGPML16" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="63/6173">Han Lin</author>
+<author pid="180/1443">Zhengjin Guo</author>
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Kinect-based Interactive Game to Improve the Cognitive Inhibition of the Elderly: (Demonstration).</title>
+<pages>1479-1481</pages>
+<year>2016</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2937219</ee>
+<crossref>conf/atal/2016</crossref>
+<url>db/conf/atal/aamas2016.html#LiuSYLGPML16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/HeLYSM16" mdate="2023-09-30">
+<author pid="43/9732">Wenjing He</author>
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="151/3736">Xinjia Yu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An FCM-based Personalized Affective Model for Agile Software Development.</title>
+<pages>75-80</pages>
+<year>2016</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2016-121</ee>
+<crossref>conf/seke/2016</crossref>
+<url>db/conf/seke/seke2016.html#HeLYSM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/JiangCLGHS16" mdate="2025-03-03">
+<author pid="140/6369">Xinlong Jiang</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="54/2865">Junfa Liu</author>
+<author pid="01/5858">Yang Gu</author>
+<author pid="05/10150">Lisha Hu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Heterogeneous Data Driven Manifold Regularization Model for Fingerprint Calibration Reduction.</title>
+<pages>74-81</pages>
+<year>2016</year>
+<booktitle>UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0033</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0033</ee>
+<crossref>conf/uic/2016</crossref>
+<url>db/conf/uic/uic2016.html#JiangCLGHS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/HuCWWSJS16" mdate="2025-03-03">
+<author pid="05/10150">Lisha Hu</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="23/5003">Shuangquan Wang</author>
+<author orcid="0000-0002-4833-0880" pid="19/2969-1">Jindong Wang 0001</author>
+<author pid="146/1992">Jianfei Shen</author>
+<author pid="140/6369">Xinlong Jiang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Less Annotation on Personalized Activity Recognition Using Context Data.</title>
+<pages>327-332</pages>
+<year>2016</year>
+<booktitle>UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0066</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0066</ee>
+<crossref>conf/uic/2016</crossref>
+<url>db/conf/uic/uic2016.html#HuCWWSJS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YuMSLC015" mdate="2025-02-13">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Efficient Task Sub-Delegation for Crowdsourcing.</title>
+<pages>1305-1312</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v29i1.9337</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#YuMSLC015</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/BorjiginMLLS15" mdate="2024-07-01">
+<author pid="72/5844">Ailiya Borjigin</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="163/8053">Siyao Li</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Teachable Agents with Intrinsic Motivation.</title>
+<pages>34-43</pages>
+<year>2015</year>
+<booktitle>AIED</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19773-9_4</ee>
+<crossref>conf/aied/2015</crossref>
+<url>db/conf/aied/aied2015.html#BorjiginMLLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuLLLSM15" mdate="2024-07-01">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="63/6173">Han Lin</author>
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Empirical Analysis of Reputation-aware Task Delegation by Humans from a Multi-agent Game.</title>
+<pages>1687-1688</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2773386</ee>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#YuLLLSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuMSL15" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Quality and Budget Aware Task Allocation for Spatial Crowdsourcing.</title>
+<pages>1689-1690</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2773387</ee>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#YuMSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LinYMS15" mdate="2023-04-24">
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>An Affective Agent for Studying Composite Emotions.</title>
+<pages>1947-1948</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2773518</ee>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#LinYMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/BorjiginMSZ15" mdate="2021-08-24">
+<author pid="72/5844">Ailiya Borjigin</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="149/8306">Zhiwei Zeng</author>
+<title>Skill Assessment Using Behavior Data in Virtual World.</title>
+<pages>570-571</pages>
+<year>2015</year>
+<booktitle>EDM</booktitle>
+<ee type="oa">http://www.educationaldatamining.org/EDM2015/proceedings/poster570-571.pdf</ee>
+<crossref>conf/edm/2015</crossref>
+<url>db/conf/edm/edm2015.html#BorjiginMSZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/ShunYSA15" mdate="2023-03-23">
+<author pid="168/2741">Matthias Chan Yong Shun</author>
+<author pid="54/9809">Miao-Chun Yan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>Learning Personality Modeling for Regulating Learning Feedback.</title>
+<pages>355-357</pages>
+<year>2015</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2015.118</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2015.118</ee>
+<crossref>conf/icalt/2015</crossref>
+<url>db/conf/icalt/icalt2015.html#ShunYSA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LiYSCL15" mdate="2023-03-24">
+<author orcid="0000-0002-6230-2376" pid="70/1211-1">Boyang Li 0001</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>An Evolutionary Framework for Multi-agent Organizations.</title>
+<pages>35-38</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.45</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#LiYSCL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LinHYSM15" mdate="2023-03-24">
+<author pid="63/6173">Han Lin</author>
+<author pid="175/1330">Jinghua Hou</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An Agent-Based Game Platform for Exercising People's Prospective Memory.</title>
+<pages>235-236</pages>
+<year>2015</year>
+<booktitle>WI-IAT (3)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.42</ee>
+<crossref>conf/webi/2015-3</crossref>
+<url>db/conf/webi/webi2015-3.html#LinHYSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/YangS15" mdate="2023-03-24">
+<author pid="122/8939">Qizhen Yang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Active Aging in the Workplace and the Role of Intelligent Technologies.</title>
+<pages>391-394</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.33</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#YangS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/dss/YuSMAL14" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Filtering trust opinions through reinforcement learning.</title>
+<pages>102-113</pages>
+<year>2014</year>
+<volume>66</volume>
+<journal>Decis. Support Syst.</journal>
+<ee>https://doi.org/10.1016/j.dss.2014.06.006</ee>
+<url>db/journals/dss/dss66.html#YuSMAL14</url>
+</article>
+</r>
+<r><article key="journals/ijon/ZhongMSF14" mdate="2021-08-24">
+<author pid="98/10074">Haoming Zhong</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="84/485">Yuhong Feng</author>
+<title>Comparing the learning effectiveness of BP, ELM, I-ELM, and SVM for corporate credit ratings.</title>
+<pages>285-295</pages>
+<year>2014</year>
+<volume>128</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2013.02.054</ee>
+<url>db/journals/ijon/ijon128.html#ZhongMSF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/YuMASL14" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Reputation-aware task allocation for human trustees.</title>
+<pages>357-364</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2615791</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#YuMASL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuYLLSM14" mdate="2024-07-01">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="151/3736">Xinjia Yu</author>
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A multi-agent game for studying human decision-making.</title>
+<pages>1661-1662</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2616113</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#YuYLLSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CaiSLYHJMLM14" mdate="2025-02-04">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="16/8382">Xiaogang Han</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="15/78">Martin J. McKeown</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An agent-based game for the predictive diagnosis of parkinson's disease.</title>
+<pages>1663-1664</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2616114</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#CaiSLYHJMLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/TaoMZS14" mdate="2021-08-24">
+<author pid="51/5447">Xuehong Tao</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="32/2837">Yanchun Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Collaborative medical diagnosis through Fuzzy Petri Net based agent argumentation.</title>
+<pages>1197-1204</pages>
+<year>2014</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891884</ee>
+<crossref>conf/fuzzIEEE/2014</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2014.html#TaoMZS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LiuSMLM14" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-4048-0817" pid="15/78">Martin J. McKeown</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A fuzzy logic based Parkinson's Disease risk predictor.</title>
+<pages>1624-1631</pages>
+<year>2014</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891613</ee>
+<ee>https://www.wikidata.org/entity/Q60767108</ee>
+<crossref>conf/fuzzIEEE/2014</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2014.html#LiuSMLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LimAMS14" mdate="2024-07-01">
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="72/5844">Ailiya</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Persuasive Teachable Agent with Goal Net.</title>
+<pages>461-463</pages>
+<year>2014</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2014.235</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2014.235</ee>
+<crossref>conf/icalt/2014</crossref>
+<url>db/conf/icalt/icalt2014.html#LimAMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/GuoWS14" mdate="2021-08-24">
+<author pid="53/1850">Zhenyu Guo</author>
+<author pid="13/3672-1">Z. Jane Wang 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Physiological parameter monitoring of drivers based on video data and independent vector analysis.</title>
+<pages>4374-4378</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6854428</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#GuoWS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LinYSM14" mdate="2023-09-30">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Studying task allocation decisions of novice agile teams with data from agile project management tools.</title>
+<pages>689-694</pages>
+<year>2014</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2642937.2642959</ee>
+<crossref>conf/kbse/2014</crossref>
+<url>db/conf/kbse/ase2014.html#LinYSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/MeiYLSM14" mdate="2022-01-03">
+<author pid="36/8017">Jian-Ping Mei</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0001-9031-9696" pid="29/4867-20">Yong Liu 0020</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Social Trust Model Considering Trustees' Influence.</title>
+<pages>357-364</pages>
+<year>2014</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13191-7_29</ee>
+<crossref>conf/prima/2014</crossref>
+<url>db/conf/prima/prima2014.html#MeiYLSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snpd/LinYSM14" mdate="2023-09-30">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Using goal net to model user stories in agile software development.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>SNPD</booktitle>
+<ee>https://doi.org/10.1109/SNPD.2014.6888731</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SNPD.2014.6888731</ee>
+<crossref>conf/snpd/2014</crossref>
+<url>db/conf/snpd/snpd2014.html#LinYSM14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LinYS14" mdate="2023-04-24">
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Identifying Talented Software Engineering Students through Data-driven Skill Assessment.</title>
+<year>2014</year>
+<volume>abs/1411.6197</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.6197</ee>
+<url>db/journals/corr/corr1411.html#LinYS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LinYS14a" mdate="2023-04-24">
+<author pid="55/1226-6">Jun Lin 0006</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>An Empirical Analysis of Task Allocation in Scrum-based Agile Programming.</title>
+<year>2014</year>
+<volume>abs/1411.6201</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.6201</ee>
+<url>db/journals/corr/corr1411.html#LinYS14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShenYY14" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="17/1050">Ling Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>An Evolutionary Approach for Optimizing Hierarchical Multi-Agent System Organization.</title>
+<year>2014</year>
+<volume>abs/1411.6202</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.6202</ee>
+<url>db/journals/corr/corr1411.html#ShenYY14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuSWM14" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Designing Socially Intelligent Virtual Companions.</title>
+<year>2014</year>
+<volume>abs/1411.7090</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.7090</ee>
+<url>db/journals/corr/corr1411.html#YuSWM14</url>
+</article>
+</r>
+<r><article key="journals/access/YuSLML13" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>A Survey of Multi-Agent Trust Management Systems.</title>
+<pages>35-50</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2013.2259892</ee>
+<url>db/journals/access/access1.html#YuSLML13</url>
+</article>
+</r>
+<r><article key="journals/kais/ZhangLMSY13" mdate="2024-08-04">
+<author pid="05/571">Huiliang Zhang</author>
+<author orcid="0000-0001-6940-9531" pid="86/2830">Xudong Luo</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="137/0449">Jin You</author>
+<title>Adaptive goal selection for agents in dynamic environments.</title>
+<pages>665-692</pages>
+<year>2013</year>
+<volume>37</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-013-0645-7</ee>
+<url>db/journals/kais/kais37.html#ZhangLMSY13</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEicics/YuSL13" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Bringing reputation-awareness into crowdsourcing.</title>
+<pages>1-5</pages>
+<year>2013</year>
+<booktitle>ICICS</booktitle>
+<ee>https://doi.org/10.1109/ICICS.2013.6782912</ee>
+<crossref>conf/IEEEicics/2013</crossref>
+<url>db/conf/IEEEicics/IEEEicics2013.html#YuSL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/WuHYSM13" mdate="2021-08-24">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="16/8382">Xiaogang Han</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>The innovative application of learning companions in virtual singapura.</title>
+<pages>1171-1172</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485126</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#WuHYSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuSMA13" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>A reputation-aware decision-making approach for improving the efficiency of crowdsourcing systems.</title>
+<pages>1315-1316</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485201</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#YuSMA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/greencom/WuSLZACM13" mdate="2024-05-07">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="72/5844">Ailiya</author>
+<author pid="79/1730">Yundong Cai</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Internet of Things Based Data Driven Storytelling for Supporting Social Connections.</title>
+<pages>383-390</pages>
+<year>2013</year>
+<booktitle>GreenCom/iThings/CPScom</booktitle>
+<ee>https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.83</ee>
+<crossref>conf/greencom/2013</crossref>
+<url>db/conf/greencom/greencom2013.html#WuSLZACM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/greencom/YuSL13" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>From Internet of Things to Internet of Agents.</title>
+<pages>1054-1057</pages>
+<year>2013</year>
+<booktitle>GreenCom/iThings/CPScom</booktitle>
+<ee>https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.179</ee>
+<crossref>conf/greencom/2013</crossref>
+<url>db/conf/greencom/greencom2013.html#YuSL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LimCAMS13" mdate="2024-07-01">
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="135/0243">Matthias Chan</author>
+<author pid="72/5844">Ailiya</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Persuasive Teachable Agent User Modeling.</title>
+<pages>307-308</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2013.96</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2013.96</ee>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#LimCAMS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LimAMS13" mdate="2024-07-01">
+<author pid="120/6800">Su Fang Lim</author>
+<author pid="72/5844">Ailiya</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>The Design of Persuasive Teachable Agent.</title>
+<pages>382-384</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2013.117</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2013.117</ee>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#LimAMS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/LuoMJHSZ12" mdate="2024-08-04">
+<author orcid="0000-0001-6940-9531" pid="86/2830">Xudong Luo</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0166-248X" pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<author pid="30/1609">Minghua He</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0003-1326-1106" pid="52/1742">Minjie Zhang</author>
+<title>Kemnad: a Knowledge Engineering Methodology for Negotiating Agent Development.</title>
+<pages>51-105</pages>
+<year>2012</year>
+<volume>28</volume>
+<journal>Comput. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8640.2012.00409.x</ee>
+<ee>https://www.wikidata.org/entity/Q57377328</ee>
+<url>db/journals/ci/ci28.html#LuoMJHSZ12</url>
+</article>
+</r>
+<r><article key="journals/ets/ZhaoAS12" mdate="2022-05-16">
+<author pid="88/636">Guopeng Zhao</author>
+<author pid="72/5844">Ailiya</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Learning-by-Teaching: Designing Teachable Agents with Intrinsic Motivation.</title>
+<pages>62-74</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>J. Educ. Technol. Soc.</journal>
+<number>4</number>
+<ee type="archive">http://www.ifets.info/download_pdf.php?j_id=57&#38;a_id=1285</ee>
+<url>db/journals/ets/ets15.html#ZhaoAS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/WuMS12" mdate="2021-08-24">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A curious learning companion in Virtual Learning Environment.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2012.6251362</ee>
+<crossref>conf/fuzzIEEE/2012</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2012.html#WuMS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/YuSMA12" mdate="2023-03-24">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>Challenges and Opportunities for Trust Management in Crowdsourcing.</title>
+<pages>486-493</pages>
+<year>2012</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2012.104</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2012.104</ee>
+<crossref>conf/iat/2012</crossref>
+<url>db/conf/iat/iat2012.html#YuSMA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icadl/ThengGPCLMST12" mdate="2025-03-03">
+<author orcid="0000-0003-2351-8884" pid="78/4473">Yin Leng Theng</author>
+<author pid="91/11104">Lynette Ying Qin Goh</author>
+<author orcid="0000-0003-0549-3652" pid="86/4590">Natalie Lee-San Pang</author>
+<author pid="79/1730">Yundong Cai</author>
+<author pid="120/6800">Sufang Lim</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="02/8212">Gladys Sau-Mei Theng</author>
+<title>Towards an Integrated Design of Digital Library and Virtual Museum in the Heritage Preservation of the Chinese &#34;Qipao&#34;.</title>
+<pages>342-343</pages>
+<year>2012</year>
+<booktitle>ICADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34752-8_45</ee>
+<crossref>conf/icadl/2012</crossref>
+<url>db/conf/icadl/icadl2012.html#ThengGPCLMST12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/AiliyaMS12" mdate="2023-03-23">
+<author pid="72/5844">Ailiya</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Authoring Educational Games through Affective Teachable Agent.</title>
+<pages>102-104</pages>
+<year>2012</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2012.188</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2012.188</ee>
+<crossref>conf/icalt/2012</crossref>
+<url>db/conf/icalt/icalt2012.html#AiliyaMS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/YuSA12" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>An Adaptive Witness Selection Method for Reputation-Based Trust Models.</title>
+<pages>184-198</pages>
+<year>2012</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32729-2_13</ee>
+<crossref>conf/prima/2012</crossref>
+<url>db/conf/prima/prima2012.html#YuSA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/SongMSWDC11" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0003-4236-995X" pid="12/196">Roel Wuyts</author>
+<author pid="41/4908">Maja D'Hondt</author>
+<author pid="61/3302">Francky Catthoor</author>
+<title>A probabilistic fuzzy approach to modeling nonlinear systems.</title>
+<pages>1008-1025</pages>
+<year>2011</year>
+<volume>74</volume>
+<journal>Neurocomputing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.neucom.2010.11.014</ee>
+<url>db/journals/ijon/ijon74.html#SongMSWDC11</url>
+</article>
+</r>
+<r><article key="journals/tfs/SongMWSDC11" mdate="2021-08-24">
+<author pid="289/1599">Hengjie J. Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-4236-995X" pid="12/196">Roel Wuyts</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="41/4908">Maja D'Hondt</author>
+<author pid="61/3302">Francky Catthoor</author>
+<title>An Extension to Fuzzy Cognitive Maps for Classification and Prediction.</title>
+<pages>116-135</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TFUZZ.2010.2087383</ee>
+<url>db/journals/tfs/tfs19.html#SongMWSDC11</url>
+</article>
+</r>
+<r><article key="journals/wias/ShenYMW11" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="98/392">Jianshu Weng</author>
+<title>Trust-based web service selection in virtual communities.</title>
+<pages>227-238</pages>
+<year>2011</year>
+<volume>9</volume>
+<journal>Web Intell. Agent Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/WIA-2011-0216</ee>
+<url>db/journals/wias/wias9.html#ShenYMW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEicics/WangS11" mdate="2021-08-24">
+<author pid="188/7759">Chao Wang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Local Sensitive Frontier Analysis based facial expression recognition.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ICICS</booktitle>
+<ee>https://doi.org/10.1109/ICICS.2011.6173611</ee>
+<crossref>conf/IEEEicics/2011</crossref>
+<url>db/conf/IEEEicics/IEEEicics2011.html#WangS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SongMS11" mdate="2023-09-04">
+<author pid="65/657">Hengjie Song</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v25i1.8088</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SongMS11</url>
+<pages>1230-1236</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aegs/CaiS11" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Learning by Playing in Agent-Oriented Virtual Learning Environment.</title>
+<pages>79-93</pages>
+<year>2011</year>
+<booktitle>AEGS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32326-3_5</ee>
+<crossref>conf/aegs/2011</crossref>
+<url>db/conf/aegs/aegs2011.html#CaiS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuSMT11" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="38/3641">Ah-Hwee Tan</author>
+<title>A simple curious agent to help people be curious.</title>
+<pages>1159-1160</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034466&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#YuSMT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YuSML11" mdate="2021-08-24">
+<author pid="17/1050">Ling Yu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Genetic algorithm aided optimization of hierarchical multiagent system organization.</title>
+<pages>1169-1170</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034471&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#YuSML11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/ZhangSM11" mdate="2021-08-24">
+<author pid="05/571">Huiliang Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Train Fuzzy Cognitive Maps by gradient residual algorithm.</title>
+<pages>1815-1821</pages>
+<year>2011</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2011.6007485</ee>
+<crossref>conf/fuzzIEEE/2011</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2011.html#ZhangSM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/AiliyaSM11" mdate="2023-03-23">
+<author pid="72/5844">Ailiya</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Affective Teachable Agent in VLE: A Goal Oriented Approach.</title>
+<pages>110-114</pages>
+<year>2011</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2011.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2011.38</ee>
+<crossref>conf/icalt/2011</crossref>
+<url>db/conf/icalt/icalt2011.html#AiliyaSM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icids/CaiSM11" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Agent-Oriented Methodology for Interactive Storytelling (AOMIS).</title>
+<pages>25-30</pages>
+<year>2011</year>
+<booktitle>ICIDS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25289-1_3</ee>
+<crossref>conf/icids/2011</crossref>
+<url>db/conf/icids/icids2011.html#CaiSM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ChenLLSP11" mdate="2025-03-03">
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="97/9924">Mingjie Liu</author>
+<author pid="54/2865">Junfa Liu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="69/4450">Wei Pan</author>
+<title>Slideshow: Gesture-aware PPT presentation.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2011.6012093</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2011.6012093</ee>
+<crossref>conf/icmcs/2011</crossref>
+<url>db/conf/icmcs/icme2011.html#ChenLLSP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieem/YangSS11" mdate="2021-08-24">
+<author pid="43/3481">Q. Z. Yang</author>
+<author pid="08/11353">Y. Z. Sheng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Agent-based simulation of economic sustainability in waste-to-material recovery.</title>
+<pages>1150-1154</pages>
+<year>2011</year>
+<booktitle>IEEM</booktitle>
+<ee>https://doi.org/10.1109/IEEM.2011.6118095</ee>
+<crossref>conf/ieem/2011</crossref>
+<url>db/conf/ieem/ieem2011.html#YangSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhaoCLSL11" mdate="2025-03-03">
+<author pid="54/9924">Zhongtang Zhao</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="54/2865">Junfa Liu</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="97/9924">Mingjie Liu</author>
+<title>Cross-People Mobile-Phone Based Activity Recognition.</title>
+<pages>2545-2550</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-423</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#ZhaoCLSL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cga/CaiMTSL10" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6230-2376" pid="70/1211-1">Boyang Li 0001</author>
+<title>Creating an Immersive Game World with Evolutionary Fuzzy Cognitive Maps.</title>
+<pages>58-70</pages>
+<year>2010</year>
+<volume>30</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MCG.2009.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2009.80</ee>
+<ee>https://www.wikidata.org/entity/Q51677396</ee>
+<url>db/journals/cga/cga30.html#CaiMTSL10</url>
+</article>
+</r>
+<r><article key="journals/ejwcn/HuangSML10" mdate="2021-08-24">
+<author pid="94/3756">Dong Huang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Resource Allocation in MU-OFDM Cognitive Radio Systems with Partial Channel State Information.</title>
+<year>2010</year>
+<volume>2010</volume>
+<journal>EURASIP J. Wirel. Commun. Netw.</journal>
+<ee type="oa">https://doi.org/10.1155/2010/189157</ee>
+<ee>https://www.wikidata.org/entity/Q59253372</ee>
+<url>db/journals/ejwcn/ejwcn2010.html#HuangSML10</url>
+</article>
+</r>
+<r><article key="journals/jece/QinLMS10" mdate="2024-07-27">
+<author pid="14/6841-1">Tao Qin 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Resource Allocation in a Cognitive Radio System with Imperfect Channel State Estimation.</title>
+<year>2010</year>
+<volume>2010</volume>
+<journal>J. Electr. Comput. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2010/419430</ee>
+<ee>https://www.wikidata.org/entity/Q58652599</ee>
+<url>db/journals/jece/jece2010.html#QinLMS10</url>
+<pages>419430:1-419430:5</pages>
+</article>
+</r>
+<r><article key="journals/nn/SongMSWDC10" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="12/196">Roel Wuyts</author>
+<author pid="41/4908">Maja D'Hondt</author>
+<author pid="61/3302">Francky Catthoor</author>
+<title>Design of fuzzy cognitive maps using neural networks for predicting chaotic time series.</title>
+<pages>1264-1275</pages>
+<year>2010</year>
+<volume>23</volume>
+<journal>Neural Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.neunet.2010.08.003</ee>
+<ee>https://www.wikidata.org/entity/Q51664974</ee>
+<url>db/journals/nn/nn23.html#SongMSWDC10</url>
+</article>
+</r>
+<r><article key="journals/pieee/YuSMLN10" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>A Survey of Trust and Reputation Management Systems in Wireless Communications.</title>
+<pages>1755-1772</pages>
+<year>2010</year>
+<volume>98</volume>
+<journal>Proc. IEEE</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/JPROC.2010.2059690</ee>
+<ee>https://www.wikidata.org/entity/Q61687312</ee>
+<url>db/journals/pieee/pieee98.html#YuSMLN10</url>
+</article>
+</r>
+<r><article key="journals/tedu/AiliyaSM10" mdate="2021-08-24">
+<author pid="72/5844">Ailiya</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An Emotional Agent in Virtual Learning Environment.</title>
+<pages>22-33</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Trans. Edutainment</journal>
+<ee>https://doi.org/10.1007/978-3-642-14484-4_3</ee>
+<crossref>journals/tedu/2010-4</crossref>
+<url>db/journals/tedu/tedu4.html#AiliyaSM10</url>
+</article>
+</r>
+<r><article key="journals/tfs/MiaoMTSL10" mdate="2021-08-24">
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="29/3742">Zhi-Qiang Liu</author>
+<title>Transformation of Cognitive Maps.</title>
+<pages>114-124</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TFUZZ.2009.2037218</ee>
+<url>db/journals/tfs/tfs18.html#MiaoMTSL10</url>
+</article>
+</r>
+<r><article key="journals/tfs/SongMWSC10" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="12/196">Roel Wuyts</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/3302">Francky Catthoor</author>
+<title>Implementation of Fuzzy Cognitive Maps Based on Fuzzy Neural Network and Application in Prediction of Time Series.</title>
+<pages>233-250</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TFUZZ.2009.2038371</ee>
+<url>db/journals/tfs/tfs18.html#SongMWSC10</url>
+</article>
+</r>
+<r><article key="journals/tkde/WengSMGL10" mdate="2021-08-24">
+<author orcid="0000-0003-2540-3829" pid="98/392">Jianshu Weng</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="g/AngelaGoh">Angela Eck Soong Goh</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Credibility: How Agents Can Handle Unfair Third-Party Testimonies in Computational Trust Models.</title>
+<pages>1286-1298</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2009.138</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2009.138</ee>
+<url>db/journals/tkde/tkde22.html#WengSMGL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/amt/HanSML10" mdate="2024-08-04">
+<author pid="16/8382">Xiaogang Han</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-6940-9531" pid="86/2830">Xudong Luo</author>
+<title>Folksonomy-Based Ontological User Interest Profile Modeling and Its Application in Personalized Search.</title>
+<pages>34-46</pages>
+<year>2010</year>
+<booktitle>AMT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15470-6_6</ee>
+<crossref>conf/amt/2010</crossref>
+<url>db/conf/amt/amt2010.html#HanSML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ZhangSHM10" mdate="2021-08-24">
+<author pid="05/571">Huiliang Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="61/3119">Shell-Ying Huang</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Predicting Responsiveness of BDI Agent.</title>
+<pages>647-652</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-606-5-647</ee>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#ZhangSHM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fplay/ShenMZYC10" mdate="2022-01-03">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="50/6759">Liang Zhang</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="14/4784">Mark J. Chavez</author>
+<title>An emotion aware agent platform for interactive storytelling and gaming.</title>
+<pages>257-258</pages>
+<year>2010</year>
+<booktitle>Future Play</booktitle>
+<ee>https://doi.org/10.1145/1920778.1920823</ee>
+<crossref>conf/fplay/2010</crossref>
+<url>db/conf/fplay/fplay2010.html#ShenMZYC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ZhangMHSL10" mdate="2023-03-24">
+<author pid="05/571">Huiliang Zhang</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="61/3119">Shell-Ying Huang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="86/2830">Xudong Luo</author>
+<title>How Fast Can a BDI Agent Respond?</title>
+<pages>189-196</pages>
+<year>2010</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.248</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.248</ee>
+<crossref>conf/iat/2010</crossref>
+<url>db/conf/iat/iat2010.html#ZhangMHSL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ZhangSML10" mdate="2024-08-04">
+<author pid="05/571">Huiliang Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-6940-9531" pid="86/2830">Xudong Luo</author>
+<title>Motivated Learning for Goal Selection in Goal Nets.</title>
+<pages>252-255</pages>
+<year>2010</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.176</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.176</ee>
+<crossref>conf/iat/2010</crossref>
+<url>db/conf/iat/iat2010.html#ZhangSML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/CaiSMT10" mdate="2023-03-24">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<title>DIRACT: Agent-Based Interactive Storytelling.</title>
+<pages>273-276</pages>
+<year>2010</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.89</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.89</ee>
+<crossref>conf/iat/2010</crossref>
+<url>db/conf/iat/iat2010.html#CaiSMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/YuCSTM10" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Agents as intelligent user interfaces for the net generation.</title>
+<pages>429-430</pages>
+<year>2010</year>
+<booktitle>IUI</booktitle>
+<ee>https://doi.org/10.1145/1719970.1720056</ee>
+<crossref>conf/iui/2010</crossref>
+<url>db/conf/iui/iui2010.html#YuCSTM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ksem/RenZMS10" mdate="2021-08-24">
+<author orcid="0000-0001-6159-7873" pid="83/670">Fenghui Ren</author>
+<author orcid="0000-0003-1326-1106" pid="52/1742">Minjie Zhang</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Optimization of Multiple Related Negotiation through Multi-Negotiation Network.</title>
+<pages>174-185</pages>
+<year>2010</year>
+<booktitle>KSEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15280-1_18</ee>
+<crossref>conf/ksem/2010</crossref>
+<url>db/conf/ksem/ksem2010.html#RenZMS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/SongMSML09" mdate="2022-12-07">
+<author pid="65/657">Hengjie Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author orcid="0000-0001-7828-7900" pid="l/BuSungLee">Bu-Sung Lee</author>
+<title>A fuzzy neural network with fuzzy impact grades.</title>
+<pages>3098-3122</pages>
+<year>2009</year>
+<volume>72</volume>
+<journal>Neurocomputing</journal>
+<number>13-15</number>
+<ee>https://doi.org/10.1016/j.neucom.2009.03.009</ee>
+<ee>https://www.wikidata.org/entity/Q57555407</ee>
+<url>db/journals/ijon/ijon72.html#SongMSML09</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/HuangSML09" mdate="2021-08-24">
+<author pid="94/3756">Dong Huang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Fitness landscape analysis for resource allocation in multiuser OFDM based cognitive radio systems.</title>
+<pages>26-36</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1621076.1621080</ee>
+<url>db/journals/sigmobile/sigmobile13.html#HuangSML09</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/QinYLSM09" mdate="2024-01-29">
+<author pid="14/6841-1">Tao Qin 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Towards a trust aware cognitive radio architecture.</title>
+<pages>86-95</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1621076.1621085</ee>
+<url>db/journals/sigmobile/sigmobile13.html#QinYLSM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaaiss/CaiMTS09" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="38/3641">Ah-Hwee Tan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Modeling Believable Virtual Characters with Evolutionary Fuzzy Cognitive Maps in Interactive Storytelling.</title>
+<pages>5-11</pages>
+<year>2009</year>
+<booktitle>AAAI Spring Symposium: Intelligent Narrative Technologies II</booktitle>
+<ee>http://www.aaai.org/Library/Symposia/Spring/2009/ss09-06-002.php</ee>
+<crossref>conf/aaaiss/2009-6</crossref>
+<url>db/conf/aaaiss/aaaiss2009-6.html#CaiMTS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LiYSM09" mdate="2021-08-24">
+<author pid="70/1211-1">Boyang Li 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Evolutionary organizational search.</title>
+<pages>1329-1330</pages>
+<year>2009</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1558277</ee>
+<crossref>conf/atal/2009-2</crossref>
+<url>db/conf/atal/aamas2009-2.html#LiYSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ZhangSTMLAC09" mdate="2021-08-24">
+<author pid="05/571">Huiliang Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="58/2850">B. Li</author>
+<author pid="72/5844">Ailiya</author>
+<author pid="79/1730">Yundong Cai</author>
+<title>Emotional agent in serious game (DINO).</title>
+<pages>1385-1386</pages>
+<year>2009</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1558307</ee>
+<crossref>conf/atal/2009-2</crossref>
+<url>db/conf/atal/aamas2009-2.html#ZhangSTMLAC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ZhangSM09" mdate="2023-03-24">
+<author pid="05/571">Huiliang Zhang</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Enabling Goal Oriented Action Planning with Goal Net.</title>
+<pages>271-274</pages>
+<year>2009</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2009.162</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2009.162</ee>
+<crossref>conf/iat/2009</crossref>
+<url>db/conf/iat/iat2009.html#ZhangSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/ZhaoSM09" mdate="2023-03-24">
+<author pid="88/636">Guopeng Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>ELM-Based Intelligent Resource Selection for Grid Scheduling.</title>
+<pages>398-403</pages>
+<year>2009</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2009.109</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2009.109</ee>
+<crossref>conf/icmla/2009</crossref>
+<url>db/conf/icmla/icmla2009.html#ZhaoSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/ZhaoSM09" mdate="2023-03-23">
+<author pid="88/636">Guopeng Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Fast and Intelligent Resource Allocation Service for Service-Oriented Grid.</title>
+<pages>804-809</pages>
+<year>2009</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2009.100</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPADS.2009.100</ee>
+<crossref>conf/icpads/2009</crossref>
+<url>db/conf/icpads/icpads2009.html#ZhaoSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/YeBZWS09" mdate="2024-05-23">
+<author orcid="0000-0002-7561-0992" pid="95/4735">Dayong Ye</author>
+<author orcid="0000-0003-1214-6317" pid="26/4097-1">Quan Bai 0001</author>
+<author orcid="0000-0003-1326-1106" pid="52/1742">Minjie Zhang</author>
+<author orcid="0000-0002-7810-6388" pid="13/1636">Khin Than Win</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>An Efficient Task Allocation Protocol for P2P Multi-agent Systems.</title>
+<pages>11-18</pages>
+<year>2009</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2009.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2009.14</ee>
+<crossref>conf/ispa/2009</crossref>
+<url>db/conf/ispa/ispa2009.html#YeBZWS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/RenZMS09" mdate="2021-08-24">
+<author orcid="0000-0001-6159-7873" pid="83/670">Fenghui Ren</author>
+<author orcid="0000-0003-1326-1106" pid="52/1742">Minjie Zhang</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Market-Based Multi-Issue Negotiation Model Considering Multiple Preferences in Dynamic E-Marketplaces.</title>
+<pages>1-16</pages>
+<year>2009</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11161-7_1</ee>
+<crossref>conf/prima/2009</crossref>
+<url>db/conf/prima/prima2009.html#RenZMS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cie/YuSM08" mdate="2021-08-24">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A goal-oriented development tool to automate the incorporation of intelligent agents into interactive digital media applications.</title>
+<year>2008</year>
+<volume>6</volume>
+<journal>Comput. Entertain.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1371216.1371227</ee>
+<url>db/journals/cie/cie6.html#YuSM08</url>
+<pages>24:1-24:15</pages>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/ZhongMSF08" mdate="2021-08-24">
+<author pid="98/10074">Haoming Zhong</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="84/485">Yuhong Feng</author>
+<title>Temporal fuzzy cognitive maps.</title>
+<pages>1831-1840</pages>
+<year>2008</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2008.4630619</ee>
+<crossref>conf/fuzzIEEE/2008</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2008.html#ZhongMSF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/CaiMTS08" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Context modeling with Evolutionary Fuzzy Cognitive Map in interactive storytelling.</title>
+<pages>2320-2325</pages>
+<year>2008</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2008.4630692</ee>
+<crossref>conf/fuzzIEEE/2008</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2008.html#CaiMTS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/JacobsonMKSC08" mdate="2023-03-24">
+<author orcid="0000-0001-6521-9757" pid="21/3477">Michael J. Jacobson</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-6726-0040" pid="93/3462">Beaumie Kim</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="14/4784">Mark J. Chavez</author>
+<title>Research into Learning in an Intelligent Agent Augmented Multi-user Virtual Environment.</title>
+<pages>348-351</pages>
+<year>2008</year>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WIIAT.2008.402</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WIIAT.2008.402</ee>
+<ee>https://www.wikidata.org/entity/Q57592026</ee>
+<crossref>conf/iat/2008w</crossref>
+<url>db/conf/iat/iatw2008.html#JacobsonMKSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ZhaoSAM08" mdate="2023-03-24">
+<author pid="88/636">Guopeng Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="72/5844">Ailiya</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>ELM-Based Agents for Grid Resource Selection.</title>
+<pages>385-388</pages>
+<year>2008</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WIIAT.2008.355</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WIIAT.2008.355</ee>
+<crossref>conf/iat/2008</crossref>
+<url>db/conf/iat/iat2008.html#ZhaoSAM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/YuSLM08" mdate="2023-03-23">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="06/2180">ChorPing Low</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Transforming Learning through Agent Augmented Virtual World.</title>
+<pages>933-937</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2008.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2008.65</ee>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#YuSLM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/ZhaoSMG08" mdate="2021-08-24">
+<author pid="88/636">Guopeng Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>Enhanced Extreme Learning Machine with stacked generalization.</title>
+<pages>1191-1198</pages>
+<year>2008</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2008.4633951</ee>
+<crossref>conf/ijcnn/2008</crossref>
+<url>db/conf/ijcnn/ijcnn2008.html#ZhaoSMG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tii/AnSMC07" mdate="2021-08-24">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="33/2181">Daijie Cheng</author>
+<title>Algorithms for Transitive Dependence-Based Coalition Formation.</title>
+<pages>234-245</pages>
+<year>2007</year>
+<volume>3</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TII.2007.902255</ee>
+<url>db/journals/tii/tii3.html#AnSMC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaaifs/CaiSMT07" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="38/3641">Ah-Hwee Tan</author>
+<title>S-MADE: Interactive Storytelling Architecture through Goal Execution and Decomposition.</title>
+<pages>17-20</pages>
+<year>2007</year>
+<booktitle>AAAI Fall Symposium: Intelligent Narrative Technologies</booktitle>
+<ee>https://www.aaai.org/Library/Symposia/Fall/2007/fs07-05-004.php</ee>
+<crossref>conf/aaaifs/2007-5</crossref>
+<url>db/conf/aaaifs/aaaifs2007-5.html#CaiSMT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edutainment/CaiMTS07" mdate="2022-04-09">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Hybrid of Plot-Based and Character-Based Interactive Storytelling.</title>
+<pages>260-273</pages>
+<year>2007</year>
+<crossref>conf/edutainment/2007</crossref>
+<booktitle>Edutainment</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73011-8_27</ee>
+<url>db/conf/edutainment/edutainment2007.html#CaiMTS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/YuSMWY07" mdate="2022-01-03">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="09/6686">Jing Wen</author>
+<author pid="122/8939">Qizhen Yang</author>
+<title>A service based multi-agent system design tool for modelling integrated manufacturing and service systems.</title>
+<pages>149-154</pages>
+<year>2007</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/EFTA.2007.4416765</ee>
+<crossref>conf/etfa/2007</crossref>
+<url>db/conf/etfa/etfa2007.html#YuSMWY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/SongMS07" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Fuzzy cognitive map learning based on multi-objectiveparticle swarm optimization.</title>
+<pages>339</pages>
+<year>2007</year>
+<crossref>conf/gecco/2007</crossref>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1276958.1277027</ee>
+<url>db/conf/gecco/gecco2007.html#SongMS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/YuSM07" mdate="2023-03-24">
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Intelligent Software Agent Design Tool Using Goal Net Methodology.</title>
+<pages>43-46</pages>
+<year>2007</year>
+<crossref>conf/iat/2007</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2007.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2007.25</ee>
+<url>db/conf/iat/iat2007.html#YuSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AnMS07" mdate="2021-08-24">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Market Based Resource Allocation with Incomplete Information.</title>
+<pages>1193-1198</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/193.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#AnMS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/SongSMTZ07" mdate="2023-03-24">
+<author pid="65/657">Hengjie Song</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<author pid="88/636">Guopeng Zhao</author>
+<title>The Multi-Agent Data Collection in HLA-Based Simulation System.</title>
+<pages>61-69</pages>
+<year>2007</year>
+<crossref>conf/pads/2007</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2007.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PADS.2007.30</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1249013</ee>
+<url>db/conf/pads/pads2007.html#SongSMTZ07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/ShenMGL06" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author pid="28/1952">Dongtao Li</author>
+<title>Goal-Oriented Methodology for Agent System Development.</title>
+<pages>1413-1420</pages>
+<year>2006</year>
+<volume>89-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1093/ietisy/e89-d.4.1413</ee>
+<url>db/journals/ieicet/ieicet89d.html#ShenMGL06</url>
+</article>
+</r>
+<r><article key="journals/mags/MiaoWGSA06" mdate="2022-06-23">
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="98/392">Jianshu Weng</author>
+<author pid="g/AngelaGoh">Angela Goh</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>Fuzzy cognitive maps for dynamic grid service negotiation.</title>
+<pages>101-114</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>Multiagent Grid Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/mgs-2006-2202</ee>
+<url>db/journals/mags/mags2.html#MiaoWGSA06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMace/CaiMTS06" mdate="2021-08-24">
+<author pid="79/1730">Yundong Cai</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Fuzzy cognitive goal net for interactive storytelling plot design.</title>
+<pages>56</pages>
+<year>2006</year>
+<crossref>conf/ACMace/2006</crossref>
+<booktitle>Advances in Computer Entertainment Technology</booktitle>
+<ee>https://doi.org/10.1145/1178823.1178890</ee>
+<url>db/conf/ACMace/ace2006.html#CaiMTS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/WengMGSG06" mdate="2021-08-24">
+<author pid="98/392">Jianshu Weng</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="g/AngelaGoh">Angela Goh</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>Trust-based agent community for collaborative recommendation.</title>
+<pages>1260-1262</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160860</ee>
+<url>db/conf/atal/aamas2006.html#WengMGSG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/ShenMMTG06" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>A Goal-oriented Approach to Goal Selection and Action Selection.</title>
+<pages>114-121</pages>
+<year>2006</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2006.1681703</ee>
+<crossref>conf/fuzzIEEE/2006</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2006.html#ShenMMTG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SongSMLM06" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="29/3742">Zhi-Qiang Liu</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<title>Probabilistic Fuzzy Cognitive Map.</title>
+<pages>1221-1228</pages>
+<year>2006</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2006.1681865</ee>
+<crossref>conf/fuzzIEEE/2006</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2006.html#SongSMLM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MiaoTSLM06" mdate="2021-08-24">
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="29/3742">Zhi-Qiang Liu</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>The Equivalence of Cognitive Map, Fuzzy Cognitive Map and Multi Value Fuzzy Cognitive Map.</title>
+<pages>1872-1878</pages>
+<year>2006</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2006.1681960</ee>
+<crossref>conf/fuzzIEEE/2006</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2006.html#MiaoTSLM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icic/TaoMSMY06" mdate="2021-08-24">
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="26/798">Nicola Yelland</author>
+<title>Interest Based Negotiation Automation.</title>
+<pages>211-222</pages>
+<year>2006</year>
+<crossref>conf/icic/2006-3</crossref>
+<booktitle>ICIC (3)</booktitle>
+<ee>https://doi.org/10.1007/11816102_23</ee>
+<url>db/conf/icic/icic2006-3.html#TaoMSMY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cis/AnMSMC05" mdate="2021-08-24">
+<author pid="42/6178-1">Bo An 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="33/2181">Daijie Cheng</author>
+<title>Transitive Dependence Based Formation of Virtual Organizations.</title>
+<pages>375-380</pages>
+<year>2005</year>
+<crossref>conf/cis/2005-1</crossref>
+<booktitle>CIS (1)</booktitle>
+<ee>https://doi.org/10.1007/11596448_54</ee>
+<url>db/conf/cis/cis2005-1.html#AnMSMC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iastedWTAS/KuaySGM05" mdate="2021-08-24">
+<author pid="63/3877">Chong Sean Kuay</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Goal Net Agent Framework for Web Service Integration.</title>
+<pages>117-122</pages>
+<year>2005</year>
+<crossref>conf/iastedWTAS/2005</crossref>
+<booktitle>Web Technologies, Applications, and Services</booktitle>
+<url>db/conf/iastedWTAS/wtas2005.html#KuaySGM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ShenLMGM05" mdate="2023-03-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="28/1952">Dongtao Li</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<title>Goal-oriented Methodology for Agent System Development.</title>
+<pages>95-101</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.80</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2005.80</ee>
+<url>db/conf/iat/iat2005.html#ShenLMGM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/YinMSM05" mdate="2023-03-24">
+<author pid="48/1726">Zunliang Yin</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<title>Actionable Knowledge Model for GUI Regression Testing.</title>
+<pages>165-168</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2005.25</ee>
+<url>db/conf/iat/iat2005.html#YinMSM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/LiSMMG05" mdate="2021-08-24">
+<author pid="28/1952">Dongtao Li</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>A Goal Oriented e-Learning Agent System.</title>
+<pages>664-670</pages>
+<year>2005</year>
+<crossref>conf/kes/2005-1</crossref>
+<booktitle>KES (1)</booktitle>
+<ee>https://doi.org/10.1007/11552413_95</ee>
+<url>db/conf/kes/kes2005-1.html#LiSMMG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/ShenMGG04" mdate="2023-03-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="g/AngelaGoh">Angela Goh</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>Agent mediated Grid services in E-learning.</title>
+<pages>210-211</pages>
+<year>2004</year>
+<crossref>conf/ccgrid/2004</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2004.1336569</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2004.1336569</ee>
+<url>db/conf/ccgrid/ccgrid2004.html#ShenMGG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/ShenGMM04" mdate="2023-03-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author orcid="0000-0002-6712-3465" pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Goal Autonomous Agent Architecture.</title>
+<pages>45-46</pages>
+<year>2004</year>
+<crossref>conf/compsac/2004w</crossref>
+<booktitle>COMPSAC Workshops</booktitle>
+<ee>https://doi.org/10.1109/CMPSAC.2004.1342669</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CMPSAC.2004.1342669</ee>
+<url>db/conf/compsac/compsac2004-W.html#ShenGMM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/ShenMTG04" mdate="2023-03-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<title>Goal Oriented Modeling for Intelligent Software Agents.</title>
+<pages>540-543</pages>
+<year>2004</year>
+<crossref>conf/iat/2004</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2004.1343014</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2004.1343014</ee>
+<url>db/conf/iat/iat2004.html#ShenMTG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/ShenGMW04" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="90/6314">Q. Wang</author>
+<title>Goal oriented modeling for agent mediated e-learning grid.</title>
+<pages>2280-2285</pages>
+<year>2004</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2004.1469787</ee>
+<crossref>conf/icarcv/2004</crossref>
+<url>db/conf/icarcv/icarcv2004.html#ShenGMW04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcia/MiaoLTSL02" mdate="2021-08-24">
+<author pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="29/3742">Zhi-Qiang Liu</author>
+<author pid="51/5447">Xuehong Tao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="47/1183">Chun Wen Li</author>
+<title>Simplification, Merging and Division of Fuzzy Cognitive Maps.</title>
+<pages>185-208</pages>
+<year>2002</year>
+<volume>2</volume>
+<journal>Int. J. Comput. Intell. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S1469026802000555</ee>
+<url>db/journals/ijcia/ijcia2.html#MiaoLTSL02</url>
+</article>
+</r>
+<r><inproceedings key="conf/fskd/ShenGM02" mdate="2021-08-24">
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="55/311">Robert K. L. Gay</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Goal-Based Modeling for Intelligent Business Forecasting Agents.</title>
+<pages>534-538</pages>
+<year>2002</year>
+<crossref>conf/fskd/2002</crossref>
+<booktitle>FSKD</booktitle>
+<url>db/conf/fskd/fskd2002.html#ShenGM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asc/MiaoMGS00" mdate="2021-08-24">
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="74/1798-1">Yuan Miao 0001</author>
+<author pid="g/AngelaGoh">Angela Goh</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>A Framework for Multi-agent Reasoning and Coordination.</title>
+<pages>156-162</pages>
+<year>2000</year>
+<crossref>conf/asc/2000</crossref>
+<booktitle>Artificial Intelligence and Soft Computing</booktitle>
+<url>db/conf/asc/asc2000.html#MiaoMGS00</url>
+</inproceedings>
+</r>
+<coauthors n="264" nc="1">
+<co c="0" n="2"><na f="a/Ailiya:" pid="72/5844">Ailiya</na><na>Ailiya Borjigin</na></co>
+<co c="0"><na f="a/An_0001:Bo" pid="42/6178-1">Bo An 0001</na></co>
+<co c="0"><na f="b/Bai_0001:Quan" pid="26/4097-1">Quan Bai 0001</na></co>
+<co c="0"><na f="b/Belongie:Serge_J=" pid="b/SJBelongie">Serge J. Belongie</na></co>
+<co c="0"><na f="c/Cai:Yundong" pid="79/1730">Yundong Cai</na></co>
+<co c="0"><na f="c/Cao:Yiming" pid="50/9348">Yiming Cao</na></co>
+<co c="0"><na f="c/Cao:Zhiguang" pid="178/8621">Zhiguang Cao</na></co>
+<co c="0"><na f="c/Catthoor:Francky" pid="61/3302">Francky Catthoor</na></co>
+<co c="0"><na f="c/Chai:Yueting" pid="99/1019">Yueting Chai</na></co>
+<co c="0"><na f="c/Chan:Matthias" pid="135/0243">Matthias Chan</na></co>
+<co c="0"><na f="c/Chan:Piu" pid="92/3977">Piu Chan</na></co>
+<co c="0"><na f="c/Chavez:Mark_J=" pid="14/4784">Mark J. Chavez</na></co>
+<co c="0"><na f="c/Chen:Biao" pid="98/449">Biao Chen</na></co>
+<co c="0"><na f="c/Chen_0003:Jundong" pid="379/6197">Jundong Chen 0003</na></co>
+<co c="0"><na f="c/Chen_0001:Lisi" pid="37/10606">Lisi Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Ping" pid="33/3675">Ping Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Xun" pid="34/6795-1">Xun Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0001:Yiqiang" pid="48/1091-1">Yiqiang Chen 0001</na></co>
+<co c="0"><na f="c/Cheng:Daijie" pid="33/2181">Daijie Cheng</na></co>
+<co c="0"><na f="c/Cheng_0002:Harry" pid="195/8828-2">Harry Cheng 0002</na></co>
+<co c="0"><na f="c/Cheng:Lin" pid="31/6230">Lin Cheng</na></co>
+<co c="0"><na f="c/Chi:Ying" pid="26/16">Ying Chi</na></co>
+<co c="0"><na f="c/Chin:Jing_Jih" pid="175/5581">Jing Jih Chin</na></co>
+<co c="0"><na f="c/Chu:Dianhui" pid="139/4115">Dianhui Chu</na></co>
+<co c="0" n="2"><na f="c/Cui:Li=zhen" pid="82/5713">Li-zhen Cui</na><na>Lizhen Cui</na></co>
+<co c="0"><na f="c/Cui:Sen" pid="267/5483">Sen Cui</na></co>
+<co c="0"><na f="d/D=Hondt:Maja" pid="41/4908">Maja D'Hondt</na></co>
+<co c="0"><na f="d/Dixon:Ian" pid="266/2835">Ian Dixon</na></co>
+<co c="0"><na f="d/Dong:Yi" pid="07/2924">Yi Dong</na></co>
+<co c="0"><na f="d/Du:Sixuan" pid="318/5105">Sixuan Du</na></co>
+<co c="0"><na f="d/Du:Xinqi" pid="268/5896">Xinqi Du</na></co>
+<co c="0"><na f="f/Fan:Ruoxi" pid="371/4485">Ruoxi Fan</na></co>
+<co c="0"><na f="f/Fan:Xiuyi" pid="35/6803">Xiuyi Fan</na></co>
+<co c="0"><na f="f/Fang_0008:Zheng" pid="77/4730-8">Zheng Fang 0008</na></co>
+<co c="0"><na f="f/Fauvel:Simon" pid="54/11141">Simon Fauvel</na></co>
+<co c="0"><na f="f/Feng:Haiyue" pid="380/8775">Haiyue Feng</na></co>
+<co c="0"><na f="f/Feng:Jiashi" pid="56/8278">Jiashi Feng</na></co>
+<co c="0"><na f="f/Feng:Kaiyu" pid="140/7434">Kaiyu Feng</na></co>
+<co c="0"><na f="f/Feng_0001:Liang" pid="07/5681-1">Liang Feng 0001</na></co>
+<co c="0"><na f="f/Feng:Shibo" pid="293/1098">Shibo Feng</na></co>
+<co c="0"><na f="f/Feng:Wanjin" pid="368/0771">Wanjin Feng</na></co>
+<co c="0"><na f="f/Feng_0001:Wenjie" pid="126/2373-1">Wenjie Feng 0001</na></co>
+<co c="0"><na f="f/Feng:Yuhong" pid="84/485">Yuhong Feng</na></co>
+<co c="0"><na f="f/Fu:Honghao" pid="284/1243">Honghao Fu</na></co>
+<co c="0"><na f="g/Gao:Zhanning" pid="153/2320">Zhanning Gao</na></co>
+<co c="0"><na f="g/Gay:Robert_K=_L=" pid="55/311">Robert K. L. Gay</na></co>
+<co c="0" n="2"><na f="g/Goh:Angela" pid="g/AngelaGoh">Angela Goh</na><na>Angela Eck Soong Goh</na></co>
+<co c="0"><na f="g/Goh:Lynette_Ying_Qin" pid="91/11104">Lynette Ying Qin Goh</na></co>
+<co c="0"><na f="g/Gu:Yang" pid="01/5858">Yang Gu</na></co>
+<co c="0" n="3"><na f="g/Guan:Frank" pid="202/0204">Frank Guan</na><na>Yunqing Guan 0001</na><na>Frank Yunqing Guan</na></co>
+<co c="0"><na f="g/Guan:Yunchuan" pid="353/6061">Yunchuan Guan</na></co>
+<co c="0"><na f="g/Guo:Wei" pid="71/6601">Wei Guo</na></co>
+<co c="0"><na f="g/Guo_0002:Xu" pid="46/5508-2">Xu Guo 0002</na></co>
+<co c="0"><na f="g/Guo:Zhengjin" pid="180/1443">Zhengjin Guo</na></co>
+<co c="0"><na f="g/Guo:Zhenyu" pid="53/1850">Zhenyu Guo</na></co>
+<co c="0"><na f="h/Han_0005:Peng" pid="51/4558-5">Peng Han 0005</na></co>
+<co c="0"><na f="h/Han:Xiaogang" pid="16/8382">Xiaogang Han</na></co>
+<co c="0"><na f="h/Hao:Shuji" pid="44/10349">Shuji Hao</na></co>
+<co c="0"><na f="h/He:Minghua" pid="30/1609">Minghua He</na></co>
+<co c="0"><na f="h/He:Wenjing" pid="43/9732">Wenjing He</na></co>
+<co c="0"><na f="h/Hou:Jinghua" pid="175/1330">Jinghua Hou</na></co>
+<co c="0"><na f="h/Hu:Juncheng" pid="168/2861">Juncheng Hu</na></co>
+<co c="0"><na f="h/Hu_0001:Liang" pid="48/5388-1">Liang Hu 0001</na></co>
+<co c="0"><na f="h/Hu:Lisha" pid="05/10150">Lisha Hu</na></co>
+<co c="0"><na f="h/Huang:Bo" pid="95/6229">Bo Huang</na></co>
+<co c="0"><na f="h/Huang:Dong" pid="94/3756">Dong Huang</na></co>
+<co c="0"><na f="h/Huang:Hong" pid="74/3859">Hong Huang</na></co>
+<co c="0"><na f="h/Huang:Mengxiao" pid="339/2080">Mengxiao Huang</na></co>
+<co c="0"><na f="h/Huang:Qingming" pid="68/4388">Qingming Huang</na></co>
+<co c="0"><na f="h/Huang:Shell=Ying" pid="61/3119">Shell-Ying Huang</na></co>
+<co c="0"><na f="h/Hwang:Jenq=Neng" pid="78/4381">Jenq-Neng Hwang</na></co>
+<co c="0"><na f="h/Hy:Nguyen_Quy" pid="166/6457">Nguyen Quy Hy</na></co>
+<co c="0"><na f="j/Jacobson:Michael_J=" pid="21/3477">Michael J. Jacobson</na></co>
+<co c="0"><na f="j/Jennings:Nicholas_R=" pid="j/NicholasRJennings">Nicholas R. Jennings</na></co>
+<co c="0"><na f="j/Ji:Jun" pid="92/3194">Jun Ji</na></co>
+<co c="0"><na f="j/Jiang:Cheng" pid="15/11195">Cheng Jiang</na></co>
+<co c="0"><na f="j/Jiang:Hongchao" pid="269/4492">Hongchao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Xinlong" pid="140/6369">Xinlong Jiang</na></co>
+<co c="0"><na f="j/Jiang:Yali" pid="63/7673">Yali Jiang</na></co>
+<co c="0"><na f="j/Jing:Jiazheng" pid="267/9525">Jiazheng Jing</na></co>
+<co c="0"><na f="k/Khalid:Nur_Syahidah_Bte" pid="178/8632">Nur Syahidah Bte Khalid</na></co>
+<co c="0"><na f="k/Khuan:Pamela_Chew_Oi" pid="233/2348">Pamela Chew Oi Khuan</na></co>
+<co c="0"><na f="k/Kim:Beaumie" pid="93/3462">Beaumie Kim</na></co>
+<co c="0"><na f="k/Kuay:Chong_Sean" pid="63/3877">Chong Sean Kuay</na></co>
+<co c="0"><na f="l/Lee:Bu=Sung" pid="l/BuSungLee">Bu-Sung Lee</na></co>
+<co c="0"><na f="l/Lesser:Victor_R=" pid="l/VRLesser">Victor R. Lesser</na></co>
+<co c="0"><na f="l/Leung:Cyril" pid="76/3131">Cyril Leung</na></co>
+<co c="0"><na f="l/Leung:Jonathan" pid="301/6374">Jonathan Leung</na></co>
+<co c="0"><na f="l/Li:B=" pid="58/2850">B. Li</na></co>
+<co c="0"><na f="l/Li_0001:Boyang" pid="70/1211-1">Boyang Li 0001</na></co>
+<co c="0"><na f="l/Li:Chun_Wen" pid="47/1183">Chun Wen Li</na></co>
+<co c="0"><na f="l/Li:Dongtao" pid="28/1952">Dongtao Li</na></co>
+<co c="0"><na f="l/Li:Guifeng" pid="242/1083">Guifeng Li</na></co>
+<co c="0"><na f="l/Li_0009:Haochen" pid="49/11531-9">Haochen Li 0009</na></co>
+<co c="0"><na f="l/Li_0001:Haoxuan" pid="145/4965-1">Haoxuan Li 0001</na></co>
+<co c="0"><na f="l/Li:Lei" pid="13/7007">Lei Li</na></co>
+<co c="0"><na f="l/Li:Min" pid="82/0">Min Li</na></co>
+<co c="0"><na f="l/Li:Qingzhong" pid="70/2558">Qingzhong Li</na></co>
+<co c="0"><na f="l/Li:Siyao" pid="163/8053">Siyao Li</na></co>
+<co c="0"><na f="l/Li:Weiming" pid="59/100">Weiming Li</na></co>
+<co c="0"><na f="l/Li:Yidong" pid="40/7652">Yidong Li</na></co>
+<co c="0"><na f="l/Li:Yuan" pid="86/6196">Yuan Li</na></co>
+<co c="0" n="2"><na f="l/Lim:Su_Fang" pid="120/6800">Su Fang Lim</na><na>Sufang Lim</na></co>
+<co c="0"><na f="l/Lim:Zhao_Yong" pid="269/4536">Zhao Yong Lim</na></co>
+<co c="0"><na f="l/Lin:Guosheng" pid="126/4778">Guosheng Lin</na></co>
+<co c="0"><na f="l/Lin:Han" pid="63/6173">Han Lin</na></co>
+<co c="0"><na f="l/Lin_0006:Jun" pid="55/1226-6">Jun Lin 0006</na></co>
+<co c="0"><na f="l/Lin:Xianhui" pid="147/7708">Xianhui Lin</na></co>
+<co c="0"><na f="l/Liu_0040:Chang" pid="52/5716-40">Chang Liu 0040</na></co>
+<co c="0"><na f="l/Liu:Junfa" pid="54/2865">Junfa Liu</na></co>
+<co c="0"><na f="l/Liu:Ketong" pid="345/7081">Ketong Liu</na></co>
+<co c="0"><na f="l/Liu_0014:Liu" pid="74/7037-14">Liu Liu 0014</na></co>
+<co c="0"><na f="l/Liu:Mingjie" pid="97/9924">Mingjie Liu</na></co>
+<co c="0"><na f="l/Liu_0014:Ning" pid="83/622-14">Ning Liu 0014</na></co>
+<co c="0"><na f="l/Liu_0003:Siyuan" pid="00/4516-3">Siyuan Liu 0003</na></co>
+<co c="0"><na f="l/Liu_0020:Yong" pid="29/4867-20">Yong Liu 0020</na></co>
+<co c="0"><na f="l/Liu_0040:Yu" pid="97/2274-40">Yu Liu 0040</na></co>
+<co c="0" n="2"><na f="l/Liu:Zhiqiang" pid="29/3742">Zhiqiang Liu</na><na>Zhi-Qiang Liu</na></co>
+<co c="0"><na f="l/Low:ChorPing" pid="06/2180">ChorPing Low</na></co>
+<co c="0"><na f="l/Luo:Xudong" pid="86/2830">Xudong Luo</na></co>
+<co c="0"><na f="m/McKeown:Martin_J=" pid="15/78">Martin J. McKeown</na></co>
+<co c="0"><na f="m/Mei:Jian=Ping" pid="36/8017">Jian-Ping Mei</na></co>
+<co c="0"><na f="m/Meng_0001:Lei" pid="118/5253-1">Lei Meng 0001</na></co>
+<co c="0"><na f="m/Meng:Qianwen" pid="283/3506">Qianwen Meng</na></co>
+<co c="0"><na f="m/Miao:Chunyan" pid="m/ChunyanMiao">Chunyan Miao</na></co>
+<co c="0"><na f="m/Miao_0001:Yuan" pid="74/1798-1">Yuan Miao 0001</na></co>
+<co c="0"><na f="m/Molino:Ana_Garcia_del" pid="166/2791">Ana Garcia del Molino</na></co>
+<co c="0"><na f="n/Nicholas:Vun_Chan_Hua" pid="344/1559">Vun Chan Hua Nicholas</na></co>
+<co c="0"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="o/Ouyang:Wenqi" pid="336/7634">Wenqi Ouyang</na></co>
+<co c="0"><na f="p/Pan:Wei" pid="69/4450">Wei Pan</na></co>
+<co c="0"><na f="p/Pan:Zhengxiang" pid="48/6834">Zhengxiang Pan</na></co>
+<co c="0"><na f="p/Pang:Natalie_Lee=San" pid="86/4590">Natalie Lee-San Pang</na></co>
+<co c="0"><na f="p/Phua:Poh_Boon" pid="381/0015">Poh Boon Phua</na></co>
+<co c="0"><na f="q/Qi:Huan" pid="42/1897">Huan Qi</na></co>
+<co c="0"><na f="q/Qian:Hangwei" pid="37/7950">Hangwei Qian</na></co>
+<co c="0"><na f="q/Qiao:Yuhui" pid="356/8695">Yuhui Qiao</na></co>
+<co c="0"><na f="q/Qin_0001:Tao" pid="14/6841-1">Tao Qin 0001</na></co>
+<co c="0"><na f="q/Qin:Xin" pid="216/7508">Xin Qin</na></co>
+<co c="0"><na f="q/Qiu:Hongyu" pid="277/5331">Hongyu Qiu</na></co>
+<co c="0"><na f="q/Qiu:Xiaoqi" pid="379/6504">Xiaoqi Qiu</na></co>
+<co c="0"><na f="q/Qiu:Yang" pid="57/7487">Yang Qiu</na></co>
+<co c="0"><na f="q/Qu:Zhe" pid="48/2774">Zhe Qu</na></co>
+<co c="0"><na f="r/Ren:Fenghui" pid="83/670">Fenghui Ren</na></co>
+<co c="0"><na f="r/Ren:Peiran" pid="61/7591">Peiran Ren</na></co>
+<co c="0"><na f="s/Shang:Shuo" pid="29/8750">Shuo Shang</na></co>
+<co c="0"><na f="s/Shen:Jianfei" pid="146/1992">Jianfei Shen</na></co>
+<co c="0"><na f="s/Sheng:Y=_Z=" pid="08/11353">Y. Z. Sheng</na></co>
+<co c="0"><na f="s/Shi:Yuliang" pid="s/YuliangShi">Yuliang Shi</na></co>
+<co c="0"><na f="s/Shi:Zhuan" pid="188/7845">Zhuan Shi</na></co>
+<co c="0"><na f="s/Shun:Matthias_Chan_Yong" pid="168/2741">Matthias Chan Yong Shun</na></co>
+<co c="0" n="2"><na f="s/Siong:Chng_Eng" pid="c/ChngEngSiong">Chng Eng Siong</na><na>Eng Siong Chng</na></co>
+<co c="0"><na f="s/Song:Hengjie" pid="65/657">Hengjie Song</na></co>
+<co c="0"><na f="s/Song:Hengjie_J=" pid="289/1599">Hengjie J. Song</na></co>
+<co c="0"><na f="s/Song:Wen" pid="50/5489">Wen Song</na></co>
+<co c="0"><na f="s/Su:Zhixiang" pid="313/9326">Zhixiang Su</na></co>
+<co c="0"><na f="t/Tan:Ah=Hwee" pid="38/3641">Ah-Hwee Tan</na></co>
+<co c="0"><na f="t/Tan:Benny_Toh_Hsiang" pid="175/5246">Benny Toh Hsiang Tan</na></co>
+<co c="0"><na f="t/Tang:Xiaoli" pid="49/5418">Xiaoli Tang</na></co>
+<co c="0"><na f="t/Tao:Xuehong" pid="51/5447">Xuehong Tao</na></co>
+<co c="0"><na f="t/Tao:Zhenchao" pid="268/5443">Zhenchao Tao</na></co>
+<co c="0"><na f="t/Theng:Gladys_Sau=Mei" pid="02/8212">Gladys Sau-Mei Theng</na></co>
+<co c="0"><na f="t/Theng:Yin_Leng" pid="78/4473">Yin Leng Theng</na></co>
+<co c="0"><na f="t/Tian:Xiaohai" pid="153/0728">Xiaohai Tian</na></co>
+<co c="0"><na f="t/Tian:Yimin" pid="353/2929">Yimin Tian</na></co>
+<co c="0"><na f="t/Tu:Zhiying" pid="35/10549">Zhiying Tu</na></co>
+<co c="0" n="2"><na f="v/Vun:Nicholas_C=_H=" pid="69/8028">Nicholas C. H. Vun</na><na>Nicholas Vun</na></co>
+<co c="0"><na f="v/Vun:Nicolas" pid="398/0577">Nicolas Vun</na></co>
+<co c="0"><na f="w/Wang_0001:Anran" pid="138/4209-1">Anran Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Chao" pid="188/7759">Chao Wang</na></co>
+<co c="0"><na f="w/Wang_0004:Di" pid="18/5410-4">Di Wang 0004</na></co>
+<co c="0"><na f="w/Wang_0014:Feng" pid="90/4225-14">Feng Wang 0014</na></co>
+<co c="0"><na f="w/Wang_0094:Hao" pid="181/2812-94">Hao Wang 0094</na></co>
+<co c="0"><na f="w/Wang_0001:Jindong" pid="19/2969-1">Jindong Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Jinglong" pid="305/0475">Jinglong Wang</na></co>
+<co c="0"><na f="w/Wang:Mingliang" pid="46/4129">Mingliang Wang</na></co>
+<co c="0"><na f="w/Wang_0008:Pan" pid="36/3184-8">Pan Wang 0008</na></co>
+<co c="0"><na f="w/Wang:Q=" pid="90/6314">Q. Wang</na></co>
+<co c="0"><na f="w/Wang:Shengwei" pid="96/2203">Shengwei Wang</na></co>
+<co c="0"><na f="w/Wang:Shipeng" pid="122/0054">Shipeng Wang</na></co>
+<co c="0"><na f="w/Wang:Shuangquan" pid="23/5003">Shuangquan Wang</na></co>
+<co c="0"><na f="w/Wang_0006:Tianyi" pid="88/8398-6">Tianyi Wang 0006</na></co>
+<co c="0"><na f="w/Wang:Yongjie" pid="157/9888">Yongjie Wang</na></co>
+<co c="0"><na f="w/Wang:Yongwei" pid="56/3082">Yongwei Wang</na></co>
+<co c="0"><na f="w/Wang_0108:Yu" pid="02/5889-108">Yu Wang 0108</na></co>
+<co c="0"><na f="w/Wang:Yuxi" pid="29/8340">Yuxi Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Z=_Jane" pid="13/3672-1">Z. Jane Wang 0001</na></co>
+<co c="0"><na f="w/Wen:Jing" pid="09/6686">Jing Wen</na></co>
+<co c="0"><na f="w/Weng:Jianshu" pid="98/392">Jianshu Weng</na></co>
+<co c="0"><na f="w/Win:Khin_Than" pid="13/1636">Khin Than Win</na></co>
+<co c="0"><na f="w/Wu:Pengcheng" pid="77/2927">Pengcheng Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Qiong" pid="54/4158-1">Qiong Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Xingyu" pid="143/0523">Xingyu Wu</na></co>
+<co c="0"><na f="w/Wu:Yaoxin" pid="192/4964">Yaoxin Wu</na></co>
+<co c="0"><na f="w/Wuerkaixi:Abudukelimu" pid="293/3368">Abudukelimu Wuerkaixi</na></co>
+<co c="0"><na f="w/Wuyts:Roel" pid="12/196">Roel Wuyts</na></co>
+<co c="0"><na f="x/Xiao:Jie" pid="15/3437">Jie Xiao</na></co>
+<co c="0"><na f="x/Xie:Xuansong" pid="234/8028">Xuansong Xie</na></co>
+<co c="0"><na f="x/Xing:Yongheng" pid="237/8120">Yongheng Xing</na></co>
+<co c="0"><na f="x/Xiong:Zhiwei" pid="54/6827">Zhiwei Xiong</na></co>
+<co c="0"><na f="x/Xu_0001:Yige" pid="224/1771-1">Yige Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Yonghui" pid="176/8839">Yonghui Xu</na></co>
+<co c="0"><na f="y/Yan:Kunda" pid="334/2843">Kunda Yan</na></co>
+<co c="0"><na f="y/Yan:Miao=Chun" pid="54/9809">Miao-Chun Yan</na></co>
+<co c="0"><na f="y/Yan:Zhongmin" pid="64/6062">Zhongmin Yan</na></co>
+<co c="0"><na f="y/Yang:Q=_Z=" pid="43/3481">Q. Z. Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Qizhen" pid="122/8939">Qizhen Yang</na></co>
+<co c="0"><na f="y/Yang:Xiao" pid="57/3385">Xiao Yang</na></co>
+<co c="0"><na f="y/Yang_0005:Xiaodong" pid="19/1551-5">Xiaodong Yang 0005</na></co>
+<co c="0"><na f="y/Yang:Yonghua" pid="37/7671">Yonghua Yang</na></co>
+<co c="0"><na f="y/Ye:Dayong" pid="95/4735">Dayong Ye</na></co>
+<co c="0"><na f="y/Yelland:Nicola" pid="26/798">Nicola Yelland</na></co>
+<co c="0"><na f="y/Yin:Feiyu" pid="327/1508">Feiyu Yin</na></co>
+<co c="0"><na f="y/Yin:Zunliang" pid="48/1726">Zunliang Yin</na></co>
+<co c="0"><na f="y/You:Jin" pid="137/0449">Jin You</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Hanchao" pid="69/9936">Hanchao Yu</na></co>
+<co c="0"><na f="y/Yu:Ling" pid="17/1050">Ling Yu</na></co>
+<co c="0"><na f="y/Yu:Xinjia" pid="151/3736">Xinjia Yu</na></co>
+<co c="0"><na f="y/Yu:Yingxue" pid="199/5600">Yingxue Yu</na></co>
+<co c="0"><na f="y/Yuan:Dazhong" pid="293/0528">Dazhong Yuan</na></co>
+<co c="0"><na f="y/Yue:Yu" pid="146/8072">Yu Yue</na></co>
+<co c="0"><na f="z/Zeng:Bixiao" pid="290/6947">Bixiao Zeng</na></co>
+<co c="0"><na f="z/Zeng:Zhiwei" pid="149/8306">Zhiwei Zeng</na></co>
+<co c="0"><na f="z/Zhang:Anting" pid="35/9936">Anting Zhang</na></co>
+<co c="0"><na f="z/Zhang:Bolin" pid="271/9582">Bolin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Changgong" pid="170/1654">Changgong Zhang</na></co>
+<co c="0"><na f="z/Zhang_0049:Hao" pid="55/2270-49">Hao Zhang 0049</na></co>
+<co c="0"><na f="z/Zhang:Honglei" pid="40/2812">Honglei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hui" pid="181/2846">Hui Zhang</na></co>
+<co c="0"><na f="z/Zhang:Huiguo" pid="68/6056">Huiguo Zhang</na></co>
+<co c="0"><na f="z/Zhang:Huiliang" pid="05/571">Huiliang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang_0199:Lei" pid="97/8704-199">Lei Zhang 0199</na></co>
+<co c="0"><na f="z/Zhang:Liang" pid="50/6759">Liang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lingzi" pid="22/9542">Lingzi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Minjie" pid="52/1742">Minjie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tong" pid="07/4227">Tong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiao" pid="49/4478">Xiao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiaoxiong" pid="174/8544">Xiaoxiong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yaming" pid="68/10186">Yaming Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yanchun" pid="32/2837">Yanchun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yanci" pid="30/929">Yanci Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Yinan" pid="19/6790-2">Yinan Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang_0002:Yingwei" pid="54/1591-2">Yingwei Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Yixin" pid="14/5888">Yixin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yunfan" pid="141/9087">Yunfan Zhang</na></co>
+<co c="0"><na f="z/Zhao:Guopeng" pid="88/636">Guopeng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Peilin" pid="84/8411">Peilin Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xuejiao" pid="161/1043">Xuejiao Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhongtang" pid="54/9924">Zhongtang Zhao</na></co>
+<co c="0"><na f="z/Zheng:Yongqing" pid="23/7137">Yongqing Zheng</na></co>
+<co c="0"><na f="z/Zhong:Haoming" pid="98/10074">Haoming Zhong</na></co>
+<co c="0"><na f="z/Zhou:Hongyu" pid="76/7825">Hongyu Zhou</na></co>
+<co c="0"><na f="z/Zhou_0002:Jianan" pid="296/2326-2">Jianan Zhou 0002</na></co>
+<co c="0"><na f="z/Zhou_0001:Ke" pid="78/2949-1">Ke Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou_0001:Wei" pid="69/5011-1">Wei Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou_0008:Xin" pid="05/3403-8">Xin Zhou 0008</na></co>
+<co c="0"><na f="z/Zhu:Fanglin" pid="337/4267">Fanglin Zhu</na></co>
+<co c="0"><na f="z/Zhu:Gaoxia" pid="151/4214">Gaoxia Zhu</na></co>
+<co c="0"><na f="z/Zhu:Zexuan" pid="17/4590">Zexuan Zhu</na></co>
+<co c="0"><na f="z/Zong:Xiaoning" pid="319/3469">Xiaoning Zong</na></co>
+<co c="0"><na f="z/Zou:Yan" pid="55/3266">Yan Zou</na></co>
+</coauthors>
+</dblpperson>
+

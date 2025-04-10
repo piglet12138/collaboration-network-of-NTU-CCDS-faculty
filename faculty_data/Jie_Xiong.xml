@@ -1,0 +1,2864 @@
+<?xml version="1.0"?>
+<dblpperson name="Jie Xiong 0001" pid="75/198-1" n="156">
+<person key="homepages/75/198-1" mdate="2025-02-04">
+<author pid="75/198-1">Jie Xiong 0001</author>
+<note type="affiliation">Nanyang Technological University, Singapore</note>
+<note type="affiliation" label="former">University of Massachusetts Amherst, College of Information and Computer Sciences, MA, USA</note>
+<note type="affiliation" label="former">Singapore Management University, Singapore</note>
+<note type="affiliation" label="PhD 2015">University College London, Department of Computer Science, UK</note>
+<url>https://jiexiong1.github.io/</url>
+<url>https://scholar.google.com/citations?user=GR9VzaMAAAAJ</url>
+<url>https://orcid.org/0000-0002-5396-4554</url>
+<url>https://www.wikidata.org/entity/Q130909695</url>
+</person>
+<homonyms n="8">
+<h f="x/Xiong:Jie"><person publtype="disambiguation" key="homepages/75/198" mdate="2018-04-19">
+<author pid="75/198">Jie Xiong</author>
+</person>
+</h>
+<h f="x/Xiong_0002:Jie"><person key="homepages/75/198-2" mdate="2018-04-20">
+<author pid="75/198-2">Jie Xiong 0002</author>
+<note type="affiliation">Appalacian State University Omaha, NE, USA</note>
+<note label="former" type="affiliation">University of Nebraska at Omaha, College of Information Science &#38; Technology, NE, USA</note>
+</person>
+</h>
+<h f="x/Xiong_0003:Jie"><person key="homepages/75/198-3" mdate="2018-04-20">
+<author pid="75/198-3">Jie Xiong 0003</author>
+<note type="affiliation">University of Electronic Science and Technology of China, School of Communication and Information Engineering, Chengdu, China</note>
+</person>
+</h>
+<h f="x/Xiong_0004:Jie"><person key="homepages/75/198-4" mdate="2023-07-06">
+<author pid="75/198-4">Jie Xiong 0004</author>
+<note type="affiliation">Southern University of Science and Technology, Department of Mathematics, Shenzhen, China</note>
+<note type="affiliation" label="2014 - 2017">University of Macau, Department of Mathematics, Macau</note>
+<note type="affiliation" label="until 2014">University of Tennessee at Knoxville, TN, USA</note>
+<note type="affiliation" label="PhD 1992">University of North Carolina at Chapel Hill, Department of Statistics, NC, USA</note>
+<url>https://orcid.org/0000-0001-5900-1284</url>
+<url>https://www.wikidata.org/entity/Q82871566</url>
+<url>https://d-nb.info/gnd/1169581161</url>
+</person>
+</h>
+<h f="x/Xiong_0005:Jie"><person key="homepages/75/198-5" mdate="2018-04-20">
+<author pid="75/198-5">Jie Xiong 0005</author>
+<note type="affiliation">National University of Singapore, Department of Industrial Systems Engineering and Management, Singapore</note>
+<url>https://orcid.org/0000-0002-6870-3322</url>
+</person>
+</h>
+<h f="x/Xiong_0006:Jie"><person key="homepages/75/198-6" mdate="2024-08-23">
+<author pid="75/198-6">Jie Xiong 0006</author>
+<note label="PhD 2015" type="affiliation">University of North Carolina, Chapel Hill, USA</note>
+</person>
+</h>
+<h f="x/Xiong_0007:Jie"><person key="homepages/75/198-7" mdate="2024-08-23">
+<author pid="75/198-7">Jie Xiong 0007</author>
+<note label="PhD 2010" type="affiliation">University of Illinois Urbana-Champaign, USA</note>
+</person>
+</h>
+<h f="x/Xiong_0008:Jie"><person key="homepages/75/198-8" mdate="2025-02-07">
+<author pid="75/198-8">Jie Xiong 0008</author>
+<note type="affiliation">Renmin University of China, School of Information, China</note>
+<url>https://orcid.org/0000-0003-1942-4551</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/imwut/SuZNWJWJZQX24" mdate="2024-04-01">
+<author orcid="0009-0009-1461-8139" pid="263/0629">Yuqi Su</author>
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5518-6557" pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0000-0001-9566-8107" pid="171/9762">Tianben Wang</author>
+<author orcid="0000-0003-3683-4034" pid="75/1099">Beihong Jin</author>
+<author orcid="0000-0002-9913-8119" pid="95/6543">Zhi Wang</author>
+<author orcid="0009-0004-3675-4610" pid="244/4443">Yalan Jiang</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<author orcid="0009-0003-8131-7439" pid="54/4031">Lili Qiu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Embracing Distributed Acoustic Sensing in Car Cabin for Children Presence Detection.</title>
+<pages>16:1-16:28</pages>
+<year>2024</year>
+<month>March</month>
+<volume>8</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3643548</ee>
+<url>db/journals/imwut/imwut8.html#SuZNWJWJZQX24</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangWCWTZXW24" mdate="2025-01-19">
+<author orcid="0000-0002-2266-8584" pid="266/7352">Lupeng Zhang</author>
+<author orcid="0000-0002-5399-7313" pid="326/4282">Pingchuan Wang</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0009-0006-5960-808X" pid="216/3941">Jingwen Wei</author>
+<author orcid="0009-0000-4141-1699" pid="15/4658">Yu Tian</author>
+<author orcid="0009-0009-5918-475X" pid="205/0387">Jingchi Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-1810-3019" pid="w/LeiWang5">Lei Wang 0005</author>
+<title>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction.</title>
+<pages>28:1-28:25</pages>
+<year>2024</year>
+<month>March</month>
+<volume>8</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3643557</ee>
+<ee>https://www.wikidata.org/entity/Q131126333</ee>
+<url>db/journals/imwut/imwut8.html#ZhangWCWTZXW24</url>
+</article>
+</r>
+<r><article key="journals/imwut/LiGXZWMYZ24" mdate="2024-06-18">
+<author orcid="0000-0002-3658-2263" pid="82/4081">Wenwei Li</author>
+<author orcid="0000-0003-2590-5511" pid="203/9193">Ruiyang Gao</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0009-0002-6269-838X" pid="355/8425">Jiarun Zhou</author>
+<author orcid="0000-0002-7627-8485" pid="07/8764">Leye Wang</author>
+<author orcid="0009-0003-0598-3368" pid="377/1449">Xingjian Mao</author>
+<author orcid="0000-0001-8513-5016" pid="205/5894">Enze Yi</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>WiFi-CSI Difference Paradigm: Achieving Efficient Doppler Speed Estimation for Passive Tracking.</title>
+<pages>63:1-63:29</pages>
+<year>2024</year>
+<month>May</month>
+<volume>8</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3659608</ee>
+<url>db/journals/imwut/imwut8.html#LiGXZWMYZ24</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChiLXSWWFL24" mdate="2025-03-03">
+<author orcid="0009-0002-9256-1958" pid="122/5325">Yang Chi</author>
+<author pid="24/8037-1">Chi Lin 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-2823-8251" pid="62/3689">Yu Sun</author>
+<author orcid="0000-0003-1810-3019" pid="w/LeiWang5">Lei Wang 0005</author>
+<author orcid="0000-0002-3929-3598" pid="51/1027">Guowei Wu</author>
+<author orcid="0000-0002-1011-607X" pid="87/3021-1">Xin Fan 0001</author>
+<author orcid="0000-0001-5997-2646" pid="17/6264">Zhongxuan Luo</author>
+<title>U-Flash: Improving Underwater Optical Communication by Scattering Effect.</title>
+<pages>196:1-196:31</pages>
+<year>2024</year>
+<month>November</month>
+<volume>8</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3699769</ee>
+<url>db/journals/imwut/imwut8.html#ChiLXSWWFL24</url>
+<stream>streams/journals/imwut</stream>
+</article>
+</r>
+<r><article key="journals/tmc/LinJXXWWZ24" mdate="2024-01-13">
+<author orcid="0000-0002-0302-5102" pid="24/8037-1">Chi Lin 0001</author>
+<author orcid="0000-0001-5393-266X" pid="332/2189">Chuanying Ji</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-1473-6006" pid="95/10658">Chaocan Xiang</author>
+<author orcid="0000-0003-1810-3019" pid="w/LeiWang5">Lei Wang 0005</author>
+<author orcid="0000-0002-3929-3598" pid="51/1027">Guowei Wu</author>
+<author orcid="0000-0003-3776-9799" pid="72/3527-8">Qiang Zhang 0008</author>
+<title>Wi-Rotate: An Instantaneous Angular Speed Measurement System Using WiFi Signals.</title>
+<pages>985-1000</pages>
+<year>2024</year>
+<month>January</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMC.2022.3223633</ee>
+<url>db/journals/tmc/tmc23.html#LinJXXWWZ24</url>
+</article>
+</r>
+<r><article key="journals/tmc/SunXFLWFC24" mdate="2025-01-19">
+<author orcid="0000-0001-8454-4010" pid="06/8386">Xue Sun</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7322-2320" pid="97/164">Chao Feng</author>
+<author orcid="0000-0003-2081-1313" pid="12/10840">Haoyu Li</author>
+<author orcid="0009-0003-3365-6305" pid="270/1708-3">Yuli Wu 0003</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<title>EarSSR: Silent Speech Recognition via Earphones.</title>
+<pages>8493-8507</pages>
+<year>2024</year>
+<month>August</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TMC.2024.3356719</ee>
+<ee>https://www.wikidata.org/entity/Q129632184</ee>
+<url>db/journals/tmc/tmc23.html#SunXFLWFC24</url>
+<stream>streams/journals/tmc</stream>
+</article>
+</r>
+<r><article key="journals/tmc/ZhengYXLM24" mdate="2024-11-06">
+<author orcid="0000-0001-7950-6773" pid="98/3341-2">Xiaolong Zheng 0002</author>
+<author orcid="0009-0006-6031-7626" pid="63/1587">Kun Yang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-5040-2468" pid="10/6178-1">Liang Liu 0001</author>
+<author orcid="0000-0002-7199-5047" pid="04/6217">Huadong Ma</author>
+<title>Pushing the Limits of WiFi Sensing With Low Transmission Rates.</title>
+<pages>10265-10279</pages>
+<year>2024</year>
+<month>November</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TMC.2024.3374046</ee>
+<url>db/journals/tmc/tmc23.html#ZhengYXLM24</url>
+<stream>streams/journals/tmc</stream>
+</article>
+</r>
+<r><inproceedings key="conf/mobicom/0001Z0C024" mdate="2024-06-18">
+<author orcid="0000-0002-7516-0055" pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-2004-1136" pid="06/10358">Weiyan Chen</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>MSense: Boosting Wireless Sensing Capability Under Motion Interference.</title>
+<pages>108-123</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3649350</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#0001Z0C024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/SunXFLZLFC24" mdate="2024-07-21">
+<author orcid="0000-0001-8454-4010" pid="06/8386">Xue Sun</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7322-2320" pid="97/164">Chao Feng</author>
+<author orcid="0009-0008-3800-7853" pid="92/3956">Xiaohui Li</author>
+<author orcid="0009-0009-5744-4909" pid="23/8208">Jiayi Zhang</author>
+<author orcid="0009-0005-7558-8835" pid="22/10427">Binghao Li</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<title>Gastag: A Gas Sensing Paradigm using Graphene-based Tags.</title>
+<pages>342-356</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3649365</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#SunXFLZLFC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/ChenYFGXS24" mdate="2025-01-19">
+<author orcid="0000-0003-4565-5548" pid="69/510-33">Tao Chen 0033</author>
+<author orcid="0000-0001-8933-2631" pid="13/9959-8">Yongjie Yang 0008</author>
+<author orcid="0000-0002-6368-9250" pid="197/0141">Xiaoran Fan</author>
+<author orcid="0000-0002-8655-8130" pid="188/8787">Xiuzhen Guo</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-1153-7087" pid="91/10470">Longfei Shangguan</author>
+<title>Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones.</title>
+<pages>357-372</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3649366</ee>
+<ee>https://www.wikidata.org/entity/Q131009279</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#ChenYFGXS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/CuiXWX24" mdate="2024-07-26">
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0001-8484-0362" pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>EVLeSen: In-Vehicle Sensing with EV-Leaked Signal.</title>
+<pages>679-693</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3649389</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#CuiXWX24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/DongCWQ0024" mdate="2025-04-01">
+<author orcid="0000-0002-5984-9194" pid="218/4947">Huixin Dong</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author pid="46/2005">Ning Wang</author>
+<author orcid="0009-0003-8131-7439" pid="54/4031">Lili Qiu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="35/7092-50">Wei Wang 0050</author>
+<title>GPSense: Passive Sensing with Pervasive GPS Signals.</title>
+<pages>1000-1014</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3690674</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#DongCWQ0024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/ZhouYGQ024" mdate="2025-04-01">
+<author orcid="0000-0001-7339-9006" pid="63/778-1">Hao Zhou 0001</author>
+<author pid="279/2856">Kuang Yuan</author>
+<author orcid="0000-0001-5325-5013" pid="116/0691">Mahanth Gowda</author>
+<author orcid="0009-0003-8131-7439" pid="54/4031">Lili Qiu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Rethinking Orientation Estimation with Smartphone-equipped Ultra-wideband Chips.</title>
+<pages>1045-1059</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3690677</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#ZhouYGQ024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/0001W0LW24" mdate="2025-04-01">
+<author pid="24/8037-1">Chi Lin 0001</author>
+<author pid="257/1645">Zhaohe Wang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="137/0725">Fengqi Li</author>
+<author pid="51/1027">Guowei Wu</author>
+<title>Fine-grained Textile Moisture Sensing with Commodity UWB.</title>
+<pages>1074-1088</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3690679</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#0001W0LW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/0001L0WWW0L24" mdate="2025-04-01">
+<author pid="24/8037-1">Chi Lin 0001</author>
+<author orcid="0009-0007-7888-276X" pid="80/7557">Jianan Lin</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="58/10186">Qiwei Wang</author>
+<author pid="w/LeiWang5">Lei Wang 0005</author>
+<author pid="51/1027">Guowei Wu</author>
+<author pid="87/3021-1">Xin Fan 0001</author>
+<author orcid="0000-0001-5997-2646" pid="17/6264">Zhongxuan Luo</author>
+<title>UWBeacon: Lighting up Centimeter-Level Underwater Positioning.</title>
+<pages>1222-1236</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3690689</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#0001L0WWW0L24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/0001XZ0CJ024" mdate="2025-04-01">
+<author orcid="0000-0002-7516-0055" pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="128/8238">Xinyu Xue</author>
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-2004-1136" pid="06/10358">Weiyan Chen</author>
+<author orcid="0000-0003-1457-1800" pid="10/2011">Badii Jouaber</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Robust Respiration Monitoring Under Body Motion Interference.</title>
+<pages>1713-1715</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3698835</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#0001XZ0CJ024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WangDCQ0024" mdate="2025-04-01">
+<author pid="46/2005">Ning Wang</author>
+<author orcid="0000-0002-5984-9194" pid="218/4947">Huixin Dong</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0009-0003-8131-7439" pid="54/4031">Lili Qiu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="35/7092-50">Wei Wang 0050</author>
+<title>Real-time Respiration Sensing with Pervasive GPS Signals.</title>
+<pages>1716-1718</pages>
+<year>2024</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3636534.3698836</ee>
+<crossref>conf/mobicom/2024</crossref>
+<url>db/conf/mobicom/mobicom2024.html#WangDCQ0024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/Chen0XHWLXL24" mdate="2025-01-19">
+<author orcid="0009-0003-0396-3259" pid="23/7930">Siyu Chen</author>
+<author orcid="0000-0001-7372-2539" pid="25/4108-1">Hongbo Jiang 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-7560-7913" pid="302/8256">Jingyang Hu</author>
+<author orcid="0009-0005-8431-5388" pid="97/8711">Penghao Wang</author>
+<author orcid="0000-0001-7363-1987" pid="15/5923-8">Chao Liu 0008</author>
+<author orcid="0000-0001-5645-160X" pid="18/7081">Zhu Xiao</author>
+<author orcid="0000-0003-2955-750X" pid="50/3402-1">Bo Li 0001</author>
+<title>BeamCount: Indoor Crowd Counting Using Wi-Fi Beamforming Feedback Information.</title>
+<pages>1-10</pages>
+<year>2024</year>
+<booktitle>MobiHoc</booktitle>
+<ee>https://doi.org/10.1145/3641512.3686361</ee>
+<ee>https://www.wikidata.org/entity/Q131129446</ee>
+<crossref>conf/mobihoc/2024</crossref>
+<url>db/conf/mobihoc/mobihoc2024.html#Chen0XHWLXL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/LiangWLXG24" mdate="2024-10-24">
+<author orcid="0000-0002-8041-2798" pid="226/5607-2">Xiaoxuan Liang 0002</author>
+<author orcid="0009-0002-5135-8515" pid="305/7543">Zhaolong Wei</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7468-0569" pid="59/6837">Jeremy Gummeson</author>
+<title>SONDAR: Size and Shape Measurements Using Acoustic Imaging.</title>
+<pages>361-370</pages>
+<year>2024</year>
+<booktitle>MobiHoc</booktitle>
+<ee>https://doi.org/10.1145/3641512.3686359</ee>
+<crossref>conf/mobihoc/2024</crossref>
+<url>db/conf/mobihoc/mobihoc2024.html#LiangWLXG24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/HeXHFYWLC24" mdate="2024-08-14">
+<author orcid="0000-0003-1856-6347" pid="32/4280">Juan He</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0009-0009-5841-2079" pid="377/0409">Weihang Hu</author>
+<author orcid="0000-0002-7322-2320" pid="97/164">Chao Feng</author>
+<author orcid="0009-0004-5291-9016" pid="377/0596">Enjie Yao</author>
+<author orcid="0000-0001-9632-2749" pid="13/2832">Xiaojing Wang</author>
+<author orcid="0000-0002-0243-5812" pid="10/2639-2">Chen Liu 0002</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<title>CW-AcousLen: A Configurable Wideband Acoustic Metasurface.</title>
+<pages>29-41</pages>
+<year>2024</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3643832.3661882</ee>
+<crossref>conf/mobisys/2024</crossref>
+<url>db/conf/mobisys/mobisys2024.html#HeXHFYWLC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/WangFK0YJFXL24" mdate="2024-08-13">
+<author orcid="0009-0006-4330-7098" pid="349/5509">Juexing Wang</author>
+<author orcid="0000-0003-2004-7191" pid="246/2023">Yuda Feng</author>
+<author orcid="0009-0008-7390-5616" pid="377/0534">Gouree Kumbhar</author>
+<author orcid="0000-0002-9353-9042" pid="187/5901">Guangjing Wang 0001</author>
+<author orcid="0000-0001-6272-7668" pid="86/10809">Qiben Yan</author>
+<author orcid="0000-0003-4825-4803" pid="377/0717">Qingxu Jin</author>
+<author orcid="0000-0002-5123-7433" pid="377/0349">Robert C. Ferrier</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-0808-2285" pid="133/6667">Tianxing Li 0001</author>
+<title>SoilCares: Towards Low-cost Soil Macronutrients and Moisture Monitoring Using RF-VNIR Sensing.</title>
+<pages>196-209</pages>
+<year>2024</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3643832.3661868</ee>
+<crossref>conf/mobisys/2024</crossref>
+<url>db/conf/mobisys/mobisys2024.html#WangFK0YJFXL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/LiSW0CX24" mdate="2024-04-19">
+<author pid="133/3737">Liyao Li</author>
+<author pid="373/3779">Bozhao Shang</author>
+<author pid="32/5387">Yun Wu</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="167/5888">Yaxiong Xie</author>
+<title>Cyclops: A Nanomaterial-based, Battery-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens.</title>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/li-liyao</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#LiSW0CX24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/YiW0Z0L024" mdate="2024-10-16">
+<author pid="205/5894">Enze Yi</author>
+<author pid="19/5635-7">Dan Wu 0007</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author pid="82/4081">Wenwei Li</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>BFMSense: WiFi Sensing Using Beamforming Feedback Matrix.</title>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/yi</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#YiW0Z0L024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/WangW00ZYYY024" mdate="2025-01-19">
+<author orcid="0000-0001-9353-3620" pid="43/2614">Xuanzhi Wang</author>
+<author orcid="0000-0002-7905-6511" pid="233/4780">Junzhe Wang</author>
+<author orcid="0000-0002-5518-6557" pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0001-8513-5016" pid="205/5894">Enze Yi</author>
+<author orcid="0009-0008-7092-7502" pid="192/7993">Anlan Yu</author>
+<author orcid="0000-0002-2153-3098" pid="319/9679">Zhiyun Yao</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Wi2DMeasure: WiFi-based 2D Object Size Measurement.</title>
+<pages>253-266</pages>
+<year>2024</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3666025.3699336</ee>
+<ee>https://www.wikidata.org/entity/Q131122720</ee>
+<crossref>conf/sensys/2024</crossref>
+<url>db/conf/sensys/sensys2024.html#WangW00ZYYY024</url>
+</inproceedings>
+</r>
+<r><article key="journals/imwut/Wang0Y0YWL023" mdate="2023-07-21">
+<author orcid="0000-0001-9353-3620" pid="43/2614">Xuanzhi Wang</author>
+<author orcid="0000-0002-5518-6557" pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0009-0008-7092-7502" pid="192/7993">Anlan Yu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-2153-3098" pid="319/9679">Zhiyun Yao</author>
+<author orcid="0000-0002-7905-6511" pid="233/4780">Junzhe Wang</author>
+<author orcid="0000-0002-3658-2263" pid="82/4081">Wenwei Li</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>WiMeasure: Millimeter-level Object Size Measurement with Commodity WiFi Devices.</title>
+<pages>79:1-79:26</pages>
+<year>2023</year>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3596250</ee>
+<url>db/journals/imwut/imwut7.html#Wang0Y0YWL023</url>
+</article>
+</r>
+<r><article key="journals/imwut/WeiXLYPD23" mdate="2025-01-19">
+<author orcid="0000-0002-6606-3392" pid="222/0202">Yuheng Wei</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-4423-459X" pid="93/4010-6">Hui Liu 0006</author>
+<author orcid="0009-0008-5244-0514" pid="57/11129">Yingtao Yu</author>
+<author orcid="0009-0009-8014-1295" pid="338/8763">Jiangtao Pan</author>
+<author orcid="0000-0001-8105-3224" pid="29/6599">Junzhao Du</author>
+<title>AdaStreamLite: Environment-adaptive Streaming Speech Recognition on Mobile Devices.</title>
+<pages>187:1-187:29</pages>
+<year>2023</year>
+<month>December</month>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3631460</ee>
+<ee>https://www.wikidata.org/entity/Q130145112</ee>
+<url>db/journals/imwut/imwut7.html#WeiXLYPD23</url>
+</article>
+</r>
+<r><article key="journals/imwut/XieCGX23" mdate="2024-02-29">
+<author orcid="0000-0001-8484-0362" pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0003-2762-9194" pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Wall Matters: Rethinking the Effect of Wall for Wireless Sensing.</title>
+<pages>190:1-190:22</pages>
+<year>2023</year>
+<month>December</month>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3631417</ee>
+<url>db/journals/imwut/imwut7.html#XieCGX23</url>
+</article>
+</r>
+<r><article key="journals/imwut/YiZXNYZ23" mdate="2024-02-29">
+<author orcid="0000-0001-8513-5016" pid="205/5894">Enze Yi</author>
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-5518-6557" pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0000-0002-2153-3098" pid="319/9679">Zhiyun Yao</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Enabling WiFi Sensing on New-generation WiFi Cards.</title>
+<pages>205:1-205:26</pages>
+<year>2023</year>
+<month>December</month>
+<volume>7</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3633807</ee>
+<url>db/journals/imwut/imwut7.html#YiZXNYZ23</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/CuiWX23" mdate="2023-11-21">
+<author pid="230/6300">Minhao Cui</author>
+<author pid="97/6505-7">Qing Wang 0007</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<title>Bracelet +: Harvesting Leaked RF Energy in VLC with Body Antenna.</title>
+<pages>23-26</pages>
+<year>2023</year>
+<month>September</month>
+<volume>27</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3631588.3631596</ee>
+<url>db/journals/sigmobile/sigmobile27.html#CuiWX23</url>
+</article>
+</r>
+<r><article key="journals/tmc/ChenCZLXW23" mdate="2024-07-10">
+<author orcid="0000-0002-3215-2696" pid="06/4240-15">Zhe Chen 0015</author>
+<author orcid="0000-0003-1995-4739" pid="98/6343-1">Chao Cai 0001</author>
+<author orcid="0000-0002-2826-6498" pid="205/2918">Tianyue Zheng</author>
+<author orcid="0000-0002-7036-5158" pid="42/2501-1">Jun Luo 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.</title>
+<pages>487-499</pages>
+<year>2023</year>
+<volume>22</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMC.2021.3073969</ee>
+<url>db/journals/tmc/tmc22.html#ChenCZLXW23</url>
+</article>
+</r>
+<r><article key="journals/ton/ChenCXLLWTWFC23" mdate="2023-04-29">
+<author orcid="0000-0002-6630-0976" pid="92/169">Lili Chen</author>
+<author orcid="0000-0001-8253-2470" pid="181/2839">Kai Chen</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-2623-0608" pid="75/6627">Ke Li</author>
+<author orcid="0000-0001-5935-125X" pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0003-4885-2600" pid="137/0486">Fuwei Wang</author>
+<author orcid="0000-0002-4333-2334" pid="38/7487">Zhanyong Tang</author>
+<author orcid="0000-0001-6157-0662" pid="w/ZhengWang1">Zheng Wang 0001</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<title>Toward Wide-Area Contactless Wireless Sensing.</title>
+<pages>590-605</pages>
+<year>2023</year>
+<month>April</month>
+<volume>31</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNET.2022.3196744</ee>
+<url>db/journals/ton/ton31.html#ChenCXLLWTWFC23</url>
+</article>
+</r>
+<r><article key="journals/tosn/ShangYXFL23" mdate="2025-01-19">
+<author orcid="0000-0002-5495-8869" pid="11/7732">Fei Shang</author>
+<author orcid="0000-0003-1057-2793" pid="79/1482">Panlong Yang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-3969-9472" pid="254/5159">Yuanhao Feng</author>
+<author orcid="0000-0002-6070-6625" pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>Tamera: Contactless Commodity Tracking, Material and Shopping Behavior Recognition Using COTS RFIDs.</title>
+<pages>43:1-43:24</pages>
+<year>2023</year>
+<month>May</month>
+<volume>19</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3563777</ee>
+<ee>https://www.wikidata.org/entity/Q130993002</ee>
+<url>db/journals/tosn/tosn19.html#ShangYXFL23</url>
+</article>
+</r>
+<r><article key="journals/tosn/CaoLJWCX23" mdate="2023-08-31">
+<author orcid="0000-0002-0957-8576" pid="273/7833">Hangcheng Cao</author>
+<author orcid="0000-0002-8268-2951" pid="141/1957">Daibo Liu</author>
+<author orcid="0000-0001-7372-2539" pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="254/0867">Ruize Wang</author>
+<author orcid="0000-0002-3215-2696" pid="06/4240-15">Zhe Chen 0015</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title><i>LIPAuth</i>: Hand-dependent Light Intensity Patterns for Resilient User Authentication.</title>
+<pages>64:1-64:29</pages>
+<year>2023</year>
+<month>August</month>
+<volume>19</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3572909</ee>
+<url>db/journals/tosn/tosn19.html#CaoLJWCX23</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobicom/GaoCLXH023" mdate="2023-10-31">
+<author orcid="0000-0002-1075-0564" pid="71/4173">Ming Gao</author>
+<author orcid="0000-0003-3041-4610" pid="310/0746">Yike Chen</author>
+<author orcid="0000-0002-9667-360X" pid="33/3862">Yajie Liu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-5064-1955" pid="96/6606">Jinsong Han</author>
+<author orcid="0000-0003-3441-6277" pid="20/6179-1">Kui Ren 0001</author>
+<title>Cancelling Speech Signals for Speech Privacy Protection against Microphone Eavesdropping.</title>
+<pages>36:1-36:16</pages>
+<year>2023</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3570361.3592502</ee>
+<crossref>conf/mobicom/2023</crossref>
+<url>db/conf/mobicom/mobicom2023.html#GaoCLXH023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/ZhangJL00JS023" mdate="2025-01-19">
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0003-3683-4034" pid="75/1099">Beihong Jin</author>
+<author orcid="0000-0002-8524-6047" pid="338/6230">Zitong Lan</author>
+<author orcid="0000-0002-7516-0055" pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<author orcid="0000-0002-8036-1062" pid="358/8918">Yuechun Jiao</author>
+<author orcid="0000-0002-6149-5161" pid="11/572">Meng Shi</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Quantum Wireless Sensing: Principle, Design and Implementation.</title>
+<pages>44:1-44:15</pages>
+<year>2023</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3570361.3613258</ee>
+<ee>https://www.wikidata.org/entity/Q130909696</ee>
+<crossref>conf/mobicom/2023</crossref>
+<url>db/conf/mobicom/mobicom2023.html#ZhangJL00JS023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/CaoLL023" mdate="2023-10-27">
+<author orcid="0000-0003-3062-8475" pid="331/1916">Shirui Cao</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0001-5935-125X" pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones.</title>
+<pages>56:1-56:16</pages>
+<year>2023</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3570361.3613270</ee>
+<crossref>conf/mobicom/2023</crossref>
+<url>db/conf/mobicom/mobicom2023.html#CaoLL023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/CuiX0023" mdate="2023-10-27">
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0001-8484-0362" pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline.</title>
+<pages>58:1-58:15</pages>
+<year>2023</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3570361.3613272</ee>
+<crossref>conf/mobicom/2023</crossref>
+<url>db/conf/mobicom/mobicom2023.html#CuiX0023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/MirCG00G23" mdate="2023-10-27">
+<author orcid="0000-0002-2048-7720" pid="266/2341">Muhammad Sarmad Mir</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0002-6969-793X" pid="175/2837">Borja Genov&#233;s Guzm&#225;n</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-3136-4176" pid="07/1247">Domenico Giustiniano</author>
+<title>LeakageScatter: Backscattering LiFi-leaked RF Signals.</title>
+<pages>290-299</pages>
+<year>2023</year>
+<booktitle>MobiHoc</booktitle>
+<ee>https://doi.org/10.1145/3565287.3610262</ee>
+<crossref>conf/mobihoc/2023</crossref>
+<url>db/conf/mobihoc/mobihoc2023.html#MirCG00G23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/XieCGC023" mdate="2023-07-07">
+<author orcid="0000-0001-8484-0362" pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-1913-846X" pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0003-2762-9194" pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author orcid="0000-0003-4370-1109" pid="21/5405">Xiangru Chen</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Boosting the Long Range Sensing Potential of LoRa.</title>
+<pages>177-190</pages>
+<year>2023</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3581791.3596847</ee>
+<crossref>conf/mobisys/2023</crossref>
+<url>db/conf/mobisys/mobisys2023.html#XieCGC023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/YeXW23" mdate="2023-07-07">
+<author orcid="0000-0001-7306-5743" pid="230/2591">Hanting Ye</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<title>When VLC Meets Under-Screen Camera.</title>
+<pages>343-355</pages>
+<year>2023</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3581791.3596855</ee>
+<crossref>conf/mobisys/2023</crossref>
+<url>db/conf/mobisys/mobisys2023.html#YeXW23</url>
+</inproceedings>
+</r>
+<r><article key="journals/imwut/LiLLX22" mdate="2025-04-01">
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0002-4127-9576" pid="32/5050-4">Jialin Liu 0004</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals.</title>
+<pages>21:1-21:27</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3517253</ee>
+<url>db/journals/imwut/imwut6.html#LiLLX22</url>
+</article>
+</r>
+<r><article key="journals/imwut/WangNXQYLZ22" mdate="2025-04-01">
+<author pid="43/2614">Xuanzhi Wang</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="320/0062">Bochong Qian</author>
+<author pid="319/9679">Zhiyun Yao</author>
+<author pid="320/0359">Tairong Lou</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing.</title>
+<pages>32:1-32:25</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3517237</ee>
+<url>db/journals/imwut/imwut6.html#WangNXQYLZ22</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChangZXMJZ22" mdate="2025-04-01">
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Sensor-free Soil Moisture Sensing Using LoRa Signals.</title>
+<pages>45:1-45:27</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3534608</ee>
+<url>db/journals/imwut/imwut6.html#ChangZXMJZ22</url>
+</article>
+</r>
+<r><article key="journals/imwut/LiuLWZX22" mdate="2025-04-01">
+<author pid="32/5050-4">Jialin Liu 0004</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author pid="w/LeiWang5">Lei Wang 0005</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Enabling Contact-free Acoustic Sensing under Device Motion.</title>
+<pages>128:1-128:27</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3550329</ee>
+<url>db/journals/imwut/imwut6.html#LiuLWZX22</url>
+</article>
+</r>
+<r><article key="journals/imwut/SunXFDWFC22" mdate="2023-01-31">
+<author orcid="0000-0001-8454-4010" pid="06/8386">Xue Sun</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7322-2320" pid="97/164">Chao Feng</author>
+<author orcid="0000-0002-9040-8864" pid="338/6292">Wenwen Deng</author>
+<author orcid="0000-0003-4520-4675" pid="260/3379">Xudong Wei</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<title>Earmonitor: In-ear Motion-resilient Acoustic Sensing Using Commodity Earphones.</title>
+<pages>182:1-182:22</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3569472</ee>
+<url>db/journals/imwut/imwut6.html#SunXFDWFC22</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangCXMNZJZ22" mdate="2023-02-07">
+<author orcid="0000-0002-2529-8021" pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-7516-0055" pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author orcid="0000-0002-0126-6324" pid="208/0028">Jiazhi Ni</author>
+<author orcid="0000-0002-0237-5100" pid="31/966-6">Wenbo Zhang 0006</author>
+<author orcid="0000-0003-3683-4034" pid="75/1099">Beihong Jin</author>
+<author orcid="0000-0002-6608-1267" pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing.</title>
+<pages>194:1-194:27</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3569487</ee>
+<url>db/journals/imwut/imwut6.html#ZhangCXMNZJZ22</url>
+</article>
+</r>
+<r><article key="journals/imwut/LiuWXLGLW22" mdate="2024-12-02">
+<author orcid="0000-0002-9149-8136" pid="72/3797">Xinyang Liu</author>
+<author orcid="0000-0003-1810-3019" pid="w/LeiWang5">Lei Wang 0005</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-0302-5102" pid="24/8037-1">Chi Lin 0001</author>
+<author orcid="0000-0003-1269-0902" pid="299/8839">Xinhua Gao</author>
+<author orcid="0000-0002-4769-3647" pid="180/4538">Jiale Li</author>
+<author orcid="0000-0001-8080-7514" pid="25/4764-12">Yibo Wang 0012</author>
+<title>UQRCom: Underwater Wireless Communication Based on QR Code.</title>
+<pages>210:1-210:22</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3571588</ee>
+<url>db/journals/imwut/imwut6.html#LiuWXLGLW22</url>
+</article>
+</r>
+<r><article key="journals/iotj/YinYXLCN22" mdate="2022-01-21">
+<author orcid="0000-0002-3296-4256" pid="166/9147">Yuqing Yin</author>
+<author orcid="0000-0001-9832-1272" pid="63/1534-11">Xu Yang 0011</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-5935-125X" pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-6595-1451" pid="40/993">Pengpeng Chen</author>
+<author orcid="0000-0003-1198-0158" pid="63/691">Qiang Niu</author>
+<title>Ubiquitous Smartphone-Based Respiration Sensing With Wi-Fi Signal.</title>
+<pages>1479-1490</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JIOT.2021.3088338</ee>
+<url>db/journals/iotj/iotj9.html#YinYXLCN22</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/FanSRZXMH22" mdate="2022-11-17">
+<author pid="197/0141">Xiaoran Fan</author>
+<author pid="91/10470">Longfei Shangguan</author>
+<author pid="195/8372">Siddharth Rupavatharam</author>
+<author pid="44/2799">Yanyong Zhang</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="80/7673">Yunfei Ma</author>
+<author pid="26/1455">Richard E. Howard</author>
+<title>A New Design Paradigm for Enabling Smart Headphonse.</title>
+<pages>27-33</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3568113.3568122</ee>
+<url>db/journals/sigmobile/sigmobile26.html#FanSRZXMH22</url>
+</article>
+</r>
+<r><article key="journals/tosn/YanYXL22" mdate="2025-01-19">
+<author orcid="0000-0003-2068-1985" pid="59/9033">Yubo Yan</author>
+<author orcid="0000-0003-1057-2793" pid="79/1482">Panlong Yang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-6070-6625" pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>OpenCarrier: Breaking the User Limit for Uplink MU-MIMO Transmissions With Coordinated APs.</title>
+<pages>19:1-19:21</pages>
+<year>2022</year>
+<volume>18</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3488382</ee>
+<ee>https://www.wikidata.org/entity/Q130975652</ee>
+<url>db/journals/tosn/tosn18.html#YanYXL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/hotnets/ChenLCX22" mdate="2025-04-01">
+<author pid="21/5405">Xiangru Chen</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author pid="80/1641">Yiran Chen 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Boosting the sensing granularity of acoustic signals by exploiting hardware non-linearity.</title>
+<pages>53-59</pages>
+<year>2022</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/3563766.3564091</ee>
+<crossref>conf/hotnets/2022</crossref>
+<url>db/conf/hotnets/hotnets2022.html#ChenLCX22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipsn/GaoLLLXWL022" mdate="2025-04-01">
+<author pid="142/3312">Zhihui Gao</author>
+<author pid="33/2805-5">Ang Li 0005</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0002-4127-9576" pid="32/5050-4">Jialin Liu 0004</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="13/2692">Bing Li</author>
+<author pid="80/1641">Yiran Chen 0001</author>
+<title>MOM: Microphone based 3D Orientation Measurement.</title>
+<pages>132-144</pages>
+<year>2022</year>
+<booktitle>IPSN</booktitle>
+<ee>https://doi.org/10.1109/IPSN54338.2022.00018</ee>
+<crossref>conf/ipsn/2022</crossref>
+<url>db/conf/ipsn/ipsn2022.html#GaoLLLXWL022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/NiZ0HCMXWBLL22" mdate="2025-04-01">
+<author pid="208/0028">Jiazhi Ni</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="80/2732">Qiang Huang</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="172/5431">Binbin Xie</author>
+<author pid="171/6249">Pengsen Wang</author>
+<author pid="331/1914">Guangyu Bian</author>
+<author pid="09/1365">Xin Li</author>
+<author pid="52/5716">Chang Liu</author>
+<title>Experience: pushing indoor localization from laboratory to the wild.</title>
+<pages>147-157</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3560546</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#NiZ0HCMXWBLL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/Zhang0CM022" mdate="2025-04-01">
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Mobi<sup>2</sup>Sense: empowering wireless sensing with mobility.</title>
+<pages>268-281</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3560518</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#Zhang0CM022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/0031CL022" mdate="2025-04-01">
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0003-3062-8475" pid="331/1916">Shirui Cao</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Experience: practical problems for acoustic sensing.</title>
+<pages>381-390</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3560527</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#0031CL022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LiXXHZWWFC22" mdate="2025-04-01">
+<author pid="133/3737">Liyao Li</author>
+<author orcid="0000-0003-4258-6655" pid="167/5888">Yaxiong Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="331/1711">Ziyu Hou</author>
+<author pid="07/3902">Yingchun Zhang</author>
+<author pid="331/1804">Qing We</author>
+<author pid="137/0486">Fuwei Wang</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<title>SmartLens: sensing eye activities using zero-power contact lens.</title>
+<pages>473-486</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3560532</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#LiXXHZWWFC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/MaCZ0NJ022" mdate="2025-04-01">
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="208/0028">Jiazhi Ni</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing.</title>
+<pages>758-760</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3558745</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#MaCZ0NJ022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/MaCZ0J022" mdate="2025-04-01">
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Mobi<sup>2</sup>Sense: enabling wireless sensing under device motions.</title>
+<pages>766-768</pages>
+<year>2022</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3495243.3558748</ee>
+<crossref>conf/mobicom/2022</crossref>
+<url>db/conf/mobicom/mobicom2022.html#MaCZ0J022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/Yang0X0M22" mdate="2025-04-01">
+<author orcid="0009-0006-6031-7626" pid="63/1587">Kun Yang</author>
+<author pid="98/3341-2">Xiaolong Zheng 0002</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/6178-1">Liang Liu 0001</author>
+<author pid="04/6217">Huadong Ma</author>
+<title>WiImg: Pushing the Limit of WiFi Sensing with Low Transmission Rates.</title>
+<pages>1-9</pages>
+<year>2022</year>
+<booktitle>SECON</booktitle>
+<ee>https://doi.org/10.1109/SECON55815.2022.9918170</ee>
+<crossref>conf/secon/2022</crossref>
+<url>db/conf/secon/secon2022.html#Yang0X0M22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/CuiWX22" mdate="2025-04-01">
+<author pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna.</title>
+<pages>250-262</pages>
+<year>2022</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3560905.3568526</ee>
+<crossref>conf/sensys/2022</crossref>
+<url>db/conf/sensys/sensys2022.html#CuiWX22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/XieG022" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Embracing LoRa Sensing with Device Mobility.</title>
+<pages>349-361</pages>
+<year>2022</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3560905.3568524</ee>
+<crossref>conf/sensys/2022</crossref>
+<url>db/conf/sensys/sensys2022.html#XieG022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/FengXG022" mdate="2025-04-01">
+<author pid="246/2023">Yuda Feng</author>
+<author orcid="0000-0003-4258-6655" pid="167/5888">Yaxiong Xie</author>
+<author pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>LTE-Based Low-Cost and Low-Power Soil Moisture Sensing.</title>
+<pages>421-434</pages>
+<year>2022</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3560905.3568525</ee>
+<crossref>conf/sensys/2022</crossref>
+<url>db/conf/sensys/sensys2022.html#FengXG022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/LiLL022" mdate="2025-04-01">
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author pid="32/5050-4">Jialin Liu 0004</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Room-Scale Hand Gesture Recognition Using Smart Speakers.</title>
+<pages>462-475</pages>
+<year>2022</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3560905.3568528</ee>
+<crossref>conf/sensys/2022</crossref>
+<url>db/conf/sensys/sensys2022.html#LiLL022</url>
+</inproceedings>
+</r>
+<r><article key="journals/imwut/FengXCWWF21" mdate="2025-04-01">
+<author pid="97/164">Chao Feng</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="146/7897">Liqiong Chang</author>
+<author pid="137/0486">Fuwei Wang</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>RF-Identity: Non-Intrusive Person Identification Based on Commodity RFID Devices.</title>
+<pages>9:1-9:23</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3448101</ee>
+<url>db/journals/imwut/imwut5.html#FengXCWWF21</url>
+</article>
+</r>
+<r><article key="journals/imwut/LiuLWX21" mdate="2025-04-01">
+<author orcid="0000-0002-4127-9576" pid="32/5050-4">Jialin Liu 0004</author>
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author pid="w/LeiWang5">Lei Wang 0005</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>BlinkListener: &#34;Listen&#34; to Your Eye Blink Using Your Smartphone.</title>
+<pages>73:1-73:27</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3463521</ee>
+<url>db/journals/imwut/imwut5.html#LiuLWX21</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangCXZMNJZ21" mdate="2025-04-01">
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="40/6068-1">Rong Zheng 0001</author>
+<author orcid="0000-0002-7096-1531" pid="151/6862-2">Junqi Ma 0002</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Unlocking the Beamforming Potential of LoRa for Long-range Multi-target Respiration Sensing.</title>
+<pages>85:1-85:25</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3463526</ee>
+<url>db/journals/imwut/imwut5.html#ZhangCXZMNJZ21</url>
+</article>
+</r>
+<r><article key="journals/imwut/JiangHLXC21" mdate="2025-04-01">
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="302/8256">Jingyang Hu</author>
+<author pid="141/1957">Daibo Liu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="151/4555">Mingjie Cai</author>
+<title>DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar.</title>
+<pages>108:1-108:22</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3478084</ee>
+<url>db/journals/imwut/imwut5.html#JiangHLXC21</url>
+</article>
+</r>
+<r><article key="journals/imwut/XieYX21" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author pid="166/9147">Yuqing Yin</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Pushing the Limits of Long Range Wireless Sensing with LoRa.</title>
+<pages>134:1-134:21</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3478080</ee>
+<url>db/journals/imwut/imwut5.html#XieYX21</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZengL0LW021" mdate="2025-04-01">
+<author pid="228/5425">Youwei Zeng</author>
+<author pid="192/6688-1">Jinyi Liu 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="207/0246">Zhaopeng Liu</author>
+<author pid="19/5635-7">Dan Wu 0007</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Exploring Multiple Antennas for Long-range WiFi Sensing.</title>
+<pages>190:1-190:30</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3494979</ee>
+<url>db/journals/imwut/imwut5.html#ZengL0LW021</url>
+</article>
+</r>
+<r><article key="journals/pervasive/ZengWXZ21" mdate="2024-10-16">
+<author orcid="0000-0003-3369-6393" pid="228/5425">Youwei Zeng</author>
+<author orcid="0000-0003-1740-7440" pid="19/5635-7">Dan Wu 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Boosting WiFi Sensing Performance via CSI Ratio.</title>
+<pages>62-70</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MPRV.2020.3041024</ee>
+<ee>https://www.wikidata.org/entity/Q113310871</ee>
+<url>db/journals/pervasive/pervasive20.html#ZengWXZ21</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/ZhangCXZ21" mdate="2023-02-07">
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Exploring LoRa for Sensing.</title>
+<pages>33-37</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3486880.3486890</ee>
+<url>db/journals/sigmobile/sigmobile25.html#ZhangCXZ21</url>
+</article>
+</r>
+<r><article key="journals/tii/00010S021" mdate="2021-03-23">
+<author orcid="0000-0002-9059-330X" pid="l/JianxinLi">Jianxin Li 0001</author>
+<author orcid="0000-0003-3545-7863" pid="98/2912-1">Yong Xiang 0001</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos Sellis</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Guest Editorial: Advanced Complex Data Analytics for Smart City Industrial Environment.</title>
+<pages>4127-4130</pages>
+<year>2021</year>
+<volume>17</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TII.2020.3033855</ee>
+<url>db/journals/tii/tii17.html#00010S021</url>
+</article>
+</r>
+<r><article key="journals/tmc/ChenZWXXZLW21" mdate="2023-07-26">
+<author pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="167/7757">Guorong Zhu</author>
+<author orcid="0000-0002-0623-6378" pid="206/9022">Sulei Wang</author>
+<author orcid="0000-0003-4168-3998" pid="26/340">Yuedong Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-9807-2648" pid="97/4765-1">Jin Zhao 0001</author>
+<author orcid="0000-0002-7036-5158" pid="42/2501-1">Jun Luo 0001</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>$M^3$M3: Multipath Assisted Wi-Fi Localization with a Single Access Point.</title>
+<pages>588-602</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TMC.2019.2950315</ee>
+<url>db/journals/tmc/tmc20.html#ChenZWXXZLW21</url>
+</article>
+</r>
+<r><article key="journals/tmc/WangXCJBF21" mdate="2021-01-26">
+<author orcid="0000-0001-8026-9787" pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-1180-6806" pid="95/10521">Xiaojiang Chen</author>
+<author orcid="0000-0001-7372-2539" pid="25/4108-1">Hongbo Jiang 0001</author>
+<author orcid="0000-0001-6289-9902" pid="51/6146">Rajesh Krishna Balan</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Simultaneous Material Identification and Target Imaging with Commodity RFID Devices.</title>
+<pages>739-753</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TMC.2019.2946072</ee>
+<url>db/journals/tmc/tmc20.html#WangXCJBF21</url>
+</article>
+</r>
+<r><article key="journals/ton/ChenZWXXW21" mdate="2023-08-01">
+<author orcid="0000-0002-3215-2696" pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="98/5660-21">Xu Zhang 0021</author>
+<author orcid="0000-0002-0623-6378" pid="206/9022">Sulei Wang</author>
+<author orcid="0000-0003-4168-3998" pid="26/340">Yuedong Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>Enabling Practical Large-Scale MIMO in WLANs With Hybrid Beamforming.</title>
+<pages>1605-1619</pages>
+<year>2021</year>
+<volume>29</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNET.2021.3073160</ee>
+<url>db/journals/ton/ton29.html#ChenZWXXW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/CaoJLX21" mdate="2025-04-01">
+<author orcid="0000-0002-0957-8576" pid="273/7833">Hangcheng Cao</author>
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="141/1957">Daibo Liu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Evidence in Hand: Passive Vibration Response-based Continuous User Authentication.</title>
+<pages>1020-1030</pages>
+<year>2021</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS51616.2021.00101</ee>
+<crossref>conf/icdcs/2021</crossref>
+<url>db/conf/icdcs/icdcs2021.html#CaoJLX21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LinY0ZWWL21" mdate="2025-04-01">
+<author pid="24/8037-1">Chi Lin 0001</author>
+<author pid="270/4006">Yongda Yu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="12/7841">Yichuan Zhang</author>
+<author pid="w/LeiWang5">Lei Wang 0005</author>
+<author pid="51/1027">Guowei Wu</author>
+<author pid="17/6264">Zhongxuan Luo</author>
+<title>Shrimp: a robust underwater visible light communication system.</title>
+<pages>134-146</pages>
+<year>2021</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3447993.3448616</ee>
+<ee>https://www.wikidata.org/entity/Q131116645</ee>
+<crossref>conf/mobicom/2021</crossref>
+<url>db/conf/mobicom/mobicom2021.html#LinY0ZWWL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/FanSRZXMH21" mdate="2025-04-01">
+<author pid="197/0141">Xiaoran Fan</author>
+<author pid="91/10470">Longfei Shangguan</author>
+<author orcid="0000-0002-3019-1691" pid="195/8372">Siddharth Rupavatharam</author>
+<author pid="44/2799">Yanyong Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-1333-5323" pid="80/7673">Yunfei Ma</author>
+<author pid="26/1455">Richard E. Howard</author>
+<title>HeadFi: bringing intelligence to all headphones.</title>
+<pages>147-159</pages>
+<year>2021</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3447993.3448624</ee>
+<crossref>conf/mobicom/2021</crossref>
+<url>db/conf/mobicom/mobicom2021.html#FanSRZXMH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/CuiWX21" mdate="2025-04-01">
+<author pid="230/6300">Minhao Cui</author>
+<author pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>RadioInLight: doubling the data rate of VLC systems.</title>
+<pages>615-627</pages>
+<year>2021</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3447993.3483271</ee>
+<crossref>conf/mobicom/2021</crossref>
+<url>db/conf/mobicom/mobicom2021.html#CuiWX21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/FengXG021" mdate="2025-04-01">
+<author pid="246/2023">Yuda Feng</author>
+<author orcid="0000-0003-4258-6655" pid="167/5888">Yaxiong Xie</author>
+<author pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>LTE-based Pervasive Sensing Across Indoor and Outdoor.</title>
+<pages>138-151</pages>
+<year>2021</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3485730.3485943</ee>
+<crossref>conf/sensys/2021</crossref>
+<url>db/conf/sensys/sensys2021.html#FengXG021</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-14307" mdate="2024-07-10">
+<author pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="98/6343-1">Chao Cai 0001</author>
+<author pid="205/2918">Tianyue Zheng</author>
+<author pid="42/2501-1">Jun Luo 0001</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.</title>
+<year>2021</year>
+<volume>abs/2110.14307</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.14307</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-14307</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangCNXJLZ20" mdate="2025-04-01">
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="169/5440">Zhaoxin Chang 0001</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="11/808">Qin Lv</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Exploring LoRa for Long-range Through-wall Sensing.</title>
+<pages>68:1-68:27</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3397326</ee>
+<url>db/journals/imwut/imwut4.html#ZhangCNXJLZ20</url>
+</article>
+</r>
+<r><article key="journals/imwut/JiangCLXC20" mdate="2025-04-01">
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author orcid="0000-0002-0957-8576" pid="273/7833">Hangcheng Cao</author>
+<author pid="141/1957">Daibo Liu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="05/7548-1">Zhichao Cao 0001</author>
+<title>SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones.</title>
+<pages>84:1-84:24</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3411806</ee>
+<url>db/journals/imwut/imwut4.html#JiangCLXC20</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZengWXLLZ20" mdate="2025-04-01">
+<author pid="228/5425">Youwei Zeng</author>
+<author pid="19/5635-7">Dan Wu 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="192/6688-1">Jinyi Liu 0001</author>
+<author pid="207/0246">Zhaopeng Liu</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>MultiSense: Enabling Multi-person Respiration Sensing with Commodity WiFi.</title>
+<pages>102:1-102:29</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3411816</ee>
+<url>db/journals/imwut/imwut4.html#ZengWXLLZ20</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangWJXZ20" mdate="2025-04-01">
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-9913-8119" pid="95/6543">Zhi Wang</author>
+<author pid="75/1099">Beihong Jin</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Your Smart Speaker Can &#34;Hear&#34; Your Heartbeat!</title>
+<pages>161:1-161:24</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3432237</ee>
+<url>db/journals/imwut/imwut4.html#ZhangWJXZ20</url>
+</article>
+</r>
+<r><article key="journals/tmc/WuWXZ20" mdate="2025-01-19">
+<author orcid="0000-0001-8271-8152" pid="209/2684">Hongjia Wu</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-3544-9169" pid="z/MarcoZuniga">Marco Zuniga</author>
+<title>SmartVLC: Co-Designing Smart Lighting and Communication for Visible Light Networks.</title>
+<pages>1956-1970</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TMC.2019.2915220</ee>
+<ee>https://www.wikidata.org/entity/Q127909739</ee>
+<url>db/journals/tmc/tmc19.html#WuWXZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/LinXXM0W20" mdate="2025-04-01">
+<author pid="24/8037-1">Chi Lin 0001</author>
+<author pid="85/2516">Tingting Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="85/10856">Fenglong Ma</author>
+<author pid="w/LeiWang5">Lei Wang 0005</author>
+<author pid="51/1027">Guowei Wu</author>
+<title>WiWrite: An Accurate Device-Free Handwriting Recognition System with COTS WiFi.</title>
+<pages>700-709</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00079</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#LinXXM0W20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/YangF0C020" mdate="2025-04-01">
+<author pid="79/1482">Panlong Yang</author>
+<author pid="254/5159">Yuanhao Feng</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="96/4424">Ziyang Chen</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID.</title>
+<pages>297-306</pages>
+<year>2020</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM41043.2020.9155251</ee>
+<crossref>conf/infocom/2020</crossref>
+<url>db/conf/infocom/infocom2020.html#YangF0C020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ChenY0F020" mdate="2025-04-01">
+<author pid="96/4424">Ziyang Chen</author>
+<author pid="79/1482">Panlong Yang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="254/5159">Yuanhao Feng</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>TagRay: Contactless Sensing and Tracking of Mobile Objects using COTS RFID Devices.</title>
+<pages>307-316</pages>
+<year>2020</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM41043.2020.9155531</ee>
+<crossref>conf/infocom/2020</crossref>
+<url>db/conf/infocom/infocom2020.html#ChenY0F020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/FanSHZPXM020" mdate="2025-04-01">
+<author pid="197/0141">Xiaoran Fan</author>
+<author pid="91/10470">Longfei Shangguan</author>
+<author pid="26/1455">Richard E. Howard</author>
+<author pid="44/2799">Yanyong Zhang</author>
+<author pid="69/8002-2">Yao Peng 0002</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-1333-5323" pid="80/7673">Yunfei Ma</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>Towards flexible wireless charging for medical implants using distributed antenna system.</title>
+<pages>22:1-22:15</pages>
+<year>2020</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3372224.3380899</ee>
+<ee>https://www.wikidata.org/entity/Q130892041</ee>
+<crossref>conf/mobicom/2020</crossref>
+<url>db/conf/mobicom/mobicom2020.html#FanSHZPXM020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/CuiFW020" mdate="2025-04-01">
+<author pid="230/6300">Minhao Cui</author>
+<author pid="246/2023">Yuda Feng</author>
+<author pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Sniffing visible light communication through walls.</title>
+<pages>30:1-30:14</pages>
+<year>2020</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3372224.3419187</ee>
+<crossref>conf/mobicom/2020</crossref>
+<url>db/conf/mobicom/mobicom2020.html#CuiFW020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/Xie0CF20" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Exploring commodity RFID for contactless sub-millimeter vibration sensing.</title>
+<pages>15-27</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430771</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#Xie0CF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/Xie020" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Combating interference for long range LoRa sensing.</title>
+<pages>69-81</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430731</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#Xie020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/CaoY0YYZ020" mdate="2025-04-01">
+<author pid="272/5390">Gaoshuai Cao</author>
+<author pid="279/2856">Kuang Yuan</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="79/1482">Panlong Yang</author>
+<author pid="59/9033">Yubo Yan</author>
+<author pid="63/778-1">Hao Zhou 0001</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>EarphoneTrack: involving earphones into the ecosystem of acoustic motion tracking.</title>
+<pages>95-108</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430730</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#CaoY0YYZ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/0001LL020" mdate="2025-04-01">
+<author orcid="0000-0002-3144-5104" pid="47/4826-31">Dong Li 0031</author>
+<author orcid="0000-0002-4127-9576" pid="32/5050-4">Jialin Liu 0004</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>FM-track: pushing the limits of contactless multi-target tracking using acoustic signals.</title>
+<pages>150-163</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430780</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#0001LL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/CuiWX20" mdate="2025-04-01">
+<author pid="230/6300">Minhao Cui</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<title>Breaking the limitations of visible light communication through its side channel.</title>
+<pages>232-244</pages>
+<year>2020</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3384419.3430728</ee>
+<crossref>conf/sensys/2020</crossref>
+<url>db/conf/sensys/sensys2020.html#CuiWX20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-07644" mdate="2022-10-14">
+<author pid="197/0141">Xiaoran Fan</author>
+<author pid="91/10470">Longfei Shangguan</author>
+<author pid="26/1455">Richard E. Howard</author>
+<author pid="44/2799">Yanyong Zhang</author>
+<author pid="69/8002-2">Yao Peng 0002</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="80/7673">Yunfei Ma</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System.</title>
+<year>2020</year>
+<volume>abs/2001.07644</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.07644</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-07644</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChenYXZLXT19" mdate="2025-03-14">
+<author pid="21/6611">Mingshi Chen</author>
+<author pid="79/1482">Panlong Yang</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="140/1004">Maotian Zhang</author>
+<author pid="51/343-1">Youngki Lee 0001</author>
+<author pid="95/10658">Chaocan Xiang</author>
+<author pid="97/2447">Chang Tian</author>
+<title>Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition.</title>
+<pages>3:1-3:21</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3314390</ee>
+<ee>https://www.wikidata.org/entity/Q128124213</ee>
+<url>db/journals/imwut/imwut3.html#ChenYXZLXT19</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangNXJGJZ19" mdate="2024-12-04">
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="75/1099">Beihong Jin</author>
+<author orcid="0000-0002-1350-6639" pid="65/4916">Tao Gu 0001</author>
+<author pid="239/4567">Yuhang Jiang</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Towards a Diffraction-based Sensing Approach on Human Activity Recognition.</title>
+<pages>33:1-33:25</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3314420</ee>
+<url>db/journals/imwut/imwut3.html#ZhangNXJGJZ19</url>
+</article>
+</r>
+<r><article key="journals/imwut/Chen0CL0YF19" mdate="2020-09-01">
+<author pid="92/169">Lili Chen</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<author pid="31/1175">Tao Yan</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>LungTrack: Towards Contactless and Zero Dead-Zone Respiration Monitoring with Commodity RFIDs.</title>
+<pages>79:1-79:22</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3351237</ee>
+<url>db/journals/imwut/imwut3.html#Chen0CL0YF19</url>
+</article>
+</r>
+<r><article key="journals/imwut/000200FCF19" mdate="2020-09-01">
+<author pid="10/2639-2">Chen Liu 0002</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="20/8688-1">Lin Cai 0001</author>
+<author pid="62/670">Lin Feng</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Beyond Respiration: Contactless Sleep Sound-Activity Recognition Using RF Signals.</title>
+<pages>96:1-96:22</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3351254</ee>
+<url>db/journals/imwut/imwut3.html#000200FCF19</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZengW0YG019" mdate="2024-10-16">
+<author pid="228/5425">Youwei Zeng</author>
+<author pid="19/5635-7">Dan Wu 0007</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="205/5894">Enze Yi</author>
+<author orcid="0000-0003-2590-5511" pid="203/9193">Ruiyang Gao</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>FarSense: Pushing the Range Limit of WiFi-based Respiration Sensing with CSI Ratio of Two Antennas.</title>
+<pages>121:1-121:26</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3351279</ee>
+<url>db/journals/imwut/imwut3.html#ZengW0YG019</url>
+</article>
+</r>
+<r><article key="journals/internet/ChenCFFXWC19" mdate="2025-04-01">
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="92/169">Lili Chen</author>
+<author pid="97/164">Chao Feng</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-6157-0662" pid="w/ZhengWang1">Zheng Wang 0001</author>
+<author pid="91/2346-1">Yong Cui 0001</author>
+<title>Sensing Our World Using Wireless Signals.</title>
+<pages>38-45</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MIC.2019.2921640</ee>
+<ee>https://www.wikidata.org/entity/Q127480394</ee>
+<url>db/journals/internet/internet23.html#ChenCFFXWC19</url>
+</article>
+</r>
+<r><article key="journals/iotj/NiuZJXLZZ19" mdate="2020-06-18">
+<author orcid="0000-0002-5518-6557" pid="67/229-3">Kai Niu 0003</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="239/4567">Yuhang Jiang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="11/808">Qin Lv</author>
+<author orcid="0000-0003-3369-6393" pid="228/5425">Youwei Zeng</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>WiMorse: A Contactless Morse Code Text Input System Using Ambient WiFi Signals.</title>
+<pages>9993-10008</pages>
+<year>2019</year>
+<volume>6</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/JIOT.2019.2934904</ee>
+<url>db/journals/iotj/iotj6.html#NiuZJXLZZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/Feng0CWCFT19" mdate="2025-04-01">
+<author pid="97/164">Chao Feng</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="146/7897">Liqiong Chang</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<title>WiMi: Target Material Identification with Commodity Wi-Fi Devices.</title>
+<pages>700-710</pages>
+<year>2019</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2019.00075</ee>
+<crossref>conf/icdcs/2019</crossref>
+<url>db/conf/icdcs/icdcs2019.html#Feng0CWCFT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/MiZH0X0Y19" mdate="2025-04-01">
+<author pid="228/8183">Nanhuan Mi</author>
+<author pid="14/10138-1">Xiaoxue Zhang 0001</author>
+<author orcid="0000-0002-0125-4171" pid="69/1798">Xin He</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="94/3601">Mingjun Xiao</author>
+<author pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<author pid="79/1482">Panlong Yang</author>
+<title>CBMA: Coded-Backscatter Multiple Access.</title>
+<pages>799-809</pages>
+<year>2019</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2019.00084</ee>
+<crossref>conf/icdcs/2019</crossref>
+<url>db/conf/icdcs/icdcs2019.html#MiZH0X0Y19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/Xie0LJ19" mdate="2025-04-01">
+<author orcid="0000-0003-4258-6655" pid="167/5888">Yaxiong Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-6047-9709" pid="87/4982-1">Mo Li 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking.</title>
+<pages>8:1-8:16</pages>
+<year>2019</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3300061.3300133</ee>
+<crossref>conf/mobicom/2019</crossref>
+<url>db/conf/mobicom/mobicom2019.html#Xie0LJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/TranM0B19" mdate="2025-04-01">
+<author orcid="0000-0003-2002-4600" pid="13/9792">Vu H. Tran</author>
+<author orcid="0000-0003-1212-1769" pid="24/4570">Archan Misra</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="51/6146">Rajesh Krishna Balan</author>
+<title>WiWear: Wearable Sensing via Directional WiFi Energy Harvesting.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>PerCom</booktitle>
+<ee>https://doi.org/10.1109/PERCOM.2019.8767406</ee>
+<crossref>conf/percom/2019</crossref>
+<url>db/conf/percom/percom2019.html#TranM0B19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/Chen0CLCHFTW19" mdate="2025-04-01">
+<author pid="92/169">Lili Chen</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author pid="181/2839">Kai Chen</author>
+<author pid="252/3584">Dianhe Han</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<author orcid="0000-0001-6157-0662" pid="w/ZhengWang1">Zheng Wang 0001</author>
+<title>WideSee: towards wide-area contactless wireless sensing.</title>
+<pages>258-270</pages>
+<year>2019</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3356250.3360031</ee>
+<crossref>conf/sensys/2019</crossref>
+<url>db/conf/sensys/sensys2019.html#Chen0CLCHFTW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/Xie0CCLTF19" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="33/8356">Eugene Chai</author>
+<author pid="133/3737">Liyao Li</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Tagtag: material sensing with commodity RFID.</title>
+<pages>338-350</pages>
+<year>2019</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3356250.3360027</ee>
+<crossref>conf/sensys/2019</crossref>
+<url>db/conf/sensys/sensys2019.html#Xie0CCLTF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/ChenCHXLCTFWW19" mdate="2025-04-01">
+<author pid="181/2839">Kai Chen</author>
+<author pid="92/169">Lili Chen</author>
+<author pid="252/3584">Dianhe Han</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="35/11104">Sunghoon Ivan Lee</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author pid="137/0486">Fuwei Wang</author>
+<author orcid="0000-0001-6157-0662" pid="w/ZhengWang1">Zheng Wang 0001</author>
+<title>Towards wide-area contactless human sensing: poster abstract.</title>
+<pages>442-443</pages>
+<year>2019</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3356250.3361931</ee>
+<crossref>conf/sensys/2019</crossref>
+<url>db/conf/sensys/sensys2019.html#ChenCHXLCTFWW19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-03994" mdate="2024-10-16">
+<author pid="228/5425">Youwei Zeng</author>
+<author pid="19/5635-7">Dan Wu 0007</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="205/5894">Enze Yi</author>
+<author pid="203/9193">Ruiyang Gao</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>FarSense: Pushing the Range Limit of WiFi-based Respiration Sensing with CSI Ratio of Two Antennas.</title>
+<year>2019</year>
+<volume>abs/1907.03994</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.03994</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-03994</url>
+</article>
+</r>
+<r><article key="journals/computer/WangCFXJB18" mdate="2025-04-01">
+<author orcid="0000-0001-8026-9787" pid="65/4124-3">Ju Wang 0003</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="51/6146">Rajesh Krishna Balan</author>
+<title>Material Identification and Target Imaging with RFIDs [IoT Connection].</title>
+<pages>64-68</pages>
+<year>2018</year>
+<volume>51</volume>
+<journal>Computer</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/MC.2018.2880022</ee>
+<url>db/journals/computer/computer51.html#WangCFXJB18</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangZXWNJW18" mdate="2025-01-19">
+<author pid="68/10002">Fusang Zhang</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="w/HaoWang35">Hao Wang 0035</author>
+<author pid="67/229-3">Kai Niu 0003</author>
+<author pid="75/1099">Beihong Jin</author>
+<author pid="62/1637">Yuxiang Wang</author>
+<title>From Fresnel Diffraction Model to Fine-grained Human Respiration Sensing with Commodity Wi-Fi Devices.</title>
+<pages>53:1-53:23</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3191785</ee>
+<ee>https://www.wikidata.org/entity/Q130052434</ee>
+<url>db/journals/imwut/imwut2.html#ZhangZXWNJW18</url>
+</article>
+</r>
+<r><article key="journals/imwut/ZhangDYXTX18" mdate="2020-09-01">
+<author pid="140/1004">Maotian Zhang</author>
+<author pid="60/11541">Qian Dai</author>
+<author pid="79/1482">Panlong Yang</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="97/2447">Chang Tian</author>
+<author pid="95/10658">Chaocan Xiang</author>
+<title>iDial: Enabling a Virtual Dial Plate on the Hand Back for Around-Device Interaction.</title>
+<pages>55:1-55:20</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3191787</ee>
+<url>db/journals/imwut/imwut2.html#ZhangDYXTX18</url>
+</article>
+</r>
+<r><article key="journals/imwut/Li00ZLWM18" mdate="2025-01-19">
+<author pid="40/1491-49">Xiang Li 0049</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="47/722">Yue Zhang</author>
+<author pid="123/9368-1">Shengjie Li 0001</author>
+<author pid="70/2725">Yasha Wang</author>
+<author pid="14/2036">Hong Mei 0001</author>
+<title>Training-Free Human Vitality Monitoring Using Commodity Wi-Fi Devices.</title>
+<pages>121:1-121:25</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3264931</ee>
+<ee>https://www.wikidata.org/entity/Q129217553</ee>
+<url>db/journals/imwut/imwut2.html#Li00ZLWM18</url>
+</article>
+</r>
+<r><article key="journals/tmc/WangXJJCFW18" mdate="2025-04-01">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-7372-2539" pid="25/4108-1">Hongbo Jiang 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author orcid="0000-0003-1963-4954" pid="82/4206-11">Chen Wang 0011</author>
+<title>Low Human-Effort, Device-Free Localization with Fine-Grained Subcarrier Information.</title>
+<pages>2550-2563</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TMC.2018.2812746</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2018.2812746</ee>
+<ee>https://www.wikidata.org/entity/Q63976078</ee>
+<url>db/journals/tmc/tmc17.html#WangXJJCFW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/NiuZXLY018" mdate="2025-04-01">
+<author pid="67/229-3">Kai Niu 0003</author>
+<author pid="68/10002">Fusang Zhang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="40/1491-49">Xiang Li 0049</author>
+<author pid="205/5894">Enze Yi</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>Boosting fine-grained activity sensing by embracing wireless multipath effects.</title>
+<pages>139-151</pages>
+<year>2018</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3281411.3281425</ee>
+<crossref>conf/conext/2018</crossref>
+<url>db/conf/conext/conext2018.html#NiuZXLY018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/ZhangLL0018" mdate="2025-04-01">
+<author pid="47/722">Yue Zhang</author>
+<author pid="40/1491-49">Xiang Li 0049</author>
+<author pid="123/9368-1">Shengjie Li 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>A Training-Free Contactless Human Vitality Monitoring Platform Using Commodity Wi-Fi Devices.</title>
+<pages>488-491</pages>
+<year>2018</year>
+<booktitle>UbiComp/ISWC Adjunct</booktitle>
+<ee>https://doi.org/10.1145/3267305.3267613</ee>
+<crossref>conf/huc/2018ap</crossref>
+<url>db/conf/huc/ubicomp2018ap.html#ZhangLL0018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/FengLC0CFL0Z18" mdate="2025-04-01">
+<author pid="97/164">Chao Feng</author>
+<author pid="139/4257">Xinyi Li</author>
+<author pid="146/7897">Liqiong Chang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<author pid="21/10120">Baoying Liu</author>
+<author pid="21/3047-2">Feng Chen 0002</author>
+<author pid="15/4777-6">Tao Zhang 0006</author>
+<title>Material Identification with Commodity Wi-Fi Devices.</title>
+<pages>382-383</pages>
+<year>2018</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/3274783.3275194</ee>
+<crossref>conf/sensys/2018</crossref>
+<url>db/conf/sensys/sensys2018.html#FengLC0CFL0Z18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-03103" mdate="2021-01-23">
+<author pid="167/5888">Yaxiong Xie</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="87/4982-1">Mo Li 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>mD-Track: Leveraging Multi-Dimensionality in Passive Indoor Wi-Fi Tracking.</title>
+<year>2018</year>
+<volume>abs/1812.03103</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.03103</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-03103</url>
+</article>
+</r>
+<r><article key="journals/imwut/LiZLXLZM17" mdate="2023-05-09">
+<author pid="40/1491-49">Xiang Li 0049</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<author pid="11/808">Qin Lv</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="123/9368-1">Shengjie Li 0001</author>
+<author pid="47/722">Yue Zhang</author>
+<author pid="14/2036">Hong Mei 0001</author>
+<title>IndoTrack: Device-Free Indoor Human Tracking with Commodity Wi-Fi.</title>
+<pages>72:1-72:22</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3130940</ee>
+<url>db/journals/imwut/imwut1.html#LiZLXLZM17</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChangXWCWTF17" mdate="2020-09-01">
+<author pid="146/7897">Liqiong Chang</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="w/YuWang3">Yu Wang 0003</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>RF-Copybook: A Millimeter Level Calligraphy Copybook based on commodity RFID.</title>
+<pages>128:1-128:19</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3161191</ee>
+<url>db/journals/imwut/imwut1.html#ChangXWCWTF17</url>
+</article>
+</r>
+<r><article key="journals/tmm/ChenZXXZW17" mdate="2025-04-01">
+<author pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="98/5660-21">Xu Zhang 0021</author>
+<author orcid="0000-0003-4168-3998" pid="26/340">Yuedong Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="38/5267-2">Yu Zhu 0002</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>MuVi: Multiview Video Aware Transmission Over MIMO Wireless Systems.</title>
+<pages>2788-2803</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TMM.2017.2713414</ee>
+<url>db/journals/tmm/tmm19.html#ChenZXXZW17</url>
+</article>
+</r>
+<r><article key="journals/ton/WangXJCF17" mdate="2025-04-01">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0001-7372-2539" pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>D-Watch: Embracing &#34;Bad&#34; Multipaths for Device-Free Localization With COTS RFID Devices.</title>
+<pages>3559-3572</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNET.2017.2747583</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TNET.2017.2747583</ee>
+<url>db/journals/ton/ton25.html#WangXJCF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/WuWXZ17" mdate="2025-04-01">
+<author pid="209/2684">Hongjia Wu</author>
+<author orcid="0000-0003-0950-1111" pid="97/6505-7">Qing Wang 0007</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0003-3544-9169" pid="z/MarcoZuniga">Marco Zuniga</author>
+<title>SmartVLC: When Smart Lighting Meets VLC.</title>
+<pages>212-223</pages>
+<year>2017</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3143361.3149824</ee>
+<crossref>conf/conext/2017</crossref>
+<url>db/conf/conext/conext2017.html#WuWXZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/ChenLZZXXW17" mdate="2025-04-01">
+<author pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="42/1675">Zhongmin Li</author>
+<author pid="98/5660-21">Xu Zhang 0021</author>
+<author pid="167/7757">Guorong Zhu</author>
+<author pid="26/340">Yuedong Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/5630-2">Xin Wang 0002</author>
+<title>AWL: Turning Spatial Aliasing From Foe to Friend for Accurate WiFi Localization.</title>
+<pages>238-250</pages>
+<year>2017</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3143361.3143377</ee>
+<crossref>conf/conext/2017</crossref>
+<url>db/conf/conext/conext2017.html#ChenLZZXXW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ChangXWCHF17" mdate="2025-04-01">
+<author pid="146/7897">Liqiong Chang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="w/YuWang3">Yu Wang 0003</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="05/3941">Junhao Hu</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>iUpdater: Low Cost RSS Fingerprints Updating for Device-Free Localization.</title>
+<pages>900-910</pages>
+<year>2017</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2017.216</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.216</ee>
+<crossref>conf/icdcs/2017</crossref>
+<url>db/conf/icdcs/icdcs2017.html#ChangXWCHF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ChenZWXXW17" mdate="2025-04-01">
+<author pid="06/4240-15">Zhe Chen 0015</author>
+<author pid="98/5660-21">Xu Zhang 0021</author>
+<author pid="206/9022">Sulei Wang</author>
+<author pid="26/340">Yuedong Xu</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="10/5630-3">Xin Wang 0003</author>
+<title>BUSH: Empowering large-scale MU-MIMO in WLANs with hybrid beamforming.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2017.8056988</ee>
+<crossref>conf/infocom/2017</crossref>
+<url>db/conf/infocom/infocom2017.html#ChenZWXXW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LiFDWXRCF17" mdate="2025-04-01">
+<author pid="139/4257">Xinyi Li</author>
+<author pid="97/164">Chao Feng</author>
+<author pid="193/9217">Nana Ding</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="155/6865">Yuhui Ren</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Target Material Identification with Commodity RFID Devices.</title>
+<pages>25-27</pages>
+<year>2017</year>
+<booktitle>S3@MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3131348.3131352</ee>
+<crossref>conf/mobicom/2017s3</crossref>
+<url>db/conf/mobicom/s3-2017.html#LiFDWXRCF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LiDFWXRCF17" mdate="2025-04-01">
+<author pid="139/4257">Xinyi Li</author>
+<author pid="193/9217">Nana Ding</author>
+<author pid="97/164">Chao Feng</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="155/6865">Yuhui Ren</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>Demo: Material Identification with Commodity RFID Devices.</title>
+<pages>91-92</pages>
+<year>2017</year>
+<booktitle>WiNTECH</booktitle>
+<ee>https://doi.org/10.1145/3131473.3133328</ee>
+<crossref>conf/mobicom/2017wintech</crossref>
+<url>db/conf/mobicom/wintech2017.html#LiDFWXRCF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WangXCJBF17" mdate="2025-04-01">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="51/6146">Rajesh Krishna Balan</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices.</title>
+<pages>288-300</pages>
+<year>2017</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3117811.3117830</ee>
+<crossref>conf/mobicom/2017</crossref>
+<url>db/conf/mobicom/mobicom2017.html#WangXCJBF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/TranMXH17" mdate="2025-04-01">
+<author pid="13/9792">Vu H. Tran</author>
+<author orcid="0000-0003-1212-1769" pid="24/4570">Archan Misra</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="212/9468">Nipuni Hirunima</author>
+<title>Can WiFi Beamforming Support an Energy-Harvesting Wearable?</title>
+<pages>14-20</pages>
+<year>2017</year>
+<booktitle>ENSsys@SenSys</booktitle>
+<ee>https://doi.org/10.1145/3142992.3142997</ee>
+<crossref>conf/sensys/2017ensSYS</crossref>
+<url>db/conf/sensys/enssys2017.html#TranMXH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/WangXJCF16" mdate="2025-04-01">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>D-Watch: Embracing &#34;bad&#34; Multipaths for Device-Free Localization with COTS RFID Devices.</title>
+<pages>253-266</pages>
+<year>2016</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/2999572.2999589</ee>
+<crossref>conf/conext/2016</crossref>
+<url>db/conf/conext/conext2016.html#WangXJCF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/LiLZXWM16" mdate="2025-04-01">
+<author pid="40/1491-49">Xiang Li 0049</author>
+<author pid="123/9368-1">Shengjie Li 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="70/2725">Yasha Wang</author>
+<author pid="14/2036">Hong Mei 0001</author>
+<title>Dynamic-MUSIC: accurate device-free indoor localization.</title>
+<pages>196-207</pages>
+<year>2016</year>
+<booktitle>UbiComp</booktitle>
+<ee>https://doi.org/10.1145/2971648.2971665</ee>
+<crossref>conf/huc/2016</crossref>
+<url>db/conf/huc/ubicomp2016.html#LiLZXWM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WangZWXCF16" mdate="2020-08-20">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="126/8027">Lichao Zhang</author>
+<author pid="34/4799">Xuan Wang</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="80/3909">Dingyi Fang</author>
+<title>A novel CSI pre-processing scheme for device-free localization indoors.</title>
+<pages>6-8</pages>
+<year>2016</year>
+<booktitle>S3@MobiCom</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2987361</ee>
+<crossref>conf/mobicom/2016s3</crossref>
+<url>db/conf/mobicom/s3-2016.html#WangZWXCF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/XieXLJ16" mdate="2025-04-01">
+<author orcid="0000-0003-4258-6655" pid="167/5888">Yaxiong Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-6047-9709" pid="87/4982-1">Mo Li 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>xD-track: leveraging multi-dimensional information for passive wi-fi tracking.</title>
+<pages>39-43</pages>
+<year>2016</year>
+<booktitle>HotWireless@MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2980115.2980127</ee>
+<crossref>conf/mobicom/2016hotwireless</crossref>
+<url>db/conf/mobicom/hotwireless2016.html#XieXLJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WangJXJCFX16" mdate="2025-04-01">
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="25/4108-1">Hongbo Jiang 0001</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author pid="172/5431">Binbin Xie</author>
+<title>LiFS: low human-effort, device-free localization with fine-grained subcarrier information.</title>
+<pages>243-256</pages>
+<year>2016</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2973750.2973776</ee>
+<crossref>conf/mobicom/2016</crossref>
+<url>db/conf/mobicom/mobicom2016.html#WangJXJCFX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/XieXFCWT16" mdate="2025-04-01">
+<author pid="172/5431">Binbin Xie</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="179/3262">Anwen Wang</author>
+<author pid="38/7487">Zhanyong Tang</author>
+<title>Poster: A Device-free Evaluation System for Gymnastics using Passive RFID Tags.</title>
+<pages>89</pages>
+<year>2016</year>
+<booktitle>MobiSys (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2938559.2948805</ee>
+<crossref>conf/mobisys/2016c</crossref>
+<url>db/conf/mobisys/mobisys2016c.html#XieXFCWT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/ZhangLYXT16" mdate="2025-04-01">
+<author pid="140/1004">Maotian Zhang</author>
+<author pid="62/5860-20">Ping Li 0020</author>
+<author pid="79/1482">Panlong Yang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="97/2447">Chang Tian</author>
+<title>Poster: Sonicnect: Accurate Hands-Free Gesture Input System with Smart Acoustic Sensing.</title>
+<pages>91</pages>
+<year>2016</year>
+<booktitle>MobiSys (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2938559.2948830</ee>
+<crossref>conf/mobisys/2016c</crossref>
+<url>db/conf/mobisys/mobisys2016c.html#ZhangLYXT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/ChangXCWHFW16" mdate="2025-04-01">
+<author pid="146/7897">Liqiong Chang</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="95/10521">Xiaojiang Chen</author>
+<author pid="65/4124-3">Ju Wang 0003</author>
+<author pid="05/3941">Junhao Hu</author>
+<author orcid="0000-0002-5816-6922" pid="80/3909">Dingyi Fang</author>
+<author pid="35/7092-56">Wei Wang 0056</author>
+<title>TafLoc: Time-adaptive and Fine-grained Device-free Localization with Little Cost.</title>
+<pages>563-564</pages>
+<year>2016</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/2934872.2959051</ee>
+<crossref>conf/sigcomm/2016</crossref>
+<url>db/conf/sigcomm/sigcomm2016.html#ChangXCWHFW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/WangXXL16" mdate="2024-10-09">
+<author pid="40/3934-16">Dong Wang 0016</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="18/7081">Zhu Xiao</author>
+<author pid="08/2489-4">Xiaohong Li 0004</author>
+<title>Short-Term Traffic Flow Prediction Based on Ensemble Real-Time Sequential Extreme Learning Machine Under Non-Stationary Condition.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTCSpring.2016.7504474</ee>
+<crossref>conf/vtc/2016s</crossref>
+<url>db/conf/vtc/vtc2016s.html#WangXXL16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Xiong15" mdate="2022-04-05">
+<author pid="75/198-1">Jie Xiong 0001</author>
+<title>Pushing the limits of indoor localization in today's Wi-Fi networks.</title>
+<year>2015</year>
+<school>University College London, UK</school>
+<ee>http://discovery.ucl.ac.uk/1470731/</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.674671</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/sigmobile/GjengsetXMJ15" mdate="2020-03-06">
+<author pid="150/3082">Jon Gjengset</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="150/3283">Graeme McPhillips</author>
+<author pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>Phaser: Enabling Phased Array Signal Processing on Commodity Wi-Fi Access Points.</title>
+<pages>6-9</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2817761.2817764</ee>
+<url>db/journals/sigmobile/sigmobile19.html#GjengsetXMJ15</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobicom/XiongSJ15" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="42/3793">Karthikeyan Sundaresan</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>ToneTrack: Leveraging Frequency-Agile Radios for Time-Based Indoor Wireless Localization.</title>
+<pages>537-549</pages>
+<year>2015</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2789168.2790125</ee>
+<crossref>conf/mobicom/2015</crossref>
+<url>db/conf/mobicom/mobicom2015.html#XiongSJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/XiongSJKR14" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="42/3793">Karthikeyan Sundaresan</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<author pid="84/3606">Mohammad Ali Khojastepour</author>
+<author pid="67/43">Sampath Rangarajan</author>
+<title>MIDAS: Empowering 802.11ac Networks with Multiple-Input Distributed Antenna Systems.</title>
+<pages>29-40</pages>
+<year>2014</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/2674005.2675014</ee>
+<crossref>conf/conext/2014</crossref>
+<url>db/conf/conext/conext2014.html#XiongSJKR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/XiongJS14" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<author pid="42/3793">Karthikeyan Sundaresan</author>
+<title>Synchronicity: pushing the envelope of fine-grained localization with distributed mimo.</title>
+<pages>43-48</pages>
+<year>2014</year>
+<booktitle>HotWireless@MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2643614.2643619</ee>
+<crossref>conf/mobicom/2014hotwireless</crossref>
+<url>db/conf/mobicom/hotwireless2014.html#XiongJS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/GjengsetXMJ14" mdate="2025-04-01">
+<author pid="150/3082">Jon Gjengset</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="150/3283">Graeme McPhillips</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>Phaser: enabling phased array signal processing on commodity WiFi access points.</title>
+<pages>153-164</pages>
+<year>2014</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2639108.2639139</ee>
+<crossref>conf/mobicom/2014</crossref>
+<url>db/conf/mobicom/mobicom2014.html#GjengsetXMJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/XiongJ13" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>SecureArray: improving wifi security with fine-grained physical-layer information.</title>
+<pages>441-452</pages>
+<year>2013</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2500423.2500444</ee>
+<crossref>conf/mobicom/2013</crossref>
+<url>db/conf/mobicom/mobicom2013.html#XiongJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/XiongJ13" mdate="2021-02-02">
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>ArrayTrack: A Fine-Grained Indoor Location System.</title>
+<pages>71-84</pages>
+<year>2013</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/xiong</ee>
+<crossref>conf/nsdi/2013</crossref>
+<url>db/conf/nsdi/nsdi2013.html#XiongJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmcsa/XiongJ12" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>Towards fine-grained radio-based indoor location.</title>
+<pages>13</pages>
+<year>2012</year>
+<booktitle>HotMobile</booktitle>
+<ee>https://doi.org/10.1145/2162081.2162100</ee>
+<crossref>conf/wmcsa/2012</crossref>
+<url>db/conf/wmcsa/hotmobile2012.html#XiongJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/XiongC11" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="19/6964">Romit Roy Choudhury</author>
+<title>PeerCast: Improving link layer multicast through cooperative relaying.</title>
+<pages>2939-2947</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2011.5935134</ee>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#XiongC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotnets/XiongJ10" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>SecureAngle: improving wireless security using angle-of-arrival information.</title>
+<pages>11</pages>
+<year>2010</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/1868447.1868458</ee>
+<crossref>conf/hotnets/2010</crossref>
+<url>db/conf/hotnets/hotnets2010.html#XiongJ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/XiongJ10" mdate="2025-04-01">
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author orcid="0000-0002-7940-2867" pid="j/KyleJamieson">Kyle Jamieson</author>
+<title>SecureAngle: improving wireless security using angle-of-arrival information (poster abstract).</title>
+<pages>415-416</pages>
+<year>2010</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/1851182.1851238</ee>
+<ee>https://doi.org/10.1145/1851275.1851238</ee>
+<crossref>conf/sigcomm/2010</crossref>
+<url>db/conf/sigcomm/sigcomm2010.html#XiongJ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmobile/SenGXC09" mdate="2020-05-17">
+<author pid="83/7553">Souvik Sen</author>
+<author pid="01/3764">Rahul Ghosh</author>
+<author pid="75/198-1">Jie Xiong 0001</author>
+<author pid="19/6964">Romit Roy Choudhury</author>
+<title>Poster abstract: BeamCast: harnessing beamforming capabilities for link layer multicast.</title>
+<pages>34-37</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1710130.1710137</ee>
+<url>db/journals/sigmobile/sigmobile13.html#SenGXC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnp/SenXGC08" mdate="2025-04-01">
+<author pid="83/7553">Souvik Sen</author>
+<author orcid="0000-0002-5396-4554" pid="75/198-1">Jie Xiong 0001</author>
+<author pid="01/3764">Rahul Ghosh</author>
+<author pid="19/6964">Romit Roy Choudhury</author>
+<title>Link layer multicasting with smart antennas: No client left behind.</title>
+<pages>53-62</pages>
+<year>2008</year>
+<booktitle>ICNP</booktitle>
+<ee>https://doi.org/10.1109/ICNP.2008.4697024</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICNP.2008.4697024</ee>
+<crossref>conf/icnp/2008</crossref>
+<url>db/conf/icnp/icnp2008.html#SenXGC08</url>
+</inproceedings>
+</r>
+<coauthors n="254" nc="2">
+<co c="0"><na f="b/Balan:Rajesh_Krishna" pid="51/6146">Rajesh Krishna Balan</na></co>
+<co c="0"><na f="b/Bian:Guangyu" pid="331/1914">Guangyu Bian</na></co>
+<co c="0"><na f="c/Cai_0001:Chao" pid="98/6343-1">Chao Cai 0001</na></co>
+<co c="0"><na f="c/Cai_0001:Lin" pid="20/8688-1">Lin Cai 0001</na></co>
+<co c="0"><na f="c/Cai:Mingjie" pid="151/4555">Mingjie Cai</na></co>
+<co c="0"><na f="c/Cao:Gaoshuai" pid="272/5390">Gaoshuai Cao</na></co>
+<co c="0"><na f="c/Cao:Hangcheng" pid="273/7833">Hangcheng Cao</na></co>
+<co c="0"><na f="c/Cao:Shirui" pid="331/1916">Shirui Cao</na></co>
+<co c="0"><na f="c/Cao_0001:Zhichao" pid="05/7548-1">Zhichao Cao 0001</na></co>
+<co c="0"><na f="c/Chai:Eugene" pid="33/8356">Eugene Chai</na></co>
+<co c="0"><na f="c/Chang:Liqiong" pid="146/7897">Liqiong Chang</na></co>
+<co c="0"><na f="c/Chang_0001:Zhaoxin" pid="169/5440">Zhaoxin Chang 0001</na></co>
+<co c="0"><na f="c/Chen_0002:Feng" pid="21/3047-2">Feng Chen 0002</na></co>
+<co c="0"><na f="c/Chen:Kai" pid="181/2839">Kai Chen</na></co>
+<co c="0"><na f="c/Chen:Lili" pid="92/169">Lili Chen</na></co>
+<co c="0"><na f="c/Chen:Mingshi" pid="21/6611">Mingshi Chen</na></co>
+<co c="0"><na f="c/Chen:Pengpeng" pid="40/993">Pengpeng Chen</na></co>
+<co c="0"><na f="c/Chen:Siyu" pid="23/7930">Siyu Chen</na></co>
+<co c="0"><na f="c/Chen_0033:Tao" pid="69/510-33">Tao Chen 0033</na></co>
+<co c="0"><na f="c/Chen:Weiyan" pid="06/10358">Weiyan Chen</na></co>
+<co c="0"><na f="c/Chen:Xiangru" pid="21/5405">Xiangru Chen</na></co>
+<co c="0"><na f="c/Chen:Xiaojiang" pid="95/10521">Xiaojiang Chen</na></co>
+<co c="0"><na f="c/Chen:Yike" pid="310/0746">Yike Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Yiran" pid="80/1641">Yiran Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0015:Zhe" pid="06/4240-15">Zhe Chen 0015</na></co>
+<co c="0"><na f="c/Chen:Ziyang" pid="96/4424">Ziyang Chen</na></co>
+<co c="0"><na f="c/Chi:Yang" pid="122/5325">Yang Chi</na></co>
+<co c="0"><na f="c/Choudhury:Romit_Roy" pid="19/6964">Romit Roy Choudhury</na></co>
+<co c="0"><na f="c/Cui:Minhao" pid="230/6300">Minhao Cui</na></co>
+<co c="0"><na f="c/Cui_0001:Yong" pid="91/2346-1">Yong Cui 0001</na></co>
+<co c="0"><na f="d/Dai:Qian" pid="60/11541">Qian Dai</na></co>
+<co c="0"><na f="d/Deng:Wenwen" pid="338/6292">Wenwen Deng</na></co>
+<co c="0"><na f="d/Ding:Nana" pid="193/9217">Nana Ding</na></co>
+<co c="0"><na f="d/Dong:Huixin" pid="218/4947">Huixin Dong</na></co>
+<co c="0"><na f="d/Du:Junzhao" pid="29/6599">Junzhao Du</na></co>
+<co c="0"><na f="f/Fan:Xiaoran" pid="197/0141">Xiaoran Fan</na></co>
+<co c="0"><na f="f/Fan_0001:Xin" pid="87/3021-1">Xin Fan 0001</na></co>
+<co c="0"><na f="f/Fang:Dingyi" pid="80/3909">Dingyi Fang</na></co>
+<co c="0"><na f="f/Feng:Chao" pid="97/164">Chao Feng</na></co>
+<co c="0"><na f="f/Feng:Lin" pid="62/670">Lin Feng</na></co>
+<co c="0"><na f="f/Feng:Yuanhao" pid="254/5159">Yuanhao Feng</na></co>
+<co c="0"><na f="f/Feng:Yuda" pid="246/2023">Yuda Feng</na></co>
+<co c="0"><na f="f/Ferrier:Robert_C=" pid="377/0349">Robert C. Ferrier</na></co>
+<co c="0"><na f="g/Ganesan:Deepak" pid="g/DeepakGanesan">Deepak Ganesan</na></co>
+<co c="0"><na f="g/Gao:Ming" pid="71/4173">Ming Gao</na></co>
+<co c="0"><na f="g/Gao:Ruiyang" pid="203/9193">Ruiyang Gao</na></co>
+<co c="0"><na f="g/Gao:Xinhua" pid="299/8839">Xinhua Gao</na></co>
+<co c="0"><na f="g/Gao:Zhihui" pid="142/3312">Zhihui Gao</na></co>
+<co c="0"><na f="g/Ghosh:Rahul" pid="01/3764">Rahul Ghosh</na></co>
+<co c="0"><na f="g/Giustiniano:Domenico" pid="07/1247">Domenico Giustiniano</na></co>
+<co c="0"><na f="g/Gjengset:Jon" pid="150/3082">Jon Gjengset</na></co>
+<co c="0"><na f="g/Gowda:Mahanth" pid="116/0691">Mahanth Gowda</na></co>
+<co c="0"><na f="g/Gu_0001:Tao" pid="65/4916">Tao Gu 0001</na></co>
+<co c="0"><na f="g/Gummeson:Jeremy" pid="59/6837">Jeremy Gummeson</na></co>
+<co c="0"><na f="g/Guo:Xiuzhen" pid="188/8787">Xiuzhen Guo</na></co>
+<co c="0"><na f="g/Guzm=aacute=n:Borja_Genov=eacute=s" pid="175/2837">Borja Genov&#233;s Guzm&#225;n</na></co>
+<co c="0"><na f="h/Han:Dianhe" pid="252/3584">Dianhe Han</na></co>
+<co c="0"><na f="h/Han:Jinsong" pid="96/6606">Jinsong Han</na></co>
+<co c="0"><na f="h/He:Juan" pid="32/4280">Juan He</na></co>
+<co c="0"><na f="h/He:Xin" pid="69/1798">Xin He</na></co>
+<co c="0"><na f="h/Hirunima:Nipuni" pid="212/9468">Nipuni Hirunima</na></co>
+<co c="0"><na f="h/Hou:Ziyu" pid="331/1711">Ziyu Hou</na></co>
+<co c="0"><na f="h/Howard:Richard_E=" pid="26/1455">Richard E. Howard</na></co>
+<co c="0"><na f="h/Hu:Jingyang" pid="302/8256">Jingyang Hu</na></co>
+<co c="0"><na f="h/Hu:Junhao" pid="05/3941">Junhao Hu</na></co>
+<co c="0"><na f="h/Hu:Weihang" pid="377/0409">Weihang Hu</na></co>
+<co c="0"><na f="h/Huang:Qiang" pid="80/2732">Qiang Huang</na></co>
+<co c="0"><na f="j/Jamieson:Kyle" pid="j/KyleJamieson">Kyle Jamieson</na></co>
+<co c="0"><na f="j/Ji:Chuanying" pid="332/2189">Chuanying Ji</na></co>
+<co c="0"><na f="j/Jiang_0001:Hongbo" pid="25/4108-1">Hongbo Jiang 0001</na></co>
+<co c="0"><na f="j/Jiang:Yalan" pid="244/4443">Yalan Jiang</na></co>
+<co c="0"><na f="j/Jiang:Yuhang" pid="239/4567">Yuhang Jiang</na></co>
+<co c="0"><na f="j/Jiao:Yuechun" pid="358/8918">Yuechun Jiao</na></co>
+<co c="0"><na f="j/Jin:Beihong" pid="75/1099">Beihong Jin</na></co>
+<co c="0"><na f="j/Jin:Qingxu" pid="377/0717">Qingxu Jin</na></co>
+<co c="0"><na f="j/Jouaber:Badii" pid="10/2011">Badii Jouaber</na></co>
+<co c="0" n="2"><na f="k/Khojastepour:Mohammad_Ali_Amir" pid="84/3606">Mohammad Ali Amir Khojastepour</na><na>Mohammad Ali Khojastepour</na></co>
+<co c="0"><na f="k/Kumbhar:Gouree" pid="377/0534">Gouree Kumbhar</na></co>
+<co c="0"><na f="l/Lan:Zitong" pid="338/6230">Zitong Lan</na></co>
+<co c="0"><na f="l/Lee:Sunghoon_Ivan" pid="35/11104">Sunghoon Ivan Lee</na></co>
+<co c="0"><na f="l/Lee_0001:Youngki" pid="51/343-1">Youngki Lee 0001</na></co>
+<co c="0"><na f="l/Li_0005:Ang" pid="33/2805-5">Ang Li 0005</na></co>
+<co c="0"><na f="l/Li:Bing" pid="13/2692">Bing Li</na></co>
+<co c="0"><na f="l/Li:Binghao" pid="22/10427">Binghao Li</na></co>
+<co c="0"><na f="l/Li_0001:Bo" pid="50/3402-1">Bo Li 0001</na></co>
+<co c="0"><na f="l/Li_0031:Dong" pid="47/4826-31">Dong Li 0031</na></co>
+<co c="0"><na f="l/Li:Fengqi" pid="137/0725">Fengqi Li</na></co>
+<co c="0"><na f="l/Li:Haoyu" pid="12/10840">Haoyu Li</na></co>
+<co c="0"><na f="l/Li:Jiale" pid="180/4538">Jiale Li</na></co>
+<co c="1"><na f="l/Li_0001:Jianxin" pid="l/JianxinLi">Jianxin Li 0001</na></co>
+<co c="0"><na f="l/Li:Ke" pid="75/6627">Ke Li</na></co>
+<co c="0"><na f="l/Li:Liyao" pid="133/3737">Liyao Li</na></co>
+<co c="0"><na f="l/Li_0001:Mo" pid="87/4982-1">Mo Li 0001</na></co>
+<co c="0"><na f="l/Li_0020:Ping" pid="62/5860-20">Ping Li 0020</na></co>
+<co c="0"><na f="l/Li_0001:Shengjie" pid="123/9368-1">Shengjie Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Tianxing" pid="133/6667">Tianxing Li 0001</na></co>
+<co c="0"><na f="l/Li:Wenwei" pid="82/4081">Wenwei Li</na></co>
+<co c="0"><na f="l/Li_0049:Xiang" pid="40/1491-49">Xiang Li 0049</na></co>
+<co c="0"><na f="l/Li_0001:Xiang=Yang" pid="l/XiangYangLi">Xiang-Yang Li 0001</na></co>
+<co c="0"><na f="l/Li_0004:Xiaohong" pid="08/2489-4">Xiaohong Li 0004</na></co>
+<co c="0"><na f="l/Li:Xiaohui" pid="92/3956">Xiaohui Li</na></co>
+<co c="0"><na f="l/Li:Xin" pid="09/1365">Xin Li</na></co>
+<co c="0"><na f="l/Li:Xinyi" pid="139/4257">Xinyi Li</na></co>
+<co c="0"><na f="l/Li:Zhongmin" pid="42/1675">Zhongmin Li</na></co>
+<co c="0"><na f="l/Liang_0002:Xiaoxuan" pid="226/5607-2">Xiaoxuan Liang 0002</na></co>
+<co c="0"><na f="l/Lin_0001:Chi" pid="24/8037-1">Chi Lin 0001</na></co>
+<co c="0"><na f="l/Lin:Jianan" pid="80/7557">Jianan Lin</na></co>
+<co c="0"><na f="l/Liu:Baoying" pid="21/10120">Baoying Liu</na></co>
+<co c="0"><na f="l/Liu:Chang" pid="52/5716">Chang Liu</na></co>
+<co c="0"><na f="l/Liu_0008:Chao" pid="15/5923-8">Chao Liu 0008</na></co>
+<co c="0"><na f="l/Liu_0002:Chen" pid="10/2639-2">Chen Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Daibo" pid="141/1957">Daibo Liu</na></co>
+<co c="0"><na f="l/Liu_0006:Hui" pid="93/4010-6">Hui Liu 0006</na></co>
+<co c="0"><na f="l/Liu_0004:Jialin" pid="32/5050-4">Jialin Liu 0004</na></co>
+<co c="0"><na f="l/Liu_0001:Jinyi" pid="192/6688-1">Jinyi Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0001:Liang" pid="10/6178-1">Liang Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Xinyang" pid="72/3797">Xinyang Liu</na></co>
+<co c="0"><na f="l/Liu:Yajie" pid="33/3862">Yajie Liu</na></co>
+<co c="0"><na f="l/Liu:Zhaopeng" pid="207/0246">Zhaopeng Liu</na></co>
+<co c="0"><na f="l/Lou:Tairong" pid="320/0359">Tairong Lou</na></co>
+<co c="0"><na f="l/Luo_0001:Jun" pid="42/2501-1">Jun Luo 0001</na></co>
+<co c="0"><na f="l/Luo:Zhongxuan" pid="17/6264">Zhongxuan Luo</na></co>
+<co c="0"><na f="l/Lv:Qin" pid="11/808">Qin Lv</na></co>
+<co c="0"><na f="m/Ma:Fenglong" pid="85/10856">Fenglong Ma</na></co>
+<co c="0"><na f="m/Ma:Huadong" pid="04/6217">Huadong Ma</na></co>
+<co c="0"><na f="m/Ma_0002:Junqi" pid="151/6862-2">Junqi Ma 0002</na></co>
+<co c="0"><na f="m/Ma:Yunfei" pid="80/7673">Yunfei Ma</na></co>
+<co c="0"><na f="m/Mao:Xingjian" pid="377/1449">Xingjian Mao</na></co>
+<co c="0"><na f="m/McPhillips:Graeme" pid="150/3283">Graeme McPhillips</na></co>
+<co c="0"><na f="m/Mei_0001:Hong" pid="14/2036">Hong Mei 0001</na></co>
+<co c="0"><na f="m/Mi:Nanhuan" pid="228/8183">Nanhuan Mi</na></co>
+<co c="0"><na f="m/Mir:Muhammad_Sarmad" pid="266/2341">Muhammad Sarmad Mir</na></co>
+<co c="0"><na f="m/Misra:Archan" pid="24/4570">Archan Misra</na></co>
+<co c="0"><na f="n/Ni:Jiazhi" pid="208/0028">Jiazhi Ni</na></co>
+<co c="0"><na f="n/Niu_0003:Kai" pid="67/229-3">Kai Niu 0003</na></co>
+<co c="0"><na f="n/Niu:Qiang" pid="63/691">Qiang Niu</na></co>
+<co c="0"><na f="p/Pan:Jiangtao" pid="338/8763">Jiangtao Pan</na></co>
+<co c="0"><na f="p/Peng_0002:Yao" pid="69/8002-2">Yao Peng 0002</na></co>
+<co c="0"><na f="q/Qian:Bochong" pid="320/0062">Bochong Qian</na></co>
+<co c="0"><na f="q/Qiu:Lili" pid="54/4031">Lili Qiu</na></co>
+<co c="0"><na f="r/Rangarajan:Sampath" pid="67/43">Sampath Rangarajan</na></co>
+<co c="0"><na f="r/Ren_0001:Kui" pid="20/6179-1">Kui Ren 0001</na></co>
+<co c="0"><na f="r/Ren:Yuhui" pid="155/6865">Yuhui Ren</na></co>
+<co c="0"><na f="r/Rupavatharam:Siddharth" pid="195/8372">Siddharth Rupavatharam</na></co>
+<co c="1" n="2"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na><na>Timos Sellis</na></co>
+<co c="0"><na f="s/Sen:Souvik" pid="83/7553">Souvik Sen</na></co>
+<co c="0"><na f="s/Shang:Bozhao" pid="373/3779">Bozhao Shang</na></co>
+<co c="0"><na f="s/Shang:Fei" pid="11/7732">Fei Shang</na></co>
+<co c="0"><na f="s/Shangguan:Longfei" pid="91/10470">Longfei Shangguan</na></co>
+<co c="0"><na f="s/Shi:Meng" pid="11/572">Meng Shi</na></co>
+<co c="0"><na f="s/Su:Yuqi" pid="263/0629">Yuqi Su</na></co>
+<co c="0"><na f="s/Sun:Xue" pid="06/8386">Xue Sun</na></co>
+<co c="0"><na f="s/Sun:Yu" pid="62/3689">Yu Sun</na></co>
+<co c="0"><na f="s/Sundaresan:Karthikeyan" pid="42/3793">Karthikeyan Sundaresan</na></co>
+<co c="0"><na f="t/Tang:Zhanyong" pid="38/7487">Zhanyong Tang</na></co>
+<co c="0"><na f="t/Tian:Chang" pid="97/2447">Chang Tian</na></co>
+<co c="0"><na f="t/Tian:Yu" pid="15/4658">Yu Tian</na></co>
+<co c="0"><na f="t/Tran:Vu_H=" pid="13/9792">Vu H. Tran</na></co>
+<co c="0"><na f="w/Wang:Anwen" pid="179/3262">Anwen Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Chen" pid="82/4206-11">Chen Wang 0011</na></co>
+<co c="0"><na f="w/Wang_0016:Dong" pid="40/3934-16">Dong Wang 0016</na></co>
+<co c="0"><na f="w/Wang:Fuwei" pid="137/0486">Fuwei Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Guangjing" pid="187/5901">Guangjing Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0035:Hao" pid="w/HaoWang35">Hao Wang 0035</na></co>
+<co c="0"><na f="w/Wang_0003:Ju" pid="65/4124-3">Ju Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Juexing" pid="349/5509">Juexing Wang</na></co>
+<co c="0"><na f="w/Wang:Junzhe" pid="233/4780">Junzhe Wang</na></co>
+<co c="0"><na f="w/Wang_0005:Lei" pid="w/LeiWang5">Lei Wang 0005</na></co>
+<co c="0"><na f="w/Wang:Leye" pid="07/8764">Leye Wang</na></co>
+<co c="0"><na f="w/Wang:Ning" pid="46/2005">Ning Wang</na></co>
+<co c="0"><na f="w/Wang:Penghao" pid="97/8711">Penghao Wang</na></co>
+<co c="0"><na f="w/Wang:Pengsen" pid="171/6249">Pengsen Wang</na></co>
+<co c="0"><na f="w/Wang:Pingchuan" pid="326/4282">Pingchuan Wang</na></co>
+<co c="0"><na f="w/Wang_0007:Qing" pid="97/6505-7">Qing Wang 0007</na></co>
+<co c="0"><na f="w/Wang:Qiwei" pid="58/10186">Qiwei Wang</na></co>
+<co c="0"><na f="w/Wang:Ruize" pid="254/0867">Ruize Wang</na></co>
+<co c="0"><na f="w/Wang:Sulei" pid="206/9022">Sulei Wang</na></co>
+<co c="0"><na f="w/Wang:Tianben" pid="171/9762">Tianben Wang</na></co>
+<co c="0"><na f="w/Wang_0050:Wei" pid="35/7092-50">Wei Wang 0050</na></co>
+<co c="0"><na f="w/Wang_0056:Wei" pid="35/7092-56">Wei Wang 0056</na></co>
+<co c="0"><na f="w/Wang:Xiaojing" pid="13/2832">Xiaojing Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Xin" pid="10/5630-2">Xin Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0003:Xin" pid="10/5630-3">Xin Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Xuan" pid="34/4799">Xuan Wang</na></co>
+<co c="0"><na f="w/Wang:Xuanzhi" pid="43/2614">Xuanzhi Wang</na></co>
+<co c="0"><na f="w/Wang:Yasha" pid="70/2725">Yasha Wang</na></co>
+<co c="0"><na f="w/Wang_0012:Yibo" pid="25/4764-12">Yibo Wang 0012</na></co>
+<co c="0"><na f="w/Wang_0002:Yu" pid="w/YuWang2">Yu Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0003:Yu" pid="w/YuWang3">Yu Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Yuxiang" pid="62/1637">Yuxiang Wang</na></co>
+<co c="0"><na f="w/Wang:Zhaohe" pid="257/1645">Zhaohe Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Zheng" pid="w/ZhengWang1">Zheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zhi" pid="95/6543">Zhi Wang</na></co>
+<co c="0"><na f="w/We:Qing" pid="331/1804">Qing We</na></co>
+<co c="0"><na f="w/Wei:Jingwen" pid="216/3941">Jingwen Wei</na></co>
+<co c="0"><na f="w/Wei:Xudong" pid="260/3379">Xudong Wei</na></co>
+<co c="0"><na f="w/Wei:Yuheng" pid="222/0202">Yuheng Wei</na></co>
+<co c="0"><na f="w/Wei:Zhaolong" pid="305/7543">Zhaolong Wei</na></co>
+<co c="0"><na f="w/Wu_0007:Dan" pid="19/5635-7">Dan Wu 0007</na></co>
+<co c="0"><na f="w/Wu:Guowei" pid="51/1027">Guowei Wu</na></co>
+<co c="0"><na f="w/Wu:Hongjia" pid="209/2684">Hongjia Wu</na></co>
+<co c="0"><na f="w/Wu_0003:Yuli" pid="270/1708-3">Yuli Wu 0003</na></co>
+<co c="0"><na f="w/Wu:Yun" pid="32/5387">Yun Wu</na></co>
+<co c="0"><na f="x/Xiang:Chaocan" pid="95/10658">Chaocan Xiang</na></co>
+<co c="1"><na f="x/Xiang_0001:Yong" pid="98/2912-1">Yong Xiang 0001</na></co>
+<co c="0"><na f="x/Xiao:Mingjun" pid="94/3601">Mingjun Xiao</na></co>
+<co c="0"><na f="x/Xiao:Zhu" pid="18/7081">Zhu Xiao</na></co>
+<co c="0"><na f="x/Xie:Binbin" pid="172/5431">Binbin Xie</na></co>
+<co c="0"><na f="x/Xie:Yaxiong" pid="167/5888">Yaxiong Xie</na></co>
+<co c="0"><na f="x/Xu:Tingting" pid="85/2516">Tingting Xu</na></co>
+<co c="0"><na f="x/Xu:Yuedong" pid="26/340">Yuedong Xu</na></co>
+<co c="0"><na f="x/Xue:Xinyu" pid="128/8238">Xinyu Xue</na></co>
+<co c="0"><na f="y/Yan:Qiben" pid="86/10809">Qiben Yan</na></co>
+<co c="0"><na f="y/Yan:Tao" pid="31/1175">Tao Yan</na></co>
+<co c="0"><na f="y/Yan:Yubo" pid="59/9033">Yubo Yan</na></co>
+<co c="0"><na f="y/Yang:Kun" pid="63/1587">Kun Yang</na></co>
+<co c="0"><na f="y/Yang:Panlong" pid="79/1482">Panlong Yang</na></co>
+<co c="0"><na f="y/Yang_0011:Xu" pid="63/1534-11">Xu Yang 0011</na></co>
+<co c="0"><na f="y/Yang_0008:Yongjie" pid="13/9959-8">Yongjie Yang 0008</na></co>
+<co c="0"><na f="y/Yao:Enjie" pid="377/0596">Enjie Yao</na></co>
+<co c="0"><na f="y/Yao:Zhiyun" pid="319/9679">Zhiyun Yao</na></co>
+<co c="0"><na f="y/Ye:Hanting" pid="230/2591">Hanting Ye</na></co>
+<co c="0"><na f="y/Yi:Enze" pid="205/5894">Enze Yi</na></co>
+<co c="0"><na f="y/Yin:Yuqing" pid="166/9147">Yuqing Yin</na></co>
+<co c="0"><na f="y/Yu:Anlan" pid="192/7993">Anlan Yu</na></co>
+<co c="0"><na f="y/Yu:Yingtao" pid="57/11129">Yingtao Yu</na></co>
+<co c="0"><na f="y/Yu:Yongda" pid="270/4006">Yongda Yu</na></co>
+<co c="0"><na f="y/Yuan:Kuang" pid="279/2856">Kuang Yuan</na></co>
+<co c="0"><na f="z/Zeng:Youwei" pid="228/5425">Youwei Zeng</na></co>
+<co c="0"><na f="z/Zhang_0001:Daqing" pid="83/1359-1">Daqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Fusang" pid="68/10002">Fusang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiayi" pid="23/8208">Jiayi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jingchi" pid="205/0387">Jingchi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lichao" pid="126/8027">Lichao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lupeng" pid="266/7352">Lupeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Maotian" pid="140/1004">Maotian Zhang</na></co>
+<co c="0"><na f="z/Zhang_0008:Qiang" pid="72/3527-8">Qiang Zhang 0008</na></co>
+<co c="0"><na f="z/Zhang_0006:Tao" pid="15/4777-6">Tao Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang_0006:Wenbo" pid="31/966-6">Wenbo Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiaoxue" pid="14/10138-1">Xiaoxue Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0021:Xu" pid="98/5660-21">Xu Zhang 0021</na></co>
+<co c="0"><na f="z/Zhang:Yanyong" pid="44/2799">Yanyong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yichuan" pid="12/7841">Yichuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yingchun" pid="07/3902">Yingchun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yue" pid="47/722">Yue Zhang</na></co>
+<co c="0"><na f="z/Zhao_0001:Jin" pid="97/4765-1">Jin Zhao 0001</na></co>
+<co c="0"><na f="z/Zheng_0001:Rong" pid="40/6068-1">Rong Zheng 0001</na></co>
+<co c="0"><na f="z/Zheng:Tianyue" pid="205/2918">Tianyue Zheng</na></co>
+<co c="0"><na f="z/Zheng_0002:Xiaolong" pid="98/3341-2">Xiaolong Zheng 0002</na></co>
+<co c="0"><na f="z/Zhou_0001:Hao" pid="63/778-1">Hao Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou:Jiarun" pid="355/8425">Jiarun Zhou</na></co>
+<co c="0"><na f="z/Zhu:Guorong" pid="167/7757">Guorong Zhu</na></co>
+<co c="0"><na f="z/Zhu_0002:Yu" pid="38/5267-2">Yu Zhu 0002</na></co>
+<co c="0"><na f="z/Zuniga:Marco" pid="z/MarcoZuniga">Marco Zuniga</na></co>
+</coauthors>
+</dblpperson>
+

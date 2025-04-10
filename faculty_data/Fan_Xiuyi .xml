@@ -1,0 +1,1084 @@
+<?xml version="1.0"?>
+<dblpperson name="Xiuyi Fan" pid="35/6803" n="71">
+<person key="homepages/35/6803" mdate="2018-04-12">
+<author pid="35/6803">Xiuyi Fan</author>
+<url>https://sites.google.com/site/xfan09/</url>
+<url>https://scholar.google.com/citations?user=FNNfuiQAAAAJ</url>
+</person>
+<r><article key="journals/eait/ZhongZHWF24" mdate="2025-03-03">
+<author pid="348/6889">Tianlong Zhong</author>
+<author orcid="0000-0003-4589-0775" pid="151/4214">Gaoxia Zhu</author>
+<author pid="178/5526">Chenyu Hou</author>
+<author orcid="0009-0000-0365-0277" pid="60/6089">Yuhan Wang</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>The influences of ChatGPT on undergraduate students' demonstrated and perceived interdisciplinary learning.</title>
+<pages>23577-23603</pages>
+<year>2024</year>
+<month>December</month>
+<volume>29</volume>
+<journal>Educ. Inf. Technol.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1007/s10639-024-12787-9</ee>
+<url>db/journals/eait/eait29.html#ZhongZHWF24</url>
+<stream>streams/journals/eait</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aime/KumarLCWYNNF24" mdate="2024-08-07">
+<author pid="382/5371">Rathika Suresh Kumar</author>
+<author pid="382/4276">Kelvin Zhenghao Li</author>
+<author pid="382/4669">Si Yin Charlene Chia</author>
+<author pid="345/5504">Li Rong Wang</author>
+<author pid="382/5459">Vivien Cherng Hui Yip</author>
+<author pid="382/4948">Wei Kiong Ngo</author>
+<author pid="205/5718">Yih Yng Ng</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>On Identifying Effective Investigations with Feature Finding Using Explainable AI: An Ophthalmology Case Study.</title>
+<pages>324-334</pages>
+<year>2024</year>
+<booktitle>AIME (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-66535-6_34</ee>
+<crossref>conf/aime/2024-2</crossref>
+<url>db/conf/aime/aime2024-2.html#KumarLCWYNNF24</url>
+<stream>streams/conf/aime</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica2/HaoWLCLF24" mdate="2025-02-05">
+<author pid="394/4299">Justin Loh Teng Hao</author>
+<author pid="345/5504">Li Rong Wang</author>
+<author pid="52/5716">Chang Liu</author>
+<author pid="164/8046">Chanwoo Choi</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Exploring Epistemic and Distributional Uncertainties in Algorithmic Trading Agents.</title>
+<pages>82-87</pages>
+<year>2024</year>
+<booktitle>ICA</booktitle>
+<ee>https://doi.org/10.1109/ICA63002.2024.00025</ee>
+<crossref>conf/ica2/2024</crossref>
+<url>db/conf/ica2/ica2024.html#HaoWLCLF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/DuellSFF24" mdate="2025-02-26">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>QUCE: The Minimisation and Quantification of Path-Based Uncertainty for Generative Counterfactual Explanations.</title>
+<pages>693-698</pages>
+<year>2024</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM59182.2024.00078</ee>
+<crossref>conf/icdm/2024</crossref>
+<url>db/conf/icdm/icdm2024.html#DuellSFF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/ChoyWHLNF24" mdate="2024-09-19">
+<author pid="385/4484">Xin Yun Choy</author>
+<author pid="345/5504">Li Rong Wang</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="77/574">Kelvin Li</author>
+<author pid="205/5718">Yih Yng Ng</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Dynamic Modeling of Patient Vital Signs: Leveraging Markov Chain Principles with Neural Networks for Irregular Time-Series Prediction.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN60899.2024.10650842</ee>
+<crossref>conf/ijcnn/2024</crossref>
+<url>db/conf/ijcnn/ijcnn2024.html#ChoyWHLNF24</url>
+<stream>streams/conf/ijcnn</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-17516" mdate="2024-03-25">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>QUCE: The Minimisation and Quantification of Path-Based Uncertainty for Generative Counterfactual Explanations.</title>
+<year>2024</year>
+<volume>abs/2402.17516</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.17516</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-17516</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-13419" mdate="2024-05-25">
+<author pid="367/9857">Shengxin Hong</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>On Modeling Multi-Criteria Decision Making with Uncertain Information using Probabilistic Rules.</title>
+<year>2024</year>
+<volume>abs/2404.13419</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.13419</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-13419</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-07453" mdate="2025-02-05">
+<author pid="367/9857">Shengxin Hong</author>
+<author pid="11/11211">Chang Cai</author>
+<author pid="318/5105">Sixuan Du</author>
+<author pid="380/8775">Haiyue Feng</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>&#34;My Grade is Wrong!&#34;: A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays.</title>
+<year>2024</year>
+<volume>abs/2409.07453</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.07453</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-07453</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aied/YeeHZLLF23" mdate="2023-09-30">
+<author pid="350/5422">Bryan Lim Cheng Yee</author>
+<author pid="178/5526">Chenyu Hou</author>
+<author orcid="0000-0003-4589-0775" pid="151/4214">Gaoxia Zhu</author>
+<author pid="59/4743">Fun Siong Lim</author>
+<author pid="268/5763">Shengfei Lyu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>A Software Platform for Evaluating Student Essays in Interdisciplinary Learning with Topic Classification Techniques.</title>
+<pages>645-651</pages>
+<year>2023</year>
+<booktitle>AIED (Posters/Late Breaking Results/...)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-36336-8_100</ee>
+<crossref>conf/aied/2023p</crossref>
+<url>db/conf/aied/aied2023p.html#YeeHZLLF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aime/DuellFFS23" mdate="2023-06-15">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-4373-8203" pid="307/6872">Hsuan Fu</author>
+<author orcid="0000-0002-2226-386X" pid="75/6874">Monika Seisenberger</author>
+<title>Batch Integrated Gradients: Explanations for Temporal Electronic Health Records.</title>
+<pages>120-124</pages>
+<year>2023</year>
+<booktitle>AIME</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-34344-5_15</ee>
+<crossref>conf/aime/2023</crossref>
+<url>db/conf/aime/aime2023.html#DuellFFS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/Fan23" mdate="2023-05-23">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Probabilistic Deduction as a Probabilistic Extension of Assumption-based Argumentation.</title>
+<pages>2352-2354</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598931</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#Fan23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/DuellSF23" mdate="2024-02-12">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Counterfactual-Integrated Gradients: Counterfactual Feature Attribution for Medical Records.</title>
+<pages>2975-2982</pages>
+<year>2023</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM58861.2023.10385466</ee>
+<crossref>conf/bibm/2023</crossref>
+<url>db/conf/bibm/bibm2023.html#DuellSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/HendersonSMFLRN23" mdate="2023-05-10">
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="210/6015">David Sacharny</author>
+<author pid="00/5397">Amar Mitiche</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="346/2964">Amelia C. Lessen</author>
+<author pid="346/3304">Ishaan Rajan</author>
+<author pid="346/3364">Tessa Nishida</author>
+<title>Chop-SAT: A New Approach to Solving SAT and Probabilistic SAT for Agent Knowledge Bases.</title>
+<pages>48-54</pages>
+<year>2023</year>
+<booktitle>ICAART (3)</booktitle>
+<ee>https://doi.org/10.5220/0011614400003393</ee>
+<crossref>conf/icaart/2023-3</crossref>
+<url>db/conf/icaart/icaart2023-3.html#HendersonSMFLRN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/DuellSZFF23" mdate="2024-01-09">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="348/6889">Tianlong Zhong</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>A Formal Introduction to Batch-Integrated Gradients for Temporal Explanations.</title>
+<pages>452-459</pages>
+<year>2023</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI59109.2023.00072</ee>
+<crossref>conf/ictai/2023</crossref>
+<url>db/conf/ictai/ictai2023.html#DuellSZFF23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-09937" mdate="2023-04-26">
+<author pid="345/5504">Li Rong Wang</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Stock Price Predictability and the Business Cycle via Machine Learning.</title>
+<year>2023</year>
+<volume>abs/2304.09937</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.09937</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-09937</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-18616" mdate="2025-03-03">
+<author pid="151/4214">Gaoxia Zhu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="178/5526">Chenyu Hou</author>
+<author pid="348/6889">Tianlong Zhong</author>
+<author pid="66/6220">Peter Sen Kee Seow</author>
+<author pid="116/2520">Shen-Hsing Annabel Chen</author>
+<author orcid="0000-0001-6612-205X" pid="241/6452">Preman Rajalingam</author>
+<author pid="348/6957">Low Kin Yew</author>
+<author pid="348/6391">Tan Lay Poh</author>
+<title>Embrace Opportunities and Face Challenges: Using ChatGPT in Undergraduate Students' Collaborative Interdisciplinary Learning.</title>
+<year>2023</year>
+<volume>abs/2305.18616</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.18616</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-18616</url>
+</article>
+</r>
+<r><inproceedings key="conf/comma/Fan22" mdate="2022-09-29">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Rule-PSAT: Relaxing Rule Constraints in Probabilistic Assumption-Based Argumentation.</title>
+<pages>152-163</pages>
+<year>2022</year>
+<booktitle>COMMA</booktitle>
+<ee>https://doi.org/10.3233/FAIA220149</ee>
+<crossref>conf/comma/2022</crossref>
+<url>db/conf/comma/comma2022.html#Fan22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inista/KovvuriLSFMF22" mdate="2025-02-05">
+<author orcid="0000-0003-2592-6224" pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-9590-4517" pid="134/4889">Berndt M&#252;ller</author>
+<author pid="307/6872">Hsuan Fu</author>
+<title>On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>INISTA</booktitle>
+<ee>https://doi.org/10.1109/INISTA55318.2022.9894147</ee>
+<crossref>conf/inista/2022</crossref>
+<url>db/conf/inista/inista2022.html#KovvuriLSFMF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/DuellFS22" mdate="2022-10-18">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-2226-386X" pid="75/6874">Monika Seisenberger</author>
+<title>Towards Polynomial Adaptive Local Explanations for Healthcare Classifiers.</title>
+<pages>411-420</pages>
+<year>2022</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-16564-1_39</ee>
+<crossref>conf/ismis/2022</crossref>
+<url>db/conf/ismis/ismis2022.html#DuellFS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/SeisenbergerBFF22" mdate="2022-11-13">
+<author orcid="0000-0002-2226-386X" pid="75/6874">Monika Seisenberger</author>
+<author orcid="0000-0002-2930-6367" pid="b/MHterBeek">Maurice H. ter Beek</author>
+<author orcid="0000-0003-1223-9986" pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-0636-5663" pid="21/7271">Alessio Ferrari 0001</author>
+<author orcid="0000-0001-7349-8872" pid="70/2068">Anne E. Haxthausen</author>
+<author orcid="0000-0002-4307-649X" pid="31/10525">Phillip James</author>
+<author pid="120/2029">Andrew Lawrence</author>
+<author orcid="0000-0001-6710-8436" pid="l/BasLuttik">Bas Luttik</author>
+<author orcid="0000-0003-4305-0625" pid="p/JvdPol">Jaco van de Pol</author>
+<author orcid="0000-0001-5998-4655" pid="132/9797">Simon Wimmer 0001</author>
+<title>Safe and Secure Future AI-Driven Railway Technologies: Challenges for Formal Methods in Railway.</title>
+<pages>246-268</pages>
+<year>2022</year>
+<booktitle>ISoLA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19762-8_20</ee>
+<crossref>conf/isola/2022-4</crossref>
+<url>db/conf/isola/isola2022-4.html#SeisenbergerBFF22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-06692" mdate="2022-01-21">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>Explainable Decision Making with Lean and Argumentative Explanations.</title>
+<year>2022</year>
+<volume>abs/2201.06692</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.06692</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-06692</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-12701" mdate="2025-02-05">
+<author pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="134/4889">Berndt M&#252;ller</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.</title>
+<year>2022</year>
+<volume>abs/2203.12701</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.12701</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-12701</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-00210" mdate="2022-09-19">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Probabilistic Deduction: an Approach to Probabilistic Structured Argumentation.</title>
+<year>2022</year>
+<volume>abs/2209.00210</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.00210</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-00210</url>
+</article>
+</r>
+<r><inproceedings key="conf/bhi/DuellFBAZ21" mdate="2022-12-07">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="299/7207">Bruce Burnett</author>
+<author pid="286/1095">Gert Aarts</author>
+<author orcid="0000-0002-0719-9353" pid="77/479">Shang-Ming Zhou</author>
+<title>A Comparison of Explanations Given by Explainable Artificial Intelligence Methods on Analysing Electronic Health Records.</title>
+<pages>1-4</pages>
+<year>2021</year>
+<booktitle>BHI</booktitle>
+<ee>https://doi.org/10.1109/BHI50953.2021.9508618</ee>
+<crossref>conf/bhi/2021</crossref>
+<url>db/conf/bhi/bhi2021.html#DuellFBAZ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicai/FanL21" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Explainable AI for Classification Using Probabilistic Logic Inference.</title>
+<pages>16-26</pages>
+<year>2021</year>
+<booktitle>CICAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93049-3_2</ee>
+<crossref>conf/cicai/2021-2</crossref>
+<url>db/conf/cicai/cicai2021-2.html#FanL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/KapciaEDFZM21" mdate="2022-12-07">
+<author pid="309/4414">Marcin Kapcia</author>
+<author orcid="0000-0001-7795-453X" pid="309/4505">Hassan Eshkiki</author>
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-0719-9353" pid="77/479">Shang-Ming Zhou</author>
+<author orcid="0000-0002-2945-3519" pid="75/5158">Benjamin Mora</author>
+<title>ExMed: An AI Tool for Experimenting Explainable AI Techniques on Medical Data Analytics.</title>
+<pages>841-845</pages>
+<year>2021</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI52525.2021.00134</ee>
+<crossref>conf/ictai/2021</crossref>
+<url>db/conf/ictai/ictai2021.html#KapciaEDFZM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pricai/HinnsFLKYR21" mdate="2025-02-05">
+<author orcid="0000-0002-4144-5757" pid="304/6550">James Hinns</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0003-2592-6224" pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="304/6623">Mehmet Orcun Yalcin</author>
+<author pid="86/743">Markus Roggenbach</author>
+<title>An Initial Study of Machine Learning Underspecification Using Feature Attribution Explainable AI Algorithms: A COVID-19 Virus Transmission Case Study.</title>
+<pages>323-335</pages>
+<year>2021</year>
+<booktitle>PRICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-89188-6_24</ee>
+<crossref>conf/pricai/2021-1</crossref>
+<url>db/conf/pricai/pricai2021-1.html#HinnsFLKYR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-09740" mdate="2025-02-05">
+<author pid="293/6685">Orcun Yalcin</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Evaluating the Correctness of Explainable AI Algorithms for Classification.</title>
+<year>2021</year>
+<volume>abs/2105.09740</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.09740</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-09740</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-14620" mdate="2025-02-05">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="304/6623">Mehmet Orcun Yalcin</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>An Investigation of the Impact of COVID-19 Non-Pharmaceutical Interventions and Economic Support Policies on Foreign Exchange Markets with Explainable AI Techniques.</title>
+<year>2021</year>
+<volume>abs/2111.14620</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.14620</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-14620</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-14624" mdate="2024-10-06">
+<author pid="287/4716">Jamie Andrew Duell</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="286/1095">Gert Aarts</author>
+<author orcid="0000-0002-0719-9353" pid="77/479">Shang-Ming Zhou</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Towards a Shapley Value Graph Framework for Medical peer-influence.</title>
+<year>2021</year>
+<volume>abs/2112.14624</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.14624</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-14624</url>
+</article>
+</r>
+<r><article key="journals/ai/HendersonSSCSFM20" mdate="2020-10-26">
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="75/9393">Robert Simmons</author>
+<author pid="232/4916">Bernard Serbinowski</author>
+<author pid="164/9981">Michael Cline</author>
+<author orcid="0000-0002-1625-3913" pid="210/6015">David Sacharny</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/5397">Amar Mitiche</author>
+<title>Probabilistic sentence satisfiability: An approach to PSAT.</title>
+<year>2020</year>
+<volume>278</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2019.103199</ee>
+<url>db/journals/ai/ai278.html#HendersonSSCSFM20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-02074" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<title>Explainable AI for Classification using Probabilistic Logic Inference.</title>
+<year>2020</year>
+<volume>abs/2005.02074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.02074</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-02074</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-06612" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="259/2649">Jiarong Chen</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<title>An Investigation of COVID-19 Spreading Factors with Explainable AI Techniques.</title>
+<year>2020</year>
+<volume>abs/2005.06612</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.06612</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-06612</url>
+</article>
+</r>
+<r><article key="journals/eswa/ZhongFLT19" mdate="2025-01-19">
+<author orcid="0000-0003-3774-3011" pid="135/5114">Qiaoting Zhong</author>
+<author orcid="0000-0003-1223-9986" pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-8615-6342" pid="86/2830">Xudong Luo</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>An explainable multi-attribute decision model based on argumentation.</title>
+<pages>42-61</pages>
+<year>2019</year>
+<volume>117</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2018.09.038</ee>
+<ee>https://www.wikidata.org/entity/Q129207795</ee>
+<url>db/journals/eswa/eswa117.html#ZhongFLT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ZengFMLCO18" mdate="2018-07-16">
+<author pid="149/8306">Zhiwei Zeng</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="175/5581">Jing Jih Chin</author>
+<author pid="64/4136">Yew-Soon Ong</author>
+<title>Context-based and Explainable Decision Making with Argumentation.</title>
+<pages>1114-1122</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3237862</ee>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#ZengFMLCO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ias/HendersonSSFMC18" mdate="2019-01-03">
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="75/9393">Robert Simmons</author>
+<author pid="232/4916">Bernard Serbinowski</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/5397">Amar Mitiche</author>
+<author pid="164/9981">Michael Cline</author>
+<title>Probabilistic Logic for Intelligent Systems.</title>
+<pages>129-141</pages>
+<year>2018</year>
+<booktitle>IAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01370-7_11</ee>
+<crossref>conf/ias/2018</crossref>
+<url>db/conf/ias/ias2018.html#HendersonSSFMC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/Fan18" mdate="2018-10-24">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>On Generating Explainable Plans with Assumption-Based Argumentation.</title>
+<pages>344-361</pages>
+<year>2018</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03098-8_21</ee>
+<crossref>conf/prima/2018</crossref>
+<url>db/conf/prima/prima2018.html#Fan18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/Fan18a" mdate="2018-10-24">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>A Temporal Planning Example with Assumption-Based Argumentation.</title>
+<pages>362-370</pages>
+<year>2018</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03098-8_22</ee>
+<crossref>conf/prima/2018</crossref>
+<url>db/conf/prima/prima2018.html#Fan18a</url>
+</inproceedings>
+</r>
+<r><article key="journals/flap/CyrasFST17" mdate="2020-03-12">
+<author pid="173/8289">Kristijonas Cyras</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="125/4725-1">Claudia Schulz 0001</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>Assumption-based Argumentation: Disputes, Explanations, Preferences.</title>
+<year>2017</year>
+<volume>4</volume>
+<journal>FLAP</journal>
+<number>8</number>
+<ee type="oa">http://www.collegepublications.co.uk/downloads/ifcolog00017.pdf</ee>
+<url>db/journals/flap/flap4.html#CyrasFST17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FanLZML17" mdate="2025-02-04">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="68/6056">Huiguo Zhang</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Two Forms of Explanations in Computational Assumption-based Argumentation.</title>
+<pages>1532-1534</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091352</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#FanLZML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/FanZLS17" mdate="2024-05-07">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Robust unobtrusive fall detection using infrared array sensors.</title>
+<pages>194-199</pages>
+<year>2017</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2017.8170428</ee>
+<crossref>conf/mfi/2017</crossref>
+<url>db/conf/mfi/mfi2017.html#FanZLS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/SacharnyHSMWF17" mdate="2020-10-25">
+<author orcid="0000-0002-1625-3913" pid="210/6015">David Sacharny</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="75/9393">Robert Simmons</author>
+<author pid="00/5397">Amar Mitiche</author>
+<author pid="210/6032">T. Welker</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>BRECCIA: A novel multi-source fusion framework for dynamic geospatial data analysis.</title>
+<pages>390-396</pages>
+<year>2017</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2017.8170352</ee>
+<crossref>conf/mfi/2017</crossref>
+<url>db/conf/mfi/mfi2017.html#SacharnyHSMWF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/HendersonSSMF17" mdate="2020-10-25">
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<author pid="75/9393">Robert Simmons</author>
+<author orcid="0000-0002-1625-3913" pid="210/6015">David Sacharny</author>
+<author pid="00/5397">Amar Mitiche</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>A probabilistic logic for multi-source heterogeneous information fusion.</title>
+<pages>530-535</pages>
+<year>2017</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2017.8170375</ee>
+<crossref>conf/mfi/2017</crossref>
+<url>db/conf/mfi/mfi2017.html#HendersonSSMF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/segah/QiuLNZKFM17" mdate="2022-10-02">
+<author orcid="0000-0003-0836-782X" pid="57/7487">Yang Qiu</author>
+<author pid="201/3871">Kun Man Li</author>
+<author pid="201/4058">Eng Chuan Neoh</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="201/4117">Xin Yue Khaw</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Fun-Knee&#8482;: A novel smart knee sleeve for Total-Knee-Replacement rehabilitation with gamification.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>SeGAH</booktitle>
+<ee>https://doi.org/10.1109/SeGAH.2017.7939284</ee>
+<crossref>conf/segah/2017</crossref>
+<url>db/conf/segah/segah2017.html#QiuLNZKFM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FanT16" mdate="2016-05-20">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>On the Interplay between Games, Argumentation and Dialogues.</title>
+<pages>260-268</pages>
+<year>2016</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2936964</ee>
+<crossref>conf/atal/2016</crossref>
+<url>db/conf/atal/aamas2016.html#FanT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LiuFM16" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Identifying and Rewarding Subcrowds in Crowdsourcing.</title>
+<pages>1573-1574</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-672-9-1573</ee>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#LiuFM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FanLZLM16" mdate="2025-02-04">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Explained Activity Recognition with Computational Assumption-Based Argumentation.</title>
+<pages>1590-1591</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-672-9-1590</ee>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#FanLZLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/FanZLM16" mdate="2024-05-07">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Comparative study of machine learning algorithms for activity recognition with data sequence in home-like environment.</title>
+<pages>168-173</pages>
+<year>2016</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2016.7849484</ee>
+<crossref>conf/mfi/2016</crossref>
+<url>db/conf/mfi/mfi2016.html#FanZLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfi/FanZLM16a" mdate="2020-06-15">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A first step towards explained activity recognition with computational abstract argumentation.</title>
+<pages>186-191</pages>
+<year>2016</year>
+<booktitle>MFI</booktitle>
+<ee>https://doi.org/10.1109/MFI.2016.7849487</ee>
+<crossref>conf/mfi/2016</crossref>
+<url>db/conf/mfi/mfi2016.html#FanZLM16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/FanT15" mdate="2023-09-18">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>On Computing Explanations in Argumentation.</title>
+<pages>1496-1502</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v29i1.9420</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#FanT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gkr/CarstensFGT15" mdate="2019-06-02">
+<author pid="32/8726">Lucas Carstens</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="89/4402-21">Yang Gao 0021</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>An Overview of Argumentation Frameworks for Decision Support.</title>
+<pages>32-49</pages>
+<year>2015</year>
+<booktitle>GKR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28702-7_3</ee>
+<ee>https://www.wikidata.org/entity/Q62047979</ee>
+<crossref>conf/gkr/2015</crossref>
+<url>db/conf/gkr/gkr2015.html#CarstensFGT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/FanT15" mdate="2023-11-12">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>Mechanism Design for Argumentation-Based Information-Seeking and Inquiry.</title>
+<pages>519-527</pages>
+<year>2015</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25524-8_34</ee>
+<crossref>conf/prima/2015</crossref>
+<url>db/conf/prima/prima2015.html#FanT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tafa/FanT15" mdate="2017-05-26">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>On Explanations for Non-Acceptable Arguments.</title>
+<pages>112-127</pages>
+<year>2015</year>
+<booktitle>TAFA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28460-6_7</ee>
+<crossref>conf/tafa/2015</crossref>
+<url>db/conf/tafa/tafa2015.html#FanT15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/FanT14" mdate="2019-06-02">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>A general framework for sound assumption-based argumentation dialogues.</title>
+<pages>20-54</pages>
+<year>2014</year>
+<volume>216</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2014.06.001</ee>
+<ee>https://www.wikidata.org/entity/Q62047982</ee>
+<url>db/journals/ai/ai216.html#FanT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FanTMW14" mdate="2018-08-24">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<author pid="128/5755">Andrei Mocanu</author>
+<author pid="59/4890-1">Matthew Williams 0001</author>
+<title>Dialogical two-agent decision making with assumption-based argumentation.</title>
+<pages>533-540</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2615818</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#FanTMW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FanT14" mdate="2025-01-15">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>On Computing Explanations in Abstract Argumentation.</title>
+<pages>1005-1006</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-419-0-1005</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FanT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsi/ZhongFTL14" mdate="2023-03-10">
+<author pid="135/5114">Qiaoting Zhong</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<author pid="86/2830">Xudong Luo</author>
+<title>Explaining Best Decisions via Argumentation.</title>
+<pages>224-237</pages>
+<year>2014</year>
+<booktitle>ECSI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1283/paper_28.pdf</ee>
+<crossref>conf/ecsi/2014</crossref>
+<url>db/conf/ecsi/ecsi2014.html#ZhongFTL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clima/FanCSTW13" mdate="2018-08-23">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="56/3230">Robert Craven</author>
+<author pid="134/5006">Ramsay Singer</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<author orcid="0000-0001-7096-0718" pid="59/4890-1">Matthew Williams 0001</author>
+<title>Assumption-Based Argumentation for Decision-Making with Preferences: A Medical Case Study.</title>
+<pages>374-390</pages>
+<year>2013</year>
+<booktitle>CLIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40624-9_23</ee>
+<crossref>conf/clima/2013</crossref>
+<url>db/conf/clima/clima2013.html#FanCSTW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tafa/FanT13" mdate="2019-06-02">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>Decision Making with Assumption-Based Argumentation.</title>
+<pages>127-142</pages>
+<year>2013</year>
+<booktitle>TAFA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54373-9_9</ee>
+<ee>https://www.wikidata.org/entity/Q62047989</ee>
+<crossref>conf/tafa/2013</crossref>
+<url>db/conf/tafa/tafa2013.html#FanT13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Fan12" mdate="2022-04-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Assumption-based argumentation dialogues.</title>
+<year>2012</year>
+<school>Imperial College London, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.566404</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/comma/FanT12" mdate="2023-11-12">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>Argumentation Dialogues for Two-Agent Conflict Resolution.</title>
+<pages>249-260</pages>
+<year>2012</year>
+<booktitle>COMMA</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-111-3-249</ee>
+<crossref>conf/comma/2012</crossref>
+<url>db/conf/comma/comma2012.html#FanT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/FanT12a" mdate="2023-11-12">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>Mechanism Design for Argumentation-based Persuasion.</title>
+<pages>322-333</pages>
+<year>2012</year>
+<booktitle>COMMA</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-111-3-322</ee>
+<crossref>conf/comma/2012</crossref>
+<url>db/conf/comma/comma2012.html#FanT12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FanT12" mdate="2025-01-15">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>Agent Strategies for ABA-based Information-seeking and Inquiry Dialogues.</title>
+<pages>324-329</pages>
+<year>2012</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-098-7-324</ee>
+<crossref>conf/ecai/2012</crossref>
+<url>db/conf/ecai/ecai2012.html#FanT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FanT11" mdate="2011-11-18">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>Conflict resolution with argumentation dialogues.</title>
+<pages>1095-1096</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034435&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#FanT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/Fan11" mdate="2011-11-18">
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Agent dialogues and argumentation.</title>
+<pages>1341-1342</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034556&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#Fan11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FanT11" mdate="2017-05-23">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>Assumption-Based Argumentation Dialogues.</title>
+<pages>198-203</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-044</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#FanT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tafa/FanT11" mdate="2017-05-26">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>A First Step towards Argumentation Dialogues for Discovery.</title>
+<pages>263-279</pages>
+<year>2011</year>
+<booktitle>TAFA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29184-5_17</ee>
+<crossref>conf/tafa/2011</crossref>
+<url>db/conf/tafa/tafa2011.html#FanT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/FanTH10" mdate="2023-11-12">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<author pid="30/9515">Adil Hussain</author>
+<title>Two-Agent Conflict Resolution with Assumption-Based Argumentation.</title>
+<pages>231-242</pages>
+<year>2010</year>
+<booktitle>COMMA</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-619-5-231</ee>
+<crossref>conf/comma/2010</crossref>
+<url>db/conf/comma/comma2010.html#FanTH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/FanSONHLD10" mdate="2022-01-18">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="03/1138">Surya P. N. Singh</author>
+<author pid="81/8365">Florian Oppolzer</author>
+<author pid="47/6892">Eric Nettleton</author>
+<author pid="97/343">Ross Hennessy</author>
+<author pid="266/3041">Alexander Lowe</author>
+<author pid="13/6852">Hugh F. Durrant-Whyte</author>
+<title>Integrated planning and control of large tracked vehicles in open terrain.</title>
+<pages>4424-4430</pages>
+<year>2010</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2010.5509392</ee>
+<crossref>conf/icra/2010</crossref>
+<url>db/conf/icra/icra2010.html#FanSONHLD10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhr/FanH08" mdate="2020-03-13">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<title>Robotshare: a Google for Robots.</title>
+<pages>311-329</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Int. J. Humanoid Robotics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219843608001388</ee>
+<url>db/journals/ijhr/ijhr5.html#FanH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/gca/FanT07" mdate="2008-01-03">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="86/6654">Thanh N. Truong</author>
+<title>Towards a Transparent Grid Access an Introduction to Grid Resource Utilization Package in Computational Science and Engineering Online.</title>
+<pages>166-170</pages>
+<year>2007</year>
+<crossref>conf/gca/2007</crossref>
+<booktitle>GCA</booktitle>
+<url>db/conf/gca/gca2007.html#FanT07</url>
+</inproceedings>
+</r>
+<coauthors n="93" nc="1">
+<co c="0"><na f="a/Aarts:Gert" pid="286/1095">Gert Aarts</na></co>
+<co c="0"><na f="b/Beek:Maurice_H=_ter" pid="b/MHterBeek">Maurice H. ter Beek</na></co>
+<co c="0"><na f="b/Burnett:Bruce" pid="299/7207">Bruce Burnett</na></co>
+<co c="0"><na f="c/Cai:Chang" pid="11/11211">Chang Cai</na></co>
+<co c="0"><na f="c/Carstens:Lucas" pid="32/8726">Lucas Carstens</na></co>
+<co c="0"><na f="c/Chen:Jiarong" pid="259/2649">Jiarong Chen</na></co>
+<co c="0"><na f="c/Chen:Shen=Hsing_Annabel" pid="116/2520">Shen-Hsing Annabel Chen</na></co>
+<co c="0"><na f="c/Chia:Si_Yin_Charlene" pid="382/4669">Si Yin Charlene Chia</na></co>
+<co c="0"><na f="c/Chin:Jing_Jih" pid="175/5581">Jing Jih Chin</na></co>
+<co c="0"><na f="c/Choi:Chanwoo" pid="164/8046">Chanwoo Choi</na></co>
+<co c="0"><na f="c/Choy:Xin_Yun" pid="385/4484">Xin Yun Choy</na></co>
+<co c="0"><na f="c/Cline:Michael" pid="164/9981">Michael Cline</na></co>
+<co c="0"><na f="c/Craven:Robert" pid="56/3230">Robert Craven</na></co>
+<co c="0"><na f="c/Cyras:Kristijonas" pid="173/8289">Kristijonas Cyras</na></co>
+<co c="0"><na f="d/Du:Sixuan" pid="318/5105">Sixuan Du</na></co>
+<co c="0"><na f="d/Duell:Jamie_Andrew" pid="287/4716">Jamie Andrew Duell</na></co>
+<co c="0"><na f="d/Durrant=Whyte:Hugh_F=" pid="13/6852">Hugh F. Durrant-Whyte</na></co>
+<co c="0"><na f="e/Eshkiki:Hassan" pid="309/4505">Hassan Eshkiki</na></co>
+<co c="0"><na f="f/Feng:Haiyue" pid="380/8775">Haiyue Feng</na></co>
+<co c="0"><na f="f/Ferrari_0001:Alessio" pid="21/7271">Alessio Ferrari 0001</na></co>
+<co c="0"><na f="f/Fu:Hsuan" pid="307/6872">Hsuan Fu</na></co>
+<co c="0"><na f="g/Gao_0021:Yang" pid="89/4402-21">Yang Gao 0021</na></co>
+<co c="0"><na f="h/Hao:Justin_Loh_Teng" pid="394/4299">Justin Loh Teng Hao</na></co>
+<co c="0"><na f="h/Haxthausen:Anne_E=" pid="70/2068">Anne E. Haxthausen</na></co>
+<co c="0"><na f="h/Henderson:Thomas_C=" pid="h/ThomasCHenderson">Thomas C. Henderson</na></co>
+<co c="0"><na f="h/Hennessy:Ross" pid="97/343">Ross Hennessy</na></co>
+<co c="0"><na f="h/Hinns:James" pid="304/6550">James Hinns</na></co>
+<co c="0"><na f="h/Hong:Shengxin" pid="367/9857">Shengxin Hong</na></co>
+<co c="0"><na f="h/Hou:Chenyu" pid="178/5526">Chenyu Hou</na></co>
+<co c="0"><na f="h/Hussain:Adil" pid="30/9515">Adil Hussain</na></co>
+<co c="0"><na f="j/James:Phillip" pid="31/10525">Phillip James</na></co>
+<co c="0"><na f="k/Kapcia:Marcin" pid="309/4414">Marcin Kapcia</na></co>
+<co c="0"><na f="k/Khaw:Xin_Yue" pid="201/4117">Xin Yue Khaw</na></co>
+<co c="0"><na f="k/Kovvuri:Veera_Raghava_Reddy" pid="304/6759">Veera Raghava Reddy Kovvuri</na></co>
+<co c="0"><na f="k/Kumar:Rathika_Suresh" pid="382/5371">Rathika Suresh Kumar</na></co>
+<co c="0"><na f="l/Lawrence:Andrew" pid="120/2029">Andrew Lawrence</na></co>
+<co c="0"><na f="l/Lessen:Amelia_C=" pid="346/2964">Amelia C. Lessen</na></co>
+<co c="0"><na f="l/Leung:Cyril" pid="76/3131">Cyril Leung</na></co>
+<co c="0"><na f="l/Li:Kelvin" pid="77/574">Kelvin Li</na></co>
+<co c="0"><na f="l/Li:Kelvin_Zhenghao" pid="382/4276">Kelvin Zhenghao Li</na></co>
+<co c="0"><na f="l/Li:Kun_Man" pid="201/3871">Kun Man Li</na></co>
+<co c="0"><na f="l/Lim:Fun_Siong" pid="59/4743">Fun Siong Lim</na></co>
+<co c="0"><na f="l/Liu:Chang" pid="52/5716">Chang Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Siyuan" pid="00/4516-3">Siyuan Liu 0003</na></co>
+<co c="0"><na f="l/Lowe:Alexander" pid="266/3041">Alexander Lowe</na></co>
+<co c="0"><na f="l/Luo:Xudong" pid="86/2830">Xudong Luo</na></co>
+<co c="0"><na f="l/Luttik:Bas" pid="l/BasLuttik">Bas Luttik</na></co>
+<co c="0"><na f="l/Lyu:Shengfei" pid="268/5763">Shengfei Lyu</na></co>
+<co c="0"><na f="m/Miao:Chunyan" pid="m/ChunyanMiao">Chunyan Miao</na></co>
+<co c="0"><na f="m/Mitiche:Amar" pid="00/5397">Amar Mitiche</na></co>
+<co c="0"><na f="m/Mocanu:Andrei" pid="128/5755">Andrei Mocanu</na></co>
+<co c="0"><na f="m/Mora:Benjamin" pid="75/5158">Benjamin Mora</na></co>
+<co c="0"><na f="m/M=uuml=ller:Berndt" pid="134/4889">Berndt M&#252;ller</na></co>
+<co c="0"><na f="n/Neoh:Eng_Chuan" pid="201/4058">Eng Chuan Neoh</na></co>
+<co c="0"><na f="n/Nettleton:Eric" pid="47/6892">Eric Nettleton</na></co>
+<co c="0"><na f="n/Ng:Yih_Yng" pid="205/5718">Yih Yng Ng</na></co>
+<co c="0"><na f="n/Ngo:Wei_Kiong" pid="382/4948">Wei Kiong Ngo</na></co>
+<co c="0"><na f="n/Nishida:Tessa" pid="346/3364">Tessa Nishida</na></co>
+<co c="0"><na f="o/Ong:Yew=Soon" pid="64/4136">Yew-Soon Ong</na></co>
+<co c="0"><na f="o/Oppolzer:Florian" pid="81/8365">Florian Oppolzer</na></co>
+<co c="0"><na f="p/Poh:Tan_Lay" pid="348/6391">Tan Lay Poh</na></co>
+<co c="0"><na f="p/Pol:Jaco_van_de" pid="p/JvdPol">Jaco van de Pol</na></co>
+<co c="0"><na f="q/Qiu:Yang" pid="57/7487">Yang Qiu</na></co>
+<co c="0"><na f="r/Rajalingam:Preman" pid="241/6452">Preman Rajalingam</na></co>
+<co c="0"><na f="r/Rajan:Ishaan" pid="346/3304">Ishaan Rajan</na></co>
+<co c="0"><na f="r/Roggenbach:Markus" pid="86/743">Markus Roggenbach</na></co>
+<co c="0"><na f="s/Sacharny:David" pid="210/6015">David Sacharny</na></co>
+<co c="0"><na f="s/Schulz_0001:Claudia" pid="125/4725-1">Claudia Schulz 0001</na></co>
+<co c="0"><na f="s/Seisenberger:Monika" pid="75/6874">Monika Seisenberger</na></co>
+<co c="0"><na f="s/Seow:Peter_Sen_Kee" pid="66/6220">Peter Sen Kee Seow</na></co>
+<co c="0"><na f="s/Serbinowski:Bernard" pid="232/4916">Bernard Serbinowski</na></co>
+<co c="0"><na f="s/Shen_0001:Zhiqi" pid="03/1554-1">Zhiqi Shen 0001</na></co>
+<co c="0"><na f="s/Simmons:Robert" pid="75/9393">Robert Simmons</na></co>
+<co c="0"><na f="s/Singer:Ramsay" pid="134/5006">Ramsay Singer</na></co>
+<co c="0"><na f="s/Singh:Surya_P=_N=" pid="03/1138">Surya P. N. Singh</na></co>
+<co c="0"><na f="t/Toni:Francesca" pid="t/FrancescaToni">Francesca Toni</na></co>
+<co c="-1"><na f="t/Truong:Thanh_N=" pid="86/6654">Thanh N. Truong</na></co>
+<co c="0"><na f="w/Wang:Li_Rong" pid="345/5504">Li Rong Wang</na></co>
+<co c="0"><na f="w/Wang:Yuhan" pid="60/6089">Yuhan Wang</na></co>
+<co c="0"><na f="w/Welker:T=" pid="210/6032">T. Welker</na></co>
+<co c="0"><na f="w/Williams_0001:Matthew" pid="59/4890-1">Matthew Williams 0001</na></co>
+<co c="0"><na f="w/Wimmer_0001:Simon" pid="132/9797">Simon Wimmer 0001</na></co>
+<co c="0"><na f="y/Yalcin:Mehmet_Orcun" pid="304/6623">Mehmet Orcun Yalcin</na></co>
+<co c="0"><na f="y/Yalcin:Orcun" pid="293/6685">Orcun Yalcin</na></co>
+<co c="0"><na f="y/Yee:Bryan_Lim_Cheng" pid="350/5422">Bryan Lim Cheng Yee</na></co>
+<co c="0"><na f="y/Yew:Low_Kin" pid="348/6957">Low Kin Yew</na></co>
+<co c="0"><na f="y/Yip:Vivien_Cherng_Hui" pid="382/5459">Vivien Cherng Hui Yip</na></co>
+<co c="0"><na f="z/Zeng:Zhiwei" pid="149/8306">Zhiwei Zeng</na></co>
+<co c="0"><na f="z/Zhang:Huiguo" pid="68/6056">Huiguo Zhang</na></co>
+<co c="0"><na f="z/Zhong:Qiaoting" pid="135/5114">Qiaoting Zhong</na></co>
+<co c="0"><na f="z/Zhong:Tianlong" pid="348/6889">Tianlong Zhong</na></co>
+<co c="0"><na f="z/Zhou:Shang=Ming" pid="77/479">Shang-Ming Zhou</na></co>
+<co c="0"><na f="z/Zhu:Gaoxia" pid="151/4214">Gaoxia Zhu</na></co>
+</coauthors>
+</dblpperson>
+

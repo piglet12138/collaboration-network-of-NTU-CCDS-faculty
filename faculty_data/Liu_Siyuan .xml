@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<dblpperson name="Siyuan Liu 0003" pid="00/4516-3" n="38">
+<person key="homepages/00/4516-3" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<note type="affiliation">Nanyang Technological University, Singapore</note>
+</person>
+<homonyms n="6">
+<h f="l/Liu:Siyuan"><person publtype="disambiguation" key="homepages/00/4516" mdate="2024-12-29">
+<author pid="00/4516">Siyuan Liu</author>
+</person>
+</h>
+<h f="l/Liu_0001:Siyuan"><person key="homepages/00/4516-1" mdate="2025-02-04">
+<author pid="00/4516-1">Siyuan Liu 0001</author>
+<note type="affiliation">Pennsylvania State University, State College, PA, USA</note>
+<url>https://orcid.org/0000-0001-8595-8637</url>
+</person>
+</h>
+<h f="l/Liu_0002:Siyuan"><person key="homepages/00/4516-2" mdate="2025-02-04">
+<author pid="00/4516-2">Siyuan Liu 0002</author>
+<note type="affiliation">KTH Royal Institute of Technology, Stockholm, Sweden</note>
+<url>https://si-yuan-liu.github.io/</url>
+<url>https://scholar.google.com/citations?user=8qKXSIkAAAAJ</url>
+<url>https://orcid.org/0000-0002-3199-4015</url>
+</person>
+</h>
+<h f="l/Liu_0004:Siyuan"><person key="homepages/00/4516-4" mdate="2025-02-04">
+<author pid="00/4516-4">Siyuan Liu 0004</author>
+<note type="affiliation">Dalian Maritime University, Dalian, China</note>
+<url>https://orcid.org/0000-0002-0946-4683</url>
+</person>
+</h>
+<h f="l/Liu_0005:Siyuan"><person key="homepages/00/4516-5" mdate="2025-02-11">
+<author pid="00/4516-5">Siyuan Liu 0005</author>
+<note type="affiliation">Microsoft Research AI4Science, Beijing, China</note>
+<url>https://orcid.org/0000-0002-1318-6540</url>
+</person>
+</h>
+<h f="l/Liu_0006:Siyuan"><person key="homepages/00/4516-6" mdate="2025-02-11">
+<author pid="00/4516-6">Siyuan Liu 0006</author>
+<note type="affiliation">Nankai University, Tianjin, China</note>
+<url>https://orcid.org/0000-0001-7810-4393</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/aied/FengDZZPFZSL24" mdate="2025-02-05">
+<author orcid="0009-0002-7239-3467" pid="380/8775">Haiyue Feng</author>
+<author orcid="0000-0003-2689-886X" pid="318/5105">Sixuan Du</author>
+<author orcid="0000-0003-4589-0775" pid="151/4214">Gaoxia Zhu</author>
+<author pid="55/3266">Yan Zou</author>
+<author pid="381/0015">Poh Boon Phua</author>
+<author orcid="0000-0002-7691-5587" pid="84/485">Yuhong Feng</author>
+<author pid="98/10074">Haoming Zhong</author>
+<author orcid="0000-0001-7626-7295" pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-5367-4709" pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Leveraging Large Language Models for Automated Chinese Essay Scoring.</title>
+<pages>454-467</pages>
+<year>2024</year>
+<booktitle>AIED (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-64302-6_32</ee>
+<crossref>conf/aied/2024-1</crossref>
+<url>db/conf/aied/aied2024-1.html#FengDZZPFZSL24</url>
+<stream>streams/conf/aied</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica2/HaoWLCLF24" mdate="2025-02-05">
+<author pid="394/4299">Justin Loh Teng Hao</author>
+<author pid="345/5504">Li Rong Wang</author>
+<author pid="52/5716">Chang Liu</author>
+<author pid="164/8046">Chanwoo Choi</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>Exploring Epistemic and Distributional Uncertainties in Algorithmic Trading Agents.</title>
+<pages>82-87</pages>
+<year>2024</year>
+<booktitle>ICA</booktitle>
+<ee>https://doi.org/10.1109/ICA63002.2024.00025</ee>
+<crossref>conf/ica2/2024</crossref>
+<url>db/conf/ica2/ica2024.html#HaoWLCLF24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-07453" mdate="2025-02-05">
+<author pid="367/9857">Shengxin Hong</author>
+<author pid="11/11211">Chang Cai</author>
+<author pid="318/5105">Sixuan Du</author>
+<author pid="380/8775">Haiyue Feng</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>&#34;My Grade is Wrong!&#34;: A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays.</title>
+<year>2024</year>
+<volume>abs/2409.07453</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.07453</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-07453</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/inista/KovvuriLSFMF22" mdate="2025-02-05">
+<author orcid="0000-0003-2592-6224" pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-9590-4517" pid="134/4889">Berndt M&#252;ller</author>
+<author pid="307/6872">Hsuan Fu</author>
+<title>On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>INISTA</booktitle>
+<ee>https://doi.org/10.1109/INISTA55318.2022.9894147</ee>
+<crossref>conf/inista/2022</crossref>
+<url>db/conf/inista/inista2022.html#KovvuriLSFMF22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-12701" mdate="2025-02-05">
+<author pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="75/6874">Monika Seisenberger</author>
+<author pid="134/4889">Berndt M&#252;ller</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.</title>
+<year>2022</year>
+<volume>abs/2203.12701</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.12701</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-12701</url>
+</article>
+</r>
+<r><article key="journals/ijhci/ZhangSLYM21" mdate="2025-02-04">
+<author orcid="0000-0001-9431-3646" pid="55/2270-49">Hao Zhang 0049</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="293/0528">Dazhong Yuan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Ping Pong: An Exergame for Cognitive Inhibition Training.</title>
+<pages>1104-1115</pages>
+<year>2021</year>
+<volume>37</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1080/10447318.2020.1870826</ee>
+<url>db/journals/ijhci/ijhci37.html#ZhangSLYM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicai/FanL21" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Explainable AI for Classification Using Probabilistic Logic Inference.</title>
+<pages>16-26</pages>
+<year>2021</year>
+<booktitle>CICAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93049-3_2</ee>
+<crossref>conf/cicai/2021-2</crossref>
+<url>db/conf/cicai/cicai2021-2.html#FanL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccse/TanZML21" mdate="2025-02-04">
+<author orcid="0000-0002-8724-9399" pid="175/5246">Benny Toh Hsiang Tan</author>
+<author pid="68/6056">Huiguo Zhang</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Exploring the use of Virtual Reality for Evaluating Activities of Daily Living: A Usability Study.</title>
+<pages>119-123</pages>
+<year>2021</year>
+<booktitle>ICCSE</booktitle>
+<ee>https://doi.org/10.1145/3503181.3503201</ee>
+<crossref>conf/iccse/2021</crossref>
+<url>db/conf/iccse/iccse2021.html#TanZML21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pricai/HinnsFLKYR21" mdate="2025-02-05">
+<author orcid="0000-0002-4144-5757" pid="304/6550">James Hinns</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0003-2592-6224" pid="304/6759">Veera Raghava Reddy Kovvuri</author>
+<author pid="304/6623">Mehmet Orcun Yalcin</author>
+<author pid="86/743">Markus Roggenbach</author>
+<title>An Initial Study of Machine Learning Underspecification Using Feature Attribution Explainable AI Algorithms: A COVID-19 Virus Transmission Case Study.</title>
+<pages>323-335</pages>
+<year>2021</year>
+<booktitle>PRICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-89188-6_24</ee>
+<crossref>conf/pricai/2021-1</crossref>
+<url>db/conf/pricai/pricai2021-1.html#HinnsFLKYR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-09740" mdate="2025-02-05">
+<author pid="293/6685">Orcun Yalcin</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Evaluating the Correctness of Explainable AI Algorithms for Classification.</title>
+<year>2021</year>
+<volume>abs/2105.09740</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.09740</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-09740</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-14620" mdate="2025-02-05">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="304/6623">Mehmet Orcun Yalcin</author>
+<author pid="307/6872">Hsuan Fu</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<title>An Investigation of the Impact of COVID-19 Non-Pharmaceutical Interventions and Economic Support Policies on Foreign Exchange Markets with Explainable AI Techniques.</title>
+<year>2021</year>
+<volume>abs/2111.14620</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.14620</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-14620</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-02074" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<title>Explainable AI for Classification using Probabilistic Logic Inference.</title>
+<year>2020</year>
+<volume>abs/2005.02074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.02074</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-02074</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-06612" mdate="2025-02-05">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="259/2649">Jiarong Chen</author>
+<author pid="h/ThomasCHenderson">Thomas C. Henderson</author>
+<title>An Investigation of COVID-19 Spreading Factors with Explainable AI Techniques.</title>
+<year>2020</year>
+<volume>abs/2005.06612</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.06612</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-06612</url>
+</article>
+</r>
+<r><article key="journals/wias/WuLM19" mdate="2025-02-04">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Recommend interesting items: How can social curiosity help?</title>
+<pages>297-311</pages>
+<year>2019</year>
+<volume>17</volume>
+<journal>Web Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/WEB-190420</ee>
+<url>db/journals/wias/wias17.html#WuLM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/LiuMMJSL18" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-4048-0817" pid="15/78">Martin J. McKeown</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Pumpkin Garden: A Mobile Game Platform for Monitoring Parkinson's Disease Symptoms.</title>
+<pages>546-560</pages>
+<year>2018</year>
+<booktitle>HCI (27)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92037-5_38</ee>
+<crossref>conf/hci/2018-27</crossref>
+<url>db/conf/hci/hci2018-27.html#LiuMMJSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica2/Liu0M18" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Personalized Recommendation Considering Secondary Implicit Feedback.</title>
+<pages>87-92</pages>
+<year>2018</year>
+<booktitle>ICA</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AGENTS.2018.8460053</ee>
+<crossref>conf/ica2/2018</crossref>
+<url>db/conf/ica2/ica2018.html#Liu0M18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/ShenCSL18" mdate="2025-03-03">
+<author pid="146/1992">Jianfei Shen</author>
+<author orcid="0000-0002-8407-0780" pid="48/1091-1">Yiqiang Chen 0001</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>A Two-Stage Incremental Update Method for Fall Detection with Wearable Device.</title>
+<pages>364-371</pages>
+<year>2018</year>
+<booktitle>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</booktitle>
+<ee>https://doi.org/10.1109/SmartWorld.2018.00093</ee>
+<crossref>conf/uic/2018</crossref>
+<url>db/conf/uic/uic2018.html#ShenCSL18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcrowdsci/00060ML17" mdate="2025-02-04">
+<author orcid="0000-0002-5926-5391" pid="55/1226-6">Jun Lin 0006</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<title>Using blockchain to build trusted LoRaWAN sharing server.</title>
+<pages>270-280</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Int. J. Crowd Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1108/ijcs-08-2017-0010</ee>
+<ee>https://www.wikidata.org/entity/Q114374640</ee>
+<url>db/journals/ijcrowdsci/ijcrowdsci1.html#00060ML17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FanLZML17" mdate="2025-02-04">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="68/6056">Huiguo Zhang</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Two Forms of Explanations in Computational Assumption-based Argumentation.</title>
+<pages>1532-1534</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091352</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#FanLZML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/TianMLSCLGM17" mdate="2025-02-04">
+<author pid="153/0728">Xiaohai Tian</author>
+<author pid="118/5253-1">Lei Meng 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0001-6257-7399" pid="c/ChngEngSiong">Eng Siong Chng</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0003-0549-142X" pid="202/0204">Frank Guan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Novel Functional Technologies for Age-Friendly E-commerce.</title>
+<pages>150-158</pages>
+<year>2017</year>
+<booktitle>HCI (28)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-58536-9_13</ee>
+<crossref>conf/hci/2017-28</crossref>
+<url>db/conf/hci/hci2017-28.html#TianMLSCLGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/WuLM17" mdate="2025-02-04">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Modeling uncertainty driven curiosity for social recommendation.</title>
+<pages>790-798</pages>
+<year>2017</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1145/3106426.3106475</ee>
+<crossref>conf/webi/2017</crossref>
+<url>db/conf/webi/webi2017.html#WuLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2025-02-04">
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="178/8632">Nur Syahidah Bte Khalid</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Productive Aging through Intelligent Personalized Crowdsourcing.</title>
+<pages>4405-</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v30i1.9822</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YuMLPKSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LiuSYLGPML16" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="63/6173">Han Lin</author>
+<author pid="180/1443">Zhengjin Guo</author>
+<author pid="48/6834">Zhengxiang Pan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Kinect-based Interactive Game to Improve the Cognitive Inhibition of the Elderly: (Demonstration).</title>
+<pages>1479-1481</pages>
+<year>2016</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2937219</ee>
+<crossref>conf/atal/2016</crossref>
+<url>db/conf/atal/aamas2016.html#LiuSYLGPML16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LiuFM16" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Identifying and Rewarding Subcrowds in Crowdsourcing.</title>
+<pages>1573-1574</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-672-9-1573</ee>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#LiuFM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FanLZLM16" mdate="2025-02-04">
+<author pid="35/6803">Xiuyi Fan</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-3552-8468" pid="68/6056">Huiguo Zhang</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Explained Activity Recognition with Computational Assumption-Based Argumentation.</title>
+<pages>1590-1591</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-672-9-1590</ee>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#FanLZLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/WuLMLL16" mdate="2025-02-04">
+<author pid="54/4158-1">Qiong Wu 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="87/2948-2">Yuan Liu 0002</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Social Curiosity Inspired Recommendation Model to Improve Precision, Coverage and Diversity.</title>
+<pages>240-247</pages>
+<year>2016</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1109/WI.2016.0042</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI.2016.0042</ee>
+<crossref>conf/webi/2016</crossref>
+<url>db/conf/webi/webi2016.html#WuLMLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACMicec/LiuMLFYZCL15" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="87/2948-2">Yuan Liu 0002</author>
+<author pid="03/2511-2">Hui Fang 0002</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="99/1019">Yueting Chai</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Reputation Revision Mechanism to Mitigate the Negative Effects of Misreported Ratings.</title>
+<pages>7:1-7:8</pages>
+<year>2015</year>
+<booktitle>ICEC</booktitle>
+<ee>https://doi.org/10.1145/2781562.2781570</ee>
+<crossref>conf/ACMicec/2015</crossref>
+<url>db/conf/ACMicec/icec2015.html#LiuMLFYZCL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LiuMLY0L15" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="87/2948-2">Yuan Liu 0002</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>An Incentive Mechanism to Elicit Truthful Opinions for Crowdsourced Multiple Choice Consensus Tasks.</title>
+<pages>96-103</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.46</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.46</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#LiuMLY0L15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/LiuZMTK14" mdate="2025-03-03">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-2351-8884" pid="78/4473">Yin-Leng Theng</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<title>An Integrated Clustering-Based Approach to Filtering Unfair Multi-Nominal Testimonies.</title>
+<pages>316-341</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Comput. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8640.2012.00464.x</ee>
+<url>db/journals/ci/ci30.html#LiuZMTK14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuLZFYM14" mdate="2025-02-04">
+<author pid="87/2948-2">Yuan Liu 0002</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="03/2511-2">Hui Fang 0002</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>RepRev: Mitigating the Negative Effects of Misreported Ratings.</title>
+<pages>3124-3125</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v28i1.9089</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#LiuLZFYM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CaiSLYHJMLM14" mdate="2025-02-04">
+<author pid="79/1730">Yundong Cai</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="16/8382">Xiaogang Han</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="15/78">Martin J. McKeown</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An agent-based game for the predictive diagnosis of parkinson's disease.</title>
+<pages>1663-1664</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2616114</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#CaiSLYHJMLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LiuSMLM14" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<author orcid="0000-0002-4048-0817" pid="15/78">Martin J. McKeown</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A fuzzy logic based Parkinson's Disease risk predictor.</title>
+<pages>1624-1631</pages>
+<year>2014</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891613</ee>
+<ee>https://www.wikidata.org/entity/Q60767108</ee>
+<crossref>conf/fuzzIEEE/2014</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2014.html#LiuSMLM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tifs/LiuSLK13" mdate="2025-02-05">
+<author pid="18/5833">Yuhong Liu</author>
+<author pid="s/YanLindsaySun">Yan Sun 0001</author>
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<title>Securing Online Reputation Systems Through Trust Modeling and Temporal Analysis.</title>
+<pages>936-948</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIFS.2013.2238929</ee>
+<url>db/journals/tifs/tifs8.html#LiuSLK13</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/LiuYMK13" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<title>A fuzzy logic based reputation model against unfair ratings.</title>
+<pages>821-828</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485051</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#LiuYMK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACMicec/LiuKMT12" mdate="2025-03-03">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0003-2351-8884" pid="78/4473">Yin Leng Theng</author>
+<title>A Dempster-Shafer theory based witness trustworthiness model to cope with unfair ratings in e-marketplace.</title>
+<pages>99-106</pages>
+<year>2012</year>
+<booktitle>ICEC</booktitle>
+<ee>https://doi.org/10.1145/2346536.2346555</ee>
+<crossref>conf/ACMicec/2012</crossref>
+<url>db/conf/ACMicec/icec2012.html#LiuKMT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aamas/LiuKMT12" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="78/4473">Yin Leng Theng</author>
+<title>A Dempster-Shafer theory based witness trustworthiness model.</title>
+<pages>1361-1362</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2344006</ee>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#LiuKMT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LiuZMTK11" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="78/4473">Yin Leng Theng</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<title>iCLUB: an integrated clustering-based approach to improve the robustness of reputation systems.</title>
+<pages>1151-1152</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034462&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#LiuZMTK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LiuMTK10" mdate="2025-02-04">
+<author pid="00/4516-3">Siyuan Liu 0003</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="78/4473">Yin Leng Theng</author>
+<author pid="k/AlexChiChungKot">Alex C. Kot</author>
+<title>A clustering approach to filtering unfair testimonies for reputation systems.</title>
+<pages>1577-1578</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838489</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#LiuMTK10</url>
+</inproceedings>
+</r>
+<coauthors n="56" nc="1">
+<co c="0"><na f="c/Cai:Chang" pid="11/11211">Chang Cai</na></co>
+<co c="0"><na f="c/Cai:Yundong" pid="79/1730">Yundong Cai</na></co>
+<co c="0"><na f="c/Chai:Yueting" pid="99/1019">Yueting Chai</na></co>
+<co c="0"><na f="c/Chen:Jiarong" pid="259/2649">Jiarong Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Yiqiang" pid="48/1091-1">Yiqiang Chen 0001</na></co>
+<co c="0"><na f="c/Choi:Chanwoo" pid="164/8046">Chanwoo Choi</na></co>
+<co c="0"><na f="d/Du:Sixuan" pid="318/5105">Sixuan Du</na></co>
+<co c="0"><na f="f/Fan:Xiuyi" pid="35/6803">Xiuyi Fan</na></co>
+<co c="0"><na f="f/Fang_0002:Hui" pid="03/2511-2">Hui Fang 0002</na></co>
+<co c="0"><na f="f/Feng:Haiyue" pid="380/8775">Haiyue Feng</na></co>
+<co c="0"><na f="f/Feng:Yuhong" pid="84/485">Yuhong Feng</na></co>
+<co c="0"><na f="f/Fu:Hsuan" pid="307/6872">Hsuan Fu</na></co>
+<co c="0"><na f="g/Guan:Frank" pid="202/0204">Frank Guan</na></co>
+<co c="0"><na f="g/Guo:Zhengjin" pid="180/1443">Zhengjin Guo</na></co>
+<co c="0"><na f="h/Han:Xiaogang" pid="16/8382">Xiaogang Han</na></co>
+<co c="0"><na f="h/Hao:Justin_Loh_Teng" pid="394/4299">Justin Loh Teng Hao</na></co>
+<co c="0"><na f="h/Henderson:Thomas_C=" pid="h/ThomasCHenderson">Thomas C. Henderson</na></co>
+<co c="0"><na f="h/Hinns:James" pid="304/6550">James Hinns</na></co>
+<co c="0"><na f="h/Hong:Shengxin" pid="367/9857">Shengxin Hong</na></co>
+<co c="0"><na f="j/Ji:Jun" pid="92/3194">Jun Ji</na></co>
+<co c="0"><na f="k/Khalid:Nur_Syahidah_Bte" pid="178/8632">Nur Syahidah Bte Khalid</na></co>
+<co c="0" n="2"><na f="k/Kot:Alex_ChiChung" pid="k/AlexChiChungKot">Alex ChiChung Kot</na><na>Alex C. Kot</na></co>
+<co c="0"><na f="k/Kovvuri:Veera_Raghava_Reddy" pid="304/6759">Veera Raghava Reddy Kovvuri</na></co>
+<co c="0"><na f="l/Leung:Cyril" pid="76/3131">Cyril Leung</na></co>
+<co c="0"><na f="l/Lin:Han" pid="63/6173">Han Lin</na></co>
+<co c="0"><na f="l/Lin_0006:Jun" pid="55/1226-6">Jun Lin 0006</na></co>
+<co c="0"><na f="l/Liu:Chang" pid="52/5716">Chang Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Yuan" pid="87/2948-2">Yuan Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Yuhong" pid="18/5833">Yuhong Liu</na></co>
+<co c="0"><na f="m/McKeown:Martin_J=" pid="15/78">Martin J. McKeown</na></co>
+<co c="0"><na f="m/Meng_0001:Lei" pid="118/5253-1">Lei Meng 0001</na></co>
+<co c="0"><na f="m/Miao:Chunyan" pid="m/ChunyanMiao">Chunyan Miao</na></co>
+<co c="0"><na f="m/M=uuml=ller:Berndt" pid="134/4889">Berndt M&#252;ller</na></co>
+<co c="0"><na f="p/Pan:Zhengxiang" pid="48/6834">Zhengxiang Pan</na></co>
+<co c="0"><na f="p/Phua:Poh_Boon" pid="381/0015">Poh Boon Phua</na></co>
+<co c="0"><na f="r/Roggenbach:Markus" pid="86/743">Markus Roggenbach</na></co>
+<co c="0"><na f="s/Seisenberger:Monika" pid="75/6874">Monika Seisenberger</na></co>
+<co c="0"><na f="s/Shen:Jianfei" pid="146/1992">Jianfei Shen</na></co>
+<co c="0"><na f="s/Shen_0001:Zhiqi" pid="03/1554-1">Zhiqi Shen 0001</na></co>
+<co c="0" n="2"><na f="s/Siong:Chng_Eng" pid="c/ChngEngSiong">Chng Eng Siong</na><na>Eng Siong Chng</na></co>
+<co c="0" n="2"><na f="s/Sun:Yan_Lindsay" pid="s/YanLindsaySun">Yan Lindsay Sun</na><na>Yan Sun 0001</na></co>
+<co c="0"><na f="t/Tan:Benny_Toh_Hsiang" pid="175/5246">Benny Toh Hsiang Tan</na></co>
+<co c="0" n="2"><na f="t/Theng:Yin_Leng" pid="78/4473">Yin Leng Theng</na><na>Yin-Leng Theng</na></co>
+<co c="0"><na f="t/Tian:Xiaohai" pid="153/0728">Xiaohai Tian</na></co>
+<co c="0"><na f="w/Wang:Li_Rong" pid="345/5504">Li Rong Wang</na></co>
+<co c="0"><na f="w/Wu_0001:Qiong" pid="54/4158-1">Qiong Wu 0001</na></co>
+<co c="0"><na f="y/Yalcin:Mehmet_Orcun" pid="304/6623">Mehmet Orcun Yalcin</na></co>
+<co c="0"><na f="y/Yalcin:Orcun" pid="293/6685">Orcun Yalcin</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="y/Yuan:Dazhong" pid="293/0528">Dazhong Yuan</na></co>
+<co c="0"><na f="z/Zhang_0049:Hao" pid="55/2270-49">Hao Zhang 0049</na></co>
+<co c="0"><na f="z/Zhang:Huiguo" pid="68/6056">Huiguo Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhong:Haoming" pid="98/10074">Haoming Zhong</na></co>
+<co c="0"><na f="z/Zhu:Gaoxia" pid="151/4214">Gaoxia Zhu</na></co>
+<co c="0"><na f="z/Zou:Yan" pid="55/3266">Yan Zou</na></co>
+</coauthors>
+</dblpperson>
+

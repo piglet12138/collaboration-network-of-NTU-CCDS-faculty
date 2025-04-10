@@ -1,0 +1,1713 @@
+<?xml version="1.0"?>
+<dblpperson name="Wei Yang Bryan Lim" pid="249/5315" n="94">
+<person key="homepages/249/5315" mdate="2021-11-11">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<url>https://orcid.org/0000-0003-2150-5561</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2502-20709" mdate="2025-04-07">
+<author pid="333/9107">Zhengyi Zhong</author>
+<author pid="60/5004-1">Weidong Bao 0001</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="71/208-4">Shuai Zhang 0004</author>
+<author pid="283/3717">Jingxuan Zhou</author>
+<author pid="178/9876">Lingjuan Lyu</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<title>Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.20709</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.20709</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-20709</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-01890" mdate="2025-04-08">
+<author pid="250/0673">Zihao Zeng</author>
+<author pid="147/8031">Chubo Liu</author>
+<author pid="69/1798">Xin He</author>
+<author pid="91/1898">Juan Hu</author>
+<author pid="74/1552">Yong Jiang</author>
+<author pid="h/FeiHuang-4">Fei Huang 0004</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<title>AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.01890</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.01890</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-01890</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/iotj/KaewpuangXLNYKS24" mdate="2024-06-28">
+<author pid="92/10031">Rakpong Kaewpuang</author>
+<author orcid="0000-0002-8203-8146" pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Shen</author>
+<title>Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication.</title>
+<pages>4454-4469</pages>
+<year>2024</year>
+<month>February</month>
+<volume>11</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JIOT.2023.3301033</ee>
+<url>db/journals/iotj/iotj11.html#KaewpuangXLNYKS24</url>
+</article>
+</r>
+<r><article key="journals/tbd/TanNLXNY24" mdate="2024-11-30">
+<author orcid="0000-0001-9873-0463" pid="252/9568">Xavier Tan</author>
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<title>Reputation-Aware Federated Learning Client Selection Based on Stochastic Integer Programming.</title>
+<pages>953-964</pages>
+<year>2024</year>
+<month>December</month>
+<volume>10</volume>
+<journal>IEEE Trans. Big Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TBDATA.2022.3191332</ee>
+<url>db/journals/tbd/tbd10.html#TanNLXNY24</url>
+<stream>streams/journals/tbd</stream>
+</article>
+</r>
+<r><article key="journals/tmc/NgLXNPSM24" mdate="2024-02-29">
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-2062-131X" pid="p/HVincentPoor">H. Vincent Poor</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Stochastic Resource Optimization for Wireless Powered Hybrid Coded Edge Computing Networks.</title>
+<pages>2022-2038</pages>
+<year>2024</year>
+<month>March</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMC.2023.3246994</ee>
+<url>db/journals/tmc/tmc23.html#NgLXNPSM24</url>
+</article>
+</r>
+<r><article key="journals/tmc/NgLXNSM24" mdate="2024-06-18">
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Distributionally Robust Cost Minimized Edge Semantic Intelligence in the Sustainable Metaverse.</title>
+<pages>7910-7926</pages>
+<year>2024</year>
+<month>July</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TMC.2023.3343715</ee>
+<url>db/journals/tmc/tmc23.html#NgLXNSM24</url>
+</article>
+</r>
+<r><article key="journals/tvt/LiewXLXNK24" mdate="2024-03-16">
+<author orcid="0000-0001-6513-3355" pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0002-8203-8146" pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-7711-8072" pid="86/1369">Dong In Kim</author>
+<title>Mechanism Design for Semantic Communication in UAV-Assisted Metaverse: A Combinatorial Auction Approach.</title>
+<pages>2236-2251</pages>
+<year>2024</year>
+<volume>73</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVT.2023.3317069</ee>
+<url>db/journals/tvt/tvt73.html#LiewXLXNK24</url>
+</article>
+</r>
+<r><inproceedings key="conf/icoin/LiewXLNK24" mdate="2024-07-22">
+<author pid="304/4832">Zi Qin Liew</author>
+<author pid="285/1721">Minrui Xu</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="86/1369">Dong In Kim</author>
+<title>AI-Generated Bidding for Immersive AIGC Services in Mobile Edge-Empowered Metaverse.</title>
+<pages>305-309</pages>
+<year>2024</year>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN59985.2024.10572159</ee>
+<crossref>conf/icoin/2024</crossref>
+<url>db/conf/icoin/icoin2024.html#LiewXLNK24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LimLJNN24" mdate="2024-08-20">
+<author pid="383/5223">Delon Lim</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>The Real Estate Metaverse.</title>
+<pages>1-2</pages>
+<year>2024</year>
+<booktitle>INFOCOM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620881</ee>
+<crossref>conf/infocom/2024w</crossref>
+<url>db/conf/infocom/infocom2024w.html#LimLJNN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/NgDLXNM24" mdate="2025-03-03">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="174/9678">Hongyang Du</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Stochastic Resource Allocation for Semantic Communication-Aided Virtual Transportation Networks in the Metaverse.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC57260.2024.10570867</ee>
+<crossref>conf/wcnc/2024</crossref>
+<url>db/conf/wcnc/wcnc2024.html#NgDLXNM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/XieXZNTLN24" mdate="2024-07-16">
+<author pid="370/2802">Gaochang Xie</author>
+<author pid="33/8333">Renchao Xie</author>
+<author pid="22/4397">Xinyuan Zhang</author>
+<author pid="207/1743">Jiangtian Nie</author>
+<author pid="229/8167">Qinqin Tang</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>GIoV: Achieving Generative AI Services in Internet of Vehicles via Collaborative Edge Intelligence.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC57260.2024.10571334</ee>
+<crossref>conf/wcnc/2024</crossref>
+<url>db/conf/wcnc/wcnc2024.html#XieXZNTLN24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-18802" mdate="2024-08-14">
+<author pid="33/3999-8">Wenjie Li 0008</author>
+<author pid="20/3825-1">Kai Fan 0001</author>
+<author pid="71/700">Jingyuan Zhang</author>
+<author pid="l/HuiLi6">Hui Li 0006</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Enhancing Security and Privacy in Federated Learning using Update Digests and Voting-Based Defense.</title>
+<year>2024</year>
+<volume>abs/2405.18802</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.18802</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-18802</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-07738" mdate="2024-11-18">
+<author pid="71/700">Jingyuan Zhang</author>
+<author pid="309/5234">Yiyang Duan</author>
+<author pid="254/1388">Shuaicheng Niu</author>
+<author pid="25/7045">Yang Cao</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<title>Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning.</title>
+<year>2024</year>
+<volume>abs/2410.07738</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.07738</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-07738</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-09468" mdate="2025-02-25">
+<author pid="395/1736">Yilei Zhao 0004</author>
+<author pid="41/3249">Wentao Zhang</author>
+<author pid="395/2956">Tingran Yang</author>
+<author pid="74/1552">Yong Jiang</author>
+<author pid="h/FeiHuang-4">Fei Huang 0004</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<title>STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading.</title>
+<year>2024</year>
+<volume>abs/2412.09468</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.09468</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-09468</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/comsur/YangDLLXNCSM23" mdate="2023-10-30">
+<author orcid="0000-0002-6918-3701" pid="260/3703">Wanting Yang</author>
+<author orcid="0000-0002-8220-6525" pid="174/9678">Hongyang Du</author>
+<author orcid="0000-0001-6513-3355" pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-8325-0309" pid="41/2668">Xuefen Chi</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Shen</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges.</title>
+<pages>213-250</pages>
+<year>2023</year>
+<volume>25</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/COMST.2022.3223224</ee>
+<url>db/journals/comsur/comsur25.html#YangDLLXNCSM23</url>
+</article>
+</r>
+<r><article key="journals/comsur/XuNLKXNYSM23" mdate="2024-06-28">
+<author orcid="0000-0002-8203-8146" pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Shen</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges.</title>
+<pages>656-700</pages>
+<year>2023</year>
+<volume>25</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/COMST.2022.3221119</ee>
+<url>db/journals/comsur/comsur25.html#XuNLKXNYSM23</url>
+</article>
+</r>
+<r><article key="journals/iotj/NgLXNMHK23" mdate="2023-10-30">
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-6606-5822" pid="83/514">Zhu Han 0001</author>
+<author orcid="0000-0001-7711-8072" pid="86/1369">Dong In Kim</author>
+<title>Stochastic Coded Offloading Scheme for Unmanned-Aerial-Vehicle-Assisted Edge Computing.</title>
+<pages>5626-5643</pages>
+<year>2023</year>
+<month>April</month>
+<volume>10</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/JIOT.2022.3150472</ee>
+<url>db/journals/iotj/iotj10.html#NgLXNMHK23</url>
+</article>
+</r>
+<r><article key="journals/network/ZhangLNXNSM23" mdate="2024-03-16">
+<author orcid="0000-0001-9406-6745" pid="181/6460">Siyue Zhang</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8906-5825" pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Toward Green Metaverse Networking: Technologies, Advancements, and Future Directions.</title>
+<pages>223-232</pages>
+<year>2023</year>
+<month>September</month>
+<volume>37</volume>
+<journal>IEEE Netw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MNET.130.2200510</ee>
+<url>db/journals/network/network37.html#ZhangLNXNSM23</url>
+</article>
+</r>
+<r><article key="journals/tvt/LiewDLXNMK23" mdate="2023-10-27">
+<author orcid="0000-0001-6513-3355" pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0002-8220-6525" pid="174/9678">Hongyang Du</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-7711-8072" pid="86/1369">Dong In Kim</author>
+<title>Economics of Semantic Communication System: An Auction Approach.</title>
+<pages>13559-13574</pages>
+<year>2023</year>
+<month>October</month>
+<volume>72</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVT.2023.3278467</ee>
+<url>db/journals/tvt/tvt72.html#LiewDLXNMK23</url>
+</article>
+</r>
+<r><article key="journals/wc/LimXNCMSY23" mdate="2024-08-04">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="22/3485">Xianbin Cao 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="46/3348">Sumei Sun</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.</title>
+<pages>64-71</pages>
+<year>2023</year>
+<month>August</month>
+<volume>30</volume>
+<journal>IEEE Wirel. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MWC.018.2100716</ee>
+<url>db/journals/wc/wc30.html#LimXNCMSY23</url>
+</article>
+</r>
+<r><article key="journals/wc/WangBWYL23" mdate="2024-08-04">
+<author pid="58/6576">Xiaofei Wang</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="91/1334">Rong Yu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<title>Green Technologies for the Sustainable Metaverse and Web 3.0.</title>
+<pages>74-75</pages>
+<year>2023</year>
+<month>October</month>
+<volume>30</volume>
+<journal>IEEE Wirel. Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MWC.2023.10325448</ee>
+<url>db/journals/wc/wc30.html#WangBWYL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/LiewDLXN023" mdate="2023-09-30">
+<author pid="304/4832">Zi Qin Liew</author>
+<author pid="174/9678">Hongyang Du</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Economics of Semantic Communication in Metaverse: An Auction Approach.</title>
+<pages>398-403</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060647</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#LiewDLXN023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/ZhangXLN23" mdate="2024-08-04">
+<author orcid="0000-0001-9406-6745" pid="181/6460">Siyue Zhang</author>
+<author orcid="0000-0002-8203-8146" pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Sustainable AIGC Workload Scheduling of Geo-Distributed Data Centers: A Multi-Agent Reinforcement Learning Approach.</title>
+<pages>3500-3505</pages>
+<year>2023</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM54140.2023.10437617</ee>
+<crossref>conf/globecom/2023</crossref>
+<url>db/conf/globecom/globecom2023.html#ZhangXLN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/ChenTLXY23" mdate="2024-08-04">
+<author pid="43/9715">Shaojun Chen</author>
+<author pid="252/9568">Xavier Tan</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Privacy Budget-Aware Incentive Mechanism for Federated Learning in Intelligent Transportation Systems.</title>
+<pages>3060-3065</pages>
+<year>2023</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC45041.2023.10279830</ee>
+<crossref>conf/icc/2023</crossref>
+<url>db/conf/icc/icc2023.html#ChenTLXY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/TanLNY23" mdate="2023-11-12">
+<author pid="252/9568">Xavier Tan</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Reputation-Aware Opportunistic Budget Optimization for Auction-based Federation Learning.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN54540.2023.10191418</ee>
+<crossref>conf/ijcnn/2023</crossref>
+<url>db/conf/ijcnn/ijcnn2023.html#TanLNY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metacom/TanLXN23" mdate="2024-03-21">
+<author pid="371/1912">Valerie Huiying Tan</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Blockchain for Decentralized Know Your Customer (KYC) and Customer Due Diligence (CDD) Pipelines in the Metaverse.</title>
+<pages>433-440</pages>
+<year>2023</year>
+<booktitle>MetaCom</booktitle>
+<ee>https://doi.org/10.1109/MetaCom57706.2023.00083</ee>
+<crossref>conf/metacom/2023</crossref>
+<url>db/conf/metacom/metacom2023.html#TanLXN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metacom/HanLNLM23" mdate="2024-03-21">
+<author pid="38/8279">Yue Han</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Edge-enabled Consumer Digital Twins in Industrial Metaverse.</title>
+<pages>601-606</pages>
+<year>2023</year>
+<booktitle>MetaCom</booktitle>
+<ee>https://doi.org/10.1109/MetaCom57706.2023.00105</ee>
+<crossref>conf/metacom/2023</crossref>
+<url>db/conf/metacom/metacom2023.html#HanLNLM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-07948" mdate="2023-11-12">
+<author pid="181/6460">Siyue Zhang</author>
+<author pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Sustainable AIGC Workload Scheduling of Geo-Distributed Data Centers: A Multi-Agent Reinforcement Learning Approach.</title>
+<year>2023</year>
+<volume>abs/2304.07948</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.07948</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-07948</url>
+</article>
+</r>
+<r><book key="series/wn/LimNXNM22" mdate="2024-08-04">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Federated Learning Over Wireless Edge Networks</title>
+<publisher>Springer</publisher>
+<year>2022</year>
+<pages>1-150</pages>
+<series href="db/series/wn/index.html">Wireless Networks</series>
+<isbn>978-3-031-07837-8</isbn>
+<ee>https://doi.org/10.1007/978-3-031-07838-5</ee>
+</book>
+</r>
+<r><article key="journals/jsac/NgLXCNLK22" mdate="2022-01-08">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-5042-7884" pid="22/3485">Xianbin Cao 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0001-7711-8072" pid="86/1369">Dong In Kim</author>
+<title>A Hierarchical Incentive Design Toward Motivating Participation in Coded Federated Learning.</title>
+<pages>359-375</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSAC.2021.3126057</ee>
+<url>db/journals/jsac/jsac40.html#NgLXCNLK22</url>
+</article>
+</r>
+<r><article key="journals/tgcn/ZhuYZNLZX22" mdate="2024-02-29">
+<author orcid="0000-0001-6784-5583" pid="95/1161-1">Kun Zhu 0001</author>
+<author pid="22/667">Jia Yang</author>
+<author orcid="0000-0001-9229-7689" pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0003-1414-0621" pid="207/1743">Jiangtian Nie</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-3393-8612" pid="77/10205-1">Hongliang Zhang 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<title>Aerial Refueling: Scheduling Wireless Energy Charging for UAV Enabled Data Collection.</title>
+<pages>1494-1510</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>IEEE Trans. Green Commun. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TGCN.2022.3164602</ee>
+<url>db/journals/tgcn/tgcn6.html#ZhuYZNLZX22</url>
+</article>
+</r>
+<r><article key="journals/tii/LimXKNLMS22" mdate="2024-06-28">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Shen</author>
+<title>When Information Freshness Meets Service Latency in Federated Learning: A Task-Aware Incentive Scheme for Smart Industries.</title>
+<pages>457-466</pages>
+<year>2022</year>
+<volume>18</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TII.2020.3046028</ee>
+<url>db/journals/tii/tii18.html#LimXKNLMS22</url>
+</article>
+</r>
+<r><article key="journals/tnse/HuangGNLQZH22" mdate="2022-02-08">
+<author orcid="0000-0003-1819-5398" pid="166/6851">Xumin Huang</author>
+<author orcid="0000-0003-0229-608X" pid="117/4904">Sahil Garg</author>
+<author orcid="0000-0003-1414-0621" pid="207/1743">Jiangtian Nie</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="236/2515">Yuanhang Qi</author>
+<author orcid="0000-0001-9229-7689" pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0001-5906-9422" pid="66/5574">M. Shamim Hossain</author>
+<title>Toward Efficient Data Trading in AI Enabled Reconfigurable Wireless Sensor Network Using Contract and Game Theories.</title>
+<pages>98-108</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSE.2020.3013064</ee>
+<url>db/journals/tnse/tnse9.html#HuangGNLQZH22</url>
+</article>
+</r>
+<r><article key="journals/tnse/LiuLNLZG22" mdate="2022-09-22">
+<author orcid="0000-0002-1591-5583" pid="135/5956">Ryan Wen Liu</author>
+<author orcid="0000-0001-7470-3313" pid="194/6043">Maohan Liang</author>
+<author orcid="0000-0003-1414-0621" pid="207/1743">Jiangtian Nie</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0001-9229-7689" pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0002-8972-8094" pid="15/1123">Mohsen Guizani</author>
+<title>Deep Learning-Powered Vessel Trajectory Prediction for Improving Smart Traffic Services in Maritime Internet of Things.</title>
+<pages>3080-3094</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TNSE.2022.3140529</ee>
+<url>db/journals/tnse/tnse9.html#LiuLNLZG22</url>
+</article>
+</r>
+<r><article key="journals/tpds/LimNXJZNLM22" mdate="2021-09-16">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="56/9726">Jiangming Jin</author>
+<author orcid="0000-0001-9229-7689" pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Decentralized Edge Intelligence: A Dynamic Resource Allocation Framework for Hierarchical Federated Learning.</title>
+<pages>536-550</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2021.3096076</ee>
+<url>db/journals/tpds/tpds33.html#LimNXJZNLM22</url>
+</article>
+</r>
+<r><article key="journals/tpds/NgLXCJNLM22" mdate="2022-06-13">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-5042-7884" pid="22/3485">Xianbin Cao 0001</author>
+<author orcid="0000-0001-7552-6937" pid="56/9726">Jiangming Jin</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning.</title>
+<pages>2675-2686</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TPDS.2021.3139039</ee>
+<url>db/journals/tpds/tpds33.html#NgLXCJNLM22</url>
+</article>
+</r>
+<r><article key="journals/tvt/NgLXNLM22" mdate="2023-08-28">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Double Auction Mechanism for Resource Allocation in Coded Vehicular Edge Computing.</title>
+<pages>1832-1845</pages>
+<year>2022</year>
+<volume>71</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVT.2021.3131395</ee>
+<ee>https://www.wikidata.org/entity/Q114083498</ee>
+<url>db/journals/tvt/tvt71.html#NgLXNLM22</url>
+</article>
+</r>
+<r><article key="journals/wc/YangLLXNCCL22" mdate="2025-03-03">
+<author orcid="0000-0002-6918-3701" pid="260/3703">Wanting Yang</author>
+<author pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="41/2668">Xuefen Chi</author>
+<author pid="22/3485">Xianbin Cao 0001</author>
+<author orcid="0000-0003-2519-6401" pid="95/5358">Khaled B. Letaief</author>
+<title>Semantic Communication Meets Edge Intelligence.</title>
+<pages>28-35</pages>
+<year>2022</year>
+<volume>29</volume>
+<journal>IEEE Wirel. Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MWC.004.2200050</ee>
+<url>db/journals/wc/wc29.html#YangLLXNCCL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/FengHLNJXKYNM22" mdate="2024-08-04">
+<author pid="324/0833">Daifei Feng</author>
+<author pid="324/1041">Cicilia Helena</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="145/4239">Jiawen Kang 0001</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>CrowdFL: A Marketplace for Crowdsourced Federated Learning.</title>
+<pages>13164-13166</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i11.21715</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#FengHLNJXKYNM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/HoLJNYXNM22" mdate="2024-08-04">
+<author pid="299/5010">Xuan Rong Zane Ho</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Dynamic Incentive Mechanism Design for COVID-19 Social Distancing.</title>
+<pages>13173-13175</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i11.21718</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#HoLJNYXNM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/LiZY22" mdate="2024-07-24">
+<author pid="43/3166">Zhi Li</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<title>Message from the Program Chairs: EUC 2022.</title>
+<pages>ix</pages>
+<year>2022</year>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1109/EUC57774.2022.00006</ee>
+<crossref>conf/euc/2022</crossref>
+<url>db/conf/euc/euc2022.html#LiZY22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LiewCLNMS22" mdate="2023-11-12">
+<author pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0001-9104-9376" pid="226/9432">Yanyu Cheng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="46/3348">Sumei Sun</author>
+<title>Economics of Semantic Communication System in Wireless Powered Internet of Things.</title>
+<pages>8637-8641</pages>
+<year>2022</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP43922.2022.9746463</ee>
+<crossref>conf/icassp/2022</crossref>
+<url>db/conf/icassp/icassp2022.html#LiewCLNMS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/LimNN0XNM22" mdate="2024-02-05">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="207/1743">Jiangtian Nie</author>
+<author pid="53/9131-1">Qin Hu 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Evolutionary Model Owner Selection for Federated Learning with Heterogeneous Privacy Budgets.</title>
+<pages>980-985</pages>
+<year>2022</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC45855.2022.9838495</ee>
+<crossref>conf/icc/2022</crossref>
+<url>db/conf/icc/icc2022.html#LimNN0XNM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/NgNLXNLM22" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>UAV-assisted Wireless Power Charging for Efficient Hybrid Coded Edge Computing Network.</title>
+<pages>4037-4042</pages>
+<year>2022</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC45855.2022.9838931</ee>
+<crossref>conf/icc/2022</crossref>
+<url>db/conf/icc/icc2022.html#NgNLXNLM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/NgLNXNM22" mdate="2024-08-04">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.</title>
+<pages>5214-5219</pages>
+<year>2022</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC45855.2022.9838492</ee>
+<crossref>conf/icc/2022</crossref>
+<url>db/conf/icc/icc2022.html#NgLNXNM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-01634" mdate="2022-01-10">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="22/3485">Xianbin Cao 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="46/3348">Sumei Sun</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.</title>
+<year>2022</year>
+<volume>abs/2201.01634</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.01634</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-01634</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-06471" mdate="2022-02-18">
+<author pid="260/3703">Wanting Yang</author>
+<author pid="304/4832">Zi Qin Liew</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="41/2668">Xuefen Chi</author>
+<author pid="22/3485">Xianbin Cao 0001</author>
+<author pid="95/5358">Khaled B. Letaief</author>
+<title>Semantic Communication Meets Edge Intelligence.</title>
+<year>2022</year>
+<volume>abs/2202.06471</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.06471</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-06471</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-11697" mdate="2022-03-02">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="83/514">Zhu Han 0001</author>
+<author pid="86/1369">Dong In Kim</author>
+<title>Stochastic Coded Offloading Scheme for Unmanned Aerial Vehicle-Assisted Edge Computing.</title>
+<year>2022</year>
+<volume>abs/2202.11697</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.11697</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-11697</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-05471" mdate="2024-06-28">
+<author pid="285/1721">Minrui Xu</author>
+<author pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Full Dive into Realizing the Edge-enabled Metaverse: Visions, Enabling Technologies, and Challenges.</title>
+<year>2022</year>
+<volume>abs/2203.05471</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.05471</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-05471</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-00427" mdate="2023-11-12">
+<author pid="260/3703">Wanting Yang</author>
+<author pid="174/9678">Hongyang Du</author>
+<author pid="304/4832">Zi Qin Liew</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="41/2668">Xuefen Chi</author>
+<author pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Semantic Communications for 6G Future Internet: Fundamentals, Applications, and Challenges.</title>
+<year>2022</year>
+<volume>abs/2207.00427</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.00427</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-00427</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-05040" mdate="2022-08-16">
+<author pid="304/4832">Zi Qin Liew</author>
+<author pid="174/9678">Hongyang Du</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="86/1369">Dong In Kim</author>
+<title>Economics of Semantic Communication System: An Auction Approach.</title>
+<year>2022</year>
+<volume>abs/2208.05040</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.05040</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-05040</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-14661" mdate="2023-11-12">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="174/9678">Hongyang Du</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Stochastic Resource Allocation for Semantic Communication-aided Virtual Transportation Networks in the Metaverse.</title>
+<year>2022</year>
+<volume>abs/2208.14661</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.14661</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-14661</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-11957" mdate="2024-06-28">
+<author pid="92/10031">Rakpong Kaewpuang</author>
+<author pid="285/1721">Minrui Xu</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Sherman Shen</author>
+<title>Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication.</title>
+<year>2022</year>
+<volume>abs/2209.11957</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.11957</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-11957</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-03057" mdate="2023-11-12">
+<author pid="181/6460">Siyue Zhang</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-4140-287X" pid="s/XueminShen">Xuemin Sherman Shen</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Towards Green Metaverse Networking Technologies, Advancements and Future Directions.</title>
+<year>2022</year>
+<volume>abs/2211.03057</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.03057</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-03057</url>
+</article>
+</r>
+<r><article key="journals/comsur/NgLLXANLM21" mdate="2024-10-07">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4299-3456" pid="173/5360-1">Nguyen Cong Luong 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-4430-5928" pid="07/10238">Alia Asheralieva</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications.</title>
+<pages>1800-1837</pages>
+<year>2021</year>
+<volume>23</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/COMST.2021.3091684</ee>
+<url>db/journals/comsur/comsur23.html#NgLLXANLM21</url>
+</article>
+</r>
+<r><article key="journals/iotj/LiuNLALM21" mdate="2021-06-15">
+<author orcid="0000-0002-0811-6150" pid="97/4626-57">Yi Liu 0057</author>
+<author orcid="0000-0003-1414-0621" pid="207/1743">Jiangtian Nie</author>
+<author pid="271/0197">Xuandi Li</author>
+<author orcid="0000-0002-1381-5095" pid="78/10960">Syed Hassan Ahmed</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Federated Learning in the Sky: Aerial-Ground Air Quality Sensing Framework With UAV Swarms.</title>
+<pages>9827-9837</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JIOT.2020.3021006</ee>
+<url>db/journals/iotj/iotj8.html#LiuNLALM21</url>
+</article>
+</r>
+<r><article key="journals/iotj/LimGXNLMG21" mdate="2021-12-15">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-0229-608X" pid="117/4904">Sahil Garg</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-8972-8094" pid="15/1123">Mohsen Guizani</author>
+<title>Dynamic Contract Design for Federated Learning in Smart Healthcare Applications.</title>
+<pages>16853-16862</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>23</number>
+<ee>https://doi.org/10.1109/JIOT.2020.3033806</ee>
+<url>db/journals/iotj/iotj8.html#LimGXNLMG21</url>
+</article>
+</r>
+<r><article key="journals/jsac/LimNXNMK21" mdate="2021-12-15">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0001-7711-8072" pid="86/1369">Dong In Kim</author>
+<title>Dynamic Edge Association and Resource Allocation in Self-Organizing Hierarchical Federated Learning Networks.</title>
+<pages>3640-3653</pages>
+<year>2021</year>
+<volume>39</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JSAC.2021.3118401</ee>
+<url>db/journals/jsac/jsac39.html#LimNXNMK21</url>
+</article>
+</r>
+<r><article key="journals/network/LimGXZNLM21" mdate="2023-11-12">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="117/4904">Sahil Garg</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>UAV-Assisted Communication Efficient Federated Learning in the Era of the Artificial Intelligence of Things.</title>
+<pages>188-195</pages>
+<year>2021</year>
+<volume>35</volume>
+<journal>IEEE Netw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MNET.002.2000334</ee>
+<url>db/journals/network/network35.html#LimGXZNLM21</url>
+</article>
+</r>
+<r><article key="journals/tccn/XiongZLKNLM21" mdate="2024-06-28">
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0001-9229-7689" pid="06/6785-25">Yang Zhang 0025</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>UAV-Assisted Wireless Energy and Data Transfer With Deep Reinforcement Learning.</title>
+<pages>85-99</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCCN.2020.3027696</ee>
+<url>db/journals/tccn/tccn7.html#XiongZLKNLM21</url>
+</article>
+</r>
+<r><article key="journals/tits/NgLDXHN0LM21" mdate="2021-04-29">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0001-6165-4196" pid="33/5228">Hong-Ning Dai</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.</title>
+<pages>2326-2344</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TITS.2020.3041345</ee>
+<url>db/journals/tits/tits22.html#NgLDXHN0LM21</url>
+</article>
+</r>
+<r><article key="journals/tits/LimHXKNHLM21" mdate="2024-06-28">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-8232-5049" pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.</title>
+<pages>5140-5154</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TITS.2021.3056341</ee>
+<url>db/journals/tits/tits22.html#LimHXKNHLM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/JiangLNTYXNM21" mdate="2024-08-04">
+<author pid="269/4492">Hongchao Jiang</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="294/1253">Harold Ze Chie Teng</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>AI-Empowered Decision Support for COVID-19 Social Distancing.</title>
+<pages>16044-16047</pages>
+<year>2021</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v35i18.18007</ee>
+<crossref>conf/aaai/2021</crossref>
+<url>db/conf/aaai/aaai2021.html#JiangLNTYXNM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdatase/NgLXGNL21" mdate="2024-05-07">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="117/4904">Sahil Garg</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>An Incentive Mechanism for Resource Allocation in Coded Distributed Computing.</title>
+<pages>15-22</pages>
+<year>2021</year>
+<booktitle>BigDataSE</booktitle>
+<ee>https://doi.org/10.1109/BigDataSE53435.2021.00012</ee>
+<crossref>conf/bigdatase/2021</crossref>
+<url>db/conf/bigdatase/bigdatase2021.html#NgLXGNL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/NgLNSXN21" mdate="2024-02-05">
+<author pid="304/8801">Wei Chong Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="169/1118">Suttinee Sawadsitang</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Optimal Stochastic Coded Computation Offloading in Unmanned Aerial Vehicles Network.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM46510.2021.9685988</ee>
+<crossref>conf/globecom/2021</crossref>
+<url>db/conf/globecom/globecom2021.html#NgLNSXN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/JiangLN0CM21" mdate="2024-02-05">
+<author pid="269/4492">Hongchao Jiang</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="02/5889-108">Yu Wang 0108</author>
+<author orcid="0000-0002-3020-7892" pid="26/16">Ying Chi</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Towards Parkinson's Disease Prognosis Using Self-Supervised Learning and Anomaly Detection.</title>
+<pages>3960-3964</pages>
+<year>2021</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP39728.2021.9414840</ee>
+<crossref>conf/icassp/2021</crossref>
+<url>db/conf/icassp/icassp2021.html#JiangLN0CM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/NgLGXNGL21" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="117/4904">Sahil Garg</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="15/1123">Mohsen Guizani</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Collaborative Coded Computation Offloading: An All-pay Auction Approach.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC42927.2021.9500308</ee>
+<crossref>conf/icc/2021</crossref>
+<url>db/conf/icc/icc2021.html#NgLGXNGL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/NgLXGNL21" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="117/4904">Sahil Garg</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Deep-learning Based Auction Resource Allocation in Coded Computation Offloading for Internet-of-Things.</title>
+<pages>1-5</pages>
+<year>2021</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCWorkshops50388.2021.9473796</ee>
+<crossref>conf/icc/2021w</crossref>
+<url>db/conf/icc/icc2021w.html#NgLXGNL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/TengJHLN0XNM21" mdate="2025-03-03">
+<author pid="294/1253">Harold Ze Chie Teng</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author pid="299/5010">Xuan Rong Zane Ho</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Predictive Analytics for COVID-19 Social Distancing.</title>
+<pages>5016-5019</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/716</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#TengJHLN0XNM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/YappKLKLNJLXN21" mdate="2025-03-03">
+<author pid="299/5459">Austine Zong Han Yapp</author>
+<author pid="299/4958">Hong Soo Nicholas Koh</author>
+<author pid="299/4624">Yan Ting Lai</author>
+<author pid="145/4239">Jiawen Kang 0001</author>
+<author pid="271/0197">Xuandi Li</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="269/4492">Hongchao Jiang</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Communication-efficient and Scalable Decentralized Federated Edge Learning.</title>
+<pages>5032-5035</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/720</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#YappKLKLNJLXN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msn/NgLXDZNL21" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="132/8072">Xianjun Deng</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Hierarchical Incentive Mechanism for Coded Federated Learning.</title>
+<pages>17-24</pages>
+<year>2021</year>
+<booktitle>MSN</booktitle>
+<ee>https://doi.org/10.1109/MSN53354.2021.00019</ee>
+<crossref>conf/msn/2021</crossref>
+<url>db/conf/msn/msn2021.html#NgLXDZNL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/LimNXG0NM21" mdate="2024-02-05">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="117/4904">Sahil Garg</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Dynamic Edge Association in Hierarchical Federated Learning Networks.</title>
+<pages>1124-1131</pages>
+<year>2021</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom53373.2021.00153</ee>
+<crossref>conf/trustcom/2021</crossref>
+<url>db/conf/trustcom/trustcom2021.html#LimNXG0NM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/winsys/NgLXG0NL21" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="117/4904">Sahil Garg</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>A Double Auction Mechanism for Coded Distributed Computing in Smart Vehicles.</title>
+<pages>107-114</pages>
+<year>2021</year>
+<booktitle>WINSYS</booktitle>
+<ee>https://doi.org/10.5220/0010615801070114</ee>
+<crossref>conf/winsys/2021</crossref>
+<url>db/conf/winsys/winsys2021.html#NgLXG0NL21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-08667" mdate="2021-02-19">
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="86/1369">Dong In Kim</author>
+<author pid="59/1232">Junshan Zhang</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>A Game-theoretic Approach Towards Collaborative Coded Computation Offloading.</title>
+<year>2021</year>
+<volume>abs/2102.08667</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08667</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08667</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-01423" mdate="2021-10-25">
+<author pid="304/4832">Zi Qin Liew</author>
+<author pid="226/9432">Yanyu Cheng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="46/3348">Sumei Sun</author>
+<title>Economics of Semantic Communication System in Wireless Powered Internet of Things.</title>
+<year>2021</year>
+<volume>abs/2110.01423</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.01423</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-01423</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-14325" mdate="2021-10-29">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.</title>
+<year>2021</year>
+<volume>abs/2110.14325</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.14325</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-14325</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-14873" mdate="2021-11-02">
+<author pid="304/8801">Wei Chong Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="169/1118">Suttinee Sawadsitang</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Optimal Stochastic Coded Computation Offloading in Unmanned Aerial Vehicles Network.</title>
+<year>2021</year>
+<volume>abs/2110.14873</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.14873</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-14873</url>
+</article>
+</r>
+<r><article key="journals/comsur/LimLHJLYNM20" mdate="2024-10-07">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4299-3456" pid="173/5360-1">Nguyen Cong Luong 0001</author>
+<author orcid="0000-0002-9528-0863" pid="37/8852">Dinh Thai Hoang</author>
+<author orcid="0000-0001-8794-6330" pid="159/1492">Yutao Jiao</author>
+<author orcid="0000-0003-2671-5090" pid="98/153">Ying-Chang Liang</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Federated Learning in Mobile Edge Networks: A Comprehensive Survey.</title>
+<pages>2031-2063</pages>
+<year>2020</year>
+<volume>22</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/COMST.2020.2986024</ee>
+<url>db/journals/comsur/comsur22.html#LimLHJLYNM20</url>
+</article>
+</r>
+<r><article key="journals/iotj/LimXMN0LP20" mdate="2020-10-20">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-0300-3448" pid="m/ChunyanMiao">Chunyan Miao</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author orcid="0000-0001-9911-2069" pid="76/3131">Cyril Leung</author>
+<author orcid="0000-0002-2062-131X" pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>Hierarchical Incentive Mechanism Design for Federated Machine Learning in Mobile Networks.</title>
+<pages>9575-9588</pages>
+<year>2020</year>
+<volume>7</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/JIOT.2020.2985694</ee>
+<url>db/journals/iotj/iotj7.html#LimXMN0LP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/LimHXKN0LM20" mdate="2024-06-28">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Multi-Dimensional Contract-Matching for Federated Learning in UAV-Enabled Internet of Vehicles.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9322548</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#LimHXKN0LM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LiuKXLKN20" mdate="2024-07-29">
+<author pid="97/4626-57">Yi Liu 0057</author>
+<author orcid="0000-0002-3020-3947" pid="04/8395">Neeraj Kumar 0001</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348249</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#LiuKXLKN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/NgLDXHN0LM20" mdate="2024-02-05">
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0001-6165-4196" pid="33/5228">Hong-Ning Dai</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Communication-Efficient Federated Learning in UAV-enabled IoV: A Joint Auction-Coalition Approach.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9322584</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#NgLDXHN0LM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/LimXKNZLM20" mdate="2024-07-08">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>An incentive scheme for federated learning in the sky.</title>
+<pages>55-60</pages>
+<year>2020</year>
+<booktitle>DroneCom@MobiCom</booktitle>
+<ee>https://doi.org/10.1145/3414045.3415935</ee>
+<crossref>conf/mobicom/2020dronecom</crossref>
+<url>db/conf/mobicom/dronecom2020.html#LimXKNZLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msn/LimNXNGLM20" mdate="2024-02-05">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0003-2772-8977" pid="266/7958">Jer Shyuan Ng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="01/267-1">Song Guo 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Dynamic Resource Allocation for Hierarchical Federated Learning.</title>
+<pages>153-160</pages>
+<year>2020</year>
+<booktitle>MSN</booktitle>
+<ee>https://doi.org/10.1109/MSN50589.2020.00038</ee>
+<crossref>conf/msn/2020</crossref>
+<url>db/conf/msn/msn2020.html#LimNXNGLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/LimXNH0M20" mdate="2023-11-12">
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Incentive Mechanism Design for Federated Learning in the Internet of Vehicles.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Fall49728.2020.9348486</ee>
+<crossref>conf/vtc/2020f</crossref>
+<url>db/conf/vtc/vtc2020f.html#LimXNH0M20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/XiongLKN0M20" mdate="2024-06-28">
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0003-2150-5561" pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-8218-3490" pid="145/4239">Jiawen Kang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Incentive Mechanism Design for Mobile Data Rewards using Multi-Dimensional Contract.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC45663.2020.9120657</ee>
+<crossref>conf/wcnc/2020</crossref>
+<url>db/conf/wcnc/wcnc2020.html#XiongLKN0M20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcsp/YangZLXJJ20" mdate="2021-10-14">
+<author pid="130/5400">Wenqi Yang</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="159/1492">Yutao Jiao</author>
+<author pid="56/9726">Jiangming Jin</author>
+<title>Privacy is not Free: Energy-Aware Federated Learning for Mobile and Edge Intelligence.</title>
+<pages>233-238</pages>
+<year>2020</year>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP49889.2020.9299703</ee>
+<crossref>conf/wcsp/2020</crossref>
+<url>db/conf/wcsp/wcsp2020.html#YangZLXJJ20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03877" mdate="2024-06-28">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="145/4239">Jiawen Kang 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.</title>
+<year>2020</year>
+<volume>abs/2004.03877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03877</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-00511" mdate="2020-10-16">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Incentive Mechanism Design for Resource Sharing in Collaborative Edge Learning.</title>
+<year>2020</year>
+<volume>abs/2006.00511</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.00511</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-00511</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-06378" mdate="2020-07-21">
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="33/5228">Hong-Ning Dai</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.</title>
+<year>2020</year>
+<volume>abs/2007.06378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.06378</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-06378</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-12004" mdate="2021-01-11">
+<author pid="97/4626-57">Yi Liu 0057</author>
+<author pid="207/1743">Jiangtian Nie</author>
+<author pid="271/0197">Xuandi Li</author>
+<author pid="78/10960">Syed Hassan Ahmed</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Federated Learning in the Sky: Aerial-Ground Air Quality Sensing Framework with UAV Swarms.</title>
+<year>2020</year>
+<volume>abs/2007.12004</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.12004</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-12004</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-09048" mdate="2024-10-07">
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="173/5360-1">Nguyen Cong Luong 0001</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="07/10238">Alia Asheralieva</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>A Survey of Coded Distributed Computing.</title>
+<year>2020</year>
+<volume>abs/2008.09048</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.09048</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-09048</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-04854" mdate="2021-01-02">
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="117/4904">Sahil Garg</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="15/1123">Mohsen Guizani</author>
+<author pid="76/3131">Cyril Leung</author>
+<title>Collaborative Coded Computation Offloading: An All-pay Auction Approach.</title>
+<year>2020</year>
+<volume>abs/2012.04854</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.04854</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-04854</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-11875" mdate="2024-10-07">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="173/5360-1">Nguyen Cong Luong 0001</author>
+<author pid="37/8852">Dinh Thai Hoang</author>
+<author pid="159/1492">Yutao Jiao</author>
+<author pid="98/153">Ying-Chang Liang</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Federated Learning in Mobile Edge Networks: A Comprehensive Survey.</title>
+<year>2019</year>
+<volume>abs/1909.11875</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.11875</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-11875</url>
+</article>
+</r>
+<coauthors n="102" nc="1">
+<co c="0"><na f="a/Ahmed:Syed_Hassan" pid="78/10960">Syed Hassan Ahmed</na></co>
+<co c="0"><na f="a/Asheralieva:Alia" pid="07/10238">Alia Asheralieva</na></co>
+<co c="0"><na f="b/Bao_0001:Weidong" pid="60/5004-1">Weidong Bao 0001</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="c/Cao_0001:Xianbin" pid="22/3485">Xianbin Cao 0001</na></co>
+<co c="0"><na f="c/Cao:Yang" pid="25/7045">Yang Cao</na></co>
+<co c="0"><na f="c/Chen:Shaojun" pid="43/9715">Shaojun Chen</na></co>
+<co c="0"><na f="c/Cheng:Yanyu" pid="226/9432">Yanyu Cheng</na></co>
+<co c="0"><na f="c/Chi:Xuefen" pid="41/2668">Xuefen Chi</na></co>
+<co c="0"><na f="c/Chi:Ying" pid="26/16">Ying Chi</na></co>
+<co c="0" n="2"><na f="d/Dai:Hongning" pid="33/5228">Hongning Dai</na><na>Hong-Ning Dai</na></co>
+<co c="0"><na f="d/Deng:Xianjun" pid="132/8072">Xianjun Deng</na></co>
+<co c="0"><na f="d/Du:Hongyang" pid="174/9678">Hongyang Du</na></co>
+<co c="0"><na f="d/Duan:Yiyang" pid="309/5234">Yiyang Duan</na></co>
+<co c="0"><na f="f/Fan_0001:Kai" pid="20/3825-1">Kai Fan 0001</na></co>
+<co c="0"><na f="f/Feng:Daifei" pid="324/0833">Daifei Feng</na></co>
+<co c="0"><na f="g/Garg:Sahil" pid="117/4904">Sahil Garg</na></co>
+<co c="0"><na f="g/Guizani:Mohsen" pid="15/1123">Mohsen Guizani</na></co>
+<co c="0"><na f="g/Guo_0001:Song" pid="01/267-1">Song Guo 0001</na></co>
+<co c="0"><na f="h/Han:Yue" pid="38/8279">Yue Han</na></co>
+<co c="0"><na f="h/Han_0001:Zhu" pid="83/514">Zhu Han 0001</na></co>
+<co c="0"><na f="h/He:Xin" pid="69/1798">Xin He</na></co>
+<co c="0"><na f="h/Helena:Cicilia" pid="324/1041">Cicilia Helena</na></co>
+<co c="0"><na f="h/Ho:Xuan_Rong_Zane" pid="299/5010">Xuan Rong Zane Ho</na></co>
+<co c="0"><na f="h/Hoang:Dinh_Thai" pid="37/8852">Dinh Thai Hoang</na></co>
+<co c="0"><na f="h/Hossain:M=_Shamim" pid="66/5574">M. Shamim Hossain</na></co>
+<co c="0"><na f="h/Hu:Juan" pid="91/1898">Juan Hu</na></co>
+<co c="0"><na f="h/Hu_0001:Qin" pid="53/9131-1">Qin Hu 0001</na></co>
+<co c="0"><na f="h/Hua_0001:Xian=Sheng" pid="56/5807-1">Xian-Sheng Hua 0001</na></co>
+<co c="0"><na f="h/Huang_0004:Fei" pid="h/FeiHuang-4">Fei Huang 0004</na></co>
+<co c="0"><na f="h/Huang:Jianqiang" pid="207/1901">Jianqiang Huang</na></co>
+<co c="0"><na f="h/Huang:Xumin" pid="166/6851">Xumin Huang</na></co>
+<co c="0"><na f="j/Jiang:Hongchao" pid="269/4492">Hongchao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Yong" pid="74/1552">Yong Jiang</na></co>
+<co c="0"><na f="j/Jiao:Yutao" pid="159/1492">Yutao Jiao</na></co>
+<co c="0"><na f="j/Jin:Jiangming" pid="56/9726">Jiangming Jin</na></co>
+<co c="0"><na f="k/Kaewpuang:Rakpong" pid="92/10031">Rakpong Kaewpuang</na></co>
+<co c="0"><na f="k/Kang_0001:Jiawen" pid="145/4239">Jiawen Kang 0001</na></co>
+<co c="0"><na f="k/Kim:Dong_In" pid="86/1369">Dong In Kim</na></co>
+<co c="0"><na f="k/Koh:Hong_Soo_Nicholas" pid="299/4958">Hong Soo Nicholas Koh</na></co>
+<co c="0"><na f="k/Kumar_0001:Neeraj" pid="04/8395">Neeraj Kumar 0001</na></co>
+<co c="0"><na f="l/Lai:Yan_Ting" pid="299/4624">Yan Ting Lai</na></co>
+<co c="0" n="2"><na f="l/Letaief:Khaled_Ben" pid="95/5358">Khaled Ben Letaief</na><na>Khaled B. Letaief</na></co>
+<co c="0"><na f="l/Leung:Cyril" pid="76/3131">Cyril Leung</na></co>
+<co c="0"><na f="l/Li_0006:Hui" pid="l/HuiLi6">Hui Li 0006</na></co>
+<co c="0"><na f="l/Li_0001:Kenli" pid="l/KenliLi">Kenli Li 0001</na></co>
+<co c="0"><na f="l/Li_0008:Wenjie" pid="33/3999-8">Wenjie Li 0008</na></co>
+<co c="0"><na f="l/Li:Xuandi" pid="271/0197">Xuandi Li</na></co>
+<co c="0"><na f="l/Li:Zhi" pid="43/3166">Zhi Li</na></co>
+<co c="0"><na f="l/Liang:Maohan" pid="194/6043">Maohan Liang</na></co>
+<co c="0"><na f="l/Liang:Ying=Chang" pid="98/153">Ying-Chang Liang</na></co>
+<co c="0"><na f="l/Liew:Zi_Qin" pid="304/4832">Zi Qin Liew</na></co>
+<co c="0"><na f="l/Lim:Delon" pid="383/5223">Delon Lim</na></co>
+<co c="0"><na f="l/Liu:Chubo" pid="147/8031">Chubo Liu</na></co>
+<co c="0"><na f="l/Liu:Ryan_Wen" pid="135/5956">Ryan Wen Liu</na></co>
+<co c="0"><na f="l/Liu_0057:Yi" pid="97/4626-57">Yi Liu 0057</na></co>
+<co c="0"><na f="l/Luong_0001:Nguyen_Cong" pid="173/5360-1">Nguyen Cong Luong 0001</na></co>
+<co c="0"><na f="l/Lyu:Lingjuan" pid="178/9876">Lingjuan Lyu</na></co>
+<co c="0"><na f="m/Miao:Chunyan" pid="m/ChunyanMiao">Chunyan Miao</na></co>
+<co c="0"><na f="n/Ng:Jer_Shyuan" pid="266/7958">Jer Shyuan Ng</na></co>
+<co c="0"><na f="n/Ng:Wei_Chong" pid="304/8801">Wei Chong Ng</na></co>
+<co c="0"><na f="n/Nie:Jiangtian" pid="207/1743">Jiangtian Nie</na></co>
+<co c="0"><na f="n/Niu:Shuaicheng" pid="254/1388">Shuaicheng Niu</na></co>
+<co c="0"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="p/Poor:H=_Vincent" pid="p/HVincentPoor">H. Vincent Poor</na></co>
+<co c="0"><na f="q/Qi:Yuanhang" pid="236/2515">Yuanhang Qi</na></co>
+<co c="0"><na f="s/Sawadsitang:Suttinee" pid="169/1118">Suttinee Sawadsitang</na></co>
+<co c="0" n="2"><na f="s/Shen:Xuemin" pid="s/XueminShen">Xuemin Shen</na><na>Xuemin Sherman Shen</na></co>
+<co c="0"><na f="s/Sun:Sumei" pid="46/3348">Sumei Sun</na></co>
+<co c="0"><na f="t/Tan:Valerie_Huiying" pid="371/1912">Valerie Huiying Tan</na></co>
+<co c="0"><na f="t/Tan:Xavier" pid="252/9568">Xavier Tan</na></co>
+<co c="0"><na f="t/Tang:Qinqin" pid="229/8167">Qinqin Tang</na></co>
+<co c="0"><na f="t/Teng:Harold_Ze_Chie" pid="294/1253">Harold Ze Chie Teng</na></co>
+<co c="0"><na f="w/Wang_0001:Ji" pid="64/856-1">Ji Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xiaofei" pid="58/6576">Xiaofei Wang</na></co>
+<co c="0"><na f="w/Wang_0108:Yu" pid="02/5889-108">Yu Wang 0108</na></co>
+<co c="0"><na f="x/Xie:Gaochang" pid="370/2802">Gaochang Xie</na></co>
+<co c="0"><na f="x/Xie:Renchao" pid="33/8333">Renchao Xie</na></co>
+<co c="0"><na f="x/Xiong:Zehui" pid="174/9863">Zehui Xiong</na></co>
+<co c="0"><na f="x/Xu:Minrui" pid="285/1721">Minrui Xu</na></co>
+<co c="0"><na f="y/Yang:Jia" pid="22/667">Jia Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Tingran" pid="395/2956">Tingran Yang</na></co>
+<co c="0"><na f="y/Yang:Wanting" pid="260/3703">Wanting Yang</na></co>
+<co c="0"><na f="y/Yang:Wenqi" pid="130/5400">Wenqi Yang</na></co>
+<co c="0"><na f="y/Yapp:Austine_Zong_Han" pid="299/5459">Austine Zong Han Yapp</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Rong" pid="91/1334">Rong Yu</na></co>
+<co c="0"><na f="z/Zeng:Zihao" pid="250/0673">Zihao Zeng</na></co>
+<co c="0"><na f="z/Zhang_0001:Hongliang" pid="77/10205-1">Hongliang Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Jingyuan" pid="71/700">Jingyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junshan" pid="59/1232">Junshan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0004:Shuai" pid="71/208-4">Shuai Zhang 0004</na></co>
+<co c="0"><na f="z/Zhang:Siyue" pid="181/6460">Siyue Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wentao" pid="41/3249">Wentao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinyuan" pid="22/4397">Xinyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0025:Yang" pid="06/6785-25">Yang Zhang 0025</na></co>
+<co c="0"><na f="z/Zhao_0004:Yilei" pid="395/1736">Yilei Zhao 0004</na></co>
+<co c="0"><na f="z/Zhong:Zhengyi" pid="333/9107">Zhengyi Zhong</na></co>
+<co c="0"><na f="z/Zhou:Jingxuan" pid="283/3717">Jingxuan Zhou</na></co>
+<co c="0"><na f="z/Zhu_0001:Kun" pid="95/1161-1">Kun Zhu 0001</na></co>
+</coauthors>
+</dblpperson>
+

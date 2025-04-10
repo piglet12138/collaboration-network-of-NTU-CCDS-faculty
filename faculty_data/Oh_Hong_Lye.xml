@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<dblpperson name="Hong Lye Oh" pid="224/9431" n="5">
+<person key="homepages/224/9431" mdate="2018-08-20">
+<author pid="224/9431">Hong Lye Oh</author>
+</person>
+<r><article key="journals/sensors/YeanGLO23" mdate="2023-07-07">
+<author orcid="0000-0001-5456-4037" pid="242/6467">Seanglidet Yean</author>
+<author pid="349/3138">Wayne Goh</author>
+<author orcid="0000-0001-7828-7900" pid="l/BuSungLee">Bu-Sung Lee</author>
+<author orcid="0000-0001-8007-3151" pid="224/9431">Hong Lye Oh</author>
+<title>extendGAN+: Transferable Data Augmentation Framework Using WGAN-GP for Data-Driven Indoor Localisation Model.</title>
+<pages>4402</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/s23094402</ee>
+<url>db/journals/sensors/sensors23.html#YeanGLO23</url>
+</article>
+</r>
+<r><article key="journals/cai/TeoYLOL22" mdate="2025-03-03">
+<author pid="337/8123">Wei Jie Teo</author>
+<author orcid="0000-0001-5456-4037" pid="242/6467">Seanglidet Yean</author>
+<author pid="337/7692">Bo Zhi Lim</author>
+<author pid="224/9431">Hong Lye Oh</author>
+<author pid="l/BuSungLee">Bu-Sung Lee</author>
+<title>SingTRACeX: Navigation System to Address Wandering Behavior for Elders and Their Caregivers.</title>
+<pages>646-664</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>Comput. Informatics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.31577/cai_2022_2_646</ee>
+<url>db/journals/cai/cai41.html#TeoYLOL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipin/YeanSLO21" mdate="2023-03-10">
+<author pid="242/6467">Seanglidet Yean</author>
+<author pid="315/5427">Palak Somani</author>
+<author pid="l/BuSungLee">Bu-Sung Lee</author>
+<author pid="224/9431">Hong Lye Oh</author>
+<title>GAN+: Data Augmentation Method Using Generative Adversarial Networks and Dirichlet for Indoor Localisation.</title>
+<year>2021</year>
+<booktitle>IPIN-WiP</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3097/paper8.pdf</ee>
+<crossref>conf/ipin/2021wip</crossref>
+<url>db/conf/ipin/ipin2021wip.html#YeanSLO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idsta/YeanLO20" mdate="2025-03-03">
+<author orcid="0000-0001-5456-4037" pid="242/6467">Senglidet Yean</author>
+<author pid="l/BuSungLee">Bu-Sung Lee</author>
+<author pid="224/9431">Hong Lye Oh</author>
+<title>Feature Engineering for Grid-based Multi-Floor Indoor Localisation using Machine Learning.</title>
+<pages>142-148</pages>
+<year>2020</year>
+<booktitle>IDSTA</booktitle>
+<ee>https://doi.org/10.1109/IDSTA50958.2020.9263706</ee>
+<crossref>conf/idsta/2020</crossref>
+<url>db/conf/idsta/idsta2020.html#YeanLO20</url>
+</inproceedings>
+</r>
+<r><article key="journals/titb/SeanglidetLYVO18" mdate="2021-10-14">
+<author orcid="0000-0001-5456-4037" pid="242/6467">Seanglidet Yean</author>
+<author pid="l/BuSungLee">Bu-Sung Lee</author>
+<author orcid="0000-0002-7618-1472" pid="52/910">Chai Kiat Yeo</author>
+<author pid="69/8028">Chan Hua Vun</author>
+<author orcid="0000-0001-8007-3151" pid="224/9431">Hong Lye Oh</author>
+<title>Smartphone Orientation Estimation Algorithm Combining Kalman Filter With Gradient Descent.</title>
+<pages>1421-1433</pages>
+<year>2018</year>
+<volume>22</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JBHI.2017.2780879</ee>
+<ee>https://www.wikidata.org/entity/Q89497936</ee>
+<url>db/journals/titb/titb22.html#SeanglidetLYVO18</url>
+</article>
+</r>
+<coauthors n="8" nc="1">
+<co c="0"><na f="g/Goh:Wayne" pid="349/3138">Wayne Goh</na></co>
+<co c="0"><na f="l/Lee:Bu=Sung" pid="l/BuSungLee">Bu-Sung Lee</na></co>
+<co c="0"><na f="l/Lim:Bo_Zhi" pid="337/7692">Bo Zhi Lim</na></co>
+<co c="0"><na f="s/Somani:Palak" pid="315/5427">Palak Somani</na></co>
+<co c="0"><na f="t/Teo:Wei_Jie" pid="337/8123">Wei Jie Teo</na></co>
+<co c="0" n="2"><na f="v/Vun:Nicholas_C=_H=" pid="69/8028">Nicholas C. H. Vun</na><na>Chan Hua Vun</na></co>
+<co c="0" n="2"><na f="y/Yean:Seanglidet" pid="242/6467">Seanglidet Yean</na><na>Senglidet Yean</na></co>
+<co c="0"><na f="y/Yeo:Chai_Kiat" pid="52/910">Chai Kiat Yeo</na></co>
+</coauthors>
+</dblpperson>
+

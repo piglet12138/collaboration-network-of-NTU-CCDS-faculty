@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<dblpperson name="Timothy van Bremen" pid="251/9647" n="14">
+<person key="homepages/251/9647" mdate="2019-11-04">
+<author pid="251/9647">Timothy van Bremen</author>
+</person>
+<r><inproceedings key="conf/icdt/AmarilliBM24" mdate="2024-03-15">
+<author pid="56/9687">Antoine Amarilli</author>
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<title>Conjunctive Queries on Probabilistic Graphs: The Limits of Approximability.</title>
+<pages>15:1-15:20</pages>
+<year>2024</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2024.15</ee>
+<crossref>conf/icdt/2024</crossref>
+<url>db/conf/icdt/icdt2024.html#AmarilliBM24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/BremenK23" mdate="2023-10-07">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Lifted inference with tree axioms.</title>
+<pages>103997</pages>
+<year>2023</year>
+<month>November</month>
+<volume>324</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2023.103997</ee>
+<url>db/journals/ai/ai324.html#BremenK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/BremenM23" mdate="2025-01-19">
+<author orcid="0009-0004-0538-3044" pid="251/9647">Timothy van Bremen</author>
+<author orcid="0000-0001-9423-5270" pid="129/1623">Kuldeep S. Meel</author>
+<title>Probabilistic Query Evaluation: The Combined FPRAS Landscape.</title>
+<pages>339-347</pages>
+<year>2023</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3584372.3588677</ee>
+<ee>https://www.wikidata.org/entity/Q130987813</ee>
+<crossref>conf/pods/2023</crossref>
+<url>db/conf/pods/pods2023.html#BremenM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-13287" mdate="2023-09-27">
+<author pid="56/9687">Antoine Amarilli</author>
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<title>Conjunctive Queries on Probabilistic Graphs: The Limits of Approximability.</title>
+<year>2023</year>
+<volume>abs/2309.13287</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.13287</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-13287</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangB0K22" mdate="2024-08-04">
+<author orcid="0000-0003-1801-9634" pid="37/3698">Yuanhong Wang</author>
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="118/4761-1">Yuyi Wang 0001</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Domain-Lifted Sampling for Universal Two-Variable Logic and Extensions.</title>
+<pages>10070-10079</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i9.21246</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#WangB0K22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/BremenD0RM21" mdate="2024-10-06">
+<author pid="251/9647">Timothy van Bremen</author>
+<author orcid="0000-0002-8894-270X" pid="273/9798">Vincent Derkinderen</author>
+<author pid="136/9351-3">Shubham Sharma 0003</author>
+<author pid="95/621">Subhajit Roy 0001</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<title>Symmetric Component Caching for Model Counting on Combinatorial Instances.</title>
+<pages>3922-3930</pages>
+<year>2021</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v35i5.16511</ee>
+<crossref>conf/aaai/2021</crossref>
+<url>db/conf/aaai/aaai2021.html#BremenD0RM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangBP0K21" mdate="2024-08-04">
+<author orcid="0000-0003-1801-9634" pid="37/3698">Yuanhong Wang</author>
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="71/4219">Juhua Pu</author>
+<author pid="118/4761-1">Yuyi Wang 0001</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Fast Algorithms for Relational Marginal Polytopes.</title>
+<pages>4266-4274</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/586</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#WangBP0K21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ilp/BarvinekB0ZK21" mdate="2022-04-09">
+<author pid="217/3831">J&#225;chym Barv&#237;nek</author>
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="118/4761-1">Yuyi Wang 0001</author>
+<author pid="00/2873">Filip Zelezn&#253;</author>
+<author orcid="0000-0002-6523-9114" pid="21/4513">Ondrej Kuzelka</author>
+<title>Automatic Conjecturing of P-Recursions Using Lifted Inference.</title>
+<pages>17-25</pages>
+<year>2021</year>
+<booktitle>ILP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-97454-1_2</ee>
+<crossref>conf/ilp/2021</crossref>
+<url>db/conf/ilp/ilp2021.html#BarvinekB0ZK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/BremenK21" mdate="2021-11-03">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Lifted Inference with Tree Axioms.</title>
+<pages>599-608</pages>
+<year>2021</year>
+<booktitle>KR</booktitle>
+<ee>https://doi.org/10.24963/kr.2021/57</ee>
+<crossref>conf/kr/2021</crossref>
+<url>db/conf/kr/kr2021.html#BremenK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/BremenK21" mdate="2021-12-17">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Faster lifting for two-variable logic using cell graphs.</title>
+<pages>1393-1402</pages>
+<year>2021</year>
+<booktitle>UAI</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v161/bremen21a.html</ee>
+<crossref>conf/uai/2021</crossref>
+<url>db/conf/uai/uai2021.html#BremenK21</url>
+</inproceedings>
+</r>
+<r><article key="journals/ki/BremenDJ20" mdate="2021-06-01">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="07/7048">Anton Dries</author>
+<author orcid="0000-0002-4159-2255" pid="69/8110">Jean Christoph Jung</author>
+<title>onto2problog: A Probabilistic Ontology-Mediated Querying System using Probabilistic Logic Programming.</title>
+<pages>501-507</pages>
+<year>2020</year>
+<volume>34</volume>
+<journal>K&#252;nstliche Intell.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13218-020-00670-x</ee>
+<ee>https://www.wikidata.org/entity/Q104507236</ee>
+<url>db/journals/ki/ki34.html#BremenDJ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/BremenK20" mdate="2020-07-13">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Approximate Weighted First-Order Model Counting: Exploiting Fast Approximate Model Counters and Symmetry.</title>
+<pages>4252-4258</pages>
+<year>2020</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2020/587</ee>
+<crossref>conf/ijcai/2020</crossref>
+<url>db/conf/ijcai/ijcai2020.html#BremenK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-05263" mdate="2020-01-17">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="21/4513">Ondrej Kuzelka</author>
+<title>Approximate Weighted First-Order Model Counting: Exploiting Fast Approximate Model Counters and Symmetry.</title>
+<year>2020</year>
+<volume>abs/2001.05263</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05263</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05263</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/BremenDJ19" mdate="2025-01-19">
+<author pid="251/9647">Timothy van Bremen</author>
+<author pid="07/7048">Anton Dries</author>
+<author pid="69/8110">Jean Christoph Jung</author>
+<title>Ontology-Mediated Queries over Probabilistic Data via Probabilistic Logic Programming.</title>
+<pages>2437-2440</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3358168</ee>
+<ee>https://www.wikidata.org/entity/Q130847074</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#BremenDJ19</url>
+</inproceedings>
+</r>
+<coauthors n="13" nc="2">
+<co c="1"><na f="a/Amarilli:Antoine" pid="56/9687">Antoine Amarilli</na></co>
+<co c="0"><na f="b/Barv=iacute=nek:J=aacute=chym" pid="217/3831">J&#225;chym Barv&#237;nek</na></co>
+<co c="1"><na f="d/Derkinderen:Vincent" pid="273/9798">Vincent Derkinderen</na></co>
+<co c="0"><na f="d/Dries:Anton" pid="07/7048">Anton Dries</na></co>
+<co c="0"><na f="j/Jung:Jean_Christoph" pid="69/8110">Jean Christoph Jung</na></co>
+<co c="0"><na f="k/Kuzelka:Ondrej" pid="21/4513">Ondrej Kuzelka</na></co>
+<co c="1"><na f="m/Meel:Kuldeep_S=" pid="129/1623">Kuldeep S. Meel</na></co>
+<co c="0"><na f="p/Pu:Juhua" pid="71/4219">Juhua Pu</na></co>
+<co c="1"><na f="r/Roy_0001:Subhajit" pid="95/621">Subhajit Roy 0001</na></co>
+<co c="1"><na f="s/Sharma_0003:Shubham" pid="136/9351-3">Shubham Sharma 0003</na></co>
+<co c="0"><na f="w/Wang:Yuanhong" pid="37/3698">Yuanhong Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Yuyi" pid="118/4761-1">Yuyi Wang 0001</na></co>
+<co c="0"><na f="z/Zelezn=yacute=:Filip" pid="00/2873">Filip Zelezn&#253;</na></co>
+</coauthors>
+</dblpperson>
+

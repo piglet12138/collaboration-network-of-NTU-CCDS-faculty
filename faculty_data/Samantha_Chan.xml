@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<dblpperson name="Sam W. T. Chan" pid="220/7546" n="24">
+<person key="homepages/220/7546" mdate="2025-01-10">
+<author pid="220/7546">Sam W. T. Chan</author>
+<author pid="220/7546">Samantha W. T. Chan</author>
+<url>https://www.samanthachan.net/</url>
+<url>https://scholar.google.com/citations?user=b21QW-QAAAAJ</url>
+<url>https://dl.acm.org/profile/99659277126</url>
+<url>https://twitter.com/cwt_sam</url>
+<url>https://orcid.org/0000-0003-1159-0467</url>
+<url>https://www.wikidata.org/entity/Q130858127</url>
+<note type="affiliation">Massachusetts Institute of Technology, Media Lab, MA, USA</note>
+<note type="affiliation" label="former">University of Auckland, New Zealand</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2502-01801" mdate="2025-03-10">
+<author pid="399/2991">Natasha Maniar</author>
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="227/2733">Wazeer Zulfikar</author>
+<author pid="376/3141">Scott Ren</author>
+<author pid="399/2388">Christine Xu</author>
+<author pid="m/PattieMaes">Pattie Maes</author>
+<title>MemPal: Leveraging Multimodal AI and LLMs for Voice-Activated Object Retrieval in Homes of Older Adults.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.01801</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.01801</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-01801</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/chi/WhitmoreCZCCM24" mdate="2025-03-07">
+<author orcid="0000-0001-7624-2725" pid="180/9520">Nathan W. Whitmore</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0009-0000-4336-0151" pid="22/10441-5">Jingru Zhang 0005</author>
+<author orcid="0000-0002-4353-7161" pid="183/5008">Patrick Chwalek</author>
+<author orcid="0000-0003-3697-4387" pid="374/8674">Sam Chin</author>
+<author orcid="0000-0002-7722-6038" pid="m/PattieMaes">Pattie Maes</author>
+<title>Improving Attention Using Wearables via Haptic and Multimodal Rhythmic Stimuli.</title>
+<pages>80:1-80:14</pages>
+<year>2024</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3613904.3642256</ee>
+<crossref>conf/chi/2024</crossref>
+<url>db/conf/chi/chi2024.html#WhitmoreCZCCM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/ZulfikarCM24" mdate="2025-01-19">
+<author orcid="0009-0008-7753-8817" pid="227/2733">Wazeer Deen Zulfikar</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0002-7722-6038" pid="m/PattieMaes">Pattie Maes</author>
+<title>Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation.</title>
+<pages>450:1-450:18</pages>
+<year>2024</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3613904.3642450</ee>
+<ee>https://www.wikidata.org/entity/Q130878347</ee>
+<crossref>conf/chi/2024</crossref>
+<url>db/conf/chi/chi2024.html#ZulfikarCM24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-02135" mdate="2024-10-11">
+<author pid="227/2733">Wazeer Zulfikar</author>
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="m/PattieMaes">Pattie Maes</author>
+<title>Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation.</title>
+<year>2024</year>
+<volume>abs/2403.02135</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.02135</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-02135</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-04681" mdate="2024-10-11">
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="205/7353">Pat Pataranutaporn</author>
+<author pid="266/2801">Aditya Suri</author>
+<author pid="227/2733">Wazeer Zulfikar</author>
+<author pid="m/PattieMaes">Pattie Maes</author>
+<author pid="324/9642">Elizabeth F. Loftus</author>
+<title>Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews.</title>
+<year>2024</year>
+<volume>abs/2408.04681</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.04681</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-04681</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-08895" mdate="2024-10-12">
+<author pid="205/7353">Pat Pataranutaporn</author>
+<author pid="375/6793">Chayapatr Archiwaranguprok</author>
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="324/9642">Elizabeth F. Loftus</author>
+<author pid="m/PattieMaes">Pattie Maes</author>
+<title>Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection.</title>
+<year>2024</year>
+<volume>abs/2409.08895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.08895</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-08895</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aughuman2/NanayakkaraIMHG23" mdate="2023-03-28">
+<author orcid="0000-0001-7441-5493" pid="01/9308">Suranga Chandima Nanayakkara</author>
+<author orcid="0000-0002-8652-0730" pid="90/1139">Masahiko Inami</author>
+<author orcid="0000-0001-6472-3476" pid="m/FlorianMueller-1">Florian 'Floyd' Mueller</author>
+<author orcid="0000-0002-7978-3356" pid="08/2">Jochen Huber</author>
+<author orcid="0000-0003-1350-9095" pid="116/5545">Chitralekha Gupta</author>
+<author orcid="0000-0002-0768-1019" pid="48/2639">Christophe Jouffrais</author>
+<author orcid="0000-0003-2294-3774" pid="44/5109">Kai Kunze</author>
+<author orcid="0000-0002-2501-9969" pid="207/3920">Rakesh Patibanda</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0003-1527-4613" pid="292/6106">Moritz Alexander Messerschmidt</author>
+<title>Exploring the Design Space of Assistive Augmentation.</title>
+<pages>371-373</pages>
+<year>2023</year>
+<booktitle>AHs</booktitle>
+<ee>https://doi.org/10.1145/3582700.3582729</ee>
+<crossref>conf/aughuman2/2023</crossref>
+<url>db/conf/aughuman2/ahs2023.html#NanayakkaraIMHG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/ChanZN23" mdate="2025-01-19">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0001-8915-0360" pid="61/9545">Haimo Zhang</author>
+<author orcid="0000-0001-7441-5493" pid="01/9308">Suranga Nanayakkara</author>
+<title>Eye Movement Analysis of Human Visual Recognition Processes with Camera Eye Tracker: Higher Mean and Variance of Fixation Duration for Familiar Images.</title>
+<pages>132:1-132:8</pages>
+<year>2023</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3544549.3585782</ee>
+<ee>https://www.wikidata.org/entity/Q130858128</ee>
+<crossref>conf/chi/2023a</crossref>
+<url>db/conf/chi/chi2023a.html#ChanZN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/JanakaZC23" mdate="2024-06-12">
+<author orcid="0000-0003-2983-6808" pid="161/5559">Nuwan Janaka</author>
+<author orcid="0000-0001-7971-3107" pid="23/1695">Shengdong Zhao 0001</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<title>NotiFade: Minimizing OHMD Notification Distractions Using Fading.</title>
+<pages>218:1-218:9</pages>
+<year>2023</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3544549.3585784</ee>
+<crossref>conf/chi/2023a</crossref>
+<url>db/conf/chi/chi2023a.html#JanakaZC23</url>
+</inproceedings>
+</r>
+<r><article key="journals/imwut/GuptaCPSSSNB22" mdate="2025-01-19">
+<author pid="42/3840">Kunal Gupta</author>
+<author pid="220/7546">Sam W. T. Chan</author>
+<author pid="182/7081">Yun Suen Pai</author>
+<author pid="324/3931">Nicholas Strachan</author>
+<author pid="324/3940">John Su</author>
+<author orcid="0000-0003-4333-8442" pid="281/6008">Alexander Sumich</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<author pid="b/MarkBillinghurst">Mark Billinghurst</author>
+<title>Total VREcall: Using Biosignals to Recognize Emotional Autobiographical Memory in Virtual Reality.</title>
+<pages>55:1-55:21</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3534615</ee>
+<ee>https://www.wikidata.org/entity/Q130977362</ee>
+<url>db/journals/imwut/imwut6.html#GuptaCPSSSNB22</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/ChanSMZN22" mdate="2022-08-10">
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="239/9693">Shardul Sapkota</author>
+<author pid="282/5826">Rebecca Mathews</author>
+<author pid="61/9545">Haimo Zhang</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>Prompto: Cognition-Aware Prompts with Conversational Interfaces Using Physiological Signals.</title>
+<pages>34-38</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3551670.3551681</ee>
+<url>db/journals/sigmobile/sigmobile26.html#ChanSMZN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ismar/ChanRN22" mdate="2022-12-21">
+<author pid="220/7546">Samantha W. T. Chan</author>
+<author pid="156/8650">Bektur Ryskeldiev</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>DeclutterAR: Mobile Diminished Reality and Augmented Reality to Address Hoarding by Motivating Decluttering and Selling on Online Marketplace.</title>
+<pages>870-874</pages>
+<year>2022</year>
+<booktitle>ISMAR Adjunct</booktitle>
+<ee>https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00187</ee>
+<crossref>conf/ismar/2022a</crossref>
+<url>db/conf/ismar/ismar2022a.html#ChanRN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tabletop/0002KCD22" mdate="2022-12-05">
+<author orcid="0000-0002-8522-8607" pid="54/3517-2">Jing Wei 0002</author>
+<author orcid="0000-0002-2681-2774" pid="60/2492">Young-Ho Kim</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0001-6180-7033" pid="79/8692">Tilman Dingler</author>
+<title>Design and Prototype Conversational Agents for Research Data Collection.</title>
+<pages>57-58</pages>
+<year>2022</year>
+<booktitle>ISS Companion</booktitle>
+<ee>https://doi.org/10.1145/3532104.3571467</ee>
+<crossref>conf/tabletop/2022c</crossref>
+<url>db/conf/tabletop/iss2022c.html#0002KCD22</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmhci/ChanGPZN21" mdate="2022-11-09">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="292/9436">Tamil Selvan Gunasekaran</author>
+<author pid="182/7081">Yun Suen Pai</author>
+<author pid="61/9545">Haimo Zhang</author>
+<author orcid="0000-0001-7441-5493" pid="01/9308">Suranga Nanayakkara</author>
+<title>KinVoices: Using Voices of Friends and Family in Voice Interfaces.</title>
+<pages>446:1-446:25</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3479590</ee>
+<url>db/journals/pacmhci/pacmhci5.html#ChanGPZN21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acmidc/CaoCGDNSN21" mdate="2025-01-06">
+<author orcid="0000-0003-0779-7692" pid="218/7355">Jiashuo Cao</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="202/1284">Dawn L. Garbett</author>
+<author pid="65/5106">Paul Denny 0001</author>
+<author pid="153/5968">Alaeddin Nassani</author>
+<author pid="31/6987-2">Philipp M. Scholl</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry.</title>
+<pages>1-7</pages>
+<year>2021</year>
+<booktitle>IDC</booktitle>
+<ee>https://doi.org/10.1145/3459990.3460716</ee>
+<crossref>conf/acmidc/2021</crossref>
+<url>db/conf/acmidc/idc2021.html#CaoCGDNSN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mhci/GuptaCPSNB21" mdate="2025-01-19">
+<author orcid="0000-0003-3963-8856" pid="42/3840">Kunal Gupta</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="182/7081">Yun Suen Pai</author>
+<author orcid="0000-0003-4333-8442" pid="281/6008">Alexander Sumich</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<author orcid="0000-0003-4172-6759" pid="b/MarkBillinghurst">Mark Billinghurst</author>
+<title>Towards Understanding Physiological Responses to Emotional Autobiographical Memory Recall in Mobile VR Scenarios.</title>
+<pages>17:1-17:5</pages>
+<year>2021</year>
+<booktitle>MobileHCI (Extended Abstracts)</booktitle>
+<ee>https://doi.org/10.1145/3447527.3474864</ee>
+<ee>https://www.wikidata.org/entity/Q130980123</ee>
+<crossref>conf/mhci/2021ea</crossref>
+<url>db/conf/mhci/mhci2021ea.html#GuptaCPSNB21</url>
+</inproceedings>
+</r>
+<r><article key="journals/imwut/ChanSMZN20" mdate="2022-06-23">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="239/9693">Shardul Sapkota</author>
+<author pid="282/5826">Rebecca Mathews</author>
+<author pid="61/9545">Haimo Zhang</author>
+<author orcid="0000-0001-7441-5493" pid="01/9308">Suranga Nanayakkara</author>
+<title>Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent.</title>
+<pages>121:1-121:23</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3432190</ee>
+<url>db/journals/imwut/imwut4.html#ChanSMZN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/Chan20" mdate="2025-01-19">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<title>Biosignal-Sensitive Memory Improvement and Support Systems.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3334480.3375031</ee>
+<ee>https://www.wikidata.org/entity/Q130981681</ee>
+<crossref>conf/chi/2020a</crossref>
+<url>db/conf/chi/chi2020a.html#Chan20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcci/SridharCCYN19" mdate="2025-03-03">
+<author pid="194/3623">Priyashri Kamlesh Sridhar</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="257/7062">Yvonne Chua</author>
+<author orcid="0000-0002-4066-7200" pid="150/5569">Wei Quin Yow</author>
+<author orcid="0000-0001-7441-5493" pid="01/9308">Suranga Nanayakkara</author>
+<title>Going beyond performance scores: Understanding cognitive-affective states in Kindergarteners and application of framework in classrooms.</title>
+<pages>37-53</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>Int. J. Child Comput. Interact.</journal>
+<ee>https://doi.org/10.1016/j.ijcci.2019.04.002</ee>
+<ee>https://www.wikidata.org/entity/Q128020212</ee>
+<url>db/journals/ijcci/ijcci21.html#SridharCCYN19</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChanBZN19" mdate="2025-01-19">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="228/5399">Thisum Buddhika</author>
+<author pid="61/9545">Haimo Zhang</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults.</title>
+<pages>77:1-77:20</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3351235</ee>
+<ee>https://www.wikidata.org/entity/Q127292357</ee>
+<url>db/journals/imwut/imwut3.html#ChanBZN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aughuman/BuddhikaZCDNZ19" mdate="2022-04-09">
+<author pid="228/5399">Thisum Buddhika</author>
+<author orcid="0000-0001-8915-0360" pid="61/9545">Haimo Zhang</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0002-2584-7318" pid="174/1937">Vipula Dissanayake</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<author pid="79/1490">Roger Zimmermann</author>
+<title>fSense: Unlocking the Dimension of Force for Gestural Interactions using Smartwatch PPG Sensor.</title>
+<pages>11:1-11:5</pages>
+<year>2019</year>
+<booktitle>AH</booktitle>
+<ee>https://doi.org/10.1145/3311823.3311839</ee>
+<crossref>conf/aughuman/2019</crossref>
+<url>db/conf/aughuman/aughuman2019.html#BuddhikaZCDNZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aughuman/ChanZN19" mdate="2019-09-25">
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0001-8915-0360" pid="61/9545">Haimo Zhang</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>Prospero: A Personal Wearable Memory Coach.</title>
+<pages>26:1-26:5</pages>
+<year>2019</year>
+<booktitle>AH</booktitle>
+<ee>https://doi.org/10.1145/3311823.3311870</ee>
+<crossref>conf/aughuman/2019</crossref>
+<url>db/conf/aughuman/aughuman2019.html#ChanZN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acmidc/SridharCN18" mdate="2018-11-21">
+<author pid="194/3623">Priyashri Kamlesh Sridhar</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>Going beyond performance scores: understanding cognitive-affective states in kindergarteners.</title>
+<pages>253-265</pages>
+<year>2018</year>
+<booktitle>IDC</booktitle>
+<ee>https://doi.org/10.1145/3202185.3202739</ee>
+<crossref>conf/acmidc/2018</crossref>
+<url>db/conf/acmidc/idc2018.html#SridharCN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sui/ElvitigalaCHMN18" mdate="2022-04-09">
+<author orcid="0000-0002-8013-5989" pid="188/0399">Samitha Elvitigala</author>
+<author orcid="0000-0003-1159-0467" pid="220/7546">Samantha W. T. Chan</author>
+<author orcid="0000-0002-7296-2714" pid="128/4295">Noura Howell</author>
+<author pid="128/9286">Denys J. C. Matthies</author>
+<author pid="01/9308">Suranga Nanayakkara</author>
+<title>Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers.</title>
+<pages>186</pages>
+<year>2018</year>
+<booktitle>SUI</booktitle>
+<ee>https://doi.org/10.1145/3267782.3274681</ee>
+<crossref>conf/sui/2018</crossref>
+<url>db/conf/sui/sui2018.html#ElvitigalaCHMN18</url>
+</inproceedings>
+</r>
+<coauthors n="52" nc="1">
+<co c="0"><na f="a/Archiwaranguprok:Chayapatr" pid="375/6793">Chayapatr Archiwaranguprok</na></co>
+<co c="0"><na f="b/Billinghurst:Mark" pid="b/MarkBillinghurst">Mark Billinghurst</na></co>
+<co c="0"><na f="b/Buddhika:Thisum" pid="228/5399">Thisum Buddhika</na></co>
+<co c="0"><na f="c/Cao:Jiashuo" pid="218/7355">Jiashuo Cao</na></co>
+<co c="0"><na f="c/Chin:Sam" pid="374/8674">Sam Chin</na></co>
+<co c="0"><na f="c/Chua:Yvonne" pid="257/7062">Yvonne Chua</na></co>
+<co c="0"><na f="c/Chwalek:Patrick" pid="183/5008">Patrick Chwalek</na></co>
+<co c="0"><na f="d/Denny_0001:Paul" pid="65/5106">Paul Denny 0001</na></co>
+<co c="0"><na f="d/Dingler:Tilman" pid="79/8692">Tilman Dingler</na></co>
+<co c="0"><na f="d/Dissanayake:Vipula" pid="174/1937">Vipula Dissanayake</na></co>
+<co c="0"><na f="e/Elvitigala:Samitha" pid="188/0399">Samitha Elvitigala</na></co>
+<co c="0" n="2"><na f="g/Garbett:Dawn" pid="202/1284">Dawn Garbett</na><na>Dawn L. Garbett</na></co>
+<co c="0"><na f="g/Gunasekaran:Tamil_Selvan" pid="292/9436">Tamil Selvan Gunasekaran</na></co>
+<co c="0"><na f="g/Gupta:Chitralekha" pid="116/5545">Chitralekha Gupta</na></co>
+<co c="0"><na f="g/Gupta:Kunal" pid="42/3840">Kunal Gupta</na></co>
+<co c="0"><na f="h/Howell:Noura" pid="128/4295">Noura Howell</na></co>
+<co c="0"><na f="h/Huber:Jochen" pid="08/2">Jochen Huber</na></co>
+<co c="0"><na f="i/Inami:Masahiko" pid="90/1139">Masahiko Inami</na></co>
+<co c="0"><na f="j/Janaka:Nuwan" pid="161/5559">Nuwan Janaka</na></co>
+<co c="0"><na f="j/Jouffrais:Christophe" pid="48/2639">Christophe Jouffrais</na></co>
+<co c="0"><na f="k/Kim:Young=Ho" pid="60/2492">Young-Ho Kim</na></co>
+<co c="0"><na f="k/Kunze:Kai" pid="44/5109">Kai Kunze</na></co>
+<co c="0"><na f="l/Loftus:Elizabeth_F=" pid="324/9642">Elizabeth F. Loftus</na></co>
+<co c="0"><na f="m/Maes:Pattie" pid="m/PattieMaes">Pattie Maes</na></co>
+<co c="0"><na f="m/Maniar:Natasha" pid="399/2991">Natasha Maniar</na></co>
+<co c="0"><na f="m/Mathews:Rebecca" pid="282/5826">Rebecca Mathews</na></co>
+<co c="0"><na f="m/Matthies:Denys_J=_C=" pid="128/9286">Denys J. C. Matthies</na></co>
+<co c="0"><na f="m/Messerschmidt:Moritz_Alexander" pid="292/6106">Moritz Alexander Messerschmidt</na></co>
+<co c="0"><na f="m/Mueller:Florian_=Floyd=" pid="m/FlorianMueller-1">Florian 'Floyd' Mueller</na></co>
+<co c="0" n="2"><na f="n/Nanayakkara:Suranga" pid="01/9308">Suranga Nanayakkara</na><na>Suranga Chandima Nanayakkara</na></co>
+<co c="0"><na f="n/Nassani:Alaeddin" pid="153/5968">Alaeddin Nassani</na></co>
+<co c="0"><na f="p/Pai:Yun_Suen" pid="182/7081">Yun Suen Pai</na></co>
+<co c="0"><na f="p/Pataranutaporn:Pat" pid="205/7353">Pat Pataranutaporn</na></co>
+<co c="0"><na f="p/Patibanda:Rakesh" pid="207/3920">Rakesh Patibanda</na></co>
+<co c="0"><na f="r/Ren:Scott" pid="376/3141">Scott Ren</na></co>
+<co c="0"><na f="r/Ryskeldiev:Bektur" pid="156/8650">Bektur Ryskeldiev</na></co>
+<co c="0"><na f="s/Sapkota:Shardul" pid="239/9693">Shardul Sapkota</na></co>
+<co c="0"><na f="s/Scholl:Philipp_M=" pid="31/6987-2">Philipp M. Scholl</na></co>
+<co c="0"><na f="s/Sridhar:Priyashri_Kamlesh" pid="194/3623">Priyashri Kamlesh Sridhar</na></co>
+<co c="0"><na f="s/Strachan:Nicholas" pid="324/3931">Nicholas Strachan</na></co>
+<co c="0"><na f="s/Su:John" pid="324/3940">John Su</na></co>
+<co c="0"><na f="s/Sumich:Alexander" pid="281/6008">Alexander Sumich</na></co>
+<co c="0"><na f="s/Suri:Aditya" pid="266/2801">Aditya Suri</na></co>
+<co c="0"><na f="w/Wei_0002:Jing" pid="54/3517-2">Jing Wei 0002</na></co>
+<co c="0"><na f="w/Whitmore:Nathan_W=" pid="180/9520">Nathan W. Whitmore</na></co>
+<co c="0"><na f="x/Xu:Christine" pid="399/2388">Christine Xu</na></co>
+<co c="0" n="2"><na f="y/Yow:W=_Quin" pid="150/5569">W. Quin Yow</na><na>Wei Quin Yow</na></co>
+<co c="0"><na f="z/Zhang:Haimo" pid="61/9545">Haimo Zhang</na></co>
+<co c="0"><na f="z/Zhang_0005:Jingru" pid="22/10441-5">Jingru Zhang 0005</na></co>
+<co c="0"><na f="z/Zhao_0001:Shengdong" pid="23/1695">Shengdong Zhao 0001</na></co>
+<co c="0"><na f="z/Zimmermann:Roger" pid="79/1490">Roger Zimmermann</na></co>
+<co c="0" n="2"><na f="z/Zulfikar:Wazeer" pid="227/2733">Wazeer Zulfikar</na><na>Wazeer Deen Zulfikar</na></co>
+</coauthors>
+</dblpperson>
+

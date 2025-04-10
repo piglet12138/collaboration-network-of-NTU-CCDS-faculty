@@ -1,0 +1,3514 @@
+<?xml version="1.0"?>
+<dblpperson name="Weichen Liu" pid="24/914" n="197">
+<person key="homepages/24/914" mdate="2025-01-10">
+<author pid="24/914">Weichen Liu</author>
+<url>https://orcid.org/0000-0001-9348-4662</url>
+<url>https://www.wikidata.org/entity/Q130807415</url>
+</person>
+<r><article key="journals/jsa/WuHQL25" mdate="2025-03-11">
+<author pid="24/41-12">Ting Wu 0012</author>
+<author pid="399/4181">Jingting He</author>
+<author pid="11/1724">Ying Qian</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Optimizing the performance of in-memory file system by thread scheduling and file migration under NUMA multiprocessor systems.</title>
+<pages>103344</pages>
+<year>2025</year>
+<volume>159</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2025.103344</ee>
+<url>db/journals/jsa/jsa159.html#WuHQL25</url>
+<stream>streams/journals/jsa</stream>
+</article>
+</r>
+<r><article key="journals/pami/WangLLLGW25" mdate="2025-02-14">
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author orcid="0000-0002-3415-3676" pid="43/4720-14">Tao Luo 0014</author>
+<author orcid="0000-0002-5542-7306" pid="15/2288-8">Cheng Liu 0008</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9116-1595" pid="24/2670">Rick Siow Mong Goh</author>
+<author orcid="0000-0002-4281-2053" pid="37/1143">Weng-Fai Wong</author>
+<title>Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small.</title>
+<pages>916-933</pages>
+<year>2025</year>
+<month>February</month>
+<volume>47</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TPAMI.2024.3483654</ee>
+<url>db/journals/pami/pami47.html#WangLLLGW25</url>
+<stream>streams/journals/pami</stream>
+</article>
+</r>
+<r><article key="journals/tc/WangDLLLYL25" mdate="2025-04-08">
+<author orcid="0000-0002-0086-6301" pid="63/11345-6">Haotian Wang 0006</author>
+<author pid="57/4533-4">Yan Ding 0004</author>
+<author orcid="0000-0003-0927-9039" pid="08/9559">Yumeng Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-2372-6715" pid="147/8031">Chubo Liu</author>
+<author orcid="0000-0001-6956-9260" pid="84/8385">Wangdong Yang</author>
+<author orcid="0000-0002-2635-7716" pid="l/KenliLi">Kenli Li 0001</author>
+<title>A Context-Awareness and Hardware-Friendly Sparse Matrix Multiplication Kernel for CNN Inference Acceleration.</title>
+<pages>1182-1195</pages>
+<year>2025</year>
+<month>April</month>
+<volume>74</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TC.2024.3517745</ee>
+<url>db/journals/tc/tc74.html#WangDLLLYL25</url>
+<stream>streams/journals/tc</stream>
+</article>
+</r>
+<r><article key="journals/tecs/LuoLKHCXL25" mdate="2025-01-25">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0009-0002-7485-6787" pid="357/3694">Guochu Xiong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision.</title>
+<pages>21:1-21:100</pages>
+<year>2025</year>
+<month>January</month>
+<volume>24</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3701728</ee>
+<url>db/journals/tecs/tecs24.html#LuoLKHCXL25</url>
+<stream>streams/journals/tecs</stream>
+</article>
+</r>
+<r><article key="journals/esl/HuaiKLLSMLL24" mdate="2024-06-18">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>EvoLP: Self-Evolving Latency Predictor for Model Compression in Real-Time Edge Systems.</title>
+<pages>174-177</pages>
+<year>2024</year>
+<month>June</month>
+<volume>16</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2023.3321599</ee>
+<url>db/journals/esl/esl16.html#HuaiKLLSMLL24</url>
+</article>
+</r>
+<r><article key="journals/systems/ZhangML24" mdate="2024-11-22">
+<author pid="390/7192">Zonghe Zhang</author>
+<author pid="334/9436">Yuxi Mao</author>
+<author pid="24/914">Weichen Liu</author>
+<title>The Psychological Mechanism of Moral Leadership Influencing Responsible Subordinate Behavior.</title>
+<pages>408</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>Syst.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.3390/systems12100408</ee>
+<url>db/journals/systems/systems12.html#ZhangML24</url>
+<stream>streams/journals/systems</stream>
+</article>
+</r>
+<r><article key="journals/taco/ChenCLLCG24" mdate="2025-01-19">
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-1966-0714" pid="141/0607">Linbo Long</author>
+<author orcid="0000-0002-4053-8898" pid="67/3746">Wanli Chang 0001</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>DAG-Order: An Order-Based Dynamic DAG Scheduling for Real-Time Networks-on-Chip.</title>
+<pages>2:1-2:24</pages>
+<year>2024</year>
+<month>March</month>
+<volume>21</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1145/3631527</ee>
+<ee>https://www.wikidata.org/entity/Q131021947</ee>
+<url>db/journals/taco/taco21.html#ChenCLLCG24</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiLWLLQTL24" mdate="2024-02-20">
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0002-2635-7716" pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="45/3158-6">Chao Wu 0006</author>
+<author orcid="0000-0003-1330-0945" pid="37/2109">Gang Liu</author>
+<author orcid="0009-0008-7877-9794" pid="357/2832">Mingfeng Lan</author>
+<author orcid="0000-0003-2115-858X" pid="66/2387">Yunchuan Qin</author>
+<author orcid="0000-0001-9081-8153" pid="71/617">Zhuo Tang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Automated Optical Accelerator Search Toward Superior Acceleration Efficiency, Inference Robustness, and Development Speed.</title>
+<pages>249-262</pages>
+<year>2024</year>
+<month>January</month>
+<volume>43</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2023.3297969</ee>
+<url>db/journals/tcad/tcad43.html#LiLWLLQTL24</url>
+</article>
+</r>
+<r><article key="journals/tcad/LuoLKHXL24" mdate="2024-12-22">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="357/3694">Guochu Xiong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Domino-Pro-Max: Toward Efficient Network Simplification and Reparameterization for Embedded Hardware Systems.</title>
+<pages>4532-4545</pages>
+<year>2024</year>
+<month>December</month>
+<volume>43</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2024.3401544</ee>
+<url>db/journals/tcad/tcad43.html#LuoLKHXL24</url>
+<stream>streams/journals/tcad</stream>
+</article>
+</r>
+<r><article key="journals/tecs/ShiSACZL24" mdate="2025-03-03">
+<author orcid="0000-0002-9977-529X" pid="09/6041">Liang Shi</author>
+<author pid="388/9909">Jingtong Shi</author>
+<author pid="94/10663">Hussam Amrouch</author>
+<author orcid="0000-0002-7110-921X" pid="163/9343">Kuan-Hsun Chen</author>
+<author pid="73/11467">Mengying Zhao</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Introduction to Special Issue on In/Near Memory and Storage Computing for Embedded Systems.</title>
+<pages>85:1-85:3</pages>
+<year>2024</year>
+<month>November</month>
+<volume>23</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3677018</ee>
+<ee>https://www.wikidata.org/entity/Q130807462</ee>
+<url>db/journals/tecs/tecs23.html#ShiSACZL24</url>
+<stream>streams/journals/tecs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/Luo0KH0LXL24" mdate="2025-01-19">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="150/6778">Shiqing Li</author>
+<author pid="357/3694">Guochu Xiong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Pearls Hide Behind Linearity: Simplifying Deep Convolutional Networks for Embedded Hardware Systems via Linearity Grafting.</title>
+<pages>250-255</pages>
+<year>2024</year>
+<booktitle>ASPDAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC58780.2024.10473971</ee>
+<ee>https://www.wikidata.org/entity/Q130819926</ee>
+<crossref>conf/aspdac/2024</crossref>
+<url>db/conf/aspdac/aspdac2024.html#Luo0KH0LXL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/Luo0KHL24" mdate="2024-11-30">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Double-Win NAS: Towards Deep-to-Shallow Transformable Neural Architecture Search for Intelligent Embedded Systems.</title>
+<pages>128:1-128:6</pages>
+<year>2024</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3649329.3656247</ee>
+<crossref>conf/dac/2024</crossref>
+<url>db/conf/dac/dac2024.html#Luo0KHL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/LiuSCTHJW24" mdate="2025-01-08">
+<author pid="24/914">Weichen Liu</author>
+<author pid="171/8996">Cory Stevenson</author>
+<author pid="52/3315">Chi-Yuan Chang</author>
+<author pid="193/8342">Steven M. Thurman</author>
+<author pid="160/1824">Russell A. Cohen Hoffing</author>
+<author pid="71/2079">Tzyy-Ping Jung</author>
+<author pid="19/8273">Ying Choon Wu</author>
+<title>Gaze intersection points reveal the onset of visual processing during eye and head movement.</title>
+<pages>1-4</pages>
+<year>2024</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC53108.2024.10781581</ee>
+<crossref>conf/embc/2024</crossref>
+<url>db/conf/embc/embc2024.html#LiuSCTHJW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/SathiamoorthyHK24" mdate="2024-06-20">
+<author orcid="0009-0008-3865-2449" pid="323/6504">Vikash Sathiamoorthy</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author pid="377/4857">Wendy Yong Yi Loy</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author orcid="0009-0006-5855-7882" pid="298/4780">Daren Ho</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0009-0003-8976-9800" pid="79/3108-1">Qian Lin 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>FedTR: Federated Learning Framework with Transfer Learning for Industrial Visual Inspection.</title>
+<pages>310-314</pages>
+<year>2024</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3649476.3658768</ee>
+<crossref>conf/glvlsi/2024</crossref>
+<url>db/conf/glvlsi/glvlsi2024.html#SathiamoorthyHK24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-00938" mdate="2025-01-08">
+<author pid="377/3528">Jacob Yenney</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="19/8273">Ying Choon Wu</author>
+<title>Virtual Psychedelia.</title>
+<year>2024</year>
+<volume>abs/2405.00938</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.00938</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-00938</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-13171" mdate="2024-06-18">
+<author pid="19/8273">Ying Choon Wu</author>
+<author pid="378/1058">Christopher Maymon</author>
+<author pid="378/1351">Jonathon Paden</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Launching Your VR Neuroscience Laboratory.</title>
+<year>2024</year>
+<volume>abs/2405.13171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.13171</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-13171</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-15977" mdate="2024-11-27">
+<author pid="06/9981">Zhehui Wang</author>
+<author pid="43/4720-14">Tao Luo 0014</author>
+<author pid="15/2288-8">Cheng Liu 0008</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<author pid="37/1143">Weng-Fai Wong</author>
+<title>Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small.</title>
+<year>2024</year>
+<volume>abs/2410.15977</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.15977</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-15977</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-01431" mdate="2024-12-11">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="357/3694">Guochu Xiong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision.</title>
+<year>2024</year>
+<volume>abs/2411.01431</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.01431</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-01431</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/dt/HuaiKLLSMLL23" mdate="2023-11-09">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>On Hardware-Aware Design and Optimization of Edge Intelligence.</title>
+<pages>149-162</pages>
+<year>2023</year>
+<month>December</month>
+<volume>40</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2023.3307558</ee>
+<url>db/journals/dt/dt40.html#HuaiKLLSMLL23</url>
+</article>
+</r>
+<r><article key="journals/dt/LanLXLLL23" mdate="2023-11-09">
+<author orcid="0009-0008-7877-9794" pid="357/2832">Mingfeng Lan</author>
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author pid="75/198">Jie Xiong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-2372-6715" pid="147/8031">Chubo Liu</author>
+<author orcid="0000-0002-2635-7716" pid="l/KenliLi">Kenli Li 0001</author>
+<title>Automated Optical Accelerator Search: Expediting Green and Ubiquitous DNN-Powered Intelligence.</title>
+<pages>175-184</pages>
+<year>2023</year>
+<month>December</month>
+<volume>40</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2023.3309895</ee>
+<url>db/journals/dt/dt40.html#LanLXLLL23</url>
+</article>
+</r>
+<r><article key="journals/fgcs/HuaiLKLSML23" mdate="2023-08-08">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<title>Latency-constrained DNN architecture learning for edge systems using zerorized batch normalization.</title>
+<pages>314-327</pages>
+<year>2023</year>
+<month>May</month>
+<volume>142</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2022.12.021</ee>
+<url>db/journals/fgcs/fgcs142.html#HuaiLKLSML23</url>
+</article>
+</r>
+<r><article key="journals/tc/LuoLKHCL23" mdate="2023-03-28">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>SurgeNAS: A Comprehensive Surgery on Hardware-Aware Differentiable Neural Architecture Search.</title>
+<pages>1081-1094</pages>
+<year>2023</year>
+<month>April</month>
+<volume>72</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TC.2022.3188175</ee>
+<url>db/journals/tc/tc72.html#LuoLKHCL23</url>
+</article>
+</r>
+<r><article key="journals/tcad/ZhuDCLL23" mdate="2023-03-11">
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author orcid="0000-0003-4731-1896" pid="153/0625">Luan H. K. Duong</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>FAT: An In-Memory Accelerator With Fast Addition for Ternary Weight Neural Networks.</title>
+<pages>781-794</pages>
+<year>2023</year>
+<month>March</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3184276</ee>
+<url>db/journals/tcad/tcad42.html#ZhuDCLL23</url>
+</article>
+</r>
+<r><article key="journals/tcad/LuoLKHCL23" mdate="2023-06-02">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>LightNAS: On Lightweight and Scalable Neural Architecture Search for Embedded Platforms.</title>
+<pages>1784-1797</pages>
+<year>2023</year>
+<month>June</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3208187</ee>
+<url>db/journals/tcad/tcad42.html#LuoLKHCL23</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiLL23" mdate="2023-12-10">
+<author orcid="0000-0002-6875-5691" pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Efficient FPGA-Based Sparse Matrix-Vector Multiplication With Data Reuse-Aware Compression.</title>
+<pages>4606-4617</pages>
+<year>2023</year>
+<month>December</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2023.3281715</ee>
+<url>db/journals/tcad/tcad42.html#LiLL23</url>
+</article>
+</r>
+<r><article key="journals/tcad/KongLHLSMLL23" mdate="2023-12-10">
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI.</title>
+<pages>4657-4670</pages>
+<year>2023</year>
+<month>December</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2023.3276938</ee>
+<url>db/journals/tcad/tcad42.html#KongLHLSMLL23</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiHL23" mdate="2023-12-10">
+<author orcid="0000-0002-6875-5691" pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>An Efficient Gustavson-Based Sparse Matrix-Matrix Multiplication Accelerator on Embedded FPGAs.</title>
+<pages>4671-4680</pages>
+<year>2023</year>
+<month>December</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2023.3281719</ee>
+<url>db/journals/tcad/tcad42.html#LiHL23</url>
+</article>
+</r>
+<r><article key="journals/tecs/HuaiKLLSMLL23" mdate="2025-01-19">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-6875-5691" pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-7118-0796" pid="118/9750">Ravi Subramaniam</author>
+<author orcid="0000-0002-7304-419X" pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>CRIMP: Compact &#38; Reliable DNN Inference on In-Memory Processing via Crossbar-Aligned Compression and Non-ideality Adaptation.</title>
+<pages>123:1-123:25</pages>
+<year>2023</year>
+<month>October</month>
+<volume>22</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5s</number>
+<ee>https://doi.org/10.1145/3609115</ee>
+<ee>https://www.wikidata.org/entity/Q130965189</ee>
+<url>db/journals/tecs/tecs22.html#HuaiKLLSMLL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/Huai0L0LS23" mdate="2025-01-19">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<title>Crossbar-Aligned &#38; Integer-Only Neural Network Compression for Efficient in-Memory Acceleration.</title>
+<pages>234-239</pages>
+<year>2023</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3566097.3567856</ee>
+<ee>https://ieeexplore.ieee.org/document/10044780</ee>
+<ee>https://www.wikidata.org/entity/Q130966065</ee>
+<crossref>conf/aspdac/2023</crossref>
+<url>db/conf/aspdac/aspdac2023.html#Huai0L0LS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/Chen0LHLL23" mdate="2025-01-19">
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<title>MUGNoC: A Software-Configured Multicast-Unicast-Gather NoC for Accelerating CNN Dataflows.</title>
+<pages>308-313</pages>
+<year>2023</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3566097.3567846</ee>
+<ee>https://ieeexplore.ieee.org/document/10044867</ee>
+<ee>https://www.wikidata.org/entity/Q130964594</ee>
+<crossref>conf/aspdac/2023</crossref>
+<url>db/conf/aspdac/aspdac2023.html#Chen0LHLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cipae/YangZWL23" mdate="2024-01-25">
+<author pid="366/7045">Junxuan Yang</author>
+<author pid="366/6689">Sutong Zhang</author>
+<author pid="165/7729">Mingjiang Wang</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Human motion trajectory generation based on AWR1642.</title>
+<pages>178-181</pages>
+<year>2023</year>
+<booktitle>CIPAE</booktitle>
+<ee>https://doi.org/10.1109/CIPAE60493.2023.00040</ee>
+<crossref>conf/cipae/2023</crossref>
+<url>db/conf/cipae/cipae2023.html#YangZWL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/KongLLHSMLL23" mdate="2023-09-24">
+<author pid="146/4832">Hao Kong</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<author pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC56929.2023.10247965</ee>
+<crossref>conf/dac/2023</crossref>
+<url>db/conf/dac/dac2023.html#KongLLHSMLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/LiLLXTL23" mdate="2023-09-24">
+<author pid="172/2695">Mengquan Li</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="357/2832">Mingfeng Lan</author>
+<author pid="75/198">Jie Xiong</author>
+<author pid="71/617">Zhuo Tang</author>
+<author pid="24/914">Weichen Liu</author>
+<title>FIONA: Fine-grained Incoherent Optical DNN Accelerator Search for Superior Efficiency and Robustness.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC56929.2023.10247725</ee>
+<crossref>conf/dac/2023</crossref>
+<url>db/conf/dac/dac2023.html#LiLLXTL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KongLHLSMLL23" mdate="2023-08-08">
+<author pid="146/4832">Hao Kong</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<author pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<author pid="24/914">Weichen Liu</author>
+<title>EMNAPE: Efficient Multi-Dimensional Neural Architecture Pruning for EdgeAI.</title>
+<pages>1-2</pages>
+<year>2023</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE56975.2023.10137122</ee>
+<crossref>conf/date/2023</crossref>
+<url>db/conf/date/date2023.html#KongLHLSMLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiL23" mdate="2023-06-07">
+<author pid="150/6778">Shiqing Li</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Accelerating Gustavson-based SpMM on Embedded FPGAs with Element-wise Parallelism and Access Pattern-aware Caches.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE56975.2023.10136958</ee>
+<crossref>conf/date/2023</crossref>
+<url>db/conf/date/date2023.html#LiL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/LiZLLL23" mdate="2024-11-27">
+<author pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="43/4720-14">Tao Luo 0014</author>
+<author pid="24/914">Weichen Liu</author>
+<title>An Efficient Sparse LSTM Accelerator on Embedded FPGAs with Bandwidth-Oriented Pruning.</title>
+<pages>42-48</pages>
+<year>2023</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL60245.2023.00014</ee>
+<crossref>conf/fpl/2023</crossref>
+<url>db/conf/fpl/fpl2023.html#LiZLLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/ZhuHXL23" mdate="2024-08-04">
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="357/3694">Guochu Xiong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>iMAT: Energy-Efficient In-Memory Acceleration for Ternary Neural Networks With Sparse Dot Product.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED58423.2023.10244333</ee>
+<crossref>conf/islped/2023</crossref>
+<url>db/conf/islped/islped2023.html#ZhuHXL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/HeSLL23" mdate="2023-11-13">
+<author pid="160/6184">Qingqiang He</author>
+<author pid="185/7225">Yongzheng Sun</author>
+<author pid="23/4249">Mingsong Lv</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Efficient Response Time Bound for Typed DAG Tasks.</title>
+<pages>226-231</pages>
+<year>2023</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA58653.2023.00034</ee>
+<crossref>conf/rtcsa/2023</crossref>
+<url>db/conf/rtcsa/rtcsa2023.html#HeSLL23</url>
+</inproceedings>
+</r>
+<r><article key="journals/aei/ZhangWLDHLZ22" mdate="2024-02-12">
+<author pid="82/7276">Fuqiang Zhang</author>
+<author pid="68/5597">Lei Wu</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-8121-0258" pid="44/2891-4">Kai Ding 0004</author>
+<author orcid="0000-0003-3661-1033" pid="179/6099">Jizhuang Hui</author>
+<author pid="179/6178">Jiewu Leng</author>
+<author pid="195/2939">Xueliang Zhou</author>
+<title>Evolutionary game-based incentive models for sustainable trust enhancement in a blockchained shared manufacturing network.</title>
+<pages>101791</pages>
+<year>2022</year>
+<volume>54</volume>
+<journal>Adv. Eng. Informatics</journal>
+<ee>https://doi.org/10.1016/j.aei.2022.101791</ee>
+<url>db/journals/aei/aei54.html#ZhangWLDHLZ22</url>
+</article>
+</r>
+<r><article key="journals/dt/KongHLZCZLLRSAL22" mdate="2023-08-28">
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author pid="97/8704-72">Lei Zhang 0072</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author orcid="0000-0002-6875-5691" pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="06/3591">Manu Rastogi</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<author pid="280/3470">Madhu Athreya</author>
+<author pid="l/MAnthonyLewis">M. Anthony Lewis</author>
+<title>EDLAB: A Benchmark for Edge Deep Learning Accelerators.</title>
+<pages>8-17</pages>
+<year>2022</year>
+<volume>39</volume>
+<journal>IEEE Des. Test</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MDAT.2021.3095215</ee>
+<ee>https://www.wikidata.org/entity/Q114085615</ee>
+<url>db/journals/dt/dt39.html#KongHLZCZLLRSAL22</url>
+</article>
+</r>
+<r><article key="journals/ijon/LiuKLLS22" mdate="2022-12-09">
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<title>Bringing AI to edge: From deep learning's perspective.</title>
+<pages>297-320</pages>
+<year>2022</year>
+<volume>485</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2021.04.141</ee>
+<url>db/journals/ijon/ijon485.html#LiuKLLS22</url>
+</article>
+</r>
+<r><article key="journals/tc/0027CZLLXXG22" mdate="2022-12-28">
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author pid="99/3847">Jun Zhou</author>
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-4565-6412" pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0002-0049-5256" pid="76/8314">Yiyuan Xie</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Contention Minimization in Emerging SMART NoC via Direct and Indirect Routes.</title>
+<pages>1874-1888</pages>
+<year>2022</year>
+<volume>71</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TC.2021.3111517</ee>
+<url>db/journals/tc/tc71.html#0027CZLLXXG22</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenCZDL22" mdate="2022-12-28">
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author pid="99/3847">Jun Zhou</author>
+<author orcid="0000-0003-4731-1896" pid="153/0625">Luan H. K. Duong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission.</title>
+<pages>1316-1329</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCAD.2021.3091961</ee>
+<url>db/journals/tcad/tcad41.html#ChenCZDL22</url>
+</article>
+</r>
+<r><article key="journals/tcad/LuoLHKCL22" mdate="2023-08-28">
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-1378-0056" pid="146/4832">Hao Kong</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Designing Efficient DNNs via Hardware-Aware Neural Architecture Search and Beyond.</title>
+<pages>1799-1812</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2021.3100249</ee>
+<ee>https://www.wikidata.org/entity/Q113807148</ee>
+<url>db/journals/tcad/tcad41.html#LuoLHKCL22</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiuYHZL22" mdate="2025-03-11">
+<author orcid="0000-0002-4365-2768" pid="15/1777-2">Di Liu 0002</author>
+<author pid="255/5348">Shi-Gui Yang</author>
+<author orcid="0000-0002-7986-2222" pid="63/10132">Zhenli He</author>
+<author orcid="0000-0001-9499-5456" pid="146/7492-1">Mingxiong Zhao 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>CARTAD: Compiler-Assisted Reinforcement Learning for Thermal-Aware Task Scheduling and DVFS on Multicores.</title>
+<pages>1813-1826</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2021.3095028</ee>
+<ee>https://www.wikidata.org/entity/Q121835211</ee>
+<url>db/journals/tcad/tcad41.html#LiuYHZL22</url>
+</article>
+</r>
+<r><article key="journals/tcad/WangJGTL22" mdate="2023-03-24">
+<author orcid="0000-0003-0980-8455" pid="181/2842-82">Yang Wang 0082</author>
+<author orcid="0000-0003-2675-2895" pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="07/11244-1">Yue Tang 0001</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated Scheduling.</title>
+<pages>2877-2890</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCAD.2021.3114261</ee>
+<url>db/journals/tcad/tcad41.html#WangJGTL22</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChangBSLYDG22" mdate="2024-02-13">
+<author orcid="0000-0002-0013-6878" pid="228/2739">Shuangshuang Chang</author>
+<author orcid="0000-0003-2750-691X" pid="28/5173-1">Ran Bi 0001</author>
+<author pid="14/9961">Jinghao Sun</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="58/6957">Qi Yu</author>
+<author orcid="0000-0002-5185-6306" pid="95/63">Qingxu Deng</author>
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<title>Toward Minimum WCRT Bound for DAG Tasks Under Prioritized List Scheduling Algorithms.</title>
+<pages>3874-3885</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3197532</ee>
+<url>db/journals/tcad/tcad41.html#ChangBSLYDG22</url>
+</article>
+</r>
+<r><article key="journals/tcad/LinXLWSN22" mdate="2025-01-19">
+<author orcid="0000-0002-8232-6156" pid="275/1969">Fangzhu Lin</author>
+<author orcid="0000-0002-4565-6412" pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="65/6292">Lin Wu</author>
+<author orcid="0000-0001-9916-8951" pid="01/6772">Chen Shi</author>
+<author pid="136/1483">Kun Ning</author>
+<title>Fast and Low Overhead Metadata Operations for NVM-Based File System Using Slotted Paging.</title>
+<pages>4481-4491</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3202436</ee>
+<ee>https://www.wikidata.org/entity/Q123365027</ee>
+<url>db/journals/tcad/tcad41.html#LinXLWSN22</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenCLHL22" mdate="2022-12-28">
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0002-0758-2248" pid="197/4742">Xiangzhong Luo</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>LAMP: Load-Balanced Multipath Parallel Transmission in Point-to-Point NoCs.</title>
+<pages>5232-5245</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3151021</ee>
+<url>db/journals/tcad/tcad41.html#ChenCLHL22</url>
+</article>
+</r>
+<r><article key="journals/tcyb/FengZLOT22" mdate="2024-08-07">
+<author orcid="0000-0002-8356-7242" pid="07/5681-1">Liang Feng 0001</author>
+<author orcid="0000-0001-8681-7326" pid="69/5011-1">Wei Zhou 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
+<author orcid="0000-0002-6802-2463" pid="t/KayChenTan">Kay Chen Tan</author>
+<title>Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search.</title>
+<pages>2649-2662</pages>
+<year>2022</year>
+<volume>52</volume>
+<journal>IEEE Trans. Cybern.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCYB.2020.3017017</ee>
+<ee>https://www.wikidata.org/entity/Q100406590</ee>
+<url>db/journals/tcyb/tcyb52.html#FengZLOT22</url>
+</article>
+</r>
+<r><article key="journals/tecs/ZhuDL22" mdate="2025-01-19">
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="153/0625">Luan H. K. Duong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>TAB: Unified and Optimized Ternary, Binary, and Mixed-precision Neural Network Inference on the Edge.</title>
+<pages>50:1-50:26</pages>
+<year>2022</year>
+<month>September</month>
+<volume>21</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3508390</ee>
+<ee>https://www.wikidata.org/entity/Q130984514</ee>
+<url>db/journals/tecs/tecs21.html#ZhuDL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/KongLLLS22" mdate="2022-12-09">
+<author pid="146/4832">Hao Kong</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<title>HACScale: Hardware-Aware Compound Scaling for Resource-Efficient DNNs.</title>
+<pages>708-713</pages>
+<year>2022</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC52403.2022.9712593</ee>
+<crossref>conf/aspdac/2022</crossref>
+<url>db/conf/aspdac/aspdac2022.html#KongLLLS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codesisss/LuoLKHCL22" mdate="2022-12-28">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Work-in-Progress: What to Expect of Early Training Statistics? An Investigation on Hardware-Aware Neural Architecture Search.</title>
+<pages>1-2</pages>
+<year>2022</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1109/CODES-ISSS55005.2022.00007</ee>
+<crossref>conf/codesisss/2022</crossref>
+<url>db/conf/codesisss/codesisss2022.html#LuoLKHCL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/LuoLKHCL22" mdate="2022-12-28">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="24/914">Weichen Liu</author>
+<title>You only search once: on lightweight differentiable architecture search for resource-constrained embedded platforms.</title>
+<pages>475-480</pages>
+<year>2022</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3489517.3530488</ee>
+<crossref>conf/dac/2022</crossref>
+<url>db/conf/dac/dac2022.html#LuoLKHCL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ZhuLL22" mdate="2025-01-19">
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="150/6778">Shiqing Li</author>
+<author pid="24/914">Weichen Liu</author>
+<title>iMAD: An In-Memory Accelerator for AdderNet with Efficient 8-bit Addition and Subtraction Operations.</title>
+<pages>65-70</pages>
+<year>2022</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3526241.3530313</ee>
+<ee>https://www.wikidata.org/entity/Q130975412</ee>
+<crossref>conf/glvlsi/2022</crossref>
+<url>db/conf/glvlsi/glvlsi2022.html#ZhuLL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/Kong0HLLSML22" mdate="2025-01-19">
+<author pid="146/4832">Hao Kong</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<author pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<title>Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware.</title>
+<pages>109:1-109:9</pages>
+<year>2022</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3508352.3549397</ee>
+<ee>https://ieeexplore.ieee.org/document/10069849</ee>
+<ee>https://www.wikidata.org/entity/Q130889193</ee>
+<crossref>conf/iccad/2022</crossref>
+<url>db/conf/iccad/iccad2022.html#Kong0HLLSML22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/Huai0KLLSM022" mdate="2023-12-17">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<author pid="62/6656">Christian Makaya</author>
+<author pid="79/3108-1">Qian Lin 0001</author>
+<title>Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems.</title>
+<pages>627-634</pages>
+<year>2022</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD56317.2022.00097</ee>
+<crossref>conf/iccd/2022</crossref>
+<url>db/conf/iccd/iccd2022.html#Huai0KLLSM022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/ZhangLWS22" mdate="2022-12-23">
+<author pid="255/9119">Menghe Zhang</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="56/3408">Nadir Weibel</author>
+<author pid="59/5292">J&#252;rgen P. Schulze</author>
+<title>A DirectX-Based DICOM Viewer for Multi-user Surgical Planning in Augmented Reality.</title>
+<pages>217-228</pages>
+<year>2022</year>
+<booktitle>ISVC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20716-7_17</ee>
+<crossref>conf/isvc/2022-2</crossref>
+<url>db/conf/isvc/isvc2022-2.html#ZhangLWS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/GasquesLW22" mdate="2022-10-02">
+<author pid="239/9626">Danilo Gasques</author>
+<author orcid="0000-0002-8576-6130" pid="24/914">Weichen Liu</author>
+<author pid="56/3408">Nadir Weibel</author>
+<title>The Virtual-Augmented Reality Simulator: Evaluating OST-HMD AR calibration algorithms in VR.</title>
+<pages>702-703</pages>
+<year>2022</year>
+<booktitle>VR Workshops</booktitle>
+<ee>https://doi.org/10.1109/VRW55335.2022.00202</ee>
+<crossref>conf/vr/2022w</crossref>
+<url>db/conf/vr/vr2022w.html#GasquesLW22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-07634" mdate="2022-12-28">
+<author pid="265/5738">Shien Zhu</author>
+<author pid="153/0625">Luan H. K. Duong</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="24/914">Weichen Liu</author>
+<title>FAT: An In-Memory Accelerator with Fast Addition for Ternary Weight Neural Networks.</title>
+<year>2022</year>
+<volume>abs/2201.07634</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.07634</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-07634</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-14446" mdate="2022-12-28">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="24/914">Weichen Liu</author>
+<title>You Only Search Once: On Lightweight Differentiable Architecture Search for Resource-Constrained Embedded Platforms.</title>
+<year>2022</year>
+<volume>abs/2208.14446</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.14446</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-14446</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-14349" mdate="2022-10-31">
+<author pid="255/9119">Menghe Zhang</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="56/3408">Nadir Weibel</author>
+<author pid="59/5292">J&#252;rgen P. Schulze</author>
+<title>A DirectX-Based DICOM Viewer for Multi-User Surgical Planning in Augmented Reality.</title>
+<year>2022</year>
+<volume>abs/2210.14349</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.14349</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-14349</url>
+</article>
+</r>
+<r><article key="journals/jetc/ZhouLGL21" mdate="2021-09-10">
+<author pid="99/3847">Jun Zhou</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="166/0001">Pengxing Guo</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Attack Mitigation of Hardware Trojans for Thermal Sensing via Micro-ring Resonator in Optical NoCs.</title>
+<pages>31:1-31:23</pages>
+<year>2021</year>
+<volume>17</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3433676</ee>
+<url>db/journals/jetc/jetc17.html#ZhouLGL21</url>
+</article>
+</r>
+<r><article key="journals/tc/JiangGDLW21" mdate="2023-07-06">
+<author orcid="0000-0003-2675-2895" pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="60/667">He Du</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>On the Analysis of Parallel Real-Time Tasks With Spin Locks.</title>
+<pages>199-211</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TC.2020.2987300</ee>
+<url>db/journals/tc/tc70.html#JiangGDLW21</url>
+</article>
+</r>
+<r><article key="journals/tc/ZhaoCWLGBW21" mdate="2022-03-17">
+<author pid="116/8682-4">Shuai Zhao 0004</author>
+<author orcid="0000-0002-4053-8898" pid="67/3746">Wanli Chang 0001</author>
+<author orcid="0000-0003-2191-1359" pid="92/2461">Ran Wei</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0001-5621-8816" pid="b/AlanBurns">Alan Burns 0001</author>
+<author pid="w/AndyJWellings">Andy J. Wellings</author>
+<title>Priority Assignment on Partitioned Multiprocessor Systems With Shared Resources.</title>
+<pages>1006-1018</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2020.3000051</ee>
+<url>db/journals/tc/tc70.html#ZhaoCWLGBW21</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiLDCYX21" mdate="2021-03-23">
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-4731-1896" pid="153/0625">Luan H. K. Duong</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0002-4565-6412" pid="49/4409">Chunhua Xiao</author>
+<title>Contention-Aware Routing for Thermal-Reliable Optical Networks-on-Chip.</title>
+<pages>260-273</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCAD.2020.2994261</ee>
+<url>db/journals/tcad/tcad40.html#LiLDCYX21</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenLCLLYG21" mdate="2022-12-28">
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-1614-9929" pid="12/417-16">Hui Chen 0016</author>
+<author pid="150/6778">Shiqing Li</author>
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0002-0646-440X" pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Reduced Worst-Case Communication Latency Using Single-Cycle Multihop Traversal Network-on-Chip.</title>
+<pages>1381-1394</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCAD.2020.3015440</ee>
+<url>db/journals/tcad/tcad40.html#ChenLCLLYG21</url>
+</article>
+</r>
+<r><article key="journals/tecs/ChenZ0LLL21" mdate="2025-03-03">
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="157/0770">Zihao Zhang</author>
+<author orcid="0000-0003-0808-5451" pid="27/7017-27">Peng Chen 0027</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="150/6778">Shiqing Li</author>
+<author pid="24/914">Weichen Liu</author>
+<title>MARCO: A High-performance Task Mapping and Routing Co-optimization Framework for Point-to-Point NoC-based Heterogeneous Computing Systems.</title>
+<pages>54:1-54:21</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5s</number>
+<ee>https://doi.org/10.1145/3476985</ee>
+<url>db/journals/tecs/tecs20.html#ChenZ0LLL21</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/HuaiZLLS21" mdate="2022-12-09">
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<title>ZeroBN: Learning Compact Neural Networks For Latency-Critical Edge Systems.</title>
+<pages>151-156</pages>
+<year>2021</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18074.2021.9586309</ee>
+<crossref>conf/dac/2021</crossref>
+<url>db/conf/dac/dac2021.html#HuaiZLLS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LuoLHL21" mdate="2022-12-09">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0002-4744-304X" pid="241/4348">Shuo Huai</author>
+<author pid="24/914">Weichen Liu</author>
+<title>HSCoNAS: Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search.</title>
+<pages>418-421</pages>
+<year>2021</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE51398.2021.9473937</ee>
+<crossref>conf/date/2021</crossref>
+<url>db/conf/date/date2021.html#LuoLHL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MaXLLL021" mdate="2021-07-21">
+<author pid="126/9026">Wenhong Ma</author>
+<author pid="147/1038">Guoqi Xie</author>
+<author pid="l/RenfaLi">Renfa Li</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="30/5330-1">Hai Helen Li</author>
+<author pid="67/3746">Wanli Chang 0001</author>
+<title>Efficient AUTOSAR-Compliant CAN-FD Frame Packing with Observed Optimality.</title>
+<pages>1899-1904</pages>
+<year>2021</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE51398.2021.9473962</ee>
+<crossref>conf/date/2021</crossref>
+<url>db/conf/date/date2021.html#MaXLLL021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ChenZCZL21" mdate="2023-03-21">
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="157/0770">Zihao Zhang</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Parallel Multipath Transmission for Burst Traffic Optimization in Point-to-Point NoCs.</title>
+<pages>289-294</pages>
+<year>2021</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3453688.3461521</ee>
+<crossref>conf/glvlsi/2021</crossref>
+<url>db/conf/glvlsi/glvlsi2021.html#ChenZCZL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icbds/YeLQJ021" mdate="2023-09-30">
+<author pid="94/6717">Zi Ye</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-5814-8460" pid="92/5150">Qiang Qu</author>
+<author pid="18/3607">Qingshan Jiang</author>
+<author pid="46/7028-1">Yi Pan 0001</author>
+<title>A Cryptocurrency Price Prediction Model Based on Twitter Sentiment Indicators.</title>
+<pages>411-425</pages>
+<year>2021</year>
+<booktitle>ICBDS</booktitle>
+<ee>https://doi.org/10.1007/978-981-19-0852-1_32</ee>
+<crossref>conf/icbds/2021</crossref>
+<url>db/conf/icbds/icbds2021.html#YeLQJ021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/LiLL21" mdate="2022-12-09">
+<author pid="150/6778">Shiqing Li</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Optimized Data Reuse via Reordering for Sparse Matrix-Vector Multiplication on FPGAs.</title>
+<pages>1-9</pages>
+<year>2021</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD51958.2021.9643453</ee>
+<crossref>conf/iccad/2021</crossref>
+<url>db/conf/iccad/iccad2021.html#LiLL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ChenCZLLL0G21" mdate="2022-12-28">
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="99/3847">Jun Zhou</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="150/6778">Shiqing Li</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="67/3746">Wanli Chang 0001</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Partial order based non-preemptive communication scheduling towards real-time networks-on-chip.</title>
+<pages>145-154</pages>
+<year>2021</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3412841.3441895</ee>
+<crossref>conf/sac/2021</crossref>
+<url>db/conf/sac/sac2021.html#ChenCZLLL0G21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-08325" mdate="2022-12-09">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="241/4348">Shuo Huai</author>
+<author pid="24/914">Weichen Liu</author>
+<title>HSCoNAS: Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search.</title>
+<year>2021</year>
+<volume>abs/2103.08325</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08325</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08325</url>
+</article>
+</r>
+<r><article key="journals/fini/LiLYCZWMZXW20" mdate="2023-03-21">
+<author pid="16/3614">Dandan Li</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="75/2033">Ting Yan</author>
+<author pid="32/7410">Xiaohong Cui</author>
+<author pid="76/2625">Zehua Zhang</author>
+<author pid="54/3517-3">Jing Wei 0003</author>
+<author pid="46/1709">Yunxiao Ma</author>
+<author pid="28/6297">Nan Zhang</author>
+<author pid="94/4726-2">Jie Xiang 0002</author>
+<author orcid="0000-0001-7771-5360" pid="13/1898-20">Bin Wang 0020</author>
+<title>Disrupted Rich Club Organization of Hemispheric White Matter Networks in Bipolar Disorder.</title>
+<pages>39</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Frontiers Neuroinformatics</journal>
+<ee type="oa">https://doi.org/10.3389/fninf.2020.00039</ee>
+<ee>https://www.wikidata.org/entity/Q100299928</ee>
+<url>db/journals/fini/fini14.html#LiLYCZWMZXW20</url>
+</article>
+</r>
+<r><article key="journals/jsa/LiuTL20" mdate="2025-01-19">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="231/8631">Guiyu Tian</author>
+<author pid="172/2695">Mengquan Li</author>
+<title>Autonomous temperature sensing for optical network-on-chip.</title>
+<year>2020</year>
+<volume>102</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.101650</ee>
+<ee>https://www.wikidata.org/entity/Q126979741</ee>
+<url>db/journals/jsa/jsa102.html#LiuTL20</url>
+</article>
+</r>
+<r><article key="journals/tcad/ZhangGJTLJ20" mdate="2023-11-07">
+<author orcid="0000-0003-2615-2603" pid="10/4661-173">Wei Zhang 0173</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0001-6186-5399" pid="97/3791-1">Lei Ju 0001</author>
+<author orcid="0000-0003-4561-3276" pid="07/11244-1">Yue Tang 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-7769-4771" pid="99/6654">Zhiping Jia</author>
+<title>Scope-Aware Useful Cache Block Calculation for Cache-Related Pre-Emption Delay Analysis With Set-Associative Data Caches.</title>
+<pages>2333-2346</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2019.2937807</ee>
+<url>db/journals/tcad/tcad39.html#ZhangGJTLJ20</url>
+</article>
+</r>
+<r><article key="journals/tcad/YeZL20" mdate="2020-10-06">
+<author orcid="0000-0003-0022-228X" pid="55/7960">Yaoyao Ye</author>
+<author pid="173/4439">Wenfei Zhang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Thermal-Aware Design and Simulation Approach for Optical NoCs.</title>
+<pages>2384-2395</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2019.2935407</ee>
+<url>db/journals/tcad/tcad39.html#YeZL20</url>
+</article>
+</r>
+<r><article key="journals/tecs/LiLGXY20" mdate="2023-08-28">
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>Hardware-Software Collaborative Thermal Sensing in Optical Network-on-Chip-based Manycore Systems.</title>
+<pages>118:1-118:24</pages>
+<year>2020</year>
+<volume>18</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3362099</ee>
+<ee>https://www.wikidata.org/entity/Q117045803</ee>
+<url>db/journals/tecs/tecs18.html#LiLGXY20</url>
+</article>
+</r>
+<r><article key="journals/tpds/GuoHGSLBDL20" mdate="2024-01-22">
+<author orcid="0000-0002-4852-6680" pid="166/0001">Pengxing Guo</author>
+<author pid="93/5300">Weigang Hou</author>
+<author orcid="0000-0001-5860-0082" pid="64/1967-5">Lei Guo 0005</author>
+<author pid="09/5042-47">Wei Sun 0047</author>
+<author pid="52/1800">Chuang Liu</author>
+<author pid="256/8489">Hainan Bao</author>
+<author orcid="0000-0003-4731-1896" pid="153/0625">Luan H. K. Duong</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Fault-Tolerant Routing Mechanism in 3D Optical Network-on-Chip Based on Node Reuse.</title>
+<pages>547-564</pages>
+<year>2020</year>
+<volume>31</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2019.2939240</ee>
+<url>db/journals/tpds/tpds31.html#GuoHGSLBDL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/YangJLSSH20" mdate="2024-10-06">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="27/2376">Edwin H.-M. Sha</author>
+<author pid="94/5536">Yiyu Shi 0001</author>
+<author pid="37/3401">Jingtong Hu</author>
+<title>Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence.</title>
+<pages>85-90</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045595</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#YangJLSSH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ChenLLYG20" mdate="2024-10-06">
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Contention Minimized Bypassing in SMART NoC.</title>
+<pages>205-210</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045103</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#ChenLLYG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/LouLLG020" mdate="2024-10-06">
+<author orcid="0000-0001-5462-2567" pid="207/3962">Qian Lou</author>
+<author pid="141/8954">Wenyang Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="03/5499">Feng Guo</author>
+<author pid="96/1994-1">Lei Jiang 0001</author>
+<title>MindReading: An Ultra-Low-Power Photonic Accelerator for EEG-based Human Intention Recognition.</title>
+<pages>464-469</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045333</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#LouLLG020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/XiaoLFWZL20" mdate="2022-04-21">
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="275/1969">Fangzhu Lin</author>
+<author pid="275/2143">Xiaoxiang Fu</author>
+<author pid="24/41-12">Ting Wu 0012</author>
+<author pid="89/8996">Yuanjun Zhu</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Mobi-PMFS: An Efficient and Durable In-Memory File System for Mobile Devices.</title>
+<pages>73-78</pages>
+<year>2020</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC48688.2020.00286</ee>
+<crossref>conf/compsac/2020</crossref>
+<url>db/conf/compsac/compsac2020.html#XiaoLFWZL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiZL20" mdate="2020-06-25">
+<author pid="172/2695">Mengquan Li</author>
+<author pid="99/3847">Jun Zhou</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Lightweight Thermal Monitoring in Optical Networks-on-Chip via Router Reuse.</title>
+<pages>406-411</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116351</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#LiZL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ZokaeeLYLXJ20" mdate="2023-06-26">
+<author pid="137/9186">Farzaneh Zokaee</author>
+<author orcid="0000-0001-5462-2567" pid="207/3962">Qian Lou</author>
+<author pid="213/7757">Nathan Youngblood</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="96/1994-1">Lei Jiang 0001</author>
+<title>LightBulb: A Photonic-Nonvolatile-Memory-based Accelerator for Binarized Convolutional Neural Networks.</title>
+<pages>1438-1443</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116494</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#ZokaeeLYLXJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ervr/ZhangLLS20" mdate="2023-07-19">
+<author pid="255/9119">Menghe Zhang</author>
+<author pid="280/6890">Karen Lucknavalai</author>
+<author orcid="0000-0002-8576-6130" pid="24/914">Weichen Liu</author>
+<author pid="59/5292">J&#252;rgen P. Schulze</author>
+<title>CalAR: A C++ Engine for Augmented Reality Applications on Android Mobile Devices.</title>
+<year>2020</year>
+<booktitle>ERVR</booktitle>
+<ee type="oa">https://doi.org/10.2352/ISSN.2470-1173.2020.13.ERVR-364</ee>
+<crossref>conf/ervr/2020</crossref>
+<url>db/conf/ervr/ervr2020.html#ZhangLLS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/XiaoPXLSQ20" mdate="2021-05-05">
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="246/8780">Yanyue Pan</author>
+<author pid="94/8594">Dandan Xu</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="167/9612">Shuting Sun</author>
+<author pid="97/8988">Shi Qiu</author>
+<title>Load-aware Adaptive Cache Management Scheme for Enterprise-level Stackable Cryptographic File System<sup>*</sup>.</title>
+<pages>35-43</pages>
+<year>2020</year>
+<booktitle>HPCC/DSS/SmartCity</booktitle>
+<ee>https://doi.org/10.1109/HPCC-SmartCity-DSS50907.2020.00006</ee>
+<crossref>conf/hpcc/2020</crossref>
+<url>db/conf/hpcc/hpcc2020.html#XiaoPXLSQ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/XiaoFWZFL20" mdate="2024-10-06">
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="282/4855">Zipei Feng</author>
+<author orcid="0000-0002-4244-6268" pid="24/41-12">Ting Wu 0012</author>
+<author pid="37/1629">Lin Zhang</author>
+<author pid="275/2143">Xiaoxiang Fu</author>
+<author pid="24/914">Weichen Liu</author>
+<title>COSMA: An Efficient Concurrency-Oriented Space Management Scheme for In-memory File Systems.</title>
+<pages>163-166</pages>
+<year>2020</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD50377.2020.00040</ee>
+<crossref>conf/iccd/2020</crossref>
+<url>db/conf/iccd/iccd2020.html#XiaoFWZFL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/LuoLKL20" mdate="2022-12-09">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>EdgeNAS: Discovering Efficient Neural Architectures for Edge Systems.</title>
+<pages>288-295</pages>
+<year>2020</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD50377.2020.00056</ee>
+<crossref>conf/iccd/2020</crossref>
+<url>db/conf/iccd/iccd2020.html#LuoLKL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/DongZZL20" mdate="2022-04-09">
+<author pid="255/6303">Jiayuan Dong</author>
+<author pid="54/4596">Liyan Zhang</author>
+<author orcid="0000-0001-7374-8739" pid="79/8116">Hanwang Zhang</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Occlusion-Aware GAN for Face De-Occlusion in the Wild.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME46284.2020.9102788</ee>
+<crossref>conf/icmcs/2020</crossref>
+<url>db/conf/icmcs/icme2020.html#DongZZL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LuoDL20" mdate="2022-04-26">
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="153/0625">Luan H. K. Duong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Person Re-Identification Via Pose-Aware Multi-Semantic Learning.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME46284.2020.9102719</ee>
+<crossref>conf/icmcs/2020</crossref>
+<url>db/conf/icmcs/icme2020.html#LuoDL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/ZhuDL20" mdate="2023-03-21">
+<author orcid="0000-0002-2094-7643" pid="265/5738">Shien Zhu</author>
+<author pid="153/0625">Luan H. K. Duong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>XOR-Net: An Efficient Computation Pipeline for Binary Neural Network Inference on Edge Devices.</title>
+<pages>124-131</pages>
+<year>2020</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS51040.2020.00026</ee>
+<crossref>conf/icpads/2020</crossref>
+<url>db/conf/icpads/icpads2020.html#ZhuDL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ZhouLGL20" mdate="2020-08-12">
+<author pid="99/3847">Jun Zhou</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="166/0001">Pengxing Guo</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Mitigation of Tampering Attacks for MR-Based Thermal Sensing in Optical NoCs.</title>
+<pages>554-559</pages>
+<year>2020</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI49217.2020.00009</ee>
+<crossref>conf/isvlsi/2020</crossref>
+<url>db/conf/isvlsi/isvlsi2020.html#ZhouLGL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/NgLHJ20" mdate="2025-01-19">
+<author orcid="0000-0001-7862-214X" pid="178/9023">Tzi-Dong Jeremy Ng</author>
+<author orcid="0000-0002-8576-6130" pid="24/914">Weichen Liu</author>
+<author pid="19/1374-1">Xiao Hu 0001</author>
+<author orcid="0000-0002-8377-2166" pid="71/2079">Tzyy-Ping Jung</author>
+<title>Evaluation of Low-end Virtual Reality Content of Cultural Heritage: A Preliminary Study with Eye Movement.</title>
+<pages>365-368</pages>
+<year>2020</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/3383583.3398603</ee>
+<ee>https://www.wikidata.org/entity/Q130866420</ee>
+<crossref>conf/jcdl/2020</crossref>
+<url>db/conf/jcdl/jcdl2020.html#NgLHJ20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-08233" mdate="2020-11-23">
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author pid="45/5411">Nan Guan</author>
+<author pid="60/667">He Du</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>On the Analysis of Parallel Real-Time Tasks with Spin Locks.</title>
+<year>2020</year>
+<volume>abs/2003.08233</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.08233</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-08233</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-09034" mdate="2020-05-22">
+<author pid="265/6053">Fuyuan Lyu</author>
+<author pid="265/5738">Shien Zhu</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Cross-filter compression for CNN inference acceleration.</title>
+<year>2020</year>
+<volume>abs/2005.09034</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.09034</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-09034</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-09261" mdate="2022-12-28">
+<author pid="12/417-16">Hui Chen 0016</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="99/3847">Jun Zhou</author>
+<author pid="153/0625">Luan H. K. Duong</author>
+<author pid="24/914">Weichen Liu</author>
+<title>ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission.</title>
+<year>2020</year>
+<volume>abs/2011.09261</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.09261</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-09261</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14808" mdate="2022-12-09">
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="197/4742">Xiangzhong Luo</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="118/9750">Ravi Subramaniam</author>
+<title>Bringing AI To Edge: From Deep Learning's Perspective.</title>
+<year>2020</year>
+<volume>abs/2011.14808</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14808</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14808</url>
+</article>
+</r>
+<r><article key="journals/fgcs/Xiao0LBX19" mdate="2024-10-06">
+<author pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="06/5402">Neil Bergmann</author>
+<author pid="17/10143">Yuhua Xie</author>
+<title>Energy-efficient crypto acceleration with HW/SW co-design for HTTPS.</title>
+<pages>336-347</pages>
+<year>2019</year>
+<volume>96</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.02.023</ee>
+<url>db/journals/fgcs/fgcs96.html#Xiao0LBX19</url>
+</article>
+</r>
+<r><article key="journals/ijcini/0001JQL19" mdate="2025-01-19">
+<author pid="38/1046">Thomas Weise 0001</author>
+<author pid="11/6484">Yan Jiang</author>
+<author pid="80/6406-6">Qi Qi 0006</author>
+<author pid="24/914">Weichen Liu</author>
+<title>A Branch-and-Bound-Based Crossover Operator for the Traveling Salesman Problem.</title>
+<pages>1-18</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Int. J. Cogn. Informatics Nat. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/IJCINI.2019070101</ee>
+<ee>https://www.wikidata.org/entity/Q127743591</ee>
+<url>db/journals/ijcini/ijcini13.html#0001JQL19</url>
+</article>
+</r>
+<r><article key="journals/jetai/WeiseWLC19" mdate="2025-01-19">
+<author pid="38/1046">Thomas Weise 0001</author>
+<author pid="168/0791">Yuezhong Wu</author>
+<author pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-8285-1903" pid="41/4654">Raymond Chiong</author>
+<title>Implementation issues in optimization algorithms: do they matter?</title>
+<pages>533-554</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>J. Exp. Theor. Artif. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1080/0952813X.2019.1574908</ee>
+<ee>https://www.wikidata.org/entity/Q128263863</ee>
+<url>db/journals/jetai/jetai31.html#WeiseWLC19</url>
+</article>
+</r>
+<r><article key="journals/jsa/LiuGJLLY19" mdate="2025-01-19">
+<author orcid="0000-0002-9234-5799" pid="95/4353">Songran Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="170/6527">Dong Ji</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="l/XueLiu">Xue Liu 0001</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>Leaking your engine speed by spectrum analysis of real-Time scheduling sequences.</title>
+<pages>455-466</pages>
+<year>2019</year>
+<volume>97</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.01.004</ee>
+<ee>https://www.wikidata.org/entity/Q128627246</ee>
+<url>db/journals/jsa/jsa97.html#LiuGJLLY19</url>
+</article>
+</r>
+<r><article key="journals/jsa/ZhaoLJLXXYG19" mdate="2025-03-11">
+<author orcid="0000-0001-9499-5456" pid="146/7492-1">Mingxiong Zhao 0001</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="86/191">Gang Xue</author>
+<author orcid="0000-0002-4484-7428" pid="05/916">Cheng Xie</author>
+<author orcid="0000-0002-9893-3436" pid="90/3406-3">Yun Yang 0003</author>
+<author orcid="0000-0002-5967-1058" pid="39/4489">Zhishan Guo</author>
+<title>CASS: Criticality-Aware Standby-Sparing for real-time systems.</title>
+<year>2019</year>
+<volume>100</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.101661</ee>
+<ee>https://www.wikidata.org/entity/Q126979054</ee>
+<url>db/journals/jsa/jsa100.html#ZhaoLJLXXYG19</url>
+</article>
+</r>
+<r><article key="journals/tc/YangLGD19" mdate="2020-09-05">
+<author orcid="0000-0002-0646-440X" pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>Optimal Application Mapping and Scheduling for Network-on-Chips with Computation in STT-RAM Based Router.</title>
+<pages>1174-1189</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TC.2018.2864749</ee>
+<url>db/journals/tc/tc68.html#YangLGD19</url>
+</article>
+</r>
+<r><article key="journals/tc/XiaoZLCLPB19" mdate="2025-01-19">
+<author orcid="0000-0002-4565-6412" pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="210/0437">Linfeng Cheng</author>
+<author pid="226/1142">Pengda Li</author>
+<author pid="246/8780">Yanyue Pan</author>
+<author orcid="0000-0001-6279-1053" pid="06/5402">Neil Bergmann</author>
+<title>NV-eCryptfs: Accelerating Enterprise-Level Cryptographic File System with Non-Volatile Memory.</title>
+<pages>1338-1352</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2018.2889691</ee>
+<ee>https://www.wikidata.org/entity/Q128678529</ee>
+<url>db/journals/tc/tc68.html#XiaoZLCLPB19</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiuYLCY19" mdate="2020-09-24">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-7403-7434" pid="129/8846">Juan Yi</author>
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<title>Energy-Efficient Application Mapping and Scheduling for Lifetime Guaranteed MPSoCs.</title>
+<pages>1-14</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2801242</ee>
+<url>db/journals/tcad/tcad38.html#LiuYLCY19</url>
+</article>
+</r>
+<r><article key="journals/tecs/FengGLLDLY19" mdate="2025-01-19">
+<author orcid="0000-0002-6101-8656" pid="05/7678">Zhiwei Feng</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0002-4489-745X" pid="23/4249">Mingsong Lv</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="95/63">Qingxu Deng</author>
+<author pid="l/XueLiu">Xue Liu 0001</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit.</title>
+<pages>96:1-96:19</pages>
+<year>2019</year>
+<volume>17</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3289390</ee>
+<ee>https://www.wikidata.org/entity/Q128767324</ee>
+<url>db/journals/tecs/tecs17.html#FengGLLDLY19</url>
+</article>
+</r>
+<r><article key="journals/tecs/ChenLJHG19" mdate="2025-01-19">
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author pid="160/6184">Qingqiang He</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Timing-Anomaly Free Dynamic Scheduling of Conditional DAG Tasks on Multi-Core Systems.</title>
+<pages>91:1-91:19</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5s</number>
+<ee>https://doi.org/10.1145/3358236</ee>
+<ee>https://www.wikidata.org/entity/Q127153208</ee>
+<url>db/journals/tecs/tecs18.html#ChenLJHG19</url>
+</article>
+</r>
+<r><article key="journals/todaes/WangJGLLD19" mdate="2025-01-19">
+<author pid="56/9374">Kankan Wang</author>
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="95/63">Qingxu Deng</author>
+<title>Real-Time Scheduling of DAG Tasks with Arbitrary Deadlines.</title>
+<pages>66:1-66:22</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3358603</ee>
+<ee>https://www.wikidata.org/entity/Q127031626</ee>
+<url>db/journals/todaes/todaes24.html#WangJGLLD19</url>
+</article>
+</r>
+<r><article key="journals/tpds/ZhongLWLLRLLSL19" mdate="2025-01-19">
+<author orcid="0000-0001-5278-0406" pid="149/3972">Kan Zhong</author>
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<author pid="43/721">Yunsong Wu</author>
+<author orcid="0000-0003-1966-0714" pid="141/0607">Linbo Long</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="193/1369">Jinting Ren</author>
+<author pid="224/5679">Renping Liu</author>
+<author orcid="0000-0002-2778-455X" pid="62/1052-2">Liang Liang 0002</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="75/4601-6">Tao Li 0006</author>
+<title>Towards Fast and Lightweight Checkpointing for Mobile Virtualization Using NVRAM.</title>
+<pages>1421-1433</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPDS.2018.2886906</ee>
+<ee>https://www.wikidata.org/entity/Q128783288</ee>
+<url>db/journals/tpds/tpds30.html#ZhongLWLLRLLSL19</url>
+</article>
+</r>
+<r><article key="journals/tpds/HanGSHDL19" mdate="2020-10-02">
+<author orcid="0000-0003-4553-0593" pid="169/6191">Meiling Han</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0003-4107-1123" pid="14/9961">Jinghao Sun</author>
+<author orcid="0000-0001-5067-8571" pid="160/6184">Qingqiang He</author>
+<author orcid="0000-0002-5185-6306" pid="95/63">Qingxu Deng</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Response Time Bounds for Typed DAG Parallel Tasks on Heterogeneous Multi-Cores.</title>
+<pages>2567-2581</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TPDS.2019.2916696</ee>
+<url>db/journals/tpds/tpds30.html#HanGSHDL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/LiL0CLG19" mdate="2024-10-06">
+<author pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Routing in optical network-on-chip: minimizing contention with guaranteed thermal reliability.</title>
+<pages>364-369</pages>
+<year>2019</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3287624.3287650</ee>
+<crossref>conf/aspdac/2019</crossref>
+<url>db/conf/aspdac/aspdac2019.html#LiL0CLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/JiangGLY19" mdate="2024-10-06">
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="147/7698">Maolin Yang</author>
+<title>Scheduling and Analysis of Parallel Real-Time Tasks with Semaphores.</title>
+<pages>93</pages>
+<year>2019</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3316781.3317907</ee>
+<ee>https://ieeexplore.ieee.org/document/8807021</ee>
+<crossref>conf/dac/2019</crossref>
+<url>db/conf/dac/dac2019.html#JiangGLY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiuLYLXJ19" mdate="2024-10-06">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="141/8954">Wenyang Liu</author>
+<author pid="241/1070">Yichen Ye</author>
+<author orcid="0000-0001-5462-2567" pid="207/3962">Qian Lou</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="96/1994-1">Lei Jiang 0001</author>
+<title>HolyLight: A Nanophotonic Accelerator for Deep Learning in Data Centers.</title>
+<pages>1483-1488</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8715195</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#LiuLYLXJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/JiangGLL19" mdate="2024-10-06">
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="15/1777-2">Di Liu 0002</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Analyzing GEDF Scheduling for Parallel Real-Time Tasks with Arbitrary Deadlines.</title>
+<pages>1537-1542</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714859</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#JiangGLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiuLCXXGJ19" mdate="2024-10-06">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="67/3746">Wanli Chang 0001</author>
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="96/1994-1">Lei Jiang 0001</author>
+<title>Thermal Sensing Using Micro-ring Resonators in Optical Network-on-Chip.</title>
+<pages>1611-1614</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714844</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#LiuLCXXGJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/GuoH0NOL19" mdate="2024-10-06">
+<author pid="166/0001">Pengxing Guo</author>
+<author pid="93/5300">Weigang Hou</author>
+<author pid="64/1967-5">Lei Guo 0005</author>
+<author orcid="0000-0002-7870-5524" pid="09/8234">Zhaolong Ning</author>
+<author pid="91/2882">Mohammad S. Obaidat</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>WDM-MDM Silicon-Based Optical Switching for Data Center Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2019.8762082</ee>
+<crossref>conf/icc/2019</crossref>
+<url>db/conf/icc/icc2019.html#GuoH0NOL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/YaoYL19" mdate="2024-10-06">
+<author pid="153/5326">Renjie Yao</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Design of a Hierarchical Clos-Benes Optical Network-on-Chip Architecture.</title>
+<pages>523-528</pages>
+<year>2019</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2019.00100</ee>
+<crossref>conf/isvlsi/2019</crossref>
+<url>db/conf/isvlsi/isvlsi2019.html#YaoYL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mss/XiaoC0LL19" mdate="2024-10-06">
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="210/0437">Linfeng Cheng</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Wear-aware Memory Management Scheme for Balancing Lifetime and Performance of Multiple NVM Slots.</title>
+<pages>148-160</pages>
+<year>2019</year>
+<booktitle>MSST</booktitle>
+<ee>https://doi.org/10.1109/MSST.2019.000-7</ee>
+<crossref>conf/mss/2019</crossref>
+<url>db/conf/mss/msst2019.html#XiaoC0LL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/JiangGTLD19" mdate="2023-03-24">
+<author pid="38/555-4">Xu Jiang 0004</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="07/11244-1">Yue Tang 0001</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="01/1402">Hancong Duan</author>
+<title>Suspension-Based Locking Protocols for Parallel Real-Time Tasks.</title>
+<pages>274-286</pages>
+<year>2019</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS46320.2019.00033</ee>
+<crossref>conf/rtss/2019</crossref>
+<url>db/conf/rtss/rtss2019.html#JiangGTLD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/TianXL19" mdate="2020-04-20">
+<author pid="231/8631">Guiyu Tian</author>
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Dynamic No-Fly Zone for Drones.</title>
+<pages>761-766</pages>
+<year>2019</year>
+<booktitle>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</booktitle>
+<ee>https://doi.org/10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00163</ee>
+<crossref>conf/uic/2019</crossref>
+<url>db/conf/uic/uic2019.html#TianXL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/XiaoLZLB18" mdate="2025-01-19">
+<author orcid="0000-0001-8012-8749" pid="49/4409">Chunhua Xiao</author>
+<author pid="226/1142">Pengda Li</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="06/5402">Neil Bergmann</author>
+<title>ACA-SDS: Adaptive Crypto Acceleration for Secure Data Storage in Big Data.</title>
+<pages>44494-44505</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2862425</ee>
+<ee>https://www.wikidata.org/entity/Q129433130</ee>
+<url>db/journals/access/access6.html#XiaoLZLB18</url>
+</article>
+</r>
+<r><article key="journals/scn/XiaoZXLL18" mdate="2024-10-06">
+<author orcid="0000-0002-4565-6412" pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0002-2949-5532" pid="97/8704-72">Lei Zhang 0072</author>
+<author orcid="0000-0003-3719-5545" pid="17/10143">Yuhua Xie</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<title>Hardware/Software Adaptive Cryptographic Acceleration for Big Data Processing.</title>
+<pages>7631342:1-7631342:24</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Secur. Commun. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2018/7631342</ee>
+<ee>https://www.wikidata.org/entity/Q113433999</ee>
+<url>db/journals/scn/scn2018.html#XiaoZXLL18</url>
+</article>
+</r>
+<r><article key="journals/tc/LiuYJFGZD18" mdate="2024-03-05">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-0646-440X" pid="50/2484-18">Lei Yang 0018</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author orcid="0000-0002-8356-7242" pid="07/5681-1">Liang Feng 0001</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>Thermal-Aware Task Mapping on Dynamically Reconfigurable Network-on-Chip Based Multiprocessor System-on-Chip.</title>
+<pages>1818-1834</pages>
+<year>2018</year>
+<volume>67</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TC.2018.2844365</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2018.2844365</ee>
+<url>db/journals/tc/tc67.html#LiuYJFGZD18</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiLYCC18" mdate="2020-09-24">
+<author orcid="0000-0002-9385-734X" pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="66/3019-4">Chao Chen 0004</author>
+<title>Chip Temperature Optimization for Dark Silicon Many-Core Systems.</title>
+<pages>941-953</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCAD.2017.2740306</ee>
+<url>db/journals/tcad/tcad37.html#LiLYCC18</url>
+</article>
+</r>
+<r><article key="journals/tcad/ZhangGJL18" mdate="2024-10-06">
+<author orcid="0000-0003-2615-2603" pid="10/4661-173">Wei Zhang 0173</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="97/3791-1">Lei Ju 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Analyzing Data Cache Related Preemption Delay With Multiple Preemptions.</title>
+<pages>2255-2265</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2857079</ee>
+<url>db/journals/tcad/tcad37.html#ZhangGJL18</url>
+</article>
+</r>
+<r><article key="journals/tits/ChenJZLFW18" mdate="2024-03-05">
+<author orcid="0000-0003-2094-9734" pid="66/3019-4">Chao Chen 0004</author>
+<author orcid="0000-0001-8584-0276" pid="227/6420">Shuhai Jiao</author>
+<author orcid="0000-0002-7063-4522" pid="30/2700-3">Shu Zhang 0003</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-8356-7242" pid="07/5681-1">Liang Feng 0001</author>
+<author pid="70/2725">Yasha Wang</author>
+<title>TripImputor: Real-Time Imputing Taxi Trip Purpose Leveraging Multi-Sourced Urban Data.</title>
+<pages>3292-3304</pages>
+<year>2018</year>
+<volume>19</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TITS.2017.2771231</ee>
+<url>db/journals/tits/tits19.html#ChenJZLFW18</url>
+</article>
+</r>
+<r><article key="journals/tmscs/LiuWYXLII18" mdate="2023-05-15">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="75/3158-3">Zhe Wang 0003</author>
+<author pid="57/5443-3">Peng Yang 0003</author>
+<author pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="89/6764-18">Bin Li 0018</author>
+<author orcid="0000-0001-5383-9561" pid="i/RaviRIyer">Ravi R. Iyer 0001</author>
+<author pid="93/399">Ramesh Illikkal</author>
+<title>A Systematic and Realistic Network-on-Chip Traffic Modeling and Generation Technique for Emerging Many-Core Systems.</title>
+<pages>113-126</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>IEEE Trans. Multi Scale Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TMSCS.2017.2768362</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMSCS.2017.2768362</ee>
+<url>db/journals/tmscs/tmscs4.html#LiuWYXLII18</url>
+</article>
+</r>
+<r><article key="journals/tsoco/LiuXBYD18" mdate="2025-01-19">
+<author pid="24/914">Weichen Liu</author>
+<author pid="195/4025">Sijia Xiao</author>
+<author pid="195/3945">Jacob T. Browne</author>
+<author pid="98/2604">Ming Yang</author>
+<author pid="45/5386">Steven P. Dow</author>
+<title>ConsensUs: Supporting Multi-Criteria Group Decisions by Visualizing Points of Disagreement.</title>
+<pages>4:1-4:26</pages>
+<year>2018</year>
+<volume>1</volume>
+<journal>ACM Trans. Soc. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3159649</ee>
+<ee>https://www.wikidata.org/entity/Q126023843</ee>
+<url>db/journals/tsoco/tsoco1.html#LiuXBYD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/codes/LiLYXYG18" mdate="2024-10-06">
+<author pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Communication optimization for thermal reliable optical network-on-chip: work-in-progress.</title>
+<pages>3</pages>
+<year>2018</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1109/CODESISSS.2018.8525961</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3283571</ee>
+<crossref>conf/codes/2018</crossref>
+<url>db/conf/codes/codes2018.html#LiLYXYG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/HuangLLCYXY18" mdate="2024-10-06">
+<author pid="204/7629">Yanting Huang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>User Experience-Enhanced and Energy-Efficient Task Scheduling on Heterogeneous Multi-Core Mobile Systems.</title>
+<pages>283-290</pages>
+<year>2018</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/PADSW.2018.8645024</ee>
+<crossref>conf/icpads/2018</crossref>
+<url>db/conf/icpads/icpads2018.html#HuangLLCYXY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/LiuLLCYXY18" mdate="2024-10-06">
+<author pid="141/8954">Wenyang Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="49/4409">Chunhua Xiao</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>Fine-Grained Task-Level Parallel and Low Power H.264 Decoding in Multi-Core Systems.</title>
+<pages>307-314</pages>
+<year>2018</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/PADSW.2018.8644865</ee>
+<crossref>conf/icpads/2018</crossref>
+<url>db/conf/icpads/icpads2018.html#LiuLLCYXY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LingZWLRLDL018" mdate="2024-10-06">
+<author pid="206/2428">Yingjian Ling</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="43/721">Yunsong Wu</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="193/1369">Jinting Ren</author>
+<author pid="224/5679">Renping Liu</author>
+<author pid="224/5731">Moming Duan</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="62/1052-2">Liang Liang 0002</author>
+<title>TaiJiNet: Towards Partial Binarized Convolutional Neural Network for Embedded Systems.</title>
+<pages>136-141</pages>
+<year>2018</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2018.00034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2018.00034</ee>
+<crossref>conf/isvlsi/2018</crossref>
+<url>db/conf/isvlsi/isvlsi2018.html#LingZWLRLDL018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/HanGSHDL18" mdate="2024-10-06">
+<author pid="169/6191">Meiling Han</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="14/9961">Jinghao Sun</author>
+<author orcid="0000-0001-5067-8571" pid="160/6184">Qingqiang He</author>
+<author pid="95/63">Qingxu Deng</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Work-in-Progress: Response Time Bounds for Typed DAG Parallel Tasks on Heterogeneous Multi-cores.</title>
+<pages>155-156</pages>
+<year>2018</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2018.00028</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2018.00028</ee>
+<crossref>conf/rtss/2018</crossref>
+<url>db/conf/rtss/rtss2018.html#HanGSHDL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02897" mdate="2020-02-26">
+<author pid="66/3019-4">Chao Chen 0004</author>
+<author pid="90/4655">Sen Yang</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="70/2725">Yasha Wang</author>
+<author pid="86/2663-1">Bin Guo 0001</author>
+<author pid="83/1359-1">Daqing Zhang 0001</author>
+<title>CrowdExpress: A Probabilistic Framework for On-Time Crowdsourced Package Deliveries.</title>
+<year>2018</year>
+<volume>abs/1809.02897</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02897</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02897</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-07689" mdate="2018-10-05">
+<author pid="169/6191">Meiling Han</author>
+<author pid="45/5411">Nan Guan</author>
+<author pid="14/9961">Jinghao Sun</author>
+<author pid="160/6184">Qingqiang He</author>
+<author pid="95/63">Qingxu Deng</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Response Time Bounds for Typed DAG Parallel Tasks on Heterogeneous Multi-cores.</title>
+<year>2018</year>
+<volume>abs/1809.07689</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.07689</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-07689</url>
+</article>
+</r>
+<r><article key="journals/fgcs/YangLJCLCS17" mdate="2020-03-27">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="66/3019-4">Chao Chen 0004</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Hardware-software collaboration for dark silicon heterogeneous many-core systems.</title>
+<pages>234-247</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.09.012</ee>
+<url>db/journals/fgcs/fgcs68.html#YangLJCLCS17</url>
+</article>
+</r>
+<r><article key="journals/tpds/0018LJLCS17" mdate="2020-10-02">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>FoToNoC: A Folded Torus-Like Network-on-Chip Based Many-Core Systems-on-Chip in the Dark Silicon Era.</title>
+<pages>1905-1918</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPDS.2016.2643669</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2016.2643669</ee>
+<url>db/journals/tpds/tpds28.html#0018LJLCS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/0018LGLCS17" mdate="2020-03-27">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Dark silicon-aware hardware-software collaborated design for heterogeneous many-core systems.</title>
+<pages>494-499</pages>
+<year>2017</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2017.7858371</ee>
+<crossref>conf/aspdac/2017</crossref>
+<url>db/conf/aspdac/aspdac2017.html#0018LGLCS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/LiuYJG17" mdate="2024-10-06">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Communication optimization for thermal reliable many-core systems: work-in-progress.</title>
+<pages>11:1-11:2</pages>
+<year>2017</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/3125502.3125539</ee>
+<crossref>conf/codes/2017</crossref>
+<url>db/conf/codes/codes2017.html#LiuYJG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/MahyarLXBYD17" mdate="2021-03-10">
+<author pid="05/9525">Narges Mahyar</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="195/4025">Sijia Xiao</author>
+<author pid="195/3945">Jacob T. Browne</author>
+<author pid="98/2604">Ming Yang</author>
+<author pid="45/5386">Steven P. Dow</author>
+<title>ConsesnsUs: Visualizing Points of Disagreement for Multi-Criteria Collaborative Decision Making.</title>
+<pages>17-20</pages>
+<year>2017</year>
+<booktitle>CSCW Companion</booktitle>
+<ee>https://doi.org/10.1145/3022198.3023269</ee>
+<crossref>conf/cscw/2017c</crossref>
+<url>db/conf/cscw/cscw2017c.html#MahyarLXBYD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/0018LCGL17" mdate="2021-10-14">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="172/2695">Mengquan Li</author>
+<title>Task Mapping on SMART NoC: Contention Matters, Not the Distance.</title>
+<pages>88:1-88:6</pages>
+<year>2017</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3061639.3062323</ee>
+<crossref>conf/dac/2017</crossref>
+<url>db/conf/dac/dac2017.html#0018LCGL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/FengGLLDL017" mdate="2021-04-09">
+<author orcid="0000-0002-6101-8656" pid="05/7678">Zhiwei Feng</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0002-4489-745X" pid="23/4249">Mingsong Lv</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="95/63">Qingxu Deng</author>
+<author pid="l/XueLiu">Xue Liu 0001</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>Efficient drone hijacking detection using onboard motion sensors.</title>
+<pages>1414-1419</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927214</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130712</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#FengGLLDL017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emsoft/Liu00LG17" mdate="2024-10-06">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="27/7017-27">Peng Chen 0027</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="172/2695">Mengquan Li</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Fixed priority scheduling of real-time flows with arbitrary deadlines on smart NoCs: work-in-progress.</title>
+<pages>6:1-6:2</pages>
+<year>2017</year>
+<booktitle>EMSOFT Companion</booktitle>
+<ee>https://doi.org/10.1145/3125503.3125565</ee>
+<crossref>conf/emsoft/2017c</crossref>
+<url>db/conf/emsoft/emsoft2017c.html#Liu00LG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/LiuWWQ17" mdate="2020-01-22">
+<author pid="24/914">Weichen Liu</author>
+<author pid="38/1046">Thomas Weise 0001</author>
+<author pid="168/0791">Yuezhong Wu</author>
+<author pid="80/6406-6">Qi Qi 0006</author>
+<title>Combining two local searches with crossover: an efficient hybrid algorithm for the traveling salesman problem.</title>
+<pages>298-305</pages>
+<year>2017</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3071178.3071201</ee>
+<crossref>conf/gecco/2017</crossref>
+<url>db/conf/gecco/gecco2017.html#LiuWWQ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/LiuWLXG17" mdate="2020-03-27">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="95/4442">Peng Wang</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="76/8314">Yiyuan Xie</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<title>Quantitative Modeling of Thermo-Optic Effects in Optical Networks-on-Chip.</title>
+<pages>263-268</pages>
+<year>2017</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3060403.3060457</ee>
+<crossref>conf/glvlsi/2017</crossref>
+<url>db/conf/glvlsi/glvlsi2017.html#LiuWLXG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/TangGLP017" mdate="2024-10-06">
+<author pid="07/11244-1">Yue Tang 0001</author>
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="92/1043">Linh Thi Xuan Phan</author>
+<author pid="y/WangYi">Wang Yi 0001</author>
+<title>Revisiting GPC and AND Connector in Real-Time Calculus.</title>
+<pages>255-265</pages>
+<year>2017</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2017.00031</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2017.00031</ee>
+<crossref>conf/rtss/2017</crossref>
+<url>db/conf/rtss/rtss2017.html#TangGLP017</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/XiaoL16" mdate="2020-03-27">
+<author orcid="0000-0001-8012-8749" pid="49/4409">Chunhua Xiao</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Through Global Sharing to Improve Network Efficiency for Radio-Frequency Interconnect Based Network-on-Chip.</title>
+<pages>6503-6514</pages>
+<year>2016</year>
+<volume>4</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2016.2611141</ee>
+<url>db/journals/access/access4.html#XiaoL16</url>
+</article>
+</r>
+<r><article key="journals/jcsc/CuiZCLH16" mdate="2021-10-14">
+<author pid="119/4303">Yingnan Cui</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0003-1358-0107" pid="72/8378">Vivek Chaturvedi</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<title>Thermal-Aware Task Scheduling for 3D-Network-on-Chip: A Bottom to Top Scheme.</title>
+<year>2016</year>
+<volume>25</volume>
+<journal>J. Circuits Syst. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S021812661640003X</ee>
+<url>db/journals/jcsc/jcsc25.html#CuiZCLH16</url>
+<pages>1640003:1-1640003:20</pages>
+</article>
+</r>
+<r><article key="journals/tecs/LiuX16" mdate="2020-09-08">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="49/4409">Chunhua Xiao</author>
+<title>An Efficient Technique of Application Mapping and Scheduling on Real-Time Multiprocessor Systems for Throughput Optimization.</title>
+<pages>65:1-65:25</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2950051</ee>
+<url>db/journals/tecs/tecs15.html#LiuX16</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/LiuZWX16" mdate="2020-03-27">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author pid="20/4396-1">Jiang Xu 0001</author>
+<title>Distributed Sensor Network-on-Chip for Performance Optimization of Soft-Error-Tolerant Multiprocessor System-on-Chip.</title>
+<pages>1546-1559</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2015.2452910</ee>
+<url>db/journals/tvlsi/tvlsi24.html#LiuZWX16</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/YangLJLYS16" mdate="2020-03-27">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="129/8846">Juan Yi</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Application Mapping and Scheduling for Network-on-Chip-Based Multiprocessor System-on-Chip With Fine-Grain Communication Optimization.</title>
+<pages>3027-3040</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2016.2535359</ee>
+<url>db/journals/tvlsi/tvlsi24.html#YangLJLYS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/YiZTWLSX16" mdate="2023-03-21">
+<author pid="129/8846">Juan Yi</author>
+<author pid="04/2024-20">Qian Zhang 0020</author>
+<author pid="32/5495-10">Ye Tian 0010</author>
+<author pid="12/2633-8">Ting Wang 0008</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0001-6747-126X" pid="43/1230-1">Qiang Xu 0001</author>
+<title>ApproxMap: On task allocation and scheduling for resilient applications.</title>
+<pages>318-323</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428031</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#YiZTWLSX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/YangLJLYS16" mdate="2020-03-27">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="129/8846">Juan Yi</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>FoToNoC: A hierarchical management strategy based on folded lorus-like Network-on-Chip for dark silicon many-core systems.</title>
+<pages>725-730</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428097</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#YangLJLYS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/WuWL16" mdate="2018-11-06">
+<author pid="168/0791">Yuezhong Wu</author>
+<author pid="38/1046">Thomas Weise 0001</author>
+<author pid="24/914">Weichen Liu</author>
+<title>Hybridizing Different Local Search Algorithms with Each Other and Evolutionary Computation: Better Performance on the Traveling Salesman Problem.</title>
+<pages>57-58</pages>
+<year>2016</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2908961.2909001</ee>
+<crossref>conf/gecco/2016c</crossref>
+<url>db/conf/gecco/gecco2016c.html#WuWL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bic-ta/LiuWWC15" mdate="2023-09-30">
+<author pid="24/914">Weichen Liu</author>
+<author pid="38/1046">Thomas Weise 0001</author>
+<author pid="168/0791">Yuezhong Wu</author>
+<author orcid="0000-0002-8285-1903" pid="41/4654">Raymond Chiong</author>
+<title>Hybrid Ejection Chain Methods for the Traveling Salesman Problem.</title>
+<pages>268-282</pages>
+<year>2015</year>
+<booktitle>BIC-TA</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49014-3_25</ee>
+<crossref>conf/bic-ta/2015</crossref>
+<url>db/conf/bic-ta/bic-ta2015.html#LiuWWC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/LiuGY15" mdate="2022-05-09">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="93/1025">Zonghua Gu 0001</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>Efficient SAT-based application mapping and scheduling on multiprocessor systems for throughput maximization.</title>
+<pages>127-136</pages>
+<year>2015</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1109/CASES.2015.7324553</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2830706</ee>
+<crossref>conf/cases/2015</crossref>
+<url>db/conf/cases/cases2015.html#LiuGY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ZhongLLZLZS15" mdate="2021-08-09">
+<author pid="149/3972">Kan Zhong</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="141/0607">Linbo Long</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="24/914">Weichen Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title><i>n</i>Code: limiting harmful writes to emerging mobile NVRAM through code swapping.</title>
+<pages>1305-1310</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2757117</ee>
+<ee>https://ieeexplore.ieee.org/document/7092594/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#ZhongLLZLZS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/YangLJZLYLS15" mdate="2020-03-27">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="172/2695">Mengquan Li</author>
+<author pid="129/8846">Juan Yi</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Traffic-Aware Application Mapping for Network-on-Chip Based Multiprocessor System-on-Chip.</title>
+<pages>571-576</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.60</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#YangLJZLYLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/LiYLZYS15" mdate="2020-03-27">
+<author pid="172/2695">Mengquan Li</author>
+<author pid="129/8846">Juan Yi</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>An Efficient Technique for Chip Temperature Optimization of Multiprocessor Systems in the Dark Silicon Era.</title>
+<pages>688-693</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.59</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#LiYLZYS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/LinLXDLZLWZS15" mdate="2020-03-27">
+<author pid="172/2672">Xiaohao Lin</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4520">Chunming Xiao</author>
+<author pid="62/4582">Jie Dai</author>
+<author pid="149/4001">Xianlu Luo</author>
+<author pid="21/802-11">Dan Zhang 0011</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="72/6531">Kaijie Wu 0001</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Realistic Task Parallelization of the H.264 Decoding Algorithm for Multiprocessors.</title>
+<pages>871-874</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.33</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#LinLXDLZLWZS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/DaiLLYXWZS15" mdate="2020-03-27">
+<author pid="62/4582">Jie Dai</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="172/2672">Xiaohao Lin</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="151/4520">Chunming Xiao</author>
+<author pid="72/6531">Kaijie Wu 0001</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>User Experience Enhanced Task Scheduling and Processor Frequency Scaling for Energy-Sensitive Mobile Devices.</title>
+<pages>941-944</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.61</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#DaiLLYXWZS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jetc/LiuWXZYWNW14" mdate="2025-01-19">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<title>On-chip sensor networks for soft-error tolerant real-time multiprocessor systems-on-chip.</title>
+<pages>15:1-15:20</pages>
+<year>2014</year>
+<volume>10</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2564928</ee>
+<ee>https://www.wikidata.org/entity/Q130976192</ee>
+<url>db/journals/jetc/jetc10.html#LiuWXZYWNW14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/WuYXZLNW14" mdate="2020-03-27">
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<title>UNION: A Unified Inter/Intrachip Optical Network for Chip Multiprocessors.</title>
+<pages>1082-1095</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2263397</ee>
+<url>db/journals/tvlsi/tvlsi22.html#WuYXZLNW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/apccas/WangLXWWLII14" mdate="2023-05-15">
+<author pid="75/3158-3">Zhe Wang 0003</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author pid="89/6764-18">Bin Li 0018</author>
+<author pid="i/RaviRIyer">Ravi R. Iyer 0001</author>
+<author pid="93/399">Ramesh Illikkal</author>
+<title>A systematic network-on-chip traffic modeling and generation methodology.</title>
+<pages>675-678</pages>
+<year>2014</year>
+<booktitle>APCCAS</booktitle>
+<ee>https://doi.org/10.1109/APCCAS.2014.7032871</ee>
+<crossref>conf/apccas/2014</crossref>
+<url>db/conf/apccas/apccas2014.html#WangLXWWLII14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emsoft/ZhongWZLLLSS14" mdate="2020-03-27">
+<author pid="149/3972">Kan Zhong</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="141/0607">Linbo Long</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Building high-performance smartphones via non-volatile memory: The swap approach.</title>
+<pages>30:1-30:10</pages>
+<year>2014</year>
+<booktitle>EMSOFT</booktitle>
+<ee>https://doi.org/10.1145/2656045.2656049</ee>
+<crossref>conf/emsoft/2014</crossref>
+<url>db/conf/emsoft/emsoft2014.html#ZhongWZLLLSS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isicir/CuiZCLH14" mdate="2021-10-14">
+<author pid="119/4303">Yingnan Cui</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0003-1358-0107" pid="72/8378">Vivek Chaturvedi</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<title>Thermal-aware task scheduling for 3D-network-on-chip: A Bottom-to-Top scheme.</title>
+<pages>224-227</pages>
+<year>2014</year>
+<booktitle>ISIC</booktitle>
+<ee>https://doi.org/10.1109/ISICIR.2014.7029547</ee>
+<crossref>conf/isicir/2014</crossref>
+<url>db/conf/isicir/isic2014.html#CuiZCLH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/ZhongZWZLLLS14" mdate="2020-03-27">
+<author pid="149/3972">Kan Zhong</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="21/802-11">Dan Zhang 0011</author>
+<author pid="149/4001">Xianlu Luo</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>DR. Swap: energy-efficient paging for smartphones.</title>
+<pages>81-86</pages>
+<year>2014</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/2627369.2627647</ee>
+<crossref>conf/islped/2014</crossref>
+<url>db/conf/islped/islped2014.html#ZhongZWZLLLS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/WangLXLIIWMY14" mdate="2023-06-26">
+<author pid="75/3158-3">Zhe Wang 0003</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="89/6764-18">Bin Li 0018</author>
+<author pid="i/RaviRIyer">Ravi R. Iyer 0001</author>
+<author pid="93/399">Ramesh Illikkal</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0003-1804-0476" pid="81/4404">Wai Ho Mow</author>
+<author orcid="0000-0003-1001-8880" pid="28/5915">Wenjing Ye</author>
+<title>A Case Study on the Communication and Computation Behaviors of Real Applications in NoC-Based MPSoCs.</title>
+<pages>480-485</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.36</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#WangLXLIIWMY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/YiLJQYLXDS14" mdate="2023-03-24">
+<author pid="129/8846">Juan Yi</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="141/0650">Mingwen Qin</author>
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="151/4520">Chunming Xiao</author>
+<author pid="151/4556">Luelue Du</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>An Improved Thermal Model for Static Optimization of Application Mapping and Scheduling in Multiprocessor System-on-Chip.</title>
+<pages>547-552</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.40</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#YiLJQYLXDS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/LuoLZZLDL14" mdate="2023-03-23">
+<author pid="149/4001">Xianlu Luo</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="21/802-11">Dan Zhang 0011</author>
+<author pid="42/5120">Yi Lin</author>
+<author pid="62/4582">Jie Dai</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Enhancing lifetime of NVM-based main memory with bit shifting and flipping.</title>
+<pages>1-7</pages>
+<year>2014</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2014.6910554</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTCSA.2014.6910554</ee>
+<crossref>conf/rtcsa/2014</crossref>
+<url>db/conf/rtcsa/rtcsa2014.html#LuoLZZLDL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/YangLJYLZ14" mdate="2023-03-23">
+<author pid="50/2484-18">Lei Yang 0018</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="151/4529">Weiwen Jiang</author>
+<author pid="129/8846">Juan Yi</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<title>Contention-aware task and communication co-scheduling for network-on-chip based Multiprocessor System-on-Chip.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2014.6910553</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTCSA.2014.6910553</ee>
+<crossref>conf/rtcsa/2014</crossref>
+<url>db/conf/rtcsa/rtcsa2014.html#YangLJYLZ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/YeXHWZWNWLW13" mdate="2022-01-03">
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="128/0744">Baihan Huang</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="75/3158-3">Zhe Wang 0003</author>
+<title>3-D Mesh-Based Optical Network-on-Chip for Multiprocessor System-on-Chip.</title>
+<pages>584-596</pages>
+<year>2013</year>
+<volume>32</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2012.2228739</ee>
+<url>db/journals/tcad/tcad32.html#YeXHWZWNWLW13</url>
+</article>
+</r>
+<r><article key="journals/tpds/LiuWWXY13" mdate="2020-10-02">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-6108-5157" pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="94/1128">Huazhong Yang</author>
+<title>On-Chip Sensor Network for Efficient Management of Power Gating-Induced Power/Ground Noise in Multiprocessor System on Chip.</title>
+<pages>767-777</pages>
+<year>2013</year>
+<volume>24</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPDS.2012.193</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2012.193</ee>
+<url>db/journals/tpds/tpds24.html#LiuWWXY13</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/YeXWZWNWL13" mdate="2022-01-03">
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>System-Level Modeling and Analysis of Thermal Effects in Optical Networks-on-Chip.</title>
+<pages>292-305</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVLSI.2012.2185524</ee>
+<url>db/journals/tvlsi/tvlsi21.html#YeXWZWNWL13</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/XieNXWZYWWL13" mdate="2022-01-03">
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Formal Worst-Case Analysis of Crosstalk Noise in Mesh-Based Optical Networks-on-Chip.</title>
+<pages>1823-1836</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2012.2220573</ee>
+<url>db/journals/tvlsi/tvlsi21.html#XieNXWZYWWL13</url>
+</article>
+</r>
+<r><article key="journals/jetc/YeXW0LN12" mdate="2020-06-08">
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<title>A Torus-Based Hierarchical Optical-Electronic Network-on-Chip for Multiprocessor System-on-Chip.</title>
+<pages>5:1-5:26</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2093145.2093150</ee>
+<url>db/journals/jetc/jetc8.html#YeXW0LN12</url>
+</article>
+</r>
+<r><article key="journals/esl/LiuXMZWY11" mdate="2020-09-10">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author orcid="0000-0001-8030-7018" pid="m/JKMuppala">Jogesh K. Muppala</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>Coroutine-Based Synthesis of Efficient Embedded Software From SystemC Models.</title>
+<pages>46-49</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/LES.2011.2112634</ee>
+<url>db/journals/esl/esl3.html#LiuXMZWY11</url>
+</article>
+</r>
+<r><article key="journals/tpds/LiuGXWY11" mdate="2023-09-30">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<title>Satisfiability Modulo Graph Theory for Task Mapping and Scheduling on Multiprocessor Systems.</title>
+<pages>1382-1389</pages>
+<year>2011</year>
+<volume>22</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPDS.2010.204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2010.204</ee>
+<url>db/journals/tpds/tpds22.html#LiuGXWY11</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/WangXXLY11" mdate="2020-03-27">
+<author orcid="0000-0001-6108-5157" pid="w/YuWang2">Yu Wang 0002</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="03/4702">Yan Xu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="94/1128">Huazhong Yang</author>
+<title>Power Gating Aware Task Scheduling in MPSoC.</title>
+<pages>1801-1812</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2010.2055907</ee>
+<url>db/journals/tvlsi/tvlsi19.html#WangXXLY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/isvlsi/LiuXWYWZNW11" mdate="2023-03-24">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<title>A NoC Traffic Suite Based on Real Applications.</title>
+<pages>66-71</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.49</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#LiuXWYWZNW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/YeXWZWNWL11" mdate="2023-03-24">
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Modeling and Analysis of Thermal Effects in Optical Networks-on-Chip.</title>
+<pages>254-259</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.38</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#YeXWZWNWL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LiuXWWZYWNW11" mdate="2023-03-24">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0001-6108-5157" pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0002-7139-724X" pid="06/9981">Zhehui Wang</author>
+<title>A Hardware-Software Collaborated Method for Soft-Error Tolerant MPSoC.</title>
+<pages>260-265</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.48</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#LiuXWWZYWNW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/XieNXZLWYWL10" mdate="2025-01-19">
+<author pid="76/8314">Yiyuan Xie</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="181/2688-13">Qi Li 0013</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<title>Crosstalk noise and bit error rate analysis for optical network-on-chip.</title>
+<pages>657-660</pages>
+<year>2010</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1837274.1837441</ee>
+<ee>https://www.wikidata.org/entity/Q130994955</ee>
+<crossref>conf/dac/2010</crossref>
+<url>db/conf/dac/dac2010.html#XieNXZLWYWL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/HungYWZLX10" mdate="2023-03-24">
+<author pid="16/7962">Mo Kwai Hung</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author pid="21/1340">Xiaowen Wu</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<title>A Hierarchical Hybrid Optical-Electronic Network-on-Chip.</title>
+<pages>327-332</pages>
+<year>2010</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2010.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2010.17</ee>
+<crossref>conf/isvlsi/2010</crossref>
+<url>db/conf/isvlsi/isvlsi2010.html#HungYWZLX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nanoarch/WuY0LNWX10" mdate="2023-03-23">
+<author pid="21/1340">Xiaowen Wu</author>
+<author pid="55/7960">Yaoyao Ye</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="07/8314">Mahdi Nikdast</author>
+<author pid="34/4799-1">Xuan Wang 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<title>UNION: A unified inter/intra-chip optical network for chip multiprocessors.</title>
+<pages>35-40</pages>
+<year>2010</year>
+<booktitle>NANOARCH</booktitle>
+<ee>https://doi.org/10.1109/NANOARCH.2010.5510930</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NANOARCH.2010.5510930</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1835968</ee>
+<crossref>conf/nanoarch/2010</crossref>
+<url>db/conf/nanoarch/nanoarch2010.html#WuY0LNWX10</url>
+</inproceedings>
+</r>
+<r><article key="journals/esl/LiuGX09" mdate="2023-09-30">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<title>Efficient Software Synthesis for Dynamic Single Appearance Scheduling of Synchronous Dataflow.</title>
+<pages>69-72</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LES.2009.2039851</ee>
+<url>db/journals/esl/esl1.html#LiuGX09</url>
+</article>
+</r>
+<r><article key="journals/mam/GuLXCHD09" mdate="2023-09-30">
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="50/2780">Jin Cui</author>
+<author pid="11/5357-1">Xiuqiang He 0001</author>
+<author pid="95/63">Qingxu Deng</author>
+<title>Efficient algorithms for 2D area management and online task placement on runtime reconfigurable FPGAs.</title>
+<pages>374-387</pages>
+<year>2009</year>
+<volume>33</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1016/j.micpro.2009.05.001</ee>
+<url>db/journals/mam/mam33.html#GuLXCHD09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cases/WangXHLY09" mdate="2023-09-30">
+<author pid="w/YuWang2">Yu Wang 0002</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author orcid="0000-0002-3618-9074" pid="54/7454">Shengxi Huang</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="94/1128">Huazhong Yang</author>
+<title>A case study of on-chip sensor network in multiprocessor system-on-chip.</title>
+<pages>241-250</pages>
+<year>2009</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1629395.1629430</ee>
+<crossref>conf/cases/2009</crossref>
+<url>db/conf/cases/cases2009.html#WangXHLY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/LiuGXWY09" mdate="2022-05-09">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="93/1025">Zonghua Gu 0001</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="74/2356">Mingxuan Yuan</author>
+<title>An efficient technique for analysis of minimal buffer requirements of synchronous dataflow graphs with model checking.</title>
+<pages>61-70</pages>
+<year>2009</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1629435.1629445</ee>
+<crossref>conf/codes/2009</crossref>
+<url>db/conf/codes/codes2009.html#LiuGXWY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/XuLWXCY09" mdate="2023-03-24">
+<author pid="03/4702">Yan Xu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author orcid="0000-0001-6108-5157" pid="w/YuWang2">Yu Wang 0002</author>
+<author orcid="0000-0001-9089-7752" pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="72/2676-3">Xiaoming Chen 0003</author>
+<author pid="94/1128">Huazhong Yang</author>
+<title>On-line MPSoC Scheduling Considering Power Gating Induced Power/Ground Noise.</title>
+<pages>109-114</pages>
+<year>2009</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2009.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2009.54</ee>
+<crossref>conf/isvlsi/2009</crossref>
+<url>db/conf/isvlsi/isvlsi2009.html#XuLWXCY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/LiuYHGL08" mdate="2023-09-30">
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="74/2356">Mingxuan Yuan</author>
+<author pid="11/5357-1">Xiuqiang He 0001</author>
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<author pid="l/XueLiu">Xue Liu 0001</author>
+<title>Efficient SAT-Based Mapping and Scheduling of Homogeneous Synchronous Dataflow Graphs for Throughput Optimization.</title>
+<pages>492-504</pages>
+<year>2008</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2008.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2008.49</ee>
+<crossref>conf/rtss/2008</crossref>
+<url>db/conf/rtss/rtss2008.html#LiuYHGL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/GuanGDLY07" mdate="2023-03-24">
+<author orcid="0000-0003-3775-911X" pid="45/5411">Nan Guan</author>
+<author pid="93/1025">Zonghua Gu 0001</author>
+<author pid="95/63">Qingxu Deng</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>Improved Schedulability Analysis of EDF Scheduling on Reconfigurable Hardware Devices.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<crossref>conf/ipps/2007</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2007.370339</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2007.370339</ee>
+<url>db/conf/ipps/ipdps2007.html#GuanGDLY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/CuiGLD07" mdate="2023-09-30">
+<author pid="50/2780">Jin Cui</author>
+<author orcid="0000-0003-4228-2774" pid="93/1025">Zonghua Gu 0001</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="95/63">Qingxu Deng</author>
+<title>An Efficient Algorithm for Online Soft Real-Time Task Placement on Reconfigurable Hardware Devices.</title>
+<pages>321-328</pages>
+<year>2007</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2007.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2007.18</ee>
+<crossref>conf/isorc/2007</crossref>
+<url>db/conf/isorc/isorc2007.html#CuiGLD07</url>
+</inproceedings>
+</r>
+<coauthors n="257" nc="4">
+<co c="0"><na f="a/Amrouch:Hussam" pid="94/10663">Hussam Amrouch</na></co>
+<co c="0"><na f="a/Athreya:Madhu" pid="280/3470">Madhu Athreya</na></co>
+<co c="0"><na f="b/Bao:Hainan" pid="256/8489">Hainan Bao</na></co>
+<co c="0" n="2"><na f="b/Bergmann:Neil_W=" pid="06/5402">Neil W. Bergmann</na><na>Neil Bergmann</na></co>
+<co c="0"><na f="b/Bi_0001:Ran" pid="28/5173-1">Ran Bi 0001</na></co>
+<co c="0"><na f="b/Browne:Jacob_T=" pid="195/3945">Jacob T. Browne</na></co>
+<co c="0"><na f="b/Burns_0001:Alan" pid="b/AlanBurns">Alan Burns 0001</na></co>
+<co c="1"><na f="c/Chang:Chi=Yuan" pid="52/3315">Chi-Yuan Chang</na></co>
+<co c="0"><na f="c/Chang:Shuangshuang" pid="228/2739">Shuangshuang Chang</na></co>
+<co c="0"><na f="c/Chang_0001:Wanli" pid="67/3746">Wanli Chang 0001</na></co>
+<co c="0"><na f="c/Chaturvedi:Vivek" pid="72/8378">Vivek Chaturvedi</na></co>
+<co c="0"><na f="c/Chen_0004:Chao" pid="66/3019-4">Chao Chen 0004</na></co>
+<co c="0"><na f="c/Chen_0016:Hui" pid="12/417-16">Hui Chen 0016</na></co>
+<co c="0"><na f="c/Chen:Kuan=Hsun" pid="163/9343">Kuan-Hsun Chen</na></co>
+<co c="0"><na f="c/Chen_0027:Peng" pid="27/7017-27">Peng Chen 0027</na></co>
+<co c="0"><na f="c/Chen_0003:Xiaoming" pid="72/2676-3">Xiaoming Chen 0003</na></co>
+<co c="0"><na f="c/Cheng:Linfeng" pid="210/0437">Linfeng Cheng</na></co>
+<co c="0"><na f="c/Chiong:Raymond" pid="41/4654">Raymond Chiong</na></co>
+<co c="0"><na f="c/Cui:Jin" pid="50/2780">Jin Cui</na></co>
+<co c="0"><na f="c/Cui:Xiaohong" pid="32/7410">Xiaohong Cui</na></co>
+<co c="0"><na f="c/Cui:Yingnan" pid="119/4303">Yingnan Cui</na></co>
+<co c="0"><na f="d/Dai:Jie" pid="62/4582">Jie Dai</na></co>
+<co c="0"><na f="d/Deng:Qingxu" pid="95/63">Qingxu Deng</na></co>
+<co c="0"><na f="d/Ding_0004:Kai" pid="44/2891-4">Kai Ding 0004</na></co>
+<co c="0"><na f="d/Ding_0004:Yan" pid="57/4533-4">Yan Ding 0004</na></co>
+<co c="0"><na f="d/Dong:Jiayuan" pid="255/6303">Jiayuan Dong</na></co>
+<co c="0" n="2"><na f="d/Dow:Steven" pid="45/5386">Steven Dow</na><na>Steven P. Dow</na></co>
+<co c="0"><na f="d/Du:He" pid="60/667">He Du</na></co>
+<co c="0"><na f="d/Du:Luelue" pid="151/4556">Luelue Du</na></co>
+<co c="0"><na f="d/Duan:Hancong" pid="01/1402">Hancong Duan</na></co>
+<co c="0"><na f="d/Duan:Moming" pid="224/5731">Moming Duan</na></co>
+<co c="0"><na f="d/Duong:Luan_H=_K=" pid="153/0625">Luan H. K. Duong</na></co>
+<co c="0"><na f="d/Dutt:Nikil_D=" pid="d/NikilDDutt">Nikil D. Dutt</na></co>
+<co c="0"><na f="f/Feng_0001:Liang" pid="07/5681-1">Liang Feng 0001</na></co>
+<co c="0"><na f="f/Feng:Zhiwei" pid="05/7678">Zhiwei Feng</na></co>
+<co c="0"><na f="f/Feng:Zipei" pid="282/4855">Zipei Feng</na></co>
+<co c="0"><na f="f/Fu:Xiaoxiang" pid="275/2143">Xiaoxiang Fu</na></co>
+<co c="2"><na f="g/Gasques:Danilo" pid="239/9626">Danilo Gasques</na></co>
+<co c="0"><na f="g/Goh:Rick_Siow_Mong" pid="24/2670">Rick Siow Mong Goh</na></co>
+<co c="0"><na f="g/Gu_0001:Zonghua" pid="93/1025">Zonghua Gu 0001</na></co>
+<co c="0"><na f="g/Guan:Nan" pid="45/5411">Nan Guan</na></co>
+<co c="0"><na f="g/Guo_0001:Bin" pid="86/2663-1">Bin Guo 0001</na></co>
+<co c="0"><na f="g/Guo:Feng" pid="03/5499">Feng Guo</na></co>
+<co c="0"><na f="g/Guo_0005:Lei" pid="64/1967-5">Lei Guo 0005</na></co>
+<co c="0"><na f="g/Guo:Pengxing" pid="166/0001">Pengxing Guo</na></co>
+<co c="0"><na f="g/Guo:Zhishan" pid="39/4489">Zhishan Guo</na></co>
+<co c="0"><na f="h/Han:Meiling" pid="169/6191">Meiling Han</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/He:Jingting" pid="399/4181">Jingting He</na></co>
+<co c="0"><na f="h/He:Qingqiang" pid="160/6184">Qingqiang He</na></co>
+<co c="0"><na f="h/He_0001:Xiuqiang" pid="11/5357-1">Xiuqiang He 0001</na></co>
+<co c="0"><na f="h/He:Zhenli" pid="63/10132">Zhenli He</na></co>
+<co c="0"><na f="h/Ho:Daren" pid="298/4780">Daren Ho</na></co>
+<co c="1"><na f="h/Hoffing:Russell_A=_Cohen" pid="160/1824">Russell A. Cohen Hoffing</na></co>
+<co c="0"><na f="h/Hou:Weigang" pid="93/5300">Weigang Hou</na></co>
+<co c="0"><na f="h/Hu:Jingtong" pid="37/3401">Jingtong Hu</na></co>
+<co c="1"><na f="h/Hu_0001:Xiao" pid="19/1374-1">Xiao Hu 0001</na></co>
+<co c="0"><na f="h/Huai:Shuo" pid="241/4348">Shuo Huai</na></co>
+<co c="0"><na f="h/Huang:Baihan" pid="128/0744">Baihan Huang</na></co>
+<co c="0"><na f="h/Huang:Shengxi" pid="54/7454">Shengxi Huang</na></co>
+<co c="0"><na f="h/Huang:Yanting" pid="204/7629">Yanting Huang</na></co>
+<co c="0"><na f="h/Hui:Jizhuang" pid="179/6099">Jizhuang Hui</na></co>
+<co c="0"><na f="h/Hung:Mo_Kwai" pid="16/7962">Mo Kwai Hung</na></co>
+<co c="0"><na f="i/Illikkal:Ramesh" pid="93/399">Ramesh Illikkal</na></co>
+<co c="0"><na f="i/Iyer_0001:Ravi_R=" pid="i/RaviRIyer">Ravi R. Iyer 0001</na></co>
+<co c="0"><na f="j/Ji:Dong" pid="170/6527">Dong Ji</na></co>
+<co c="0"><na f="j/Jia:Zhiping" pid="99/6654">Zhiping Jia</na></co>
+<co c="0"><na f="j/Jiang_0001:Lei" pid="96/1994-1">Lei Jiang 0001</na></co>
+<co c="0"><na f="j/Jiang:Qingshan" pid="18/3607">Qingshan Jiang</na></co>
+<co c="0"><na f="j/Jiang:Weiwen" pid="151/4529">Weiwen Jiang</na></co>
+<co c="0"><na f="j/Jiang_0004:Xu" pid="38/555-4">Xu Jiang 0004</na></co>
+<co c="0"><na f="j/Jiang:Yan" pid="11/6484">Yan Jiang</na></co>
+<co c="0"><na f="j/Jiao:Shuhai" pid="227/6420">Shuhai Jiao</na></co>
+<co c="0"><na f="j/Ju_0001:Lei" pid="97/3791-1">Lei Ju 0001</na></co>
+<co c="1"><na f="j/Jung:Tzyy=Ping" pid="71/2079">Tzyy-Ping Jung</na></co>
+<co c="0"><na f="k/Kong:Hao" pid="146/4832">Hao Kong</na></co>
+<co c="0"><na f="l/Lan:Mingfeng" pid="357/2832">Mingfeng Lan</na></co>
+<co c="0"><na f="l/Leng:Jiewu" pid="179/6178">Jiewu Leng</na></co>
+<co c="0"><na f="l/Lewis:M=_Anthony" pid="l/MAnthonyLewis">M. Anthony Lewis</na></co>
+<co c="0"><na f="l/Li_0018:Bin" pid="89/6764-18">Bin Li 0018</na></co>
+<co c="0"><na f="l/Li:Dandan" pid="16/3614">Dandan Li</na></co>
+<co c="0" n="2"><na f="l/Li_0001:Hai" pid="30/5330-1">Hai Li 0001</na><na>Hai Helen Li</na></co>
+<co c="0"><na f="l/Li_0001:Kenli" pid="l/KenliLi">Kenli Li 0001</na></co>
+<co c="0"><na f="l/Li:Mengquan" pid="172/2695">Mengquan Li</na></co>
+<co c="0"><na f="l/Li:Pengda" pid="226/1142">Pengda Li</na></co>
+<co c="0"><na f="l/Li_0013:Qi" pid="181/2688-13">Qi Li 0013</na></co>
+<co c="0"><na f="l/Li:Renfa" pid="l/RenfaLi">Renfa Li</na></co>
+<co c="0"><na f="l/Li:Shiqing" pid="150/6778">Shiqing Li</na></co>
+<co c="0"><na f="l/Li_0006:Tao" pid="75/4601-6">Tao Li 0006</na></co>
+<co c="0"><na f="l/Liang_0002:Liang" pid="62/1052-2">Liang Liang 0002</na></co>
+<co c="0"><na f="l/Lin:Fangzhu" pid="275/1969">Fangzhu Lin</na></co>
+<co c="0"><na f="l/Lin_0001:Qian" pid="79/3108-1">Qian Lin 0001</na></co>
+<co c="0"><na f="l/Lin:Xiaohao" pid="172/2672">Xiaohao Lin</na></co>
+<co c="0"><na f="l/Lin:Yi" pid="42/5120">Yi Lin</na></co>
+<co c="0"><na f="l/Ling:Yingjian" pid="206/2428">Yingjian Ling</na></co>
+<co c="0"><na f="l/Liu_0008:Cheng" pid="15/2288-8">Cheng Liu 0008</na></co>
+<co c="0"><na f="l/Liu:Chuang" pid="52/1800">Chuang Liu</na></co>
+<co c="0"><na f="l/Liu:Chubo" pid="147/8031">Chubo Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Di" pid="15/1777-2">Di Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Duo" pid="91/620">Duo Liu</na></co>
+<co c="0"><na f="l/Liu:Gang" pid="37/2109">Gang Liu</na></co>
+<co c="0"><na f="l/Liu:Renping" pid="224/5679">Renping Liu</na></co>
+<co c="0"><na f="l/Liu:Songran" pid="95/4353">Songran Liu</na></co>
+<co c="0"><na f="l/Liu:Wenyang" pid="141/8954">Wenyang Liu</na></co>
+<co c="0" n="2"><na f="l/Liu:Xue_=Steve=" pid="l/XueLiu">Xue (Steve) Liu</na><na>Xue Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Yumeng" pid="08/9559">Yumeng Liu</na></co>
+<co c="0"><na f="l/Long:Linbo" pid="141/0607">Linbo Long</na></co>
+<co c="0"><na f="l/Lou:Qian" pid="207/3962">Qian Lou</na></co>
+<co c="0"><na f="l/Loy:Wendy_Yong_Yi" pid="377/4857">Wendy Yong Yi Loy</na></co>
+<co c="2"><na f="l/Lucknavalai:Karen" pid="280/6890">Karen Lucknavalai</na></co>
+<co c="0"><na f="l/Luo_0014:Tao" pid="43/4720-14">Tao Luo 0014</na></co>
+<co c="0"><na f="l/Luo:Xiangzhong" pid="197/4742">Xiangzhong Luo</na></co>
+<co c="0"><na f="l/Luo:Xianlu" pid="149/4001">Xianlu Luo</na></co>
+<co c="0"><na f="l/Lv:Mingsong" pid="23/4249">Mingsong Lv</na></co>
+<co c="0"><na f="l/Lyu:Fuyuan" pid="265/6053">Fuyuan Lyu</na></co>
+<co c="0"><na f="m/Ma:Wenhong" pid="126/9026">Wenhong Ma</na></co>
+<co c="0"><na f="m/Ma:Yunxiao" pid="46/1709">Yunxiao Ma</na></co>
+<co c="0"><na f="m/Mahyar:Narges" pid="05/9525">Narges Mahyar</na></co>
+<co c="0"><na f="m/Makaya:Christian" pid="62/6656">Christian Makaya</na></co>
+<co c="3"><na f="m/Mao:Yuxi" pid="334/9436">Yuxi Mao</na></co>
+<co c="1"><na f="m/Maymon:Christopher" pid="378/1058">Christopher Maymon</na></co>
+<co c="0"><na f="m/Mow:Wai_Ho" pid="81/4404">Wai Ho Mow</na></co>
+<co c="0"><na f="m/Muppala:Jogesh_K=" pid="m/JKMuppala">Jogesh K. Muppala</na></co>
+<co c="1" n="2"><na f="n/Ng:Jeremy_T=_D=" pid="178/9023">Jeremy T. D. Ng</na><na>Tzi-Dong Jeremy Ng</na></co>
+<co c="0"><na f="n/Nikdast:Mahdi" pid="07/8314">Mahdi Nikdast</na></co>
+<co c="0"><na f="n/Ning:Kun" pid="136/1483">Kun Ning</na></co>
+<co c="0"><na f="n/Ning:Zhaolong" pid="09/8234">Zhaolong Ning</na></co>
+<co c="0"><na f="o/Obaidat:Mohammad_S=" pid="91/2882">Mohammad S. Obaidat</na></co>
+<co c="0"><na f="o/Ong:Yew=Soon" pid="64/4136">Yew-Soon Ong</na></co>
+<co c="1"><na f="p/Paden:Jonathon" pid="378/1351">Jonathon Paden</na></co>
+<co c="0"><na f="p/Pan:Yanyue" pid="246/8780">Yanyue Pan</na></co>
+<co c="0"><na f="p/Pan_0001:Yi" pid="46/7028-1">Yi Pan 0001</na></co>
+<co c="0" n="2"><na f="p/Phan:Linh_T=_X=" pid="92/1043">Linh T. X. Phan</na><na>Linh Thi Xuan Phan</na></co>
+<co c="0"><na f="q/Qi_0006:Qi" pid="80/6406-6">Qi Qi 0006</na></co>
+<co c="0"><na f="q/Qian:Ying" pid="11/1724">Ying Qian</na></co>
+<co c="0"><na f="q/Qin:Mingwen" pid="141/0650">Mingwen Qin</na></co>
+<co c="0"><na f="q/Qin:Yunchuan" pid="66/2387">Yunchuan Qin</na></co>
+<co c="0"><na f="q/Qiu:Shi" pid="97/8988">Shi Qiu</na></co>
+<co c="0"><na f="q/Qu:Qiang" pid="92/5150">Qiang Qu</na></co>
+<co c="0"><na f="r/Rastogi:Manu" pid="06/3591">Manu Rastogi</na></co>
+<co c="0"><na f="r/Ren:Jinting" pid="193/1369">Jinting Ren</na></co>
+<co c="0"><na f="s/Sathiamoorthy:Vikash" pid="323/6504">Vikash Sathiamoorthy</na></co>
+<co c="2"><na f="s/Schulze:J=uuml=rgen_P=" pid="59/5292">J&#252;rgen P. Schulze</na></co>
+<co c="0" n="2"><na f="s/Sha:Edwin_H==M=" pid="27/2376">Edwin H.-M. Sha</na><na>Edwin Hsing-Mean Sha</na></co>
+<co c="0"><na f="s/Shao:Zili" pid="08/6845">Zili Shao</na></co>
+<co c="0"><na f="s/Shi:Chen" pid="01/6772">Chen Shi</na></co>
+<co c="0"><na f="s/Shi:Jingtong" pid="388/9909">Jingtong Shi</na></co>
+<co c="0"><na f="s/Shi:Liang" pid="09/6041">Liang Shi</na></co>
+<co c="0"><na f="s/Shi_0001:Yiyu" pid="94/5536">Yiyu Shi 0001</na></co>
+<co c="1"><na f="s/Stevenson:Cory" pid="171/8996">Cory Stevenson</na></co>
+<co c="0"><na f="s/Subramaniam:Ravi" pid="118/9750">Ravi Subramaniam</na></co>
+<co c="0"><na f="s/Sun:Jinghao" pid="14/9961">Jinghao Sun</na></co>
+<co c="0"><na f="s/Sun:Shuting" pid="167/9612">Shuting Sun</na></co>
+<co c="0"><na f="s/Sun_0047:Wei" pid="09/5042-47">Wei Sun 0047</na></co>
+<co c="0"><na f="s/Sun:Yongzheng" pid="185/7225">Yongzheng Sun</na></co>
+<co c="0"><na f="t/Tan:Kay_Chen" pid="t/KayChenTan">Kay Chen Tan</na></co>
+<co c="0"><na f="t/Tang_0001:Yue" pid="07/11244-1">Yue Tang 0001</na></co>
+<co c="0"><na f="t/Tang:Zhuo" pid="71/617">Zhuo Tang</na></co>
+<co c="1"><na f="t/Thurman:Steven_M=" pid="193/8342">Steven M. Thurman</na></co>
+<co c="0"><na f="t/Tian:Guiyu" pid="231/8631">Guiyu Tian</na></co>
+<co c="0"><na f="t/Tian_0010:Ye" pid="32/5495-10">Ye Tian 0010</na></co>
+<co c="0"><na f="w/Wang_0020:Bin" pid="13/1898-20">Bin Wang 0020</na></co>
+<co c="0"><na f="w/Wang_0006:Haotian" pid="63/11345-6">Haotian Wang 0006</na></co>
+<co c="0"><na f="w/Wang:Kankan" pid="56/9374">Kankan Wang</na></co>
+<co c="0"><na f="w/Wang:Mingjiang" pid="165/7729">Mingjiang Wang</na></co>
+<co c="0"><na f="w/Wang:Peng" pid="95/4442">Peng Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0008:Ting" pid="12/2633-8">Ting Wang 0008</na></co>
+<co c="0"><na f="w/Wang_0001:Xuan" pid="34/4799-1">Xuan Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0082:Yang" pid="181/2842-82">Yang Wang 0082</na></co>
+<co c="0"><na f="w/Wang:Yasha" pid="70/2725">Yasha Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Yu" pid="w/YuWang2">Yu Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0003:Zhe" pid="75/3158-3">Zhe Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Zhehui" pid="06/9981">Zhehui Wang</na></co>
+<co c="0"><na f="w/Wei_0003:Jing" pid="54/3517-3">Jing Wei 0003</na></co>
+<co c="0"><na f="w/Wei:Ran" pid="92/2461">Ran Wei</na></co>
+<co c="2"><na f="w/Weibel:Nadir" pid="56/3408">Nadir Weibel</na></co>
+<co c="0"><na f="w/Weise_0001:Thomas" pid="38/1046">Thomas Weise 0001</na></co>
+<co c="0"><na f="w/Wellings:Andy_J=" pid="w/AndyJWellings">Andy J. Wellings</na></co>
+<co c="0"><na f="w/Wong:Weng=Fai" pid="37/1143">Weng-Fai Wong</na></co>
+<co c="0"><na f="w/Wu_0006:Chao" pid="45/3158-6">Chao Wu 0006</na></co>
+<co c="0"><na f="w/Wu_0001:Kaijie" pid="72/6531">Kaijie Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Lei" pid="68/5597">Lei Wu</na></co>
+<co c="0"><na f="w/Wu:Lin" pid="65/6292">Lin Wu</na></co>
+<co c="0"><na f="w/Wu_0012:Ting" pid="24/41-12">Ting Wu 0012</na></co>
+<co c="0"><na f="w/Wu:Xiaowen" pid="21/1340">Xiaowen Wu</na></co>
+<co c="1"><na f="w/Wu:Ying_Choon" pid="19/8273">Ying Choon Wu</na></co>
+<co c="0"><na f="w/Wu:Yuezhong" pid="168/0791">Yuezhong Wu</na></co>
+<co c="0"><na f="w/Wu:Yunsong" pid="43/721">Yunsong Wu</na></co>
+<co c="0"><na f="x/Xiang_0002:Jie" pid="94/4726-2">Jie Xiang 0002</na></co>
+<co c="0"><na f="x/Xiao:Chunhua" pid="49/4409">Chunhua Xiao</na></co>
+<co c="0"><na f="x/Xiao:Chunming" pid="151/4520">Chunming Xiao</na></co>
+<co c="0"><na f="x/Xiao:Sijia" pid="195/4025">Sijia Xiao</na></co>
+<co c="0"><na f="x/Xie:Cheng" pid="05/916">Cheng Xie</na></co>
+<co c="0"><na f="x/Xie:Guoqi" pid="147/1038">Guoqi Xie</na></co>
+<co c="0"><na f="x/Xie:Yiyuan" pid="76/8314">Yiyuan Xie</na></co>
+<co c="0"><na f="x/Xie:Yuhua" pid="17/10143">Yuhua Xie</na></co>
+<co c="0"><na f="x/Xiong:Guochu" pid="357/3694">Guochu Xiong</na></co>
+<co c="0"><na f="x/Xiong:Jie" pid="75/198">Jie Xiong</na></co>
+<co c="0"><na f="x/Xu:Dandan" pid="94/8594">Dandan Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Jiang" pid="20/4396-1">Jiang Xu 0001</na></co>
+<co c="0"><na f="x/Xu_0001:Qiang" pid="43/1230-1">Qiang Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Yan" pid="03/4702">Yan Xu</na></co>
+<co c="0"><na f="x/Xue:Gang" pid="86/191">Gang Xue</na></co>
+<co c="0"><na f="y/Yan:Ting" pid="75/2033">Ting Yan</na></co>
+<co c="0"><na f="y/Yang:Huazhong" pid="94/1128">Huazhong Yang</na></co>
+<co c="0"><na f="y/Yang:Junxuan" pid="366/7045">Junxuan Yang</na></co>
+<co c="0"><na f="y/Yang_0018:Lei" pid="50/2484-18">Lei Yang 0018</na></co>
+<co c="0"><na f="y/Yang:Maolin" pid="147/7698">Maolin Yang</na></co>
+<co c="0"><na f="y/Yang:Ming" pid="98/2604">Ming Yang</na></co>
+<co c="0"><na f="y/Yang_0003:Peng" pid="57/5443-3">Peng Yang 0003</na></co>
+<co c="0"><na f="y/Yang:Sen" pid="90/4655">Sen Yang</na></co>
+<co c="0"><na f="y/Yang:Shi=Gui" pid="255/5348">Shi-Gui Yang</na></co>
+<co c="0"><na f="y/Yang:Wangdong" pid="84/8385">Wangdong Yang</na></co>
+<co c="0"><na f="y/Yang_0003:Yun" pid="90/3406-3">Yun Yang 0003</na></co>
+<co c="0"><na f="y/Yao:Renjie" pid="153/5326">Renjie Yao</na></co>
+<co c="0"><na f="y/Ye:Wenjing" pid="28/5915">Wenjing Ye</na></co>
+<co c="0"><na f="y/Ye:Yaoyao" pid="55/7960">Yaoyao Ye</na></co>
+<co c="0"><na f="y/Ye:Yichen" pid="241/1070">Yichen Ye</na></co>
+<co c="0"><na f="y/Ye:Zi" pid="94/6717">Zi Ye</na></co>
+<co c="1"><na f="y/Yenney:Jacob" pid="377/3528">Jacob Yenney</na></co>
+<co c="0"><na f="y/Yi:Juan" pid="129/8846">Juan Yi</na></co>
+<co c="0"><na f="y/Yi_0001:Wang" pid="y/WangYi">Wang Yi 0001</na></co>
+<co c="0"><na f="y/Youngblood:Nathan" pid="213/7757">Nathan Youngblood</na></co>
+<co c="0"><na f="y/Yu_0001:Ge" pid="49/6363">Ge Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Qi" pid="58/6957">Qi Yu</na></co>
+<co c="0"><na f="y/Yuan:Mingxuan" pid="74/2356">Mingxuan Yuan</na></co>
+<co c="0"><na f="z/Zhang_0011:Dan" pid="21/802-11">Dan Zhang 0011</na></co>
+<co c="0"><na f="z/Zhang_0001:Daqing" pid="83/1359-1">Daqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Fuqiang" pid="82/7276">Fuqiang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hanwang" pid="79/8116">Hanwang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0072:Lei" pid="97/8704-72">Lei Zhang 0072</na></co>
+<co c="0"><na f="z/Zhang:Lin" pid="37/1629">Lin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Liyan" pid="54/4596">Liyan Zhang</na></co>
+<co c="2"><na f="z/Zhang:Menghe" pid="255/9119">Menghe Zhang</na></co>
+<co c="0"><na f="z/Zhang:Nan" pid="28/6297">Nan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0020:Qian" pid="04/2024-20">Qian Zhang 0020</na></co>
+<co c="0"><na f="z/Zhang_0003:Shu" pid="30/2700-3">Shu Zhang 0003</na></co>
+<co c="0"><na f="z/Zhang:Sutong" pid="366/6689">Sutong Zhang</na></co>
+<co c="0"><na f="z/Zhang_0012:Wei" pid="10/4661-12">Wei Zhang 0012</na></co>
+<co c="0"><na f="z/Zhang_0173:Wei" pid="10/4661-173">Wei Zhang 0173</na></co>
+<co c="0"><na f="z/Zhang:Wenfei" pid="173/4439">Wenfei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zehua" pid="76/2625">Zehua Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zihao" pid="157/0770">Zihao Zhang</na></co>
+<co c="3"><na f="z/Zhang:Zonghe" pid="390/7192">Zonghe Zhang</na></co>
+<co c="0"><na f="z/Zhao:Mengying" pid="73/11467">Mengying Zhao</na></co>
+<co c="0"><na f="z/Zhao_0001:Mingxiong" pid="146/7492-1">Mingxiong Zhao 0001</na></co>
+<co c="0"><na f="z/Zhao_0004:Shuai" pid="116/8682-4">Shuai Zhao 0004</na></co>
+<co c="0"><na f="z/Zhong:Kan" pid="149/3972">Kan Zhong</na></co>
+<co c="0"><na f="z/Zhou:Jun" pid="99/3847">Jun Zhou</na></co>
+<co c="0"><na f="z/Zhou_0001:Wei" pid="69/5011-1">Wei Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou:Xueliang" pid="195/2939">Xueliang Zhou</na></co>
+<co c="0"><na f="z/Zhu:Shien" pid="265/5738">Shien Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xiao" pid="19/8561">Xiao Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yuanjun" pid="89/8996">Yuanjun Zhu</na></co>
+<co c="0"><na f="z/Zhuge:Qingfeng" pid="73/1987">Qingfeng Zhuge</na></co>
+<co c="0"><na f="z/Zokaee:Farzaneh" pid="137/9186">Farzaneh Zokaee</na></co>
+</coauthors>
+</dblpperson>
+

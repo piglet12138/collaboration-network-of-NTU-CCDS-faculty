@@ -1,0 +1,732 @@
+<?xml version="1.0"?>
+<dblpperson name="Tianwei Zhang" pid="77/7902" n="34">
+<person publtype="disambiguation" key="homepages/77/7902" mdate="2021-04-09">
+<author pid="77/7902">Tianwei Zhang</author>
+</person>
+<homonyms n="4">
+<h f="z/Zhang_0001:Tianwei"><person key="homepages/77/7902-1" mdate="2021-04-20">
+<author pid="77/7902-1">Tianwei Zhang 0001</author>
+<note type="affiliation">Kunming University of Science and Technology, City College, China</note>
+<note type="affiliation" label="PhD 2015">Yunnan University, China</note>
+<url>https://orcid.org/0000-0001-6777-1668</url>
+<url>https://www.wikidata.org/entity/Q92476180</url>
+</person>
+</h>
+<h f="z/Zhang_0002:Tianwei"><person key="homepages/77/7902-2" mdate="2021-04-08">
+<author pid="77/7902-2">Tianwei Zhang 0002</author>
+<note type="affiliation">University of Tokyo, Department of Mechano-Informatics, Japan</note>
+<note type="affiliation">Peking University, Engineering Lab on Intelligent Perception for Internet of Things, China</note>
+<url>https://orcid.org/0000-0002-1462-5402</url>
+</person>
+</h>
+<h f="z/Zhang_0004:Tianwei"><person key="homepages/77/7902-4" mdate="2022-02-15">
+<author pid="77/7902-4">Tianwei Zhang 0004</author>
+<note type="affiliation">Nanyang Technological University, School of Computer Science and Engineering, Singapore</note>
+<note type="affiliation" label="PhD 2017">Princeton University, NJ, USA</note>
+<note type="affiliation">Peking University, Beijing, China</note>
+<url>https://orcid.org/0000-0001-6595-6650</url>
+<url>https://orcid.org/0000-0001-7335-7367</url>
+</person>
+</h>
+<h f="z/Zhang_0005:Tianwei"><person key="homepages/77/7902-5" mdate="2024-08-21">
+<author pid="77/7902-5">Tianwei Zhang 0005</author>
+<note type="affiliation">University of Chinese Academy of Sciences, College of Resources and Environment, Beijing, China</note>
+<note type="affiliation">Chinese Academy of Sciences, Key Laboratory of Digital Earth Science, Aerospace Information Research Institute, Beijing, China</note>
+<url>https://orcid.org/0000-0002-7486-9468</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/bspc/GaoAWCSFXZWY25" mdate="2024-10-22">
+<author orcid="0009-0006-9175-3535" pid="01/6084">Yunlong Gao</author>
+<author pid="78/8613">Danni Ai</author>
+<author pid="95/494">Yuanyuan Wang</author>
+<author pid="285/4545">Kaibin Cao</author>
+<author pid="09/4495">Hong Song</author>
+<author pid="146/4057">Jingfan Fan</author>
+<author pid="205/5417">Deqiang Xiao</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="04/7235">Yining Wang</author>
+<author pid="y/JianYang9">Jian Yang 0009</author>
+<title>Spatio-Temporal correspondence attention network for vessel segmentation in X-ray coronary angiography.</title>
+<pages>106792</pages>
+<year>2025</year>
+<volume>99</volume>
+<journal>Biomed. Signal Process. Control.</journal>
+<ee>https://doi.org/10.1016/j.bspc.2024.106792</ee>
+<url>db/journals/bspc/bspc99.html#GaoAWCSFXZWY25</url>
+<stream>streams/journals/bspc</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-03736" mdate="2025-02-18">
+<author pid="250/2542">Jiaxuan Han</author>
+<author pid="83/5898">Cheng Huang</author>
+<author pid="180/5604">Jiayong Liu</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>An Effective Docker Image Slimming Approach Based on Source Code Data Dependency Analysis.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.03736</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.03736</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-03736</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-19180" mdate="2025-02-27">
+<author pid="01/2410">Xianglin Yang</author>
+<author pid="236/9144">Gelei Deng</author>
+<author pid="147/1237">Jieming Shi</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.19180</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.19180</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-19180</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-00434" mdate="2025-03-07">
+<author pid="249/1786">Alexis de Colnet</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Compilation and Fast Model Counting beyond CNF.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.00434</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.00434</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-00434</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-05206" mdate="2025-03-31">
+<author pid="195/8270">Xingjun Ma</author>
+<author pid="84/10043">Yifeng Gao</author>
+<author pid="259/1328">Yixu Wang</author>
+<author pid="18/10133">Ruofan Wang</author>
+<author pid="10/5630">Xin Wang</author>
+<author pid="29/795">Ye Sun</author>
+<author pid="156/3870">Yifan Ding</author>
+<author pid="119/0575">Hengyuan Xu</author>
+<author pid="36/4271">Yunhao Chen</author>
+<author pid="211/6894">Yunhan Zhao</author>
+<author pid="268/5655">Hanxun Huang</author>
+<author pid="01/2511">Yige Li</author>
+<author pid="81/10010">Jiaming Zhang</author>
+<author pid="63/6318">Xiang Zheng</author>
+<author pid="39/6825">Yang Bai</author>
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="69/1395">Xipeng Qiu</author>
+<author pid="227/2664">Jingfeng Zhang</author>
+<author pid="181/2877">Yiming Li</author>
+<author pid="68/5216">Jun Sun</author>
+<author pid="18/2771">Cong Wang</author>
+<author pid="232/2128">Jindong Gu</author>
+<author pid="73/7781">Baoyuan Wu</author>
+<author pid="136/4945">Siheng Chen</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="51/3710">Yang Liu</author>
+<author pid="98/8479">Mingming Gong</author>
+<author pid="150/6667">Tongliang Liu</author>
+<author pid="91/8171">Shirui Pan</author>
+<author pid="175/3366">Cihang Xie</author>
+<author pid="202/2550">Tianyu Pang</author>
+<author pid="183/0980">Yinpeng Dong</author>
+<author pid="147/5355-1">Ruoxi Jia 0001</author>
+<author pid="06/6785-16">Yang Zhang 0016</author>
+<author pid="172/8745">Shiqing Ma</author>
+<author pid="95/3760">Xiangyu Zhang</author>
+<author pid="03/9437">Neil Gong 0001</author>
+<author pid="150/3317">Chaowei Xiao</author>
+<author pid="136/0170">Sarah M. Erfani</author>
+<author pid="50/3402">Bo Li</author>
+<author pid="35/1228">Masashi Sugiyama</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="239/1071">James Bailey</author>
+<author pid="315/0919">Yu-Gang Jiang</author>
+<title>Safety at Scale: A Comprehensive Survey of Large Model Safety.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.05206</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.05206</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-05206</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AgrawalMZ25" mdate="2025-02-17">
+<author pid="74/6138">Shweta Agrawal</author>
+<author pid="148/1304">Giulio Malavolta</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Time-Lock Puzzles from Lattices.</title>
+<pages>47</pages>
+<year>2025</year>
+<volume>2025</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2025/047</ee>
+<url>db/journals/iacr/iacr2025.html#AgrawalMZ25</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><article key="journals/ijgs/RaoZ24" mdate="2025-01-05">
+<author pid="327/7579">Shaobin Rao</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Almost automorphic behaviours of nonlocal stochastic fuzzy Cohen-Grossberg lattice neural networks.</title>
+<pages>1014-1041</pages>
+<year>2024</year>
+<month>November</month>
+<volume>53</volume>
+<journal>Int. J. Gen. Syst.</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1080/03081079.2024.2340699</ee>
+<url>db/journals/ijgs/ijgs53.html#RaoZ24</url>
+<stream>streams/journals/ijgs</stream>
+</article>
+</r>
+<r><article key="journals/mia/ZhangWZGZ24" mdate="2024-05-31">
+<author pid="77/7902">Tianwei Zhang</author>
+<author orcid="0000-0001-5969-6987" pid="34/4292-4">Dong Wei 0004</author>
+<author pid="372/5964">Mengmeng Zhua</author>
+<author orcid="0000-0003-2303-6770" pid="175/1269">Shi Gu</author>
+<author pid="44/6510">Yefeng Zheng 0001</author>
+<title>Self-supervised learning for medical image data with anatomy-oriented imaging planes.</title>
+<pages>103151</pages>
+<year>2024</year>
+<volume>94</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2024.103151</ee>
+<url>db/journals/mia/mia94.html#ZhangWZGZ24</url>
+</article>
+</r>
+<r><article key="journals/npjdm/TaoLHWZWZZZLN24" mdate="2025-03-03">
+<author pid="84/4248">Ye Tao</author>
+<author orcid="0009-0003-9097-6313" pid="390/9725">Yazhi Luo</author>
+<author pid="197/6693">Hanwen Hu</author>
+<author pid="35/7092">Wei Wang</author>
+<author orcid="0009-0001-5321-0031" pid="00/4089">Ying Zhao</author>
+<author orcid="0000-0002-5467-3548" pid="152/8074">Shuhao Wang</author>
+<author pid="256/3948">Qingyuan Zheng</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="24/5631">Guoqiang Zhang</author>
+<author pid="17/2703">Jie Li</author>
+<author pid="06/6732">Ming Ni</author>
+<title>Clinically applicable optimized periprosthetic joint infection diagnosis via AI based pathology.</title>
+<year>2024</year>
+<volume>7</volume>
+<journal>npj Digit. Medicine</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1038/s41746-024-01301-7</ee>
+<url>db/journals/npjdm/npjdm7.html#TaoLHWZWZZZLN24</url>
+<stream>streams/journals/npjdm</stream>
+</article>
+</r>
+<r><article key="journals/tinstmc/HaoZ24" mdate="2024-01-26">
+<author orcid="0000-0003-1550-8803" pid="180/5174">Bing Hao</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Exponential convergence in the mean-square sense of nonlocal stochastic almost automorphic genetic regulatory lattice networks.</title>
+<pages>116-130</pages>
+<year>2024</year>
+<month>January</month>
+<volume>46</volume>
+<journal>Trans. Inst. Meas. Control</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/01423312231163926</ee>
+<url>db/journals/tinstmc/tinstmc46.html#HaoZ24</url>
+</article>
+</r>
+<r><inproceedings key="conf/crypto/AgrawalrMZ24" mdate="2025-03-03">
+<author pid="74/6138">Shweta Agrawal</author>
+<author orcid="0009-0009-9737-0094" pid="148/1304">Giulio Malavolta</author>
+<author orcid="0009-0008-8188-3912" pid="77/7902">Tianwei Zhang</author>
+<title>Time-Lock Puzzles from Lattices.</title>
+<pages>425-456</pages>
+<year>2024</year>
+<booktitle>CRYPTO (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-68382-4_13</ee>
+<crossref>conf/crypto/2024-3</crossref>
+<url>db/conf/crypto/crypto2024-3.html#AgrawalrMZ24</url>
+<stream>streams/conf/crypto</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/humanoids/XuML0ZW24" mdate="2024-12-09">
+<author pid="249/3116">Yingtian Xu</author>
+<author pid="27/3544">Yichen Ma</author>
+<author pid="295/8232">Waner Lin</author>
+<author pid="02/3837">Zhenglong Sun 0001</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="197/3272">Ziya Wang</author>
+<title>Robot Embodied Dynamic Tactile Perception of Liquid in Containers.</title>
+<pages>1034-1039</pages>
+<year>2024</year>
+<booktitle>Humanoids</booktitle>
+<ee>https://doi.org/10.1109/Humanoids58906.2024.10769944</ee>
+<crossref>conf/humanoids/2024</crossref>
+<url>db/conf/humanoids/humanoids2024.html#XuML0ZW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ColnetSZ24" mdate="2024-10-18">
+<author pid="249/1786">Alexis de Colnet</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Compilation and Fast Model Counting beyond CNF.</title>
+<pages>3315-3323</pages>
+<year>2024</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://www.ijcai.org/proceedings/2024/367</ee>
+<crossref>conf/ijcai/2024</crossref>
+<url>db/conf/ijcai/ijcai2024.html#ColnetSZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LiCZZZ24" mdate="2025-02-13">
+<author pid="31/10776">Guanlin Li</author>
+<author pid="204/3003">Kangjie Chen</author>
+<author pid="42/6194">Shudong Zhang</author>
+<author pid="84/6889">Jie Zhang</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/a5c7206fd66e8314bb21a04492359353-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#LiCZZZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/ZhangPS24" mdate="2024-08-21">
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="181/3386">Tom&#225;s Peitl</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Small Unsatisfiable k-CNFs with Bounded Literal Occurrence.</title>
+<pages>31:1-31:22</pages>
+<year>2024</year>
+<booktitle>SAT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SAT.2024.31</ee>
+<crossref>conf/sat/2024</crossref>
+<url>db/conf/sat/sat2024.html#ZhangPS24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-12688" mdate="2024-03-21">
+<author pid="355/3156">Runyi Hu</author>
+<author pid="84/6889">Jie Zhang</author>
+<author pid="74/7775">Ting Xu</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="73/5746">Jiwei Li</author>
+<title>Robust-Wide: Robust Watermarking against Instruction-driven Image Editing.</title>
+<year>2024</year>
+<volume>abs/2402.12688</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.12688</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-12688</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16499" mdate="2024-04-09">
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="34/4292-4">Dong Wei 0004</author>
+<author pid="372/5964">Mengmeng Zhua</author>
+<author pid="175/1269">Shi Gu</author>
+<author pid="44/6510">Yefeng Zheng 0001</author>
+<title>Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes.</title>
+<year>2024</year>
+<volume>abs/2403.16499</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16499</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16499</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-16149" mdate="2024-06-18">
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="181/3386">Tom&#225;s Peitl</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Small unsatisfiable k-CNFs with bounded literal occurrence.</title>
+<year>2024</year>
+<volume>abs/2405.16149</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.16149</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-16149</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-15169" mdate="2025-04-01">
+<author pid="91/4353-11">Xiang Zhang 0011</author>
+<author pid="84/6889-28">Jie Zhang 0028</author>
+<author pid="240/2623">Zehua Ma</author>
+<author orcid="0000-0001-5483-2812" pid="184/7043">Jinyang Huang</author>
+<author pid="70/1726-6">Meng Li 0006</author>
+<author pid="87/1372">Huan Yan</author>
+<author pid="93/4324">Peng Zhao</author>
+<author pid="43/6524-1">Zijian Zhang 0001</author>
+<author pid="25/3038">Qing Guo</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="35/837-16">Bin Liu 0016</author>
+<author pid="96/5144">Nenghai Yu</author>
+<title>CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis.</title>
+<year>2024</year>
+<volume>abs/2409.15169</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.15169</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-15169</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-11496" mdate="2025-01-03">
+<author pid="347/3407">Chenhang Cui</author>
+<author pid="236/9144">Gelei Deng</author>
+<author pid="78/5581-3">An Zhang 0003</author>
+<author pid="326/4665">Jingnan Zheng</author>
+<author pid="302/5062-4">Yicong Li 0004</author>
+<author pid="123/9849">Lianli Gao</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models.</title>
+<year>2024</year>
+<volume>abs/2411.11496</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.11496</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-11496</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-10400" mdate="2025-01-20">
+<author pid="202/8467">Shuhe Wang</author>
+<author pid="47/3459-1">Shengyu Zhang 0001</author>
+<author pid="84/6889">Jie Zhang</author>
+<author pid="355/3156">Runyi Hu</author>
+<author pid="77/5121-1">Xiaoya Li 0001</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="73/5746-1">Jiwei Li 0001</author>
+<author pid="84/3254-1">Fei Wu 0001</author>
+<author pid="05/3838-2">Guoyin Wang 0002</author>
+<author pid="47/2454">Eduard H. Hovy</author>
+<title>Reinforcement Learning Enhanced LLMs: A Survey.</title>
+<year>2024</year>
+<volume>abs/2412.10400</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.10400</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-10400</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/aisy/LinWZXWZSLP23" mdate="2023-08-06">
+<author pid="350/0215">Zhuofan Lin</author>
+<author orcid="0000-0002-9582-8139" pid="197/3272">Ziya Wang</author>
+<author pid="118/4424">Wenyu Zhao</author>
+<author pid="249/3116">Yingtian Xu</author>
+<author pid="54/1784">Xiaopu Wang</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author orcid="0000-0002-8135-1659" pid="02/3837">Zhenglong Sun 0001</author>
+<author pid="48/5299">Lan Lin</author>
+<author orcid="0000-0002-7114-1797" pid="95/11528">Zhengchun Peng</author>
+<title>Recent Advances in Perceptive Intelligence for Soft Robotics.</title>
+<year>2023</year>
+<month>May</month>
+<volume>5</volume>
+<journal>Adv. Intell. Syst.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1002/aisy.202200329</ee>
+<url>db/journals/aisy/aisy5.html#LinWZXWZSLP23</url>
+</article>
+</r>
+<r><article key="journals/jifs/YangZ23a" mdate="2023-06-03">
+<author pid="30/9266">Yali Yang</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Anti-periodic motion and mean-square exponential convergence of nonlocal discrete-time stochastic competitive lattice neural networks with fuzzy logic.</title>
+<pages>8451-8470</pages>
+<year>2023</year>
+<volume>44</volume>
+<journal>J. Intell. Fuzzy Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/JIFS-223495</ee>
+<url>db/journals/jifs/jifs44.html#YangZ23a</url>
+</article>
+</r>
+<r><article key="journals/pr/ZhangL23" mdate="2023-09-23">
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="14/8175">Zhouhong Li</author>
+<title>Switching clusters' synchronization for discrete space-time complex dynamical networks via boundary feedback controls.</title>
+<pages>109763</pages>
+<year>2023</year>
+<month>November</month>
+<volume>143</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2023.109763</ee>
+<url>db/journals/pr/pr143.html#ZhangL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/case/YanXZS23" mdate="2023-10-05">
+<author pid="296/8554">Tianqiang Yan</author>
+<author pid="205/7825">Tiansheng Xu</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="02/3837">Zhenglong Sun 0001</author>
+<title>HapNet: A Learning-Based Haptic-Kinematic Model for Surface Material Classification in Robot Perception.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>CASE</booktitle>
+<ee>https://doi.org/10.1109/CASE56687.2023.10260360</ee>
+<crossref>conf/case/2023</crossref>
+<url>db/conf/case/case2023.html#YanXZS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/ZhangS23" mdate="2024-08-04">
+<author pid="77/7902">Tianwei Zhang</author>
+<author orcid="0000-0001-8994-1656" pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Searching for Smallest Universal Graphs and Tournaments with SAT.</title>
+<pages>39:1-39:20</pages>
+<year>2023</year>
+<booktitle>CP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CP.2023.39</ee>
+<crossref>conf/cp/2023</crossref>
+<url>db/conf/cp/cp2023.html#ZhangS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/DingMZ23" mdate="2023-11-09">
+<author pid="360/1982">Xiuquan Ding</author>
+<author pid="148/1304">Giulio Malavolta</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Doubly Efficient Batched Private Information Retrieval.</title>
+<pages>1552</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/1552</ee>
+<url>db/journals/iacr/iacr2023.html#DingMZ23</url>
+</article>
+</r>
+<r><article key="journals/eswa/ZhangSCD22" mdate="2023-08-08">
+<author orcid="0000-0002-6795-797X" pid="77/7902">Tianwei Zhang</author>
+<author pid="319/3706">Chuanhou Sun</author>
+<author orcid="0000-0003-1109-5028" pid="07/8503-1">Zhiyong Cheng 0001</author>
+<author pid="27/6593-1">Xiangjun Dong 0001</author>
+<title>AENAR: An aspect-aware explainable neural attentional recommender model for rating predication.</title>
+<pages>116717</pages>
+<year>2022</year>
+<volume>198</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2022.116717</ee>
+<url>db/journals/eswa/eswa198.html#ZhangSCD22</url>
+</article>
+</r>
+<r><article key="journals/jifs/HaoZ22" mdate="2022-07-05">
+<author pid="180/5174">Bing Hao</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Stability analysis and synchronized control of fuzzy Mittag-Leffler discrete-time genetic regulatory networks with time delays.</title>
+<pages>587-613</pages>
+<year>2022</year>
+<volume>43</volume>
+<journal>J. Intell. Fuzzy Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/JIFS-212361</ee>
+<url>db/journals/jifs/jifs43.html#HaoZ22</url>
+</article>
+</r>
+<r><article key="journals/tits/TangZWZZ22" mdate="2022-12-25">
+<author orcid="0000-0003-1344-2513" pid="254/9341">Haoyu Tang</author>
+<author orcid="0000-0002-3081-8781" pid="01/3607">Jihua Zhu</author>
+<author orcid="0000-0003-1026-0060" pid="17/6729-26">Lin Wang 0026</author>
+<author orcid="0000-0002-8684-1577" pid="234/8977">Qinghai Zheng</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>Multi-Level Query Interaction for Temporal Language Grounding.</title>
+<pages>25479-25488</pages>
+<year>2022</year>
+<volume>23</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TITS.2021.3110713</ee>
+<url>db/journals/tits/tits23.html#TangZWZZ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/prcv/ZhangS21" mdate="2021-10-25">
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="30/3530">Kun Sun</author>
+<title>Deep Semantic Edge for Cell Counting and Localization in Time-Lapse Microscopy Images.</title>
+<pages>337-349</pages>
+<year>2021</year>
+<booktitle>PRCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-88010-1_28</ee>
+<crossref>conf/prcv/2021-3</crossref>
+<url>db/conf/prcv/prcv2021-3.html#ZhangS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ZhangYHLG20" mdate="2024-05-07">
+<author pid="77/7902">Tianwei Zhang</author>
+<author orcid="0000-0002-9315-6527" pid="165/8092">Lequan Yu</author>
+<author pid="41/10186">Na Hu</author>
+<author pid="275/6749">Su Lv</author>
+<author pid="175/1269">Shi Gu</author>
+<title>Robust Medical Image Segmentation from Non-expert Annotations with Tri-network.</title>
+<pages>249-258</pages>
+<year>2020</year>
+<booktitle>MICCAI (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59719-1_25</ee>
+<crossref>conf/miccai/2020-4</crossref>
+<url>db/conf/miccai/miccai2020-4.html#ZhangYHLG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/WangZW17" mdate="2018-06-27">
+<author pid="35/7092">Wei Wang</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="17/6729">Lin Wang</author>
+<title>Markov chain-based flight operations risk analysis.</title>
+<pages>2441-2445</pages>
+<year>2017</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2017.8393157</ee>
+<crossref>conf/icnc/2017</crossref>
+<url>db/conf/icnc/icnc2017.html#WangZW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/LiuZ12" mdate="2022-06-18">
+<author pid="97/2274-31">Yu Liu 0031</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<title>P-Order Normal Cloud Model: Walking on the Way between Gaussian and Power Law Distributions.</title>
+<pages>467-474</pages>
+<year>2012</year>
+<booktitle>ICONIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34481-7_57</ee>
+<crossref>conf/iconip/2012-2</crossref>
+<url>db/conf/iconip/iconip2012-2.html#LiuZ12</url>
+</inproceedings>
+</r>
+<coauthors n="139" nc="4">
+<co c="3"><na f="a/Agrawal:Shweta" pid="74/6138">Shweta Agrawal</na></co>
+<co c="0"><na f="a/Ai:Danni" pid="78/8613">Danni Ai</na></co>
+<co c="0"><na f="b/Bai:Yang" pid="39/6825">Yang Bai</na></co>
+<co c="0"><na f="b/Bailey:James" pid="239/1071">James Bailey</na></co>
+<co c="0"><na f="c/Cao:Kaibin" pid="285/4545">Kaibin Cao</na></co>
+<co c="0"><na f="c/Chen:Kangjie" pid="204/3003">Kangjie Chen</na></co>
+<co c="0"><na f="c/Chen:Siheng" pid="136/4945">Siheng Chen</na></co>
+<co c="0"><na f="c/Chen:Yunhao" pid="36/4271">Yunhao Chen</na></co>
+<co c="0"><na f="c/Cheng_0001:Zhiyong" pid="07/8503-1">Zhiyong Cheng 0001</na></co>
+<co c="0"><na f="c/Chua:Tat=Seng" pid="24/6606">Tat-Seng Chua</na></co>
+<co c="2"><na f="c/Colnet:Alexis_de" pid="249/1786">Alexis de Colnet</na></co>
+<co c="0"><na f="c/Cui:Chenhang" pid="347/3407">Chenhang Cui</na></co>
+<co c="0"><na f="d/Deng:Gelei" pid="236/9144">Gelei Deng</na></co>
+<co c="3"><na f="d/Ding:Xiuquan" pid="360/1982">Xiuquan Ding</na></co>
+<co c="0"><na f="d/Ding:Yifan" pid="156/3870">Yifan Ding</na></co>
+<co c="0"><na f="d/Dong:Jin_Song" pid="33/6517">Jin Song Dong</na></co>
+<co c="0"><na f="d/Dong_0001:Xiangjun" pid="27/6593-1">Xiangjun Dong 0001</na></co>
+<co c="0"><na f="d/Dong:Yinpeng" pid="183/0980">Yinpeng Dong</na></co>
+<co c="0"><na f="e/Erfani:Sarah_M=" pid="136/0170">Sarah M. Erfani</na></co>
+<co c="0"><na f="f/Fan:Jingfan" pid="146/4057">Jingfan Fan</na></co>
+<co c="0"><na f="g/Gao:Lianli" pid="123/9849">Lianli Gao</na></co>
+<co c="0"><na f="g/Gao:Yifeng" pid="84/10043">Yifeng Gao</na></co>
+<co c="0"><na f="g/Gao:Yunlong" pid="01/6084">Yunlong Gao</na></co>
+<co c="0"><na f="g/Gong:Mingming" pid="98/8479">Mingming Gong</na></co>
+<co c="0" n="2"><na f="g/Gong:Neil_Zhenqiang" pid="03/9437">Neil Zhenqiang Gong</na><na>Neil Gong 0001</na></co>
+<co c="0"><na f="g/Gu:Jindong" pid="232/2128">Jindong Gu</na></co>
+<co c="0"><na f="g/Gu:Shi" pid="175/1269">Shi Gu</na></co>
+<co c="0"><na f="g/Guo:Qing" pid="25/3038">Qing Guo</na></co>
+<co c="1"><na f="h/Han:Jiaxuan" pid="250/2542">Jiaxuan Han</na></co>
+<co c="-1"><na f="h/Hao:Bing" pid="180/5174">Bing Hao</na></co>
+<co c="0"><na f="h/Hovy:Eduard_H=" pid="47/2454">Eduard H. Hovy</na></co>
+<co c="0"><na f="h/Hu:Hanwen" pid="197/6693">Hanwen Hu</na></co>
+<co c="0"><na f="h/Hu:Na" pid="41/10186">Na Hu</na></co>
+<co c="0"><na f="h/Hu:Runyi" pid="355/3156">Runyi Hu</na></co>
+<co c="1"><na f="h/Huang:Cheng" pid="83/5898">Cheng Huang</na></co>
+<co c="0"><na f="h/Huang:Hanxun" pid="268/5655">Hanxun Huang</na></co>
+<co c="0"><na f="h/Huang:Jinyang" pid="184/7043">Jinyang Huang</na></co>
+<co c="0"><na f="j/Jia_0001:Ruoxi" pid="147/5355-1">Ruoxi Jia 0001</na></co>
+<co c="0" n="2"><na f="j/Jiang:Yugang" pid="315/0919">Yugang Jiang</na><na>Yu-Gang Jiang</na></co>
+<co c="0"><na f="l/Li:Bo" pid="50/3402">Bo Li</na></co>
+<co c="0"><na f="l/Li:Guanlin" pid="31/10776">Guanlin Li</na></co>
+<co c="0"><na f="l/Li:Jie" pid="17/2703">Jie Li</na></co>
+<co c="0"><na f="l/Li:Jiwei" pid="73/5746">Jiwei Li</na></co>
+<co c="0"><na f="l/Li_0001:Jiwei" pid="73/5746-1">Jiwei Li 0001</na></co>
+<co c="0"><na f="l/Li_0006:Meng" pid="70/1726-6">Meng Li 0006</na></co>
+<co c="0"><na f="l/Li_0001:Xiaoya" pid="77/5121-1">Xiaoya Li 0001</na></co>
+<co c="0"><na f="l/Li_0004:Yicong" pid="302/5062-4">Yicong Li 0004</na></co>
+<co c="0"><na f="l/Li:Yige" pid="01/2511">Yige Li</na></co>
+<co c="0"><na f="l/Li:Yiming" pid="181/2877">Yiming Li</na></co>
+<co c="-1"><na f="l/Li:Zhouhong" pid="14/8175">Zhouhong Li</na></co>
+<co c="0"><na f="l/Lin:Lan" pid="48/5299">Lan Lin</na></co>
+<co c="0"><na f="l/Lin:Waner" pid="295/8232">Waner Lin</na></co>
+<co c="0"><na f="l/Lin:Zhuofan" pid="350/0215">Zhuofan Lin</na></co>
+<co c="0"><na f="l/Liu_0016:Bin" pid="35/837-16">Bin Liu 0016</na></co>
+<co c="1"><na f="l/Liu:Jiayong" pid="180/5604">Jiayong Liu</na></co>
+<co c="0"><na f="l/Liu:Tongliang" pid="150/6667">Tongliang Liu</na></co>
+<co c="0"><na f="l/Liu:Yang" pid="51/3710">Yang Liu</na></co>
+<co c="-1"><na f="l/Liu_0031:Yu" pid="97/2274-31">Yu Liu 0031</na></co>
+<co c="0"><na f="l/Luo:Yazhi" pid="390/9725">Yazhi Luo</na></co>
+<co c="0"><na f="l/Lv:Su" pid="275/6749">Su Lv</na></co>
+<co c="0"><na f="m/Ma:Shiqing" pid="172/8745">Shiqing Ma</na></co>
+<co c="0"><na f="m/Ma:Xingjun" pid="195/8270">Xingjun Ma</na></co>
+<co c="0"><na f="m/Ma:Yichen" pid="27/3544">Yichen Ma</na></co>
+<co c="0"><na f="m/Ma:Zehua" pid="240/2623">Zehua Ma</na></co>
+<co c="3"><na f="m/Malavolta:Giulio" pid="148/1304">Giulio Malavolta</na></co>
+<co c="0"><na f="n/Ni:Ming" pid="06/6732">Ming Ni</na></co>
+<co c="0"><na f="p/Pan:Shirui" pid="91/8171">Shirui Pan</na></co>
+<co c="0"><na f="p/Pang:Tianyu" pid="202/2550">Tianyu Pang</na></co>
+<co c="2"><na f="p/Peitl:Tom=aacute=s" pid="181/3386">Tom&#225;s Peitl</na></co>
+<co c="0"><na f="p/Peng:Zhengchun" pid="95/11528">Zhengchun Peng</na></co>
+<co c="0"><na f="q/Qiu:Xipeng" pid="69/1395">Xipeng Qiu</na></co>
+<co c="-1"><na f="r/Rao:Shaobin" pid="327/7579">Shaobin Rao</na></co>
+<co c="0"><na f="s/Shi:Jieming" pid="147/1237">Jieming Shi</na></co>
+<co c="0"><na f="s/Song:Hong" pid="09/4495">Hong Song</na></co>
+<co c="0"><na f="s/Sugiyama:Masashi" pid="35/1228">Masashi Sugiyama</na></co>
+<co c="0"><na f="s/Sun:Chuanhou" pid="319/3706">Chuanhou Sun</na></co>
+<co c="0"><na f="s/Sun:Jun" pid="68/5216">Jun Sun</na></co>
+<co c="0"><na f="s/Sun:Kun" pid="30/3530">Kun Sun</na></co>
+<co c="0"><na f="s/Sun:Ye" pid="29/795">Ye Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Zhenglong" pid="02/3837">Zhenglong Sun 0001</na></co>
+<co c="2"><na f="s/Szeider:Stefan" pid="s/StefanSzeider">Stefan Szeider</na></co>
+<co c="0"><na f="t/Tang:Haoyu" pid="254/9341">Haoyu Tang</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Tao:Ye" pid="84/4248">Ye Tao</na></co>
+<co c="0"><na f="w/Wang:Cong" pid="18/2771">Cong Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Guoyin" pid="05/3838-2">Guoyin Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Lin" pid="17/6729">Lin Wang</na></co>
+<co c="0"><na f="w/Wang_0026:Lin" pid="17/6729-26">Lin Wang 0026</na></co>
+<co c="0"><na f="w/Wang:Ruofan" pid="18/10133">Ruofan Wang</na></co>
+<co c="0"><na f="w/Wang:Shuhao" pid="152/8074">Shuhao Wang</na></co>
+<co c="0"><na f="w/Wang:Shuhe" pid="202/8467">Shuhe Wang</na></co>
+<co c="0"><na f="w/Wang:Wei" pid="35/7092">Wei Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaopu" pid="54/1784">Xiaopu Wang</na></co>
+<co c="0"><na f="w/Wang:Xin" pid="10/5630">Xin Wang</na></co>
+<co c="0"><na f="w/Wang:Yining" pid="04/7235">Yining Wang</na></co>
+<co c="0"><na f="w/Wang:Yixu" pid="259/1328">Yixu Wang</na></co>
+<co c="0"><na f="w/Wang:Yuanyuan" pid="95/494">Yuanyuan Wang</na></co>
+<co c="0"><na f="w/Wang:Ziya" pid="197/3272">Ziya Wang</na></co>
+<co c="0"><na f="w/Wei_0004:Dong" pid="34/4292-4">Dong Wei 0004</na></co>
+<co c="0"><na f="w/Wu:Baoyuan" pid="73/7781">Baoyuan Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Fei" pid="84/3254-1">Fei Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Zuxuan" pid="150/8447">Zuxuan Wu</na></co>
+<co c="0"><na f="x/Xiao:Chaowei" pid="150/3317">Chaowei Xiao</na></co>
+<co c="0"><na f="x/Xiao:Deqiang" pid="205/5417">Deqiang Xiao</na></co>
+<co c="0"><na f="x/Xie:Cihang" pid="175/3366">Cihang Xie</na></co>
+<co c="0"><na f="x/Xu:Hengyuan" pid="119/0575">Hengyuan Xu</na></co>
+<co c="0"><na f="x/Xu:Tiansheng" pid="205/7825">Tiansheng Xu</na></co>
+<co c="0"><na f="x/Xu:Ting" pid="74/7775">Ting Xu</na></co>
+<co c="0"><na f="x/Xu:Yingtian" pid="249/3116">Yingtian Xu</na></co>
+<co c="0"><na f="y/Yan:Huan" pid="87/1372">Huan Yan</na></co>
+<co c="0"><na f="y/Yan:Tianqiang" pid="296/8554">Tianqiang Yan</na></co>
+<co c="0"><na f="y/Yang_0009:Jian" pid="y/JianYang9">Jian Yang 0009</na></co>
+<co c="0"><na f="y/Yang:Xianglin" pid="01/2410">Xianglin Yang</na></co>
+<co c="-1"><na f="y/Yang:Yali" pid="30/9266">Yali Yang</na></co>
+<co c="0"><na f="y/Yu:Lequan" pid="165/8092">Lequan Yu</na></co>
+<co c="0"><na f="y/Yu:Nenghai" pid="96/5144">Nenghai Yu</na></co>
+<co c="0"><na f="z/Zhang_0003:An" pid="78/5581-3">An Zhang 0003</na></co>
+<co c="0"><na f="z/Zhang:Guoqiang" pid="24/5631">Guoqiang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiaming" pid="81/10010">Jiaming Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jie" pid="84/6889">Jie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0028:Jie" pid="84/6889-28">Jie Zhang 0028</na></co>
+<co c="0"><na f="z/Zhang:Jingfeng" pid="227/2664">Jingfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Shengyu" pid="47/3459-1">Shengyu Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Shudong" pid="42/6194">Shudong Zhang</na></co>
+<co c="0"><na f="z/Zhang_0011:Xiang" pid="91/4353-11">Xiang Zhang 0011</na></co>
+<co c="0"><na f="z/Zhang:Xiangyu" pid="95/3760">Xiangyu Zhang</na></co>
+<co c="0"><na f="z/Zhang_0016:Yang" pid="06/6785-16">Yang Zhang 0016</na></co>
+<co c="0"><na f="z/Zhang_0001:Zijian" pid="43/6524-1">Zijian Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Peng" pid="93/4324">Peng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Wenyu" pid="118/4424">Wenyu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Ying" pid="00/4089">Ying Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yunhan" pid="211/6894">Yunhan Zhao</na></co>
+<co c="0"><na f="z/Zheng:Jingnan" pid="326/4665">Jingnan Zheng</na></co>
+<co c="0"><na f="z/Zheng:Qinghai" pid="234/8977">Qinghai Zheng</na></co>
+<co c="0"><na f="z/Zheng:Qingyuan" pid="256/3948">Qingyuan Zheng</na></co>
+<co c="0"><na f="z/Zheng:Xiang" pid="63/6318">Xiang Zheng</na></co>
+<co c="0"><na f="z/Zheng_0001:Yefeng" pid="44/6510">Yefeng Zheng 0001</na></co>
+<co c="0"><na f="z/Zhu:Jihua" pid="01/3607">Jihua Zhu</na></co>
+<co c="0"><na f="z/Zhua:Mengmeng" pid="372/5964">Mengmeng Zhua</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,3821 @@
+<?xml version="1.0"?>
+<dblpperson name="Anh Tuan Luu" pid="81/8329" n="229">
+<person key="homepages/81/8329" mdate="2024-05-06">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<url>https://tuanluu.github.io/</url>
+<url>https://scholar.google.com/citations?user=d6ixOGYAAAAJ</url>
+</person>
+<r><article key="journals/eswa/ZhaoXXWT25" mdate="2025-01-25">
+<author orcid="0000-0001-5174-5182" pid="116/8682-7">Shuai Zhao 0007</author>
+<author orcid="0009-0004-2471-6633" pid="48/6351">Xiaoyu Xu</author>
+<author orcid="0000-0001-7229-2741" pid="234/5434">Luwei Xiao</author>
+<author orcid="0000-0002-8181-0958" pid="36/8492">Jinming Wen</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Luu Anh Tuan</author>
+<title>Clean-label backdoor attack and defense: An examination of language model vulnerability.</title>
+<pages>125856</pages>
+<year>2025</year>
+<volume>265</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2024.125856</ee>
+<url>db/journals/eswa/eswa265.html#ZhaoXXWT25</url>
+<stream>streams/journals/eswa</stream>
+</article>
+</r>
+<r><inproceedings key="conf/coling/LiuCZW0LB25" mdate="2025-02-24">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="315/8871">Qin Chao</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="70/1211-1">Boyang Li 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels.</title>
+<pages>3716-3731</pages>
+<year>2025</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/2025.coling-main.251/</ee>
+<crossref>conf/coling/2025</crossref>
+<url>db/conf/coling/coling2025.html#LiuCZW0LB25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-14166" mdate="2025-02-27">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="50/4602">Khoi Le</author>
+<author pid="180/2744">Viet-Anh Nguyen</author>
+<author pid="335/1435">Yichao Feng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Enhancing Multimodal Entity Linking with Jaccard Distance-based Conditional Contrastive Learning and Contextual Visual Augmentation.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.14166</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.14166</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-14166</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-18922" mdate="2025-02-27">
+<author pid="227/5902-1">Haoran Luo 0001</author>
+<author pid="43/10222">Haihong E</author>
+<author pid="334/4154">Yikai Guo</author>
+<author pid="229/2908">Qika Lin</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="360/8462">Xinyu Mu</author>
+<author pid="86/8117">Wenhao Liu</author>
+<author pid="95/4440">Meina Song</author>
+<author pid="94/1593-1">Yifan Zhu 0001</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.18922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.18922</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-18922</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-06298" mdate="2025-03-12">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="303/6904">Jiahao Ying</author>
+<author pid="369/5878">Mahani Aljunied</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>SeaExam and SeaBench: Benchmarking LLMs with Local Multilingual Questions in Southeast Asia.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.06298</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.06298</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-06298</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-12591" mdate="2025-03-19">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>CutPaste&#38;Find: Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.12591</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.12591</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-12591</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-14356" mdate="2025-04-07">
+<author pid="06/4963">Huimin Xu</author>
+<author pid="72/4332">Xin Mao</author>
+<author pid="31/7637">Feng-Lin Li</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="26/1439">Wang Chen</author>
+<author pid="10/4661-218">Wei Zhang 0218</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Full-Step-DPO: Self-Supervised Preference Optimization with Step-wise Rewards for Mathematical Reasoning.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.14356</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.14356</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-14356</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-20238" mdate="2025-04-07">
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="57/4640">Weiwen Xu</author>
+<author pid="55/2270-48">Hao Zhang 0048</author>
+<author pid="178/3691">Hou Pong Chan</author>
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="53/6625">Lidong Bing</author>
+<author pid="77/1992">Deli Zhao</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="24/10036">Yu Rong</author>
+<title>FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.20238</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.20238</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-20238</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-01295" mdate="2025-04-08">
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="119/1943">Bin Ji</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="94/3756">Dong Huang</author>
+<author pid="35/3246-1">Terry Yue Zhuo</author>
+<author pid="33/85">Qian Liu</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>CodeArena: A Collective Evaluation Platform for LLM Code Generation.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.01295</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.01295</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-01295</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/air/WuNL24" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>A survey on neural topic models: methods, applications, and challenges.</title>
+<pages>18</pages>
+<year>2024</year>
+<month>February</month>
+<volume>57</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10462-023-10661-7</ee>
+<ee>https://www.wikidata.org/entity/Q129319686</ee>
+<url>db/journals/air/air57.html#WuNL24</url>
+</article>
+</r>
+<r><article key="journals/cogcom/ZhengT24" mdate="2024-11-22">
+<author pid="166/2586">Yandan Zheng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Incorporating Template-Based Contrastive Learning into Cognitively Inspired, Low-Resource Relation Extraction.</title>
+<pages>3228-3240</pages>
+<year>2024</year>
+<month>November</month>
+<volume>16</volume>
+<journal>Cogn. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s12559-024-10343-8</ee>
+<url>db/journals/cogcom/cogcom16.html#ZhengT24</url>
+<stream>streams/journals/cogcom</stream>
+</article>
+</r>
+<r><article key="journals/eswa/WeiHYLD24" mdate="2025-01-14">
+<author orcid="0000-0003-2068-2363" pid="35/3800">Jie Wei</author>
+<author orcid="0009-0006-1911-6283" pid="172/3540">Guanyu Hu</author>
+<author orcid="0000-0001-5117-4914" pid="89/473-1">Xinyu Yang 0001</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-1492-9772" pid="222/5023">Yizhuo Dong</author>
+<title>Learning facial expression and body gesture visual information for video emotion recognition.</title>
+<pages>121419</pages>
+<year>2024</year>
+<month>March</month>
+<volume>237</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>Part A</number>
+<ee>https://doi.org/10.1016/j.eswa.2023.121419</ee>
+<url>db/journals/eswa/eswa237.html#WeiHYLD24</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/LiCZC0WL024" mdate="2025-03-07">
+<author orcid="0000-0002-3592-4153" pid="202/8872-1">Anran Li 0001</author>
+<author orcid="0000-0002-5585-9897" pid="37/7763">Yuanyuan Chen</author>
+<author orcid="0000-0001-8316-1894" pid="07/314-1">Jian Zhang 0001</author>
+<author orcid="0000-0002-8982-1483" pid="241/6053">Mingfei Cheng</author>
+<author orcid="0000-0002-5784-770X" pid="255/5085">Yihao Huang 0001</author>
+<author orcid="0000-0002-1515-3558" pid="77/8060-1">Yueming Wu 0001</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<title>Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning.</title>
+<pages>144</pages>
+<year>2024</year>
+<volume>2</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3654947</ee>
+<ee>https://www.wikidata.org/entity/Q130855144</ee>
+<url>db/journals/pacmmod/pacmmod2.html#LiCZC0WL024</url>
+</article>
+</r>
+<r><article key="journals/taslp/ZhaoTFWL24" mdate="2024-12-23">
+<author orcid="0000-0001-5174-5182" pid="116/8682-7">Shuai Zhao 0007</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Luu Anh Tuan</author>
+<author orcid="0000-0002-4494-843X" pid="16/7565-1">Jie Fu 0001</author>
+<author orcid="0000-0002-8181-0958" pid="36/8492">Jinming Wen</author>
+<author orcid="0000-0001-5605-7397" pid="50/4115-2">Weiqi Luo 0002</author>
+<title>Exploring Clean Label Backdoor Attacks and Defense in Language Models.</title>
+<pages>3014-3024</pages>
+<year>2024</year>
+<volume>32</volume>
+<journal>IEEE ACM Trans. Audio Speech Lang. Process.</journal>
+<ee>https://doi.org/10.1109/TASLP.2024.3407571</ee>
+<url>db/journals/taslp/taslp32.html#ZhaoTFWL24</url>
+</article>
+</r>
+<r><article key="journals/tmc/LiHJPZTYL24" mdate="2025-03-07">
+<author orcid="0000-0002-3592-4153" pid="202/8872-1">Anran Li 0001</author>
+<author orcid="0009-0004-7444-0436" pid="34/7741">Jiahui Huang</author>
+<author orcid="0000-0001-6894-1331" pid="248/5418">Ju Jia</author>
+<author orcid="0000-0002-2720-2628" pid="36/2123">Hongyi Peng</author>
+<author orcid="0000-0003-1004-8588" pid="54/2752-2">Lan Zhang 0002</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Luu Anh Tuan</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<author orcid="0000-0002-6070-6625" pid="l/XiangYangLi">Xiang-Yang Li 0001</author>
+<title>Efficient and Privacy-Preserving Feature Importance-Based Vertical Federated Learning.</title>
+<pages>7238-7255</pages>
+<year>2024</year>
+<month>June</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TMC.2023.3333879</ee>
+<url>db/journals/tmc/tmc23.html#LiHJPZTYL24</url>
+</article>
+</r>
+<r><article key="journals/tmc/LiWHSZTY24" mdate="2025-03-07">
+<author orcid="0000-0002-3592-4153" pid="202/8872-1">Anran Li 0001</author>
+<author orcid="0000-0002-9353-9042" pid="187/5901">Guangjing Wang 0001</author>
+<author orcid="0000-0002-5058-4660" pid="82/378-3">Ming Hu 0003</author>
+<author orcid="0000-0002-6944-8378" pid="41/11196">Jianfei Sun</author>
+<author orcid="0000-0003-1004-8588" pid="54/2752-2">Lan Zhang 0002</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Luu Anh Tuan</author>
+<author orcid="0000-0001-6893-8650" pid="35/1096-1">Han Yu 0001</author>
+<title>Joint Client-and-Sample Selection for Federated Learning via Bi-Level Optimization.</title>
+<pages>15196-15209</pages>
+<year>2024</year>
+<month>December</month>
+<volume>23</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TMC.2024.3455331</ee>
+<url>db/journals/tmc/tmc23.html#LiWHSZTY24</url>
+<stream>streams/journals/tmc</stream>
+</article>
+</r>
+<r><article key="journals/tmm/JiaSTCXLYH24" mdate="2024-11-06">
+<author orcid="0009-0003-5624-9980" pid="150/3494">Meihuizi Jia</author>
+<author orcid="0000-0003-0307-696X" pid="63/2022">Lei Shen</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Luu Anh Tuan</author>
+<author orcid="0009-0006-9908-4524" pid="25/687-6">Meng Chen 0006</author>
+<author orcid="0000-0001-6102-8718" pid="07/1951">Jing Xu</author>
+<author orcid="0000-0003-1412-8243" pid="16/3137">Lejian Liao</author>
+<author orcid="0000-0001-5084-7064" pid="254/1904">Shaozu Yuan</author>
+<author orcid="0000-0002-9463-9168" pid="03/3923-1">Xiaodong He 0001</author>
+<title>MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-Commerce Commodities.</title>
+<pages>10354-10366</pages>
+<year>2024</year>
+<volume>26</volume>
+<journal>IEEE Trans. Multim.</journal>
+<ee>https://doi.org/10.1109/TMM.2024.3407667</ee>
+<url>db/journals/tmm/tmm26.html#JiaSTCXLYH24</url>
+<stream>streams/journals/tmm</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/HuLFLH24" mdate="2025-01-24">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="349/4751">Chumin Liu</author>
+<author pid="13/6965-2">Yue Feng 0002</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="169/9975">Bryan Hooi</author>
+<title>PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation.</title>
+<pages>18279-18288</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i16.29787</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#HuLFLH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/LePQL24" mdate="2025-03-03">
+<author orcid="0000-0002-9366-1750" pid="366/5180">Khoi M. Le</author>
+<author orcid="0009-0006-5570-1770" pid="302/9813">Trinh Pham</author>
+<author pid="171/2679">Tho Quan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training.</title>
+<pages>18435-18443</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i16.29804</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#LePQL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/NguyenWDLHNNL24" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="366/5180">Khoi M. Le</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling.</title>
+<pages>18824-18832</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i17.29847</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#NguyenWDLHNNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WuPNFLNL24" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="335/1435">Yichao Feng</author>
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>On the Affinity, Rationality, and Diversity of Hierarchical Topic Modeling.</title>
+<pages>19261-19269</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i17.29895</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#WuPNFLNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/DuLJN24" mdate="2024-04-02">
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="119/1943">Bin Ji</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>From Static to Dynamic: Knowledge Metabolism for Large Language Models.</title>
+<pages>23784-23786</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30564</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#DuLJN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/DingQZLLCX0LJ24" mdate="2024-09-24">
+<author pid="277/9378">Bosheng Ding</author>
+<author pid="195/2732">Chengwei Qin</author>
+<author pid="253/2147">Ruochen Zhao</author>
+<author pid="297/4000">Tianze Luo</author>
+<author pid="253/7355">Xinze Li</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="181/3470">Wenhan Xia</author>
+<author pid="123/0773-1">Junjie Hu 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="62/2078">Shafiq Joty</author>
+<title>Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges.</title>
+<pages>1679-1705</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.97</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.97</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#DingQZLLCX0LJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/LuoETPG0MDSLZL24" mdate="2025-01-23">
+<author pid="227/5902-1">Haoran Luo 0001</author>
+<author pid="43/10222">Haihong E</author>
+<author pid="264/0465">Zichen Tang</author>
+<author pid="194/1665">Shiyao Peng</author>
+<author pid="334/4154">Yikai Guo</author>
+<author pid="158/8157-4">Wentai Zhang 0004</author>
+<author pid="203/6721">Chenghao Ma</author>
+<author pid="227/7667">Guanting Dong</author>
+<author pid="95/4440">Meina Song</author>
+<author pid="99/2649">Wei Lin</author>
+<author pid="94/1593-1">Yifan Zhu 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models.</title>
+<pages>2039-2056</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.122</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.122</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#LuoETPG0MDSLZL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ChenCLB24" mdate="2025-01-19">
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="221/0115">Liying Cheng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Exploring the Potential of Large Language Models in Computational Argumentation.</title>
+<pages>2309-2330</pages>
+<year>2024</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.acl-long.126</ee>
+<ee type="oa">https://aclanthology.org/2024.acl-long.126</ee>
+<ee>https://www.wikidata.org/entity/Q131457743</ee>
+<crossref>conf/acl/2024-1</crossref>
+<url>db/conf/acl/acl2024-1.html#ChenCLB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/WuDPNL24" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion.</title>
+<pages>3088-3105</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.183</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.183</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#WuDPNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/PhamLL24" mdate="2025-03-03">
+<author orcid="0009-0006-5570-1770" pid="302/9813">Trinh Pham</author>
+<author pid="50/4602">Khoi Le</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages.</title>
+<pages>3168-3184</pages>
+<year>2024</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.acl-long.174</ee>
+<ee type="oa">https://aclanthology.org/2024.acl-long.174</ee>
+<ee>https://www.wikidata.org/entity/Q131457795</ee>
+<crossref>conf/acl/2024-1</crossref>
+<url>db/conf/acl/acl2024-1.html#PhamLL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/NguyenBXQ0WNNL24" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="242/4518">Junbin Xiao</author>
+<author pid="276/3150">Leigang Qu</author>
+<author pid="302/5062-4">Yicong Li 0004</author>
+<author pid="322/0749">Jay Zhangjie Wu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives.</title>
+<pages>3636-3657</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.217</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.217</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#NguyenBXQ0WNNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/NguyenBWDHLNNT24" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="50/4602">Khoi Le</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning.</title>
+<pages>77-98</pages>
+<year>2024</year>
+<booktitle>ECCV (80)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72989-8_5</ee>
+<crossref>conf/eccv/2024-80</crossref>
+<url>db/conf/eccv/eccv2024-80.html#NguyenBWDHLNNT24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhangLZ24" mdate="2024-11-18">
+<author pid="181/6460">Siyue Zhang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="81/3">Chen Zhao</author>
+<title>SynTQA: Synergistic Table-based Question Answering via Mixture of Text-to-SQL and E2E TQA.</title>
+<pages>2352-2364</pages>
+<year>2024</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.findings-emnlp.131</ee>
+<crossref>conf/emnlp/2024f</crossref>
+<url>db/conf/emnlp/emnlp2024f.html#ZhangLZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenHWNNL24" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Encoding and Controlling Global Semantics for Long-form Video Question Answering.</title>
+<pages>7049-7066</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.400</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#NguyenHWNNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/PhamNLN24" mdate="2024-11-18">
+<author pid="81/8316">Quang Pham</author>
+<author pid="351/3212">Hoang Ngo</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="23/9125">Dat Quoc Nguyen</author>
+<title>Who's Who: Large Language Models Meet Knowledge Conflicts in Practice.</title>
+<pages>10142-10151</pages>
+<year>2024</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.findings-emnlp.593</ee>
+<crossref>conf/emnlp/2024f</crossref>
+<url>db/conf/emnlp/emnlp2024f.html#PhamNLN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhaoJLPW24" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="36/8492">Jinming Wen</author>
+<title>Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning.</title>
+<pages>11507-11522</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.642</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#ZhaoJLPW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/PanWLL24" mdate="2024-11-14">
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="318/4655">Zongrui Li</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Are LLMs Good Zero-Shot Fallacy Classifiers?</title>
+<pages>14338-14364</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.794</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#PanWLL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WuPWL24" mdate="2024-11-14">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>AKEW: Assessing Knowledge Editing in the Wild.</title>
+<pages>15118-15133</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.843</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#WuPWL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ChiaCXLPB24" mdate="2024-11-18">
+<author pid="248/8132">Yew Ken Chia</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="57/4640">Weiwen Xu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Reasoning Paths Optimization: Learning to Reason and Explore From Diverse Paths.</title>
+<pages>16763-16780</pages>
+<year>2024</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.findings-emnlp.977</ee>
+<crossref>conf/emnlp/2024f</crossref>
+<url>db/conf/emnlp/emnlp2024f.html#ChiaCXLPB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/MaoLXZCL24" mdate="2024-11-14">
+<author pid="72/4332">Xin Mao</author>
+<author pid="31/7637">Feng-Lin Li</author>
+<author pid="06/4963">Huimin Xu</author>
+<author pid="10/4661-218">Wei Zhang 0218</author>
+<author pid="26/1439">Wang Chen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration.</title>
+<pages>17622-17642</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.976</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#MaoLXZCL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LongYLKKC24" mdate="2024-12-11">
+<author pid="317/0657">Do Xuan Long</author>
+<author pid="389/9114">Duong Ngoc Yen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="127/7411">Kenji Kawaguchi</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="84/8761">Nancy F. Chen</author>
+<title>Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models.</title>
+<pages>20370-20401</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.1135</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#LongYLKKC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/NguyenWDNNL24" mdate="2024-08-07">
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Topic Modeling as Multi-Objective Contrastive Optimization.</title>
+<year>2024</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HdAoLSBYXj</ee>
+<crossref>conf/iclr/2024</crossref>
+<url>db/conf/iclr/iclr2024.html#NguyenWDNNL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/00020TFSSGL0024" mdate="2025-03-03">
+<author orcid="0009-0005-8661-6133" pid="211/4804-2">An Guo 0002</author>
+<author orcid="0000-0002-1583-7570" pid="40/7018-5">Yuan Zhou 0005</author>
+<author orcid="0000-0001-9132-9319" pid="329/9135">Haoxiang Tian</author>
+<author orcid="0000-0002-9930-7111" pid="124/0310">Chunrong Fang</author>
+<author pid="387/3691">Yunjian Sun</author>
+<author orcid="0000-0001-9236-8264" pid="183/2642">Weisong Sun</author>
+<author orcid="0009-0004-7135-1833" pid="14/9076">Xinyu Gao</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9592-7022" pid="86/541-1">Zhenyu Chen 0001</author>
+<title>SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing.</title>
+<pages>268-280</pages>
+<year>2024</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3691620.3695037</ee>
+<ee>https://www.wikidata.org/entity/Q130878330</ee>
+<crossref>conf/kbse/2024</crossref>
+<url>db/conf/kbse/ase2024.html#00020TFSSGL0024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/LeL24" mdate="2024-08-29">
+<author pid="362/8561">Thang Le</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Extractive Summarization with Text Generator.</title>
+<pages>157-174</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.naacl-long.9</ee>
+<crossref>conf/naacl/2024</crossref>
+<url>db/conf/naacl/naacl2024.html#LeL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/NguyenNWL24" mdate="2025-01-23">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning.</title>
+<pages>733-749</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.naacl-long.42</ee>
+<crossref>conf/naacl/2024</crossref>
+<url>db/conf/naacl/naacl2024.html#NguyenNWL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/ZhaoGLFLJW24" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="178/9876">Lingjuan Lyu</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="36/8492">Jinming Wen</author>
+<title>Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning.</title>
+<pages>3421-3438</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-naacl.217</ee>
+<crossref>conf/naacl/2024f</crossref>
+<url>db/conf/naacl/naacl2024f.html#ZhaoGLFLJW24</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/HoangDD0L24" mdate="2024-08-29">
+<author pid="361/0450">Nhat M. Hoang</author>
+<author pid="317/0657">Xuan Long Do</author>
+<author pid="372/5583">Duc Anh Do</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>ToXCL: A Unified Framework for Toxic Speech Detection and Explanation.</title>
+<pages>6460-6472</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.naacl-long.359</ee>
+<crossref>conf/naacl/2024</crossref>
+<url>db/conf/naacl/naacl2024.html#HoangDD0L24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/Formento0FLN24" mdate="2024-08-29">
+<author pid="302/7401">Brian Formento</author>
+<author pid="126/2373-1">Wenjie Feng 0001</author>
+<author pid="73/1823">Chuan-Sheng Foo</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>SemRoDe: Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks.</title>
+<pages>8005-8028</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.naacl-long.443</ee>
+<crossref>conf/naacl/2024</crossref>
+<url>db/conf/naacl/naacl2024.html#Formento0FLN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/0001E0YGT0PWSL024" mdate="2025-02-13">
+<author pid="227/5902-1">Haoran Luo 0001</author>
+<author pid="43/10222">Haihong E</author>
+<author pid="13/10440-6">Yuhao Yang 0006</author>
+<author pid="324/5213">Tianyu Yao</author>
+<author pid="334/4154">Yikai Guo</author>
+<author pid="264/0465">Zichen Tang</author>
+<author pid="158/8157-4">Wentai Zhang 0004</author>
+<author pid="194/1665">Shiyao Peng</author>
+<author pid="324/4644">Kaiyang Wan</author>
+<author pid="95/4440">Meina Song</author>
+<author pid="99/2649">Wei Lin</author>
+<author pid="94/1593-1">Yifan Zhu 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/305b2288122d46bf0641bdd86c9a7921-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#0001E0YGT0PWSL024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DuLJLN24" mdate="2025-02-13">
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="119/1943">Bin Ji</author>
+<author pid="33/85">Qian Liu</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Mercury: A Code Efficiency Benchmark for Code Large Language Models.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/1df1df43b58845650b8dada00fca9772-Abstract-Datasets_and_Benchmarks_Track.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#DuLJLN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HuLF0NLHKH24" mdate="2025-02-13">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="349/4751">Chumin Liu</author>
+<author pid="254/6457">Xidong Feng</author>
+<author pid="271/8391-1">Yilun Zhao 0001</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="188/6127">Junxian He</author>
+<author pid="369/7685">Pang Wei W. Koh</author>
+<author pid="169/9975">Bryan Hooi</author>
+<title>Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in LLMs.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/2b0e14abd8128e6bf98b6b0bec1cfcbf-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#HuLF0NLHKH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Wu0ZWL24" mdate="2025-02-13">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="396/7556">Delvin Zhang</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/998f8d8ff2697da2eae5f87143668754-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#Wu0ZWL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/Pham0HDL24" mdate="2024-05-31">
+<author orcid="0009-0000-7840-293X" pid="305/8045">Van Long Phuoc Pham</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author orcid="0000-0002-2765-558X" pid="361/0450">Nhat Minh Hoang</author>
+<author orcid="0009-0000-6424-8388" pid="317/0657">Xuan Long Do</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<title>ChatGPT as a Math Questioner? Evaluating ChatGPT on Generating Pre-university Math Questions.</title>
+<pages>65-73</pages>
+<year>2024</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3605098.3636030</ee>
+<crossref>conf/sac/2024</crossref>
+<url>db/conf/sac/sac2024.html#Pham0HDL24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-04348" mdate="2024-01-24">
+<author pid="366/5180">Khoi M. Le</author>
+<author pid="302/9813">Trinh Pham</author>
+<author pid="171/2679">Tho Quan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training.</title>
+<year>2024</year>
+<volume>abs/2401.04348</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.04348</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-04348</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-05949" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="36/8492">Jinming Wen</author>
+<title>Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks.</title>
+<year>2024</year>
+<volume>abs/2401.05949</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.05949</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-05949</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-14113" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="335/1435">Yichao Feng</author>
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>On the Affinity, Rationality, and Diversity of Hierarchical Topic Modeling.</title>
+<year>2024</year>
+<volume>abs/2401.14113</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.14113</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-14113</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-15351" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>A Survey on Neural Topic Models: Methods, Applications, and Challenges.</title>
+<year>2024</year>
+<volume>abs/2401.15351</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.15351</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-15351</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-03271" mdate="2024-03-13">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="349/4751">Chumin Liu</author>
+<author pid="254/6457">Xidong Feng</author>
+<author pid="271/8391-1">Yilun Zhao 0001</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="188/6127">Junxian He</author>
+<author pid="10/10453">Pang Wei Koh</author>
+<author pid="169/9975">Bryan Hooi</author>
+<title>Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2402.03271</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.03271</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-03271</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-07577" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Topic Modeling as Multi-Objective Contrastive Optimization.</title>
+<year>2024</year>
+<volume>abs/2402.07577</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.07577</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-07577</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-07844" mdate="2024-02-19">
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="119/1943">Bin Ji</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Mercury: An Efficiency Benchmark for LLM Code Synthesis.</title>
+<year>2024</year>
+<volume>abs/2402.07844</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.07844</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-07844</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-12168" mdate="2024-12-23">
+<author orcid="0000-0001-5174-5182" pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="178/9876">Lingjuan Lyu</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="36/8492">Jinming Wen</author>
+<title>Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning.</title>
+<year>2024</year>
+<volume>abs/2402.12168</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.12168</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-12168</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-16030" mdate="2024-08-14">
+<author pid="72/4332">Xin Mao</author>
+<author pid="31/7637">Feng-Lin Li</author>
+<author pid="06/4963">Huimin Xu</author>
+<author pid="10/4661-218">Wei Zhang 0218</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration.</title>
+<year>2024</year>
+<volume>abs/2402.16030</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.16030</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-16030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-18909" mdate="2024-03-26">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing.</title>
+<year>2024</year>
+<volume>abs/2402.18909</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.18909</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-18909</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-02990" mdate="2024-04-03">
+<author pid="277/9378">Bosheng Ding</author>
+<author pid="195/2732">Chengwei Qin</author>
+<author pid="253/2147">Ruochen Zhao</author>
+<author pid="297/4000">Tianze Luo</author>
+<author pid="253/7355">Xinze Li</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="181/3470">Wenhan Xia</author>
+<author pid="123/0773-1">Junjie Hu 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="62/2078">Shafiq Joty</author>
+<title>Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges.</title>
+<year>2024</year>
+<volume>abs/2403.02990</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.02990</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-02990</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-10258" mdate="2025-02-24">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="148/1918-6">Yiran Zhao 0006</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2403.10258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.10258</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-10258</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16685" mdate="2024-05-22">
+<author pid="361/0450">Nhat Minh Hoang</author>
+<author pid="317/0657">Xuan Long Do</author>
+<author pid="372/5583">Duc Anh Do</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>ToXCL: A Unified Framework for Toxic Speech Detection and Explanation.</title>
+<year>2024</year>
+<volume>abs/2403.16685</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16685</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16685</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-17486" mdate="2025-01-23">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning.</title>
+<year>2024</year>
+<volume>abs/2403.17486</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.17486</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-17486</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-18423" mdate="2024-04-10">
+<author pid="302/7401">Brian Formento</author>
+<author pid="126/2373-1">Wenjie Feng 0001</author>
+<author pid="73/1823">Chuan Sheng Foo</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>SemRoDe: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks.</title>
+<year>2024</year>
+<volume>abs/2403.18423</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.18423</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-18423</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-17957" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion.</title>
+<year>2024</year>
+<volume>abs/2405.17957</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.17957</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-17957</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-17978" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="97/919-4">Delvin Ce Zhang</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>FASTopic: A Fast, Adaptive, Stable, and Transferable Topic Modeling Paradigm.</title>
+<year>2024</year>
+<volume>abs/2405.17978</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.17978</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-17978</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-19723" mdate="2024-06-21">
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Encoding and Controlling Global Semantics for Long-form Video Question Answering.</title>
+<year>2024</year>
+<volume>abs/2405.19723</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.19723</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-19723</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-05615" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="242/4518">Junbin Xiao</author>
+<author pid="276/3150">Leigang Qu</author>
+<author pid="302/5062-4">Yicong Li 0004</author>
+<author pid="322/0749">Jay Zhangjie Wu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives.</title>
+<year>2024</year>
+<volume>abs/2406.05615</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.05615</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-05615</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-06852" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="260/0858-1">Zhongliang Guo 0001</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="335/1435">Yichao Feng</author>
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures.</title>
+<year>2024</year>
+<volume>abs/2406.06852</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.06852</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-06852</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-09717" mdate="2024-07-10">
+<author pid="302/9813">Trinh Pham</author>
+<author pid="366/5180">Khoi M. Le</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages.</title>
+<year>2024</year>
+<volume>abs/2406.09717</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.09717</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-09717</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-03788" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="50/4602">Khoi Le</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning.</title>
+<year>2024</year>
+<volume>abs/2407.03788</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.03788</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-03788</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-10998" mdate="2024-08-26">
+<author pid="361/7246">Do Huu Dat</author>
+<author pid="357/6016">Do Duc Anh</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="72/3885">Wray L. Buntine</author>
+<title>Discrete Diffusion Language Model for Long Text Summarization.</title>
+<year>2024</year>
+<volume>abs/2407.10998</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.10998</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-10998</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-00509" mdate="2025-02-24">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="69/5817">Yuliang Liu</author>
+<author pid="160/8761">Jinman Zhao</author>
+<author pid="264/2706">Suyuchen Wang</author>
+<author pid="59/2227-15">Yan Wang 0015</author>
+<author pid="71/3692">Wei Shen</author>
+<author pid="59/3358">Qing Gu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="23/4069">Zhiwei Jiang</author>
+<author pid="169/9975">Bryan Hooi</author>
+<title>LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2409.00509</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.00509</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-00509</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-08081" mdate="2024-12-29">
+<author pid="211/4804-2">An Guo 0002</author>
+<author pid="40/7018-5">Yuan Zhou 0005</author>
+<author pid="329/9135">Haoxiang Tian</author>
+<author pid="124/0310">Chunrong Fang</author>
+<author pid="387/3691">Yunjian Sun</author>
+<author pid="183/2642">Weisong Sun</author>
+<author pid="14/9076">Xinyu Gao</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="86/541-1">Zhenyu Chen 0001</author>
+<title>SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing.</title>
+<year>2024</year>
+<volume>abs/2409.08081</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.08081</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-08081</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-12425" mdate="2025-02-24">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="315/8871">Qin Chao</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="70/1211-1">Boyang Li 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels.</title>
+<year>2024</year>
+<volume>abs/2409.12425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.12425</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-12425</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-16682" mdate="2024-10-17">
+<author pid="181/6460">Siyue Zhang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="81/3">Chen Zhao</author>
+<title>SynTQA: Synergistic Table-based Question Answering via Mixture of Text-to-SQL and E2E TQA.</title>
+<year>2024</year>
+<volume>abs/2409.16682</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.16682</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-16682</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-17946" mdate="2025-02-01">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="260/0858-1">Zhongliang Guo 0001</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="234/5434">Luwei Xiao</author>
+<author pid="48/6351">Xiaoyu Xu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Weak-to-Strong Backdoor Attack for Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2409.17946</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.17946</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-17946</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-04834" mdate="2024-11-14">
+<author pid="72/4332">Xin Mao</author>
+<author pid="31/7637">Feng-Lin Li</author>
+<author pid="06/4963">Huimin Xu</author>
+<author pid="10/4661-218">Wei Zhang 0218</author>
+<author pid="26/1439">Wang Chen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss.</title>
+<year>2024</year>
+<volume>abs/2410.04834</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.04834</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-04834</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-10858" mdate="2024-11-22">
+<author pid="248/8132">Yew Ken Chia</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="57/4640">Weiwen Xu</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Reasoning Paths Optimization: Learning to Reason and Explore From Diverse Paths.</title>
+<year>2024</year>
+<volume>abs/2410.10858</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.10858</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-10858</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-14425" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="150/3494">Meihuizi Jia</author>
+<author pid="335/1435">Yichao Feng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation.</title>
+<year>2024</year>
+<volume>abs/2410.14425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.14425</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-14425</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-15050" mdate="2024-11-26">
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="318/4655">Zongrui Li</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Are LLMs Good Zero-Shot Fallacy Classifiers?</title>
+<year>2024</year>
+<volume>abs/2410.15050</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.15050</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-15050</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-15595" mdate="2025-02-14">
+<author pid="173/0886">Wenyi Xiao</author>
+<author pid="349/2918">Zechuan Wang</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="290/7832">Wanggui He</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="64/5725-16">Long Chen 0016</author>
+<author pid="38/6049">Hao Jiang</author>
+<author pid="75/7785-1">Zhou Zhao 0001</author>
+<author pid="84/3254-1">Fei Wu 0001</author>
+<title>A Comprehensive Survey of Datasets, Theories, Variants, and Applications in Direct Preference Optimization.</title>
+<year>2024</year>
+<volume>abs/2410.15595</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.15595</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-15595</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-15737" mdate="2025-01-19">
+<author pid="217/2424">Quang Hieu Pham</author>
+<author pid="351/3212">Hoang Ngo</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="23/9125">Dat Quoc Nguyen</author>
+<title>Who's Who: Large Language Models Meet Knowledge Conflicts in Practice.</title>
+<year>2024</year>
+<volume>abs/2410.15737</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.15737</ee>
+<ee>https://www.wikidata.org/entity/Q131013232</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-15737</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-00492" mdate="2024-12-11">
+<author pid="317/0657">Do Xuan Long</author>
+<author pid="389/9114">Duong Ngoc Yen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="127/7411">Kenji Kawaguchi</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="84/8761">Nancy F. Chen</author>
+<title>Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2411.00492</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.00492</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-00492</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-18126" mdate="2025-01-23">
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="361/0450">Nhat Minh Hoang</author>
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Curriculum Demonstration Selection for In-Context Learning.</title>
+<year>2024</year>
+<volume>abs/2411.18126</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.18126</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-18126</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-07157" mdate="2025-01-15">
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Multi-Scale Contrastive Learning for Video Temporal Grounding.</title>
+<year>2024</year>
+<volume>abs/2412.07157</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.07157</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-07157</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-07160" mdate="2025-01-15">
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="172/9392">Yi Bin</author>
+<author pid="323/7497">Cong-Duy T. Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Motion-aware Contrastive Learning for Temporal Panoptic Scene Graph Generation.</title>
+<year>2024</year>
+<volume>abs/2412.07160</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.07160</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-07160</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-13670" mdate="2025-01-27">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="187/5984">Yuxi Xie</author>
+<author pid="322/4978">Ruiwen Zhou</author>
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="229/7323">Yubo Ma</author>
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="324/1909">Rui Mao 0010</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="08/9282">William Yang Wang</author>
+<title>AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge.</title>
+<year>2024</year>
+<volume>abs/2412.13670</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.13670</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-13670</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-15540" mdate="2025-01-23">
+<author pid="395/5690">Zhang Siyue</author>
+<author pid="395/5375">Xue Yuxiang</author>
+<author pid="395/5388">Zhang Yiming</author>
+<author pid="395/5130">Wu Xiaobao</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="93/3669">Zhao Chen</author>
+<title>MRAG: A Modular Retrieval Framework for Time-Sensitive Question Answering.</title>
+<year>2024</year>
+<volume>abs/2412.15540</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.15540</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-15540</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/air/LiuMLC23" mdate="2024-05-07">
+<author pid="01/4595">Ruicheng Liu</author>
+<author orcid="0000-0002-1082-8755" pid="324/1909">Rui Mao 0010</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<title>A brief survey on recent advances in coreference resolution.</title>
+<pages>14439-14481</pages>
+<year>2023</year>
+<month>December</month>
+<volume>56</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s10462-023-10506-3</ee>
+<url>db/journals/air/air56.html#LiuMLC23</url>
+</article>
+</r>
+<r><article key="journals/cogcom/ZhengT23" mdate="2023-11-28">
+<author orcid="0000-0002-2290-5789" pid="166/2586">Yandan Zheng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>A Novel, Cognitively Inspired, Unified Graph-based Multi-Task Framework for Information Extraction.</title>
+<pages>2004-2013</pages>
+<year>2023</year>
+<month>November</month>
+<volume>15</volume>
+<journal>Cogn. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s12559-023-10163-2</ee>
+<url>db/journals/cogcom/cogcom15.html#ZhengT23</url>
+</article>
+</r>
+<r><article key="journals/ijon/HaoLHS23" mdate="2024-10-06">
+<author orcid="0000-0001-7095-1424" pid="259/3401">Anran Hao</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-5397-4472" pid="65/3225">Siu Cheung Hui</author>
+<author orcid="0009-0001-9484-5885" pid="91/1388">Jian Su</author>
+<title>A contrastive learning framework for Event Detection via semantic type prototype representation modelling.</title>
+<pages>126613</pages>
+<year>2023</year>
+<month>November</month>
+<volume>556</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2023.126613</ee>
+<url>db/journals/ijon/ijon556.html#HaoLHS23</url>
+</article>
+</r>
+<r><article key="journals/jmlr/DwivediJL0BB23" mdate="2024-09-11">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="202/2132">Chaitanya K. Joshi</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="47/8889-1">Thomas Laurent 0001</author>
+<author pid="56/953">Yoshua Bengio</author>
+<author pid="95/378">Xavier Bresson</author>
+<title>Benchmarking Graph Neural Networks.</title>
+<pages>43:1-43:48</pages>
+<year>2023</year>
+<volume>24</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">https://jmlr.org/papers/v24/22-0567.html</ee>
+<url>db/journals/jmlr/jmlr24.html#DwivediJL0BB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WuDNLPL23" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>InfoCTM: A Mutual Information Maximization Perspective of Cross-Lingual Topic Modeling.</title>
+<pages>13763-13771</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i11.26612</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#WuDNLPL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/NguyenWDNHBL23" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="21/9125">Zhen Hai</author>
+<author pid="53/6625">Lidong Bing</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.</title>
+<pages>1670-1696</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.106</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.106</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#NguyenWDNHBL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/LiuZCWLCB23" mdate="2025-02-24">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="95/137">Chip-Hong Chang</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Zero-Shot Text Classification via Self-Supervised Tuning.</title>
+<pages>1743-1761</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.110</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.110</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#LiuZCWLCB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/PanWLLWKN23" mdate="2025-01-19">
+<author pid="186/9707">Liangming Pan</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="88/422">Xinyuan Lu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Fact-Checking Complex Claims with Program-Guided Reasoning.</title>
+<pages>6981-7004</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.386</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.386</ee>
+<ee>https://www.wikidata.org/entity/Q131458440</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#PanWLLWKN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ZhengHL23" mdate="2025-04-01">
+<author pid="166/2586">Yandan Zheng</author>
+<author orcid="0000-0001-7095-1424" pid="259/3401">Anran Hao</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation.</title>
+<pages>14541-14555</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.813</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.813</ee>
+<ee>https://www.wikidata.org/entity/Q131458945</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#ZhengHL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HuFLHL23" mdate="2025-01-22">
+<author orcid="0000-0003-4095-0249" pid="39/3864">Zhiyuan Hu</author>
+<author orcid="0009-0000-6665-6406" pid="13/6965-2">Yue Feng 0002</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-5645-1754" pid="169/9975">Bryan Hooi</author>
+<author orcid="0000-0002-3643-6493" pid="150/5264">Aldo Lipani</author>
+<title>Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulators to Enhance Dialogue System.</title>
+<pages>3953-3957</pages>
+<year>2023</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3583780.3615220</ee>
+<ee>https://www.wikidata.org/entity/Q130801582</ee>
+<crossref>conf/cikm/2023</crossref>
+<url>db/conf/cikm/cikm2023.html#HuFLHL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/FormentoFLN23" mdate="2023-10-05">
+<author pid="302/7401">Brian Formento</author>
+<author pid="73/1823">Chuan-Sheng Foo</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study.</title>
+<pages>1-34</pages>
+<year>2023</year>
+<booktitle>EACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-eacl.1</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-eacl.1</ee>
+<crossref>conf/eacl/2023f</crossref>
+<url>db/conf/eacl/eacl2023f.html#FormentoFLN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenWDNNL23" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding.</title>
+<pages>3635-3649</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.235</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.235</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#NguyenWDNNL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenN0LN23" mdate="2024-05-06">
+<author pid="48/6075">Huy Nguyen</author>
+<author pid="351/5540">Chien Nguyen</author>
+<author pid="125/3578">Linh Ngo Van 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="76/4829">Thien Nguyen</author>
+<title>A Spectral Viewpoint on Continual Relation Extraction.</title>
+<pages>9621-9629</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.645</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.645</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#NguyenN0LN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/GanLKZWLYW23" mdate="2024-08-14">
+<author pid="213/9040">Leilei Gan</author>
+<author pid="133/3419">Baokui Li</author>
+<author pid="194/4245">Kun Kuang</author>
+<author pid="29/5889">Yating Zhang</author>
+<author pid="w/LeiWang4">Lei Wang 0004</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="33/4854-1">Yi Yang 0001</author>
+<author pid="84/3254-1">Fei Wu 0001</author>
+<title>Exploiting Contrastive Learning and Numerical Evidence for Confusing Legal Judgment Prediction.</title>
+<pages>12174-12185</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.814</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.814</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#GanLKZWLYW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhaoWLZF23" mdate="2024-12-23">
+<author orcid="0000-0001-5174-5182" pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="36/8492">Jinming Wen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="128/8266">Junbo Zhao</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<title>Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models.</title>
+<pages>12303-12317</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.757</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.757</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#ZhaoWLZF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiZLM23" mdate="2024-04-12">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Rethinking Negative Pairs in Code Search.</title>
+<pages>12760-12774</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.786</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.786</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#LiZLM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LeL23" mdate="2024-05-06">
+<author pid="362/8561">Thang Le</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>A Parallel Corpus for Vietnamese Central-Northern Dialect Text Transfer.</title>
+<pages>13839-13855</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.925</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.925</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#LeL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenNVL23" mdate="2025-01-23">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Improving Multimodal Sentiment Analysis: Supervised Angular margin-based Contrastive Learning for Enhanced Fusion Representation.</title>
+<pages>14714-14724</pages>
+<year>2023</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-emnlp.980</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-emnlp.980</ee>
+<crossref>conf/emnlp/2023f</crossref>
+<url>db/conf/emnlp/emnlp2023f.html#NguyenNVL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WeiHTYZ23" mdate="2025-01-15">
+<author pid="35/3800">Jie Wei</author>
+<author orcid="0009-0006-1911-6283" pid="172/3540">Guanyu Hu</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="89/473-1">Xinyu Yang 0001</author>
+<author pid="135/5081">Wenjing Zhu</author>
+<title>Multi-Scale Receptive Field Graph Model for Emotion Recognition in Conversations.</title>
+<pages>1-5</pages>
+<year>2023</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP49357.2023.10094596</ee>
+<crossref>conf/icassp/2023</crossref>
+<url>db/conf/icassp/icassp2023.html#WeiHTYZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WuDNL23" mdate="2023-08-28">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Effective Neural Topic Modeling with Embedding Clustering Regularization.</title>
+<pages>37335-37357</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/wu23c.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#WuDNL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/NguyenVNQL23" mdate="2025-01-23">
+<author orcid="0000-0002-0931-460X" pid="323/7497">Cong-Duy Nguyen</author>
+<author orcid="0000-0002-4480-5535" pid="241/1832">The-Anh Vu-Le</author>
+<author orcid="0000-0001-7447-7416" pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="171/2679">Tho Quan</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<title>Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment.</title>
+<pages>5665-5673</pages>
+<year>2023</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3581783.3612248</ee>
+<crossref>conf/mm/2023</crossref>
+<url>db/conf/mm/mm2023.html#NguyenVNQL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/LuuTN23" mdate="2024-05-06">
+<author orcid="0009-0000-6542-3176" pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-3014-3737" pid="141/2100">Tuan-Dat Trinh</author>
+<author orcid="0000-0001-5672-5164" pid="249/3096">Van-Thanh Nguyen</author>
+<title>A General Framework for Blockchain Data Analysis.</title>
+<pages>121-135</pages>
+<year>2023</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-33080-3_8</ee>
+<crossref>conf/rcis/2023</crossref>
+<url>db/conf/rcis/rcis2023.html#LuuTN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rulemlrr/SuchanekL23" mdate="2023-10-27">
+<author orcid="0000-0001-7189-2796" pid="13/1396">Fabian M. Suchanek</author>
+<author orcid="0000-0001-6062-207X" pid="81/8329">Anh Tuan Luu</author>
+<title>Knowledge Bases and Language Models: Complementing Forces.</title>
+<pages>3-15</pages>
+<year>2023</year>
+<booktitle>RuleML+RR</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45072-3_1</ee>
+<crossref>conf/rulemlrr/2023</crossref>
+<url>db/conf/rulemlrr/rulemlrr2023.html#SuchanekL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-13473" mdate="2025-03-07">
+<author pid="202/8872-1">Anran Li 0001</author>
+<author pid="42/469-34">Rui Liu 0034</author>
+<author pid="82/378-3">Ming Hu 0003</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<title>Towards Interpretable Federated Learning.</title>
+<year>2023</year>
+<volume>abs/2302.13473</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.13473</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-13473</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-03544" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>InfoCTM: A Mutual Information Maximization Perspective of Cross-Lingual Topic Modeling.</title>
+<year>2023</year>
+<volume>abs/2304.03544</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.03544</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-03544</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-01219" mdate="2024-12-23">
+<author pid="116/8682-7">Shuai Zhao 0007</author>
+<author pid="36/8492">Jinming Wen</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="128/8266">Junbo Zhao</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<title>Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models.</title>
+<year>2023</year>
+<volume>abs/2305.01219</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.01219</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-01219</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-11442" mdate="2025-02-24">
+<author pid="30/2810">Chaoqun Liu</author>
+<author pid="85/1177-1">Wenxuan Zhang 0001</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="95/137">Chip-Hong Chang</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Zero-Shot Text Classification via Self-Supervised Tuning.</title>
+<year>2023</year>
+<volume>abs/2305.11442</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.11442</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-11442</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-12678" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="21/9125">Zhen Hai</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.</title>
+<year>2023</year>
+<volume>abs/2305.12678</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.12678</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-12678</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-12744" mdate="2023-05-26">
+<author pid="186/9707">Liangming Pan</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="88/422">Xinyuan Lu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="08/9282">William Yang Wang</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Fact-Checking Complex Claims with Program-Guided Reasoning.</title>
+<year>2023</year>
+<volume>abs/2305.12744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.12744</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-12744</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15872" mdate="2023-06-07">
+<author pid="166/2586">Yandan Zheng</author>
+<author pid="259/3401">Anran Hao</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation.</title>
+<year>2023</year>
+<volume>abs/2305.15872</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15872</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15872</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-04217" mdate="2025-01-23">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Effective Neural Topic Modeling with Embedding Clustering Regularization.</title>
+<year>2023</year>
+<volume>abs/2306.04217</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.04217</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-04217</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-09821" mdate="2025-01-22">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="13/6965-2">Yue Feng 0002</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="169/9975">Bryan Hooi</author>
+<author pid="150/5264">Aldo Lipani</author>
+<title>Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System.</title>
+<year>2023</year>
+<volume>abs/2306.09821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.09821</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-09821</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-01219" mdate="2024-08-06">
+<author pid="47/722-4">Yue Zhang 0004</author>
+<author pid="293/9896">Yafu Li</author>
+<author pid="247/6181">Leyang Cui</author>
+<author pid="c/DCai-2">Deng Cai 0002</author>
+<author pid="41/10887">Lemao Liu</author>
+<author pid="318/0986">Tingchen Fu</author>
+<author pid="240/7147">Xinting Huang</author>
+<author pid="265/0123">Enbo Zhao</author>
+<author pid="50/671-92">Yu Zhang 0092</author>
+<author pid="157/4604-1">Yulong Chen 0001</author>
+<author pid="127/3421">Longyue Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="38/1163">Wei Bi</author>
+<author pid="194/2512">Freda Shi</author>
+<author pid="s/ShumingShi-1">Shuming Shi 0001</author>
+<title>Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2309.01219</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.01219</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-01219</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-06908" mdate="2023-09-19">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="324/7389">Fengjun Pan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Towards the TopMost: A Topic Modeling System Toolkit.</title>
+<year>2023</year>
+<volume>abs/2309.06908</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.06908</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-06908</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-08949" mdate="2025-01-24">
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="13/6965-2">Yue Feng 0002</author>
+<author orcid="0000-0002-8122-5943" pid="115/6282-2">Yang Deng 0002</author>
+<author pid="150/2008-8">Zekun Li 0008</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="169/9975">Bryan Hooi</author>
+<title>Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.</title>
+<year>2023</year>
+<volume>abs/2309.08949</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.08949</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-08949</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-08069" mdate="2024-03-25">
+<author pid="49/11531-9">Haochen Li 0009</author>
+<author pid="05/3403-8">Xin Zhou 0008</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Rethinking Negative Pairs in Code Search.</title>
+<year>2023</year>
+<volume>abs/2310.08069</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.08069</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-08069</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-14248" mdate="2023-10-30">
+<author pid="216/5435">Mingzhe Du</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="119/1943">Bin Ji</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>From Static to Dynamic: A Continual Learning Framework for Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2310.14248</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.14248</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-14248</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-09022" mdate="2023-11-21">
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="221/0115">Liying Cheng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Exploring the Potential of Large Language Models in Computational Argumentation.</title>
+<year>2023</year>
+<volume>abs/2311.09022</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.09022</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-09022</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-09277" mdate="2023-11-21">
+<author pid="248/8132">Yew Ken Chia</author>
+<author pid="221/3221">Guizhen Chen</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Contrastive Chain-of-Thought Prompting.</title>
+<year>2023</year>
+<volume>abs/2311.09277</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.09277</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-09277</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-01592" mdate="2025-01-23">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="241/1832">The-Anh Vu-Le</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="171/2679">Tho Quan</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment.</title>
+<year>2023</year>
+<volume>abs/2312.01592</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.01592</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-01592</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-01661" mdate="2024-05-22">
+<author pid="305/8045">Van Long Phuoc Pham</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="361/0450">Nhat Minh Hoang</author>
+<author pid="317/0657">Xuan Long Do</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>ChatGPT as a Math Questioner? Evaluating ChatGPT on Generating Pre-university Math Questions.</title>
+<year>2023</year>
+<volume>abs/2312.01661</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.01661</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-01661</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-02227" mdate="2025-01-23">
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="362/8623">Duc Anh Vu 0002</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation.</title>
+<year>2023</year>
+<volume>abs/2312.02227</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.02227</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-02227</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-02549" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding.</title>
+<year>2023</year>
+<volume>abs/2312.02549</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.02549</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-02549</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-06950" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="50/4602">Khoi Le</author>
+<author pid="39/3864">Zhiyuan Hu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling.</title>
+<year>2023</year>
+<volume>abs/2312.06950</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.06950</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-06950</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-11109" mdate="2024-01-16">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="242/8056">Yozen Liu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="95/378">Xavier Bresson</author>
+<author pid="71/7771">Neil Shah</author>
+<author pid="94/6503-3">Tong Zhao 0003</author>
+<title>Graph Transformers for Large Graphs.</title>
+<year>2023</year>
+<volume>abs/2312.11109</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.11109</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-11109</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/NguyenL22" mdate="2023-09-04">
+<author pid="324/1666">Thong Thanh Nguyen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Improving Neural Cross-Lingual Abstractive Summarization via Employing Optimal Transport Distance for Knowledge Distillation.</title>
+<pages>11103-11111</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i10.21359</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#NguyenL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/OngSCLNLSLW22" mdate="2024-10-06">
+<author pid="268/1222">Donovan Ong</author>
+<author pid="91/1388">Jian Su</author>
+<author orcid="0009-0002-1411-7915" pid="22/5523">Bin Chen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="324/1101">Ashok Narendranath</author>
+<author pid="61/500">Yue Li</author>
+<author pid="21/9088">Shuqi Sun</author>
+<author pid="292/3037">Yingzhan Lin</author>
+<author pid="10/5209-1">Haifeng Wang 0001</author>
+<title>Is Discourse Role Important for Emotion Recognition in Conversation?</title>
+<pages>11121-11129</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i10.21361</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#OngSCLNLSLW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WuLD22" mdate="2023-08-10">
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<title>Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning.</title>
+<pages>2748-2760</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.176</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.176</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#WuLD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/MinhL22" mdate="2023-08-10">
+<author pid="339/2546">Dang Nguyen Minh</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Textual Manifold-based Defense Against Natural Language Adversarial Examples.</title>
+<pages>6612-6625</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.443</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.443</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#MinhL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenWLHB22" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="21/9125">Zhen Hai</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Prediction.</title>
+<pages>10085-10096</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.686</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.686</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#NguyenWLHB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/DwivediL0BB22" mdate="2022-08-20">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="47/8889-1">Thomas Laurent 0001</author>
+<author pid="56/953">Yoshua Bengio</author>
+<author pid="95/378">Xavier Bresson</author>
+<title>Graph Neural Networks with Learnable Structural and Positional Representations.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=wTTjnvGphYj</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#DwivediL0BB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZhaoMDLDZ22" mdate="2024-11-14">
+<author pid="304/8330">Haiteng Zhao</author>
+<author pid="48/10619">Chang Ma</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="161/4814-1">Zhi-Hong Deng 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>Certified Robustness Against Natural Language Attacks by Causal Intervention.</title>
+<pages>26958-26970</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/zhao22g.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#ZhaoMDLDZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/WeiHYLD22" mdate="2025-01-15">
+<author orcid="0000-0003-2068-2363" pid="35/3800">Jie Wei</author>
+<author orcid="0009-0006-1911-6283" pid="172/3540">Guanyu Hu</author>
+<author pid="89/473-1">Xinyu Yang 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="222/5023">Yizhuo Dong</author>
+<title>Audio-Visual Domain Adaptation Feature Fusion for Speech Emotion Recognition.</title>
+<pages>1988-1992</pages>
+<year>2022</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2022-703</ee>
+<crossref>conf/interspeech/2022</crossref>
+<url>db/conf/interspeech/interspeech2022.html#WeiHYLD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DwivediRGPWLB22" mdate="2024-01-08">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="146/9832">Ladislav Ramp&#225;sek</author>
+<author pid="160/8154">Michael Galkin</author>
+<author pid="322/6087">Ali Parviz</author>
+<author pid="120/1308">Guy Wolf</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="201/8526">Dominique Beaini</author>
+<title>Long Range Graph Benchmark.</title>
+<year>2022</year>
+<crossref>conf/nips/2022</crossref>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/8c3c666820ea055a77726d66fc7d447f-Abstract-Datasets_and_Benchmarks.html</ee>
+<url>db/conf/nips/neurips2022.html#DwivediRGPWLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RampasekGDLWB22" mdate="2024-01-08">
+<author pid="146/9832">Ladislav Ramp&#225;sek</author>
+<author pid="160/8154">Michael Galkin</author>
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="120/1308">Guy Wolf</author>
+<author pid="201/8526">Dominique Beaini</author>
+<title>Recipe for a General, Powerful, Scalable Graph Transformer.</title>
+<year>2022</year>
+<crossref>conf/nips/2022</crossref>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/5d4834a159f1547b267a05a4e2b7cf5e-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#RampasekGDLWB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-12331" mdate="2024-11-14">
+<author pid="304/8330">Haiteng Zhao</author>
+<author pid="48/10619">Chang Ma</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="161/4814-1">Zhi-Hong Deng 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>Certified Robustness Against Natural Language Attacks by Causal Intervention.</title>
+<year>2022</year>
+<volume>abs/2205.12331</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.12331</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-12331</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-12454" mdate="2022-05-30">
+<author pid="146/9832">Ladislav Ramp&#225;sek</author>
+<author pid="160/8154">Mikhail Galkin 0001</author>
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="120/1308">Guy Wolf</author>
+<author pid="201/8526">Dominique Beaini</author>
+<title>Recipe for a General, Powerful, Scalable Graph Transformer.</title>
+<year>2022</year>
+<volume>abs/2205.12454</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.12454</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-12454</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-08164" mdate="2022-06-21">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="146/9832">Ladislav Ramp&#225;sek</author>
+<author pid="160/8154">Mikhail Galkin 0001</author>
+<author pid="322/6087">Ali Parviz</author>
+<author pid="120/1308">Guy Wolf</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="201/8526">Dominique Beaini</author>
+<title>Long Range Graph Benchmark.</title>
+<year>2022</year>
+<volume>abs/2206.08164</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.08164</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-08164</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02878" mdate="2022-11-09">
+<author pid="305/2522">Dang Minh Nguyen</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Textual Manifold-based Defense Against Natural Language Adversarial Examples.</title>
+<year>2022</year>
+<volume>abs/2211.02878</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02878</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02878</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-03524" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="323/7497">Cong-Duy Nguyen</author>
+<author pid="21/9125">Zhen Hai</author>
+<author pid="53/6625">Lidong Bing</author>
+<title>Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions.</title>
+<year>2022</year>
+<volume>abs/2211.03524</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.03524</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-03524</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-10065" mdate="2022-11-24">
+<author pid="334/1938">Leon O. Guertler</author>
+<author pid="218/6513">Andri Ashfahani</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>How to train your draGAN: A task oriented solution to imbalanced classification.</title>
+<year>2022</year>
+<volume>abs/2211.10065</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.10065</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-10065</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-12878" mdate="2023-09-30">
+<author orcid="0000-0003-0076-3924" pid="249/8429">Xiaobao Wu</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="279/6151">Xinshuai Dong</author>
+<title>Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning.</title>
+<year>2022</year>
+<volume>abs/2211.12878</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.12878</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-12878</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenLLQ21" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="302/4474">Truc Lu</author>
+<author pid="171/2679">Tho Quan</author>
+<title>Enriching and Controlling Global Semantics for Text Summarization.</title>
+<pages>9443-9456</pages>
+<year>2021</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2021.emnlp-main.744</ee>
+<ee type="oa">https://aclanthology.org/2021.emnlp-main.744</ee>
+<crossref>conf/emnlp/2021-1</crossref>
+<url>db/conf/emnlp/emnlp2021-1.html#NguyenLLQ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/DongLJ021" mdate="2021-06-23">
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="29/5010-9">Hong Liu 0009</author>
+<title>Towards Robustness Against Natural Language Word Substitutions.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=ks5nebunVn_</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#DongLJ021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ZhangT0CLHF21" mdate="2024-09-24">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="188/6350">Yi Tay</author>
+<author pid="71/208-7">Shuai Zhang 0007</author>
+<author pid="163/6518">Alvin Chan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rcQdycl0zyk</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#ZhangT0CLHF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DongLLYZ21" mdate="2022-05-03">
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="73/1685">Min Lin</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?</title>
+<pages>4356-4369</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/22b1f2e0983160db6f7bb9f62f4dbb39-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#DongLLYZ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/NguyenL21" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Contrastive Learning for Neural Topic Model.</title>
+<pages>11974-11986</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/6467c327eaf8940b4dd07a08c63c5e85-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#NguyenL21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-08597" mdate="2024-09-24">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="188/6350">Yi Tay</author>
+<author pid="71/208-7">Shuai Zhang 0007</author>
+<author pid="163/6518">Alvin Chan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.</title>
+<year>2021</year>
+<volume>abs/2102.08597</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08597</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08597</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-13541" mdate="2021-08-12">
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="29/5010-9">Hong Liu 0009</author>
+<title>Towards Robustness Against Natural Language Word Substitutions.</title>
+<year>2021</year>
+<volume>abs/2107.13541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.13541</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-13541</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-10616" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="302/4474">Truc Lu</author>
+<author pid="171/2679">Tho Quan</author>
+<title>Enriching and Controlling Global Semantics for Text Summarization.</title>
+<year>2021</year>
+<volume>abs/2109.10616</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.10616</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-10616</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-07875" mdate="2021-10-22">
+<author pid="243/1717">Vijay Prakash Dwivedi</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="47/8889-1">Thomas Laurent 0001</author>
+<author pid="56/953">Yoshua Bengio</author>
+<author pid="95/378">Xavier Bresson</author>
+<title>Graph Neural Networks with Learnable Structural and Positional Representations.</title>
+<year>2021</year>
+<volume>abs/2110.07875</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.07875</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-07875</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-12764" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Contrastive Learning for Neural Topic Model.</title>
+<year>2021</year>
+<volume>abs/2110.12764</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.12764</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-12764</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-03473" mdate="2025-01-23">
+<author pid="29/5255-3">Thong Nguyen 0003</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<title>Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation.</title>
+<year>2021</year>
+<volume>abs/2112.03473</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.03473</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-03473</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-11668" mdate="2022-01-04">
+<author pid="279/6151">Xinshuai Dong</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="73/1685">Min Lin</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?</title>
+<year>2021</year>
+<volume>abs/2112.11668</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.11668</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-11668</url>
+</article>
+</r>
+<r><article key="journals/tip/0001LFZT020" mdate="2020-05-30">
+<author orcid="0000-0001-8112-5830" pid="138/4209-1">Anran Wang 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-4748-5792" pid="73/1823">Chuan-Sheng Foo</author>
+<author pid="133/4527">Hongyuan Zhu</author>
+<author orcid="0000-0001-6896-4496" pid="188/6350">Yi Tay</author>
+<author pid="49/5139">Vijay Chandrasekhar 0001</author>
+<title>Holistic Multi-Modal Memory Network for Movie Question Answering.</title>
+<pages>489-499</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2019.2931534</ee>
+<ee>https://www.wikidata.org/entity/Q92507033</ee>
+<url>db/journals/tip/tip29.html#0001LFZT020</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/TuanSB20" mdate="2023-09-04">
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="227/2738">Darsh J. Shah</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>Capturing Greater Context for Question Generation.</title>
+<pages>9065-9072</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i05.6440</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#TuanSB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TayOFCCLP20" mdate="2024-12-11">
+<author pid="188/6350">Yi Tay</author>
+<author pid="268/1222">Donovan Ong</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="163/6518">Alvin Chan</author>
+<author pid="84/8761">Nancy F. Chen</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="45/1217">Chris Pal</author>
+<title>Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences.</title>
+<pages>5369-5373</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.477</ee>
+<ee type="oa">https://aclanthology.org/2020.acl-main.477/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#TayOFCCLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Tay0LHYV19" mdate="2022-06-20">
+<author pid="188/6350">Yi Tay</author>
+<author pid="71/208-7">Shuai Zhang 0007</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="56/6651-1">Lina Yao 0001</author>
+<author pid="218/6100">Tran Dang Quang Vinh</author>
+<title>Holographic Factorization Machines for Recommendation.</title>
+<pages>5143-5150</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33015143</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Tay0LHYV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TayZLRZWFH19" mdate="2024-09-24">
+<author pid="188/6350">Yi Tay</author>
+<author pid="142/9150">Aston Zhang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="134/5708">Jinfeng Rao</author>
+<author orcid="0000-0002-7866-4611" pid="71/208-7">Shuai Zhang 0007</author>
+<author pid="173/5469">Shuohang Wang</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks.</title>
+<pages>1494-1503</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1145</ee>
+<ee type="oa">https://aclanthology.org/P19-1145/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#TayZLRZWFH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TayWLFPYRHZ19" mdate="2024-09-24">
+<author pid="188/6350">Yi Tay</author>
+<author pid="173/5469">Shuohang Wang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="40/10147">Xingdi Yuan</author>
+<author pid="134/5708">Jinfeng Rao</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="142/9150">Aston Zhang</author>
+<title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives.</title>
+<pages>4922-4931</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1486</ee>
+<ee type="oa">https://aclanthology.org/P19-1486/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#TayWLFPYRHZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TayLZWH19" mdate="2021-01-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="142/9150">Aston Zhang</author>
+<author pid="173/5469">Shuohang Wang</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Compositional De-Attention Networks.</title>
+<pages>6132-6142</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/16fc18d787294ad5171100e33d05d4e2-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8845-compositional-de-attention-networks</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#TayLZWH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-10847" mdate="2024-09-24">
+<author pid="188/6350">Yi Tay</author>
+<author pid="173/5469">Shuohang Wang</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="40/10147">Xingdi Yuan</author>
+<author pid="134/5708">Jinfeng Rao</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="142/9150">Aston Zhang</author>
+<title>Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives.</title>
+<year>2019</year>
+<volume>abs/1905.10847</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.10847</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-10847</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-04393" mdate="2024-09-24">
+<author pid="188/6350">Yi Tay</author>
+<author pid="142/9150">Aston Zhang</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="134/5708">Jinfeng Rao</author>
+<author pid="71/208-7">Shuai Zhang 0007</author>
+<author pid="173/5469">Shuohang Wang</author>
+<author pid="16/7565-1">Jie Fu 0001</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks.</title>
+<year>2019</year>
+<volume>abs/1906.04393</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.04393</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-04393</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10274" mdate="2019-10-25">
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="227/2738">Darsh J. Shah</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>Capturing Greater Context for Question Generation.</title>
+<year>2019</year>
+<volume>abs/1910.10274</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10274</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10274</url>
+</article>
+</r>
+<r><article key="journals/es/FangTHW18" mdate="2020-05-26">
+<author orcid="0000-0002-1374-395X" pid="201/1441">Lanting Fang</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="21/6660">Lenan Wu</author>
+<title>Personalized question recommendation for English grammar learning.</title>
+<year>2018</year>
+<volume>35</volume>
+<journal>Expert Syst. J. Knowl. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/exsy.12244</ee>
+<url>db/journals/es/es35.html#FangTHW18</url>
+</article>
+</r>
+<r><article key="journals/ipm/FangTHW18" mdate="2024-05-07">
+<author orcid="0000-0002-1374-395X" pid="201/1441">Lanting Fang</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="21/6660">Lenan Wu</author>
+<title>Syntactic based approach for grammar question retrieval.</title>
+<pages>184-202</pages>
+<year>2018</year>
+<volume>54</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.ipm.2017.11.004</ee>
+<url>db/journals/ipm/ipm54.html#FangTHW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/TayTH18" mdate="2023-09-04">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Cross Temporal Recurrent Networks for Ranking Question Answer Pairs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.11973</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TayTH18</url>
+<pages>5512-5519</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/TayPTH18" mdate="2023-09-04">
+<author pid="188/6350">Yi Tay</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.12045</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TayPTH18</url>
+<pages>5948-5955</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/TayTH18a" mdate="2023-09-04">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Learning to Attend via Word-Aspect Associative Fusion for Aspect-Based Sentiment Analysis.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.12049</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TayTH18a</url>
+<pages>5956-5963</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/SuTHL18" mdate="2024-10-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author orcid="0009-0001-9484-5885" pid="91/1388">Jian Su</author>
+<title>Reasoning with Sarcasm by Reading In-Between.</title>
+<pages>1010-1020</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://aclanthology.org/P18-1093/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1093</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#SuTHL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TayLH18" mdate="2021-08-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference.</title>
+<pages>1565-1575</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1185</ee>
+<ee type="oa">https://aclanthology.org/D18-1185/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#TayLH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TayLH18a" mdate="2021-08-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension.</title>
+<pages>2141-2151</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1238</ee>
+<ee type="oa">https://aclanthology.org/D18-1238/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#TayLH18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TayLHS18" mdate="2021-08-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="91/1388">Jian Su</author>
+<title>Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification.</title>
+<pages>3443-3453</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1381</ee>
+<ee type="oa">https://aclanthology.org/D18-1381/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#TayLHS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TayLH18b" mdate="2021-08-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences.</title>
+<pages>4492-4502</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/D18-1479/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#TayLH18b</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/TayTH18" mdate="2021-02-05">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation.</title>
+<pages>415-424</pages>
+<year>2018</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17828</ee>
+<crossref>conf/icwsm/2018</crossref>
+<url>db/conf/icwsm/icwsm2018.html#TayTH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/TayLH18" mdate="2019-08-20">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains.</title>
+<pages>4425-4431</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/615</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#TayLH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/TayTH18" mdate="2018-11-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Cast Attention Networks.</title>
+<pages>2299-2308</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3220048</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#TayTH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/TayLH18" mdate="2018-11-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Pointer Co-Attention Networks for Recommendation.</title>
+<pages>2309-2318</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3220086</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#TayLH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TayLH18" mdate="2021-01-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Recurrently Controlled Recurrent Networks.</title>
+<pages>4736-4748</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/16026d60ff9b54410b3435b403afd226-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7723-recurrently-controlled-recurrent-networks</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#TayLH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TayLHS18" mdate="2021-01-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="91/1388">Jian Su</author>
+<title>Densely Connected Attention Propagation for Reading Comprehension.</title>
+<pages>4911-4922</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/7b66b4fd401a271a1c7224027ce111bc-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7739-densely-connected-attention-propagation-for-reading-comprehension</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#TayLHS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/TayTH18" mdate="2023-08-28">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering.</title>
+<pages>583-591</pages>
+<year>2018</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3159652.3159664</ee>
+<ee>https://www.wikidata.org/entity/Q39504766</ee>
+<crossref>conf/wsdm/2018</crossref>
+<url>db/conf/wsdm/wsdm2018.html#TayTH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/TayTH18" mdate="2018-11-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking.</title>
+<pages>729-739</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186154</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#TayTH18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-00102" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>A Compare-Propagate Architecture with Alignment Factorization for Natural Language Inference.</title>
+<year>2018</year>
+<volume>abs/1801.00102</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.00102</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-00102</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-09251" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Pointer Co-Attention Networks for Recommendation.</title>
+<year>2018</year>
+<volume>abs/1801.09251</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.09251</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-09251</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-09074" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-range Reasoning for Machine Comprehension.</title>
+<year>2018</year>
+<volume>abs/1803.09074</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.09074</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-09074</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-02856" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="91/1388">Jian Su</author>
+<title>Reasoning with Sarcasm by Reading In-between.</title>
+<year>2018</year>
+<volume>abs/1805.02856</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.02856</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-02856</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-11535" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation.</title>
+<year>2018</year>
+<volume>abs/1805.11535</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.11535</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-11535</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-00778" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Cast Attention Networks for Retrieval-based Question Answering and Response Prediction.</title>
+<year>2018</year>
+<volume>abs/1806.00778</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.00778</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-00778</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-02938" mdate="2018-10-30">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences.</title>
+<year>2018</year>
+<volume>abs/1810.02938</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.02938</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-02938</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-04210" mdate="2018-11-23">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="91/1388">Jian Su</author>
+<title>Densely Connected Attention Propagation for Reading Comprehension.</title>
+<year>2018</year>
+<volume>abs/1811.04210</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.04210</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-04210</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-04595" mdate="2019-07-23">
+<author pid="138/4209-1">Anran Wang 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="73/1823">Chuan-Sheng Foo</author>
+<author pid="133/4527">Hongyuan Zhu</author>
+<author pid="188/6350">Yi Tay</author>
+<author pid="49/5139">Vijay Chandrasekhar 0001</author>
+<title>Holistic Multi-modal Memory Network for Movie Question Answering.</title>
+<year>2018</year>
+<volume>abs/1811.04595</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.04595</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-04595</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-09786" mdate="2018-11-30">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Recurrently Controlled Recurrent Networks.</title>
+<year>2018</year>
+<volume>abs/1811.09786</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.09786</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-09786</url>
+</article>
+</r>
+<r><phdthesis key="phd/sg/Luu17" mdate="2023-07-27">
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Automatic taxonomy construction from textual documents</title>
+<school>Nanyang Technological University, Singapore</school>
+<year>2017</year>
+<ee>https://doi.org/10.32657/10356/69985</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/aaai/TayLH17" mdate="2023-10-21">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs.</title>
+<pages>1243-1249</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v31i1.10685</ee>
+<ee>https://www.wikidata.org/entity/Q113233407</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TayLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TayTH17" mdate="2018-11-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Dyadic Memory Networks for Aspect-based Sentiment Analysis.</title>
+<pages>107-116</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132936</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#TayTH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TayTPH17" mdate="2018-11-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-Task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs.</title>
+<pages>1029-1038</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132937</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#TayTPH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/FangLWH17" mdate="2017-06-12">
+<author pid="201/1441">Lanting Fang</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="21/6660">Lenan Wu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>A Syntactic Parse-Key Tree-Based Approach for English Grammar Question Retrieval.</title>
+<pages>353-365</pages>
+<year>2017</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-59569-6_44</ee>
+<crossref>conf/nldb/2017</crossref>
+<url>db/conf/nldb/nldb2017.html#FangLWH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/TayPLH17" mdate="2018-11-06">
+<author pid="188/6350">Yi Tay</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture.</title>
+<pages>695-704</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3080790</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#TayPLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/TayLHB17" mdate="2019-05-20">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="65/1685">Falk Brauer</author>
+<title>Random Semantic Tensor Ensemble for Scalable Knowledge Graph Link Prediction.</title>
+<pages>751-760</pages>
+<year>2017</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3018661.3018695</ee>
+<crossref>conf/wsdm/2017</crossref>
+<url>db/conf/wsdm/wsdm2017.html#TayLHB17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangKRMSYSCETZZ17" mdate="2024-08-07">
+<author pid="75/3158-19">Zhe Wang 0019</author>
+<author pid="200/8416">Kingsley Kuan</author>
+<author pid="200/8525">Mathieu Ravaut</author>
+<author pid="200/8866">Gaurav Manek</author>
+<author pid="161/0938">Sibo Song</author>
+<author pid="74/6520">Fang Yuan</author>
+<author pid="202/1682">Kim Seokhwan</author>
+<author pid="84/8761">Nancy F. Chen</author>
+<author pid="57/1419">Luis Fernando D'Haro</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="133/4527">Hongyuan Zhu</author>
+<author pid="98/6997">Zeng Zeng</author>
+<author pid="82/3605">Ngai-Man Cheung</author>
+<author pid="62/1236">Georgios Piliouras</author>
+<author pid="88/6731-1">Jie Lin 0001</author>
+<author pid="49/5139">Vijay Chandrasekhar 0001</author>
+<title>Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text.</title>
+<year>2017</year>
+<volume>abs/1706.05461</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05461</ee>
+<url>db/journals/corr/corr1706.html#WangKRMSYSCETZZ17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TayLH17" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Translational Recommender Networks.</title>
+<year>2017</year>
+<volume>abs/1707.05176</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05176</ee>
+<url>db/journals/corr/corr1707.html#TayLH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TayPLH17" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="188/6026">Cong-Minh Phan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture.</title>
+<year>2017</year>
+<volume>abs/1707.06372</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.06372</ee>
+<url>db/journals/corr/corr1707.html#TayPLH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TayLH17a" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Enabling Efficient Question Answer Retrieval via Hyperbolic Neural Networks.</title>
+<year>2017</year>
+<volume>abs/1707.07847</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.07847</ee>
+<url>db/journals/corr/corr1707.html#TayLH17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-04828" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Multi-task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs.</title>
+<year>2017</year>
+<volume>abs/1708.04828</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.04828</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-04828</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-04981" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="204/0140">Minh C. Phan</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.</title>
+<year>2017</year>
+<volume>abs/1711.04981</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.04981</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-04981</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07656" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Luu Anh Tuan</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Cross Temporal Recurrent Networks for Ranking Question Answer Pairs.</title>
+<year>2017</year>
+<volume>abs/1711.07656</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07656</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07656</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-05403" mdate="2018-08-13">
+<author pid="188/6350">Yi Tay</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<title>Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis.</title>
+<year>2017</year>
+<volume>abs/1712.05403</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.05403</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-05403</url>
+</article>
+</r>
+<r><article key="journals/tacl/LuuHN16" mdate="2025-01-19">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Utilizing Temporal Information for Taxonomy Construction.</title>
+<pages>551-564</pages>
+<year>2016</year>
+<volume>4</volume>
+<journal>Trans. Assoc. Comput. Linguistics</journal>
+<ee type="oa">https://doi.org/10.1162/tacl_a_00117</ee>
+<ee>https://www.wikidata.org/entity/Q125260641</ee>
+<url>db/journals/tacl/tacl4.html#LuuHN16</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/LuuTHN16" mdate="2021-08-06">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="188/6350">Yi Tay</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network.</title>
+<pages>403-413</pages>
+<year>2016</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d16-1039</ee>
+<ee type="oa">https://aclanthology.org/D16-1039/</ee>
+<crossref>conf/emnlp/2016</crossref>
+<url>db/conf/emnlp/emnlp2016.html#LuuTHN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LuuKN15" mdate="2024-02-05">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-6024-0047" pid="83/1191-1">Jung-Jae Kim 0001</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Incorporating Trustiness and Collective Synonym/Contrastive Evidence into Taxonomy Construction.</title>
+<pages>1013-1022</pages>
+<year>2015</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d15-1117</ee>
+<ee type="oa">https://aclanthology.org/D15-1117/</ee>
+<crossref>conf/emnlp/2015</crossref>
+<url>db/conf/emnlp/emnlp2015.html#LuuKN15</url>
+</inproceedings>
+</r>
+<r><article key="journals/biodb/MaoALAMHTSLWGRLKCCYLZLYEGCDL14" mdate="2024-10-06">
+<author orcid="0000-0003-4390-7342" pid="39/5032">Yuqing Mao</author>
+<author pid="36/6169">Kimberly Van Auken</author>
+<author orcid="0000-0003-3335-4537" pid="26/2171">Donghui Li</author>
+<author orcid="0000-0002-0803-4817" pid="81/1941">Cecilia N. Arighi</author>
+<author orcid="0000-0003-2687-1982" pid="42/7103">Peter McQuilton</author>
+<author pid="39/11017">G. Thomas Hayman</author>
+<author orcid="0000-0003-1818-8243" pid="41/7242">Susan Tweedie</author>
+<author pid="25/1080">Mary L. Schaeffer</author>
+<author pid="49/7242">Stanley J. F. Laulederkind</author>
+<author pid="37/11017">Shur-Jen Wang</author>
+<author orcid="0000-0001-9809-7741" pid="52/3355">Julien Gobeill</author>
+<author pid="70/4767">Patrick Ruch</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-6024-0047" pid="83/1191-1">Jung-Jae Kim 0001</author>
+<author orcid="0000-0002-4657-6705" pid="09/5269">Jung-Hsien Chiang</author>
+<author pid="70/10112">Yu-De Chen</author>
+<author pid="122/8919">Chia-Jung Yang</author>
+<author pid="92/2407">Hongfang Liu</author>
+<author pid="122/2814">Dongqing Zhu</author>
+<author pid="78/3399">Yanpeng Li</author>
+<author pid="55/6749">Hong Yu</author>
+<author pid="119/7336">Ehsan Emadzadeh</author>
+<author orcid="0000-0002-6416-9556" pid="219/1529">Graciela Gonzalez 0001</author>
+<author pid="59/6773">Jian-Ming Chen</author>
+<author pid="91/6078">Hong-Jie Dai</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<title>Overview of the gene ontology task at BioCreative IV.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>Database J. Biol. Databases Curation</journal>
+<ee type="oa">https://doi.org/10.1093/database/bau086</ee>
+<ee>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4142793/</ee>
+<ee>https://www.wikidata.org/entity/Q34082019</ee>
+<ee>https://orkg.org/orkg/resource/R162400</ee>
+<url>db/journals/biodb/biodb2014.html#MaoALAMHTSLWGRLKCCYLZLYEGCDL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/LuuKN14" mdate="2024-02-05">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-6024-0047" pid="83/1191-1">Jung-Jae Kim 0001</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<title>Taxonomy Construction Using Syntactic Contextual Evidence.</title>
+<pages>810-819</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1088</ee>
+<ee type="oa">https://aclanthology.org/D14-1088/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#LuuKN14</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/LuuSLDLT12" mdate="2023-06-26">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author pid="08/2489-1">Xiaohong Li 0001</author>
+<author pid="52/5843">Thanh Tho Quan</author>
+<title>SeVe: automatic tool for verification of security protocols.</title>
+<pages>57-75</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Frontiers Comput. Sci. China</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-012-2903-3</ee>
+<url>db/journals/fcsc/fcsc6.html#LuuSLDLT12</url>
+</article>
+</r>
+<r><article key="journals/jcse/LuuK12" mdate="2024-02-05">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author orcid="0000-0001-6024-0047" pid="83/1191-1">Jung-Jae Kim 0001</author>
+<title>Automatic Suggestion for PubMed Query Reformulation.</title>
+<pages>161-167</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>J. Comput. Sci. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.5626/JCSE.2012.6.2.161</ee>
+<ee>https://www.wikidata.org/entity/Q113415347</ee>
+<url>db/journals/jcse/jcse6.html#LuuK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bcb/KimL12" mdate="2024-02-05">
+<author orcid="0000-0001-6024-0047" pid="83/1191-1">Jung-Jae Kim 0001</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Hybrid pattern matching for complex ontology term recognition.</title>
+<pages>289-296</pages>
+<year>2012</year>
+<booktitle>BCB</booktitle>
+<ee>https://doi.org/10.1145/2382936.2382973</ee>
+<crossref>conf/bcb/2012</crossref>
+<url>db/conf/bcb/bcb2012.html#KimL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ialp/LuuY12" mdate="2023-03-24">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="52/1850">Kazuhide Yamamoto</author>
+<title>A Pointwise Approach for Vietnamese Diacritics Restoration.</title>
+<pages>189-192</pages>
+<year>2012</year>
+<booktitle>IALP</booktitle>
+<ee>https://doi.org/10.1109/IALP.2012.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IALP.2012.18</ee>
+<crossref>conf/ialp/2012</crossref>
+<url>db/conf/ialp/ialp2012.html#LuuY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssiri/TuanZT10" mdate="2023-03-24">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="34/8327">Man Chun Zheng</author>
+<author pid="52/5843">Thanh Tho Quan</author>
+<title>Modeling and Verification of Safety Critical Systems: A Case Study on Pacemaker.</title>
+<pages>23-32</pages>
+<year>2010</year>
+<booktitle>SSIRI</booktitle>
+<ee>https://doi.org/10.1109/SSIRI.2010.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSIRI.2010.28</ee>
+<crossref>conf/ssiri/2010</crossref>
+<url>db/conf/ssiri/ssiri2010.html#TuanZT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssiri/Luu10" mdate="2023-03-24">
+<author pid="81/8329">Anh Tuan Luu</author>
+<title>Modeling and Verifying Security Protocols Using PAT Approach.</title>
+<pages>157-164</pages>
+<year>2010</year>
+<booktitle>SSIRI (Companion)</booktitle>
+<ee>https://doi.org/10.1109/SSIRI-C.2010.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSIRI-C.2010.34</ee>
+<crossref>conf/ssiri/2010c</crossref>
+<url>db/conf/ssiri/ssiri2010c.html#Luu10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LuuQCD07" mdate="2023-03-10">
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="43/3355">Tho T. Quan</author>
+<author pid="70/1360">Tru Hoang Cao</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>Axiom-oriented Reasoning to Deal with Inconsistency Between Ontology and Knowledge Base.</title>
+<year>2007</year>
+<booktitle>URSW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-327/pos_paper1.pdf</ee>
+<crossref>conf/semweb/2007ursw</crossref>
+<url>db/conf/semweb/ursw2007.html#LuuQCD07</url>
+</inproceedings>
+</r>
+<coauthors n="317" nc="3">
+<co c="0"><na f="a/Aljunied:Mahani" pid="369/5878">Mahani Aljunied</na></co>
+<co c="0"><na f="a/Anh:Do_Duc" pid="357/6016">Do Duc Anh</na></co>
+<co c="0"><na f="a/Arighi:Cecilia_N=" pid="81/1941">Cecilia N. Arighi</na></co>
+<co c="1"><na f="a/Ashfahani:Andri" pid="218/6513">Andri Ashfahani</na></co>
+<co c="0"><na f="a/Auken:Kimberly_Van" pid="36/6169">Kimberly Van Auken</na></co>
+<co c="0"><na f="b/Barzilay:Regina" pid="b/ReginaBarzilay">Regina Barzilay</na></co>
+<co c="0"><na f="b/Beaini:Dominique" pid="201/8526">Dominique Beaini</na></co>
+<co c="0"><na f="b/Bengio:Yoshua" pid="56/953">Yoshua Bengio</na></co>
+<co c="0"><na f="b/Bi:Wei" pid="38/1163">Wei Bi</na></co>
+<co c="0"><na f="b/Bin:Yi" pid="172/9392">Yi Bin</na></co>
+<co c="0"><na f="b/Bing:Lidong" pid="53/6625">Lidong Bing</na></co>
+<co c="0"><na f="b/Brauer:Falk" pid="65/1685">Falk Brauer</na></co>
+<co c="0"><na f="b/Bresson:Xavier" pid="95/378">Xavier Bresson</na></co>
+<co c="0"><na f="b/Buntine:Wray_L=" pid="72/3885">Wray L. Buntine</na></co>
+<co c="0"><na f="c/Cai_0002:Deng" pid="c/DCai-2">Deng Cai 0002</na></co>
+<co c="0"><na f="c/Cambria:Erik" pid="80/7421">Erik Cambria</na></co>
+<co c="0"><na f="c/Cao:Tru_Hoang" pid="70/1360">Tru Hoang Cao</na></co>
+<co c="0"><na f="c/Chan:Alvin" pid="163/6518">Alvin Chan</na></co>
+<co c="0"><na f="c/Chan:Hou_Pong" pid="178/3691">Hou Pong Chan</na></co>
+<co c="0"><na f="c/Chandrasekhar_0001:Vijay" pid="49/5139">Vijay Chandrasekhar 0001</na></co>
+<co c="0"><na f="c/Chang:Chip=Hong" pid="95/137">Chip-Hong Chang</na></co>
+<co c="0"><na f="c/Chao:Qin" pid="315/8871">Qin Chao</na></co>
+<co c="0"><na f="c/Chen:Bin" pid="22/5523">Bin Chen</na></co>
+<co c="0"><na f="c/Chen:Guizhen" pid="221/3221">Guizhen Chen</na></co>
+<co c="0"><na f="c/Chen:Jian=Ming" pid="59/6773">Jian-Ming Chen</na></co>
+<co c="0"><na f="c/Chen_0016:Long" pid="64/5725-16">Long Chen 0016</na></co>
+<co c="0"><na f="c/Chen_0006:Meng" pid="25/687-6">Meng Chen 0006</na></co>
+<co c="0"><na f="c/Chen:Nancy_F=" pid="84/8761">Nancy F. Chen</na></co>
+<co c="0"><na f="c/Chen:Wang" pid="26/1439">Wang Chen</na></co>
+<co c="0"><na f="c/Chen:Yu=De" pid="70/10112">Yu-De Chen</na></co>
+<co c="0"><na f="c/Chen:Yuanyuan" pid="37/7763">Yuanyuan Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Yulong" pid="157/4604-1">Yulong Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Zhao" pid="93/3669">Zhao Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Zhenyu" pid="86/541-1">Zhenyu Chen 0001</na></co>
+<co c="0"><na f="c/Cheng:Liying" pid="221/0115">Liying Cheng</na></co>
+<co c="0"><na f="c/Cheng:Mingfei" pid="241/6053">Mingfei Cheng</na></co>
+<co c="0"><na f="c/Cheung:Ngai=Man" pid="82/3605">Ngai-Man Cheung</na></co>
+<co c="0"><na f="c/Chia:Yew_Ken" pid="248/8132">Yew Ken Chia</na></co>
+<co c="0"><na f="c/Chiang:Jung=Hsien" pid="09/5269">Jung-Hsien Chiang</na></co>
+<co c="0"><na f="c/Cui:Leyang" pid="247/6181">Leyang Cui</na></co>
+<co c="0"><na f="d/Dai:Hong=Jie" pid="91/6078">Hong-Jie Dai</na></co>
+<co c="0"><na f="d/Dat:Do_Huu" pid="361/7246">Do Huu Dat</na></co>
+<co c="0"><na f="d/Deng_0002:Yang" pid="115/6282-2">Yang Deng 0002</na></co>
+<co c="0"><na f="d/Deng_0001:Zhi=Hong" pid="161/4814-1">Zhi-Hong Deng 0001</na></co>
+<co c="0"><na f="d/D=Haro:Luis_Fernando" pid="57/1419">Luis Fernando D'Haro</na></co>
+<co c="0"><na f="d/Ding:Bosheng" pid="277/9378">Bosheng Ding</na></co>
+<co c="0"><na f="d/Do:Duc_Anh" pid="372/5583">Duc Anh Do</na></co>
+<co c="0"><na f="d/Dong:Guanting" pid="227/7667">Guanting Dong</na></co>
+<co c="0"><na f="d/Dong:Jin_Song" pid="33/6517">Jin Song Dong</na></co>
+<co c="0"><na f="d/Dong:Xinshuai" pid="279/6151">Xinshuai Dong</na></co>
+<co c="0"><na f="d/Dong:Yizhuo" pid="222/5023">Yizhuo Dong</na></co>
+<co c="0"><na f="d/Du:Mingzhe" pid="216/5435">Mingzhe Du</na></co>
+<co c="0"><na f="d/Dwivedi:Vijay_Prakash" pid="243/1717">Vijay Prakash Dwivedi</na></co>
+<co c="0"><na f="e/E:Haihong" pid="43/10222">Haihong E</na></co>
+<co c="0"><na f="e/Emadzadeh:Ehsan" pid="119/7336">Ehsan Emadzadeh</na></co>
+<co c="0"><na f="f/Fang:Chunrong" pid="124/0310">Chunrong Fang</na></co>
+<co c="0"><na f="f/Fang:Lanting" pid="201/1441">Lanting Fang</na></co>
+<co c="0"><na f="f/Feng_0001:Wenjie" pid="126/2373-1">Wenjie Feng 0001</na></co>
+<co c="0"><na f="f/Feng:Xidong" pid="254/6457">Xidong Feng</na></co>
+<co c="0"><na f="f/Feng:Yichao" pid="335/1435">Yichao Feng</na></co>
+<co c="0"><na f="f/Feng_0002:Yue" pid="13/6965-2">Yue Feng 0002</na></co>
+<co c="0" n="2"><na f="f/Foo:Chuan=Sheng" pid="73/1823">Chuan-Sheng Foo</na><na>Chuan Sheng Foo</na></co>
+<co c="0"><na f="f/Formento:Brian" pid="302/7401">Brian Formento</na></co>
+<co c="0"><na f="f/Fu_0001:Jie" pid="16/7565-1">Jie Fu 0001</na></co>
+<co c="0"><na f="f/Fu:Tingchen" pid="318/0986">Tingchen Fu</na></co>
+<co c="0" n="2"><na f="g/Galkin:Michael" pid="160/8154">Michael Galkin</na><na>Mikhail Galkin 0001</na></co>
+<co c="0"><na f="g/Gan:Leilei" pid="213/9040">Leilei Gan</na></co>
+<co c="0"><na f="g/Gao:Xinyu" pid="14/9076">Xinyu Gao</na></co>
+<co c="0"><na f="g/Gobeill:Julien" pid="52/3355">Julien Gobeill</na></co>
+<co c="0" n="2"><na f="g/Gonzalez=Hernandez:Graciela" pid="219/1529">Graciela Gonzalez-Hernandez</na><na>Graciela Gonzalez 0001</na></co>
+<co c="0"><na f="g/Gu:Qing" pid="59/3358">Qing Gu</na></co>
+<co c="1"><na f="g/Guertler:Leon_O=" pid="334/1938">Leon O. Guertler</na></co>
+<co c="0"><na f="g/Guo_0002:An" pid="211/4804-2">An Guo 0002</na></co>
+<co c="0"><na f="g/Guo:Yikai" pid="334/4154">Yikai Guo</na></co>
+<co c="0"><na f="g/Guo_0001:Zhongliang" pid="260/0858-1">Zhongliang Guo 0001</na></co>
+<co c="0"><na f="h/Hai:Zhen" pid="21/9125">Zhen Hai</na></co>
+<co c="0"><na f="h/Hao:Anran" pid="259/3401">Anran Hao</na></co>
+<co c="0"><na f="h/Hayman:G=_Thomas" pid="39/11017">G. Thomas Hayman</na></co>
+<co c="0"><na f="h/He:Junxian" pid="188/6127">Junxian He</na></co>
+<co c="0"><na f="h/He:Wanggui" pid="290/7832">Wanggui He</na></co>
+<co c="0"><na f="h/He_0001:Xiaodong" pid="03/3923-1">Xiaodong He 0001</na></co>
+<co c="0" n="2"><na f="h/Hoang:Nhat_M=" pid="361/0450">Nhat M. Hoang</na><na>Nhat Minh Hoang</na></co>
+<co c="0"><na f="h/Hooi:Bryan" pid="169/9975">Bryan Hooi</na></co>
+<co c="0" n="2"><na f="h/Hu:Guan=Yu" pid="172/3540">Guan-Yu Hu</na><na>Guanyu Hu</na></co>
+<co c="0"><na f="h/Hu_0001:Junjie" pid="123/0773-1">Junjie Hu 0001</na></co>
+<co c="0"><na f="h/Hu_0003:Ming" pid="82/378-3">Ming Hu 0003</na></co>
+<co c="0"><na f="h/Hu:Zhiyuan" pid="39/3864">Zhiyuan Hu</na></co>
+<co c="0"><na f="h/Huang:Dong" pid="94/3756">Dong Huang</na></co>
+<co c="0"><na f="h/Huang:Jiahui" pid="34/7741">Jiahui Huang</na></co>
+<co c="0"><na f="h/Huang:Xinting" pid="240/7147">Xinting Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Yihao" pid="255/5085">Yihao Huang 0001</na></co>
+<co c="0"><na f="h/Hui:Siu_Cheung" pid="65/3225">Siu Cheung Hui</na></co>
+<co c="0"><na f="j/Ji:Bin" pid="119/1943">Bin Ji</na></co>
+<co c="0"><na f="j/Ji:Rongrong" pid="86/5681">Rongrong Ji</na></co>
+<co c="0"><na f="j/Jia:Ju" pid="248/5418">Ju Jia</na></co>
+<co c="0"><na f="j/Jia:Meihuizi" pid="150/3494">Meihuizi Jia</na></co>
+<co c="0"><na f="j/Jiang:Hao" pid="38/6049">Hao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Zhiwei" pid="23/4069">Zhiwei Jiang</na></co>
+<co c="0"><na f="j/Joshi:Chaitanya_K=" pid="202/2132">Chaitanya K. Joshi</na></co>
+<co c="0" n="2"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na><na>Shafiq Joty</na></co>
+<co c="0"><na f="k/Kan:Min=Yen" pid="k/MinYenKan">Min-Yen Kan</na></co>
+<co c="0"><na f="k/Kawaguchi:Kenji" pid="127/7411">Kenji Kawaguchi</na></co>
+<co c="0"><na f="k/Kim_0001:Jung=Jae" pid="83/1191-1">Jung-Jae Kim 0001</na></co>
+<co c="0"><na f="k/Koh:Pang_Wei" pid="10/10453">Pang Wei Koh</na></co>
+<co c="0"><na f="k/Koh:Pang_Wei_W=" pid="369/7685">Pang Wei W. Koh</na></co>
+<co c="0"><na f="k/Kuan:Kingsley" pid="200/8416">Kingsley Kuan</na></co>
+<co c="0"><na f="k/Kuang:Kun" pid="194/4245">Kun Kuang</na></co>
+<co c="0"><na f="l/Laulederkind:Stanley_J=_F=" pid="49/7242">Stanley J. F. Laulederkind</na></co>
+<co c="0"><na f="l/Laurent_0001:Thomas" pid="47/8889-1">Thomas Laurent 0001</na></co>
+<co c="0"><na f="l/Le:Khoi" pid="50/4602">Khoi Le</na></co>
+<co c="0"><na f="l/Le:Khoi_M=" pid="366/5180">Khoi M. Le</na></co>
+<co c="-1"><na f="l/Le:Thang" pid="362/8561">Thang Le</na></co>
+<co c="0"><na f="l/Li_0001:Anran" pid="202/8872-1">Anran Li 0001</na></co>
+<co c="0"><na f="l/Li:Baokui" pid="133/3419">Baokui Li</na></co>
+<co c="0"><na f="l/Li_0001:Boyang" pid="70/1211-1">Boyang Li 0001</na></co>
+<co c="0"><na f="l/Li:Donghui" pid="26/2171">Donghui Li</na></co>
+<co c="0"><na f="l/Li:Feng=Lin" pid="31/7637">Feng-Lin Li</na></co>
+<co c="0"><na f="l/Li_0009:Haochen" pid="49/11531-9">Haochen Li 0009</na></co>
+<co c="0"><na f="l/Li_0001:Xiang=Yang" pid="l/XiangYangLi">Xiang-Yang Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Xiaohong" pid="08/2489-1">Xiaohong Li 0001</na></co>
+<co c="0"><na f="l/Li:Xinze" pid="253/7355">Xinze Li</na></co>
+<co c="0"><na f="l/Li:Yafu" pid="293/9896">Yafu Li</na></co>
+<co c="0"><na f="l/Li:Yanpeng" pid="78/3399">Yanpeng Li</na></co>
+<co c="0"><na f="l/Li_0004:Yicong" pid="302/5062-4">Yicong Li 0004</na></co>
+<co c="0"><na f="l/Li:Yue" pid="61/500">Yue Li</na></co>
+<co c="0"><na f="l/Li_0008:Zekun" pid="150/2008-8">Zekun Li 0008</na></co>
+<co c="0"><na f="l/Li:Zongrui" pid="318/4655">Zongrui Li</na></co>
+<co c="0"><na f="l/Liao:Lejian" pid="16/3137">Lejian Liao</na></co>
+<co c="0"><na f="l/Lin_0001:Jie" pid="88/6731-1">Jie Lin 0001</na></co>
+<co c="0"><na f="l/Lin:Min" pid="73/1685">Min Lin</na></co>
+<co c="0"><na f="l/Lin:Qika" pid="229/2908">Qika Lin</na></co>
+<co c="0"><na f="l/Lin:Wei" pid="99/2649">Wei Lin</na></co>
+<co c="0"><na f="l/Lin:Yingzhan" pid="292/3037">Yingzhan Lin</na></co>
+<co c="0" n="2"><na f="l/Linh_0001:Ngo_Van" pid="125/3578">Ngo Van Linh 0001</na><na>Linh Ngo Van 0001</na></co>
+<co c="0"><na f="l/Lipani:Aldo" pid="150/5264">Aldo Lipani</na></co>
+<co c="0"><na f="l/Liu:Chaoqun" pid="30/2810">Chaoqun Liu</na></co>
+<co c="0"><na f="l/Liu:Chumin" pid="349/4751">Chumin Liu</na></co>
+<co c="0"><na f="l/Liu_0009:Hong" pid="29/5010-9">Hong Liu 0009</na></co>
+<co c="0"><na f="l/Liu:Hongfang" pid="92/2407">Hongfang Liu</na></co>
+<co c="0"><na f="l/Liu:Lemao" pid="41/10887">Lemao Liu</na></co>
+<co c="0"><na f="l/Liu:Qian" pid="33/85">Qian Liu</na></co>
+<co c="0"><na f="l/Liu_0034:Rui" pid="42/469-34">Rui Liu 0034</na></co>
+<co c="0"><na f="l/Liu:Ruicheng" pid="01/4595">Ruicheng Liu</na></co>
+<co c="0"><na f="l/Liu:Wenhao" pid="86/8117">Wenhao Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Liu:Yozen" pid="242/8056">Yozen Liu</na></co>
+<co c="0"><na f="l/Liu:Yuliang" pid="69/5817">Yuliang Liu</na></co>
+<co c="0" n="2"><na f="l/Long:Do_Xuan" pid="317/0657">Do Xuan Long</na><na>Xuan Long Do</na></co>
+<co c="0"><na f="l/Lu:Truc" pid="302/4474">Truc Lu</na></co>
+<co c="0"><na f="l/Lu:Xinyuan" pid="88/422">Xinyuan Lu</na></co>
+<co c="0"><na f="l/Lu:Zhiyong" pid="66/6604">Zhiyong Lu</na></co>
+<co c="0"><na f="l/Luo_0001:Haoran" pid="227/5902-1">Haoran Luo 0001</na></co>
+<co c="0"><na f="l/Luo:Tianze" pid="297/4000">Tianze Luo</na></co>
+<co c="0"><na f="l/Luo_0002:Weiqi" pid="50/4115-2">Weiqi Luo 0002</na></co>
+<co c="0"><na f="l/Lyu:Lingjuan" pid="178/9876">Lingjuan Lyu</na></co>
+<co c="0"><na f="m/Ma:Chang" pid="48/10619">Chang Ma</na></co>
+<co c="0"><na f="m/Ma:Chenghao" pid="203/6721">Chenghao Ma</na></co>
+<co c="0"><na f="m/Ma:Yubo" pid="229/7323">Yubo Ma</na></co>
+<co c="0"><na f="m/Manek:Gaurav" pid="200/8866">Gaurav Manek</na></co>
+<co c="0"><na f="m/Mao_0010:Rui" pid="324/1909">Rui Mao 0010</na></co>
+<co c="0"><na f="m/Mao:Xin" pid="72/4332">Xin Mao</na></co>
+<co c="0"><na f="m/Mao:Yuqing" pid="39/5032">Yuqing Mao</na></co>
+<co c="0"><na f="m/McQuilton:Peter" pid="42/7103">Peter McQuilton</na></co>
+<co c="0"><na f="m/Miao:Chunyan" pid="m/ChunyanMiao">Chunyan Miao</na></co>
+<co c="-1"><na f="m/Minh:Dang_Nguyen" pid="339/2546">Dang Nguyen Minh</na></co>
+<co c="0"><na f="m/Mu:Xinyu" pid="360/8462">Xinyu Mu</na></co>
+<co c="0"><na f="n/Nakov:Preslav" pid="19/1947">Preslav Nakov</na></co>
+<co c="0"><na f="n/Narendranath:Ashok" pid="324/1101">Ashok Narendranath</na></co>
+<co c="0"><na f="n/Ng:See=Kiong" pid="00/5480">See-Kiong Ng</na></co>
+<co c="0"><na f="n/Ngo:Hoang" pid="351/3212">Hoang Ngo</na></co>
+<co c="0"><na f="n/Nguyen:Chien" pid="351/5540">Chien Nguyen</na></co>
+<co c="0" n="2"><na f="n/Nguyen:Cong=Duy" pid="323/7497">Cong-Duy Nguyen</na><na>Cong-Duy T. Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Dang_Minh" pid="305/2522">Dang Minh Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Dat_Quoc" pid="23/9125">Dat Quoc Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Huy" pid="48/6075">Huy Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thien" pid="76/4829">Thien Nguyen</na></co>
+<co c="0"><na f="n/Nguyen_0003:Thong" pid="29/5255-3">Thong Nguyen 0003</na></co>
+<co c="0"><na f="n/Nguyen:Thong_Thanh" pid="324/1666">Thong Thanh Nguyen</na></co>
+<co c="2"><na f="n/Nguyen:Van=Thanh" pid="249/3096">Van-Thanh Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Viet=Anh" pid="180/2744">Viet-Anh Nguyen</na></co>
+<co c="0"><na f="o/Ong:Donovan" pid="268/1222">Donovan Ong</na></co>
+<co c="0" n="2"><na f="p/Pal:Christopher_Joseph" pid="45/1217">Christopher Joseph Pal</na><na>Chris Pal</na></co>
+<co c="0"><na f="p/Pan:Fengjun" pid="324/7389">Fengjun Pan</na></co>
+<co c="0"><na f="p/Pan:Liangming" pid="186/9707">Liangming Pan</na></co>
+<co c="0"><na f="p/Parviz:Ali" pid="322/6087">Ali Parviz</na></co>
+<co c="0"><na f="p/Peng:Hongyi" pid="36/2123">Hongyi Peng</na></co>
+<co c="0"><na f="p/Peng:Shiyao" pid="194/1665">Shiyao Peng</na></co>
+<co c="0"><na f="p/Pham:Quang" pid="81/8316">Quang Pham</na></co>
+<co c="0"><na f="p/Pham:Quang_Hieu" pid="217/2424">Quang Hieu Pham</na></co>
+<co c="0"><na f="p/Pham:Trinh" pid="302/9813">Trinh Pham</na></co>
+<co c="0"><na f="p/Pham:Van_Long_Phuoc" pid="305/8045">Van Long Phuoc Pham</na></co>
+<co c="0"><na f="p/Phan:Cong=Minh" pid="188/6026">Cong-Minh Phan</na></co>
+<co c="0"><na f="p/Phan:Minh_C=" pid="204/0140">Minh C. Phan</na></co>
+<co c="0"><na f="p/Piliouras:Georgios" pid="62/1236">Georgios Piliouras</na></co>
+<co c="0"><na f="p/Poria:Soujanya" pid="116/4904">Soujanya Poria</na></co>
+<co c="0"><na f="q/Qin:Chengwei" pid="195/2732">Chengwei Qin</na></co>
+<co c="0"><na f="q/Qu:Leigang" pid="276/3150">Leigang Qu</na></co>
+<co c="0"><na f="q/Quan:Thanh_Tho" pid="52/5843">Thanh Tho Quan</na></co>
+<co c="0"><na f="q/Quan:Tho" pid="171/2679">Tho Quan</na></co>
+<co c="0"><na f="q/Quan:Tho_T=" pid="43/3355">Tho T. Quan</na></co>
+<co c="0"><na f="r/Ramp=aacute=sek:Ladislav" pid="146/9832">Ladislav Ramp&#225;sek</na></co>
+<co c="0"><na f="r/Rao:Jinfeng" pid="134/5708">Jinfeng Rao</na></co>
+<co c="0"><na f="r/Ravaut:Mathieu" pid="200/8525">Mathieu Ravaut</na></co>
+<co c="0"><na f="r/Rong:Yu" pid="24/10036">Yu Rong</na></co>
+<co c="0"><na f="r/Ruch:Patrick" pid="70/4767">Patrick Ruch</na></co>
+<co c="0"><na f="s/Schaeffer:Mary_L=" pid="25/1080">Mary L. Schaeffer</na></co>
+<co c="0"><na f="s/Seokhwan:Kim" pid="202/1682">Kim Seokhwan</na></co>
+<co c="0"><na f="s/Shah:Darsh_J=" pid="227/2738">Darsh J. Shah</na></co>
+<co c="0"><na f="s/Shah:Neil" pid="71/7771">Neil Shah</na></co>
+<co c="0"><na f="s/Shen:Lei" pid="63/2022">Lei Shen</na></co>
+<co c="0"><na f="s/Shen:Wei" pid="71/3692">Wei Shen</na></co>
+<co c="0"><na f="s/Shi:Freda" pid="194/2512">Freda Shi</na></co>
+<co c="0"><na f="s/Shi_0001:Shuming" pid="s/ShumingShi-1">Shuming Shi 0001</na></co>
+<co c="0"><na f="s/Siyue:Zhang" pid="395/5690">Zhang Siyue</na></co>
+<co c="0"><na f="s/Song:Meina" pid="95/4440">Meina Song</na></co>
+<co c="0"><na f="s/Song:Sibo" pid="161/0938">Sibo Song</na></co>
+<co c="0"><na f="s/Su:Jian" pid="91/1388">Jian Su</na></co>
+<co c="0"><na f="s/Suchanek:Fabian_M=" pid="13/1396">Fabian M. Suchanek</na></co>
+<co c="0"><na f="s/Sun:Jianfei" pid="41/11196">Jianfei Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0" n="2"><na f="s/Sun:Shu=Qi" pid="21/9088">Shu-Qi Sun</na><na>Shuqi Sun</na></co>
+<co c="0"><na f="s/Sun:Weisong" pid="183/2642">Weisong Sun</na></co>
+<co c="0"><na f="s/Sun:Yunjian" pid="387/3691">Yunjian Sun</na></co>
+<co c="0"><na f="t/Tang:Zichen" pid="264/0465">Zichen Tang</na></co>
+<co c="0"><na f="t/Tay:Yi" pid="188/6350">Yi Tay</na></co>
+<co c="0"><na f="t/Tian:Haoxiang" pid="329/9135">Haoxiang Tian</na></co>
+<co c="2"><na f="t/Trinh:Tuan=Dat" pid="141/2100">Tuan-Dat Trinh</na></co>
+<co c="0"><na f="t/Tweedie:Susan" pid="41/7242">Susan Tweedie</na></co>
+<co c="0"><na f="v/Vinh:Tran_Dang_Quang" pid="218/6100">Tran Dang Quang Vinh</na></co>
+<co c="0"><na f="v/Vu_0002:Duc_Anh" pid="362/8623">Duc Anh Vu 0002</na></co>
+<co c="0"><na f="v/Vu=Le:The=Anh" pid="241/1832">The-Anh Vu-Le</na></co>
+<co c="0"><na f="w/Wan:Kaiyang" pid="324/4644">Kaiyang Wan</na></co>
+<co c="0"><na f="w/Wang_0001:Anran" pid="138/4209-1">Anran Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0001:Guangjing" pid="187/5901">Guangjing Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0001:Haifeng" pid="10/5209-1">Haifeng Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0004:Lei" pid="w/LeiWang4">Lei Wang 0004</na></co>
+<co c="0"><na f="w/Wang:Longyue" pid="127/3421">Longyue Wang</na></co>
+<co c="0"><na f="w/Wang:Shuohang" pid="173/5469">Shuohang Wang</na></co>
+<co c="0"><na f="w/Wang:Shur=Jen" pid="37/11017">Shur-Jen Wang</na></co>
+<co c="0"><na f="w/Wang:Suyuchen" pid="264/2706">Suyuchen Wang</na></co>
+<co c="0"><na f="w/Wang:William_Yang" pid="08/9282">William Yang Wang</na></co>
+<co c="0"><na f="w/Wang_0015:Yan" pid="59/2227-15">Yan Wang 0015</na></co>
+<co c="0"><na f="w/Wang:Zechuan" pid="349/2918">Zechuan Wang</na></co>
+<co c="0"><na f="w/Wang_0019:Zhe" pid="75/3158-19">Zhe Wang 0019</na></co>
+<co c="0"><na f="w/Wei:Jie" pid="35/3800">Jie Wei</na></co>
+<co c="0"><na f="w/Wen:Jinming" pid="36/8492">Jinming Wen</na></co>
+<co c="0"><na f="w/Wolf:Guy" pid="120/1308">Guy Wolf</na></co>
+<co c="0"><na f="w/Wu_0001:Fei" pid="84/3254-1">Fei Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Jay_Zhangjie" pid="322/0749">Jay Zhangjie Wu</na></co>
+<co c="0"><na f="w/Wu:Lenan" pid="21/6660">Lenan Wu</na></co>
+<co c="0"><na f="w/Wu:Xiaobao" pid="249/8429">Xiaobao Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Yueming" pid="77/8060-1">Yueming Wu 0001</na></co>
+<co c="0"><na f="x/Xia:Wenhan" pid="181/3470">Wenhan Xia</na></co>
+<co c="0"><na f="x/Xiao:Junbin" pid="242/4518">Junbin Xiao</na></co>
+<co c="0"><na f="x/Xiao:Luwei" pid="234/5434">Luwei Xiao</na></co>
+<co c="0"><na f="x/Xiao:Wenyi" pid="173/0886">Wenyi Xiao</na></co>
+<co c="0"><na f="x/Xiaobao:Wu" pid="395/5130">Wu Xiaobao</na></co>
+<co c="0"><na f="x/Xie:Yuxi" pid="187/5984">Yuxi Xie</na></co>
+<co c="0"><na f="x/Xu:Huimin" pid="06/4963">Huimin Xu</na></co>
+<co c="0"><na f="x/Xu:Jing" pid="07/1951">Jing Xu</na></co>
+<co c="0"><na f="x/Xu:Weiwen" pid="57/4640">Weiwen Xu</na></co>
+<co c="0"><na f="x/Xu:Xiaoyu" pid="48/6351">Xiaoyu Xu</na></co>
+<co c="-1"><na f="y/Yamamoto:Kazuhide" pid="52/1850">Kazuhide Yamamoto</na></co>
+<co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
+<co c="0"><na f="y/Yang:Chia=Jung" pid="122/8919">Chia-Jung Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Xinyu" pid="89/473-1">Xinyu Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0001:Yi" pid="33/4854-1">Yi Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0006:Yuhao" pid="13/10440-6">Yuhao Yang 0006</na></co>
+<co c="0"><na f="y/Yao_0001:Lina" pid="56/6651-1">Lina Yao 0001</na></co>
+<co c="0"><na f="y/Yao:Tianyu" pid="324/5213">Tianyu Yao</na></co>
+<co c="0"><na f="y/Yen:Duong_Ngoc" pid="389/9114">Duong Ngoc Yen</na></co>
+<co c="0"><na f="y/Yiming:Zhang" pid="395/5388">Zhang Yiming</na></co>
+<co c="0"><na f="y/Ying:Jiahao" pid="303/6904">Jiahao Ying</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Hong" pid="55/6749">Hong Yu</na></co>
+<co c="0"><na f="y/Yuan:Fang" pid="74/6520">Fang Yuan</na></co>
+<co c="0"><na f="y/Yuan:Shaozu" pid="254/1904">Shaozu Yuan</na></co>
+<co c="0"><na f="y/Yuan:Xingdi" pid="40/10147">Xingdi Yuan</na></co>
+<co c="0"><na f="y/Yuxiang:Xue" pid="395/5375">Xue Yuxiang</na></co>
+<co c="0"><na f="z/Zeng:Zeng" pid="98/6997">Zeng Zeng</na></co>
+<co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
+<co c="0" n="2"><na f="z/Zhang_0004:Ce" pid="97/919-4">Ce Zhang 0004</na><na>Delvin Ce Zhang</na></co>
+<co c="0"><na f="z/Zhang:Delvin" pid="396/7556">Delvin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hanwang" pid="79/8116">Hanwang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0048:Hao" pid="55/2270-48">Hao Zhang 0048</na></co>
+<co c="0"><na f="z/Zhang_0001:Jian" pid="07/314-1">Jian Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0002:Lan" pid="54/2752-2">Lan Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang_0007:Shuai" pid="71/208-7">Shuai Zhang 0007</na></co>
+<co c="0"><na f="z/Zhang:Siyue" pid="181/6460">Siyue Zhang</na></co>
+<co c="0"><na f="z/Zhang_0218:Wei" pid="10/4661-218">Wei Zhang 0218</na></co>
+<co c="0"><na f="z/Zhang_0004:Wentai" pid="158/8157-4">Wentai Zhang 0004</na></co>
+<co c="0"><na f="z/Zhang_0001:Wenxuan" pid="85/1177-1">Wenxuan Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yating" pid="29/5889">Yating Zhang</na></co>
+<co c="0"><na f="z/Zhang_0092:Yu" pid="50/671-92">Yu Zhang 0092</na></co>
+<co c="0"><na f="z/Zhang_0004:Yue" pid="47/722-4">Yue Zhang 0004</na></co>
+<co c="0"><na f="z/Zhao:Chen" pid="81/3">Chen Zhao</na></co>
+<co c="0"><na f="z/Zhao:Deli" pid="77/1992">Deli Zhao</na></co>
+<co c="0"><na f="z/Zhao:Enbo" pid="265/0123">Enbo Zhao</na></co>
+<co c="0"><na f="z/Zhao:Haiteng" pid="304/8330">Haiteng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Jinman" pid="160/8761">Jinman Zhao</na></co>
+<co c="0"><na f="z/Zhao:Junbo" pid="128/8266">Junbo Zhao</na></co>
+<co c="0"><na f="z/Zhao:Ruochen" pid="253/2147">Ruochen Zhao</na></co>
+<co c="0"><na f="z/Zhao_0007:Shuai" pid="116/8682-7">Shuai Zhao 0007</na></co>
+<co c="0"><na f="z/Zhao_0003:Tong" pid="94/6503-3">Tong Zhao 0003</na></co>
+<co c="0"><na f="z/Zhao_0001:Yilun" pid="271/8391-1">Yilun Zhao 0001</na></co>
+<co c="0"><na f="z/Zhao_0006:Yiran" pid="148/1918-6">Yiran Zhao 0006</na></co>
+<co c="0"><na f="z/Zhao_0001:Zhou" pid="75/7785-1">Zhou Zhao 0001</na></co>
+<co c="0"><na f="z/Zheng:Man_Chun" pid="34/8327">Man Chun Zheng</na></co>
+<co c="0"><na f="z/Zheng:Yandan" pid="166/2586">Yandan Zheng</na></co>
+<co c="0"><na f="z/Zhou:Ruiwen" pid="322/4978">Ruiwen Zhou</na></co>
+<co c="0"><na f="z/Zhou_0008:Xin" pid="05/3403-8">Xin Zhou 0008</na></co>
+<co c="0"><na f="z/Zhou_0005:Yuan" pid="40/7018-5">Yuan Zhou 0005</na></co>
+<co c="0"><na f="z/Zhu:Dongqing" pid="122/2814">Dongqing Zhu</na></co>
+<co c="0"><na f="z/Zhu:Hongyuan" pid="133/4527">Hongyuan Zhu</na></co>
+<co c="0"><na f="z/Zhu:Wenjing" pid="135/5081">Wenjing Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Yifan" pid="94/1593-1">Yifan Zhu 0001</na></co>
+<co c="0"><na f="z/Zhuo:Terry_Yue" pid="35/3246-1">Terry Yue Zhuo</na></co>
+</coauthors>
+</dblpperson>
+

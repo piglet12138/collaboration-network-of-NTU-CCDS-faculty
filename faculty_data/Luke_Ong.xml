@@ -1,0 +1,2454 @@
+<?xml version="1.0"?>
+<dblpperson name="C.-H. Luke Ong" pid="o/CHLukeOng" n="180">
+<person key="homepages/o/CHLukeOng" mdate="2025-01-19">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="o/CHLukeOng">Chih-Hao Luke Ong</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<note type="affiliation">Nanyang Technological University, Singapore</note>
+<note label="former" type="affiliation">University of Oxford, UK</note>
+<url>http://www.comlab.ox.ac.uk/oucl/people/luke.ong.html</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/338618</url>
+<url>https://mathgenealogy.org/id.php?id=86124</url>
+<url>https://orcid.org/0000-0001-7509-680X</url>
+<url>https://www.wikidata.org/entity/Q93944826</url>
+<url>https://zbmath.org/authors/?q=ai:ong.chih-hao-luke</url>
+</person>
+<r><article key="journals/pacmpl/ZaiserMO25" mdate="2025-02-14">
+<author orcid="0000-0001-5158-2002" pid="249/5578">Fabian Zaiser</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Guaranteed Bounds on Posterior Distributions of Discrete Probabilistic Programs with Loops.</title>
+<pages>1104-1135</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3704874</ee>
+<url>db/journals/pacmpl/pacmpl9.html#ZaiserMO25</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-04952" mdate="2025-02-19">
+<author pid="308/2550">Fazl Barez</author>
+<author pid="318/0986">Tingchen Fu</author>
+<author pid="181/4512">Ameya Prabhu</author>
+<author pid="255/5295">Stephen Casper</author>
+<author pid="203/8807">Amartya Sanyal</author>
+<author pid="176/0964">Adel Bibi</author>
+<author pid="354/6183">Aidan O'Gara</author>
+<author pid="01/9684">Robert Kirk</author>
+<author pid="361/0440">Ben Bucknall</author>
+<author pid="351/0927">Tim Fist</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="t/PhilipHSTorr">Philip Torr 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<author pid="351/0644">Robert Trager</author>
+<author pid="142/2741">David Krueger 0001</author>
+<author pid="211/7976">S&#246;ren Mindermann</author>
+<author pid="h/JoseHernandezOrallo">Jos&#233; Hern&#225;ndez-Orallo</author>
+<author pid="203/9159">Mor Geva</author>
+<author pid="67/9076">Yarin Gal</author>
+<title>Open Problems in Machine Unlearning for AI Safety.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.04952</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.04952</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-04952</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/WangYFLO24" mdate="2025-01-19">
+<author orcid="0000-0003-3241-0023" pid="236/4994">Peixin Wang</author>
+<author orcid="0000-0002-2072-0836" pid="307/3974">Tengshun Yang</author>
+<author orcid="0000-0002-7947-3446" pid="19/7123">Hongfei Fu 0001</author>
+<author orcid="0000-0002-4163-1840" pid="315/4682">Guanyan Li</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving.</title>
+<pages>1361-1386</pages>
+<year>2024</year>
+<volume>8</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>PLDI</number>
+<ee type="oa">https://doi.org/10.1145/3656432</ee>
+<ee>https://www.wikidata.org/entity/Q130810599</ee>
+<url>db/journals/pacmpl/pacmpl8.html#WangYFLO24</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/ReicheltOR24" mdate="2024-05-13">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Tom Rainforth</author>
+<title>Beyond Bayesian Model Averaging over Paths in Probabilistic Programs with Stochastic Support.</title>
+<pages>829-837</pages>
+<year>2024</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v238/reichelt24a.html</ee>
+<crossref>conf/aistats/2024</crossref>
+<url>db/conf/aistats/aistats2024.html#ReicheltOR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/WagnerKO24" mdate="2024-08-28">
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<author pid="337/1844">Basim Khajwal</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Diagonalisation SGD: Fast &#38; Convergent SGD for Non-Differentiable Models via Reparameterisation and Smoothing.</title>
+<pages>1801-1809</pages>
+<year>2024</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v238/wagner24a.html</ee>
+<crossref>conf/aistats/2024</crossref>
+<url>db/conf/aistats/aistats2024.html#WagnerKO24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/ZhiWLOZ24" mdate="2024-12-09">
+<author pid="326/1078">Dapeng Zhi</author>
+<author orcid="0000-0003-3241-0023" pid="236/4994">Peixin Wang</author>
+<author orcid="0000-0003-3578-7432" pid="147/8363-3">Si Liu 0003</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0003-1938-2902" pid="83/5342-2">Min Zhang 0002</author>
+<title>Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems.</title>
+<pages>401-426</pages>
+<year>2024</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-65630-9_20</ee>
+<crossref>conf/cav/2024-2</crossref>
+<url>db/conf/cav/cav2024-2.html#ZhiWLOZ24</url>
+<stream>streams/conf/cav</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Le0WRO24" mdate="2025-02-13">
+<author pid="289/6184">Xuan-Bach Le</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<author pid="258/0901">Leon Witzman</author>
+<author pid="r/AlexanderMosheRabinovich">Alexander Rabinovich</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Reinforcement Learning with LTL and &#969;-Regular Objectives via Optimality-Preserving Translation to Average Rewards.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/d4857f724cc1af4c8f1e18032426aa2e-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#Le0WRO24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-11752" mdate="2024-08-28">
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<author pid="337/1844">Basim Khajwal</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Diagonalisation SGD: Fast &#38; Convergent SGD for Non-Differentiable Models via Reparameterisation and Smoothing.</title>
+<year>2024</year>
+<volume>abs/2402.11752</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.11752</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-11752</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-01769" mdate="2024-07-22">
+<author pid="326/1078">Dapeng Zhi</author>
+<author pid="236/4994">Peixin Wang</author>
+<author pid="147/8363-3">Si Liu 0003</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="83/5342-2">Min Zhang 0002</author>
+<title>Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems.</title>
+<year>2024</year>
+<volume>abs/2404.01769</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.01769</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-01769</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-07149" mdate="2024-11-19">
+<author pid="367/9292">Clement Neo</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="t/PhilipHSTorr">Philip Torr 0001</author>
+<author pid="203/9159">Mor Geva</author>
+<author pid="142/2741">David Krueger 0001</author>
+<author pid="308/2550">Fazl Barez</author>
+<title>Towards Interpreting Visual Information Processing in Vision-Language Models.</title>
+<year>2024</year>
+<volume>abs/2410.07149</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.07149</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-07149</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-12175" mdate="2024-11-24">
+<author pid="289/6184">Xuan-Bach Le</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<author pid="258/0901">Leon Witzman</author>
+<author pid="r/AlexanderMosheRabinovich">Alexander Rabinovich</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Reinforcement Learning with LTL and &#969;-Regular Objectives via Optimality-Preserving Translation to Average Rewards.</title>
+<year>2024</year>
+<volume>abs/2410.12175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.12175</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-12175</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-10393" mdate="2025-03-03">
+<author pid="249/5578">Fabian Zaiser</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Guaranteed Bounds on Posterior Distributions of Discrete Probabilistic Programs with Loops.</title>
+<year>2024</year>
+<volume>abs/2411.10393</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.10393</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-10393</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/esop/KhajwalOW23" mdate="2024-08-28">
+<author pid="337/1844">Basim Khajwal</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-2807-8462" pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.</title>
+<pages>479-506</pages>
+<year>2023</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-30044-8_18</ee>
+<crossref>conf/esop/2023</crossref>
+<url>db/conf/esop/esop2023.html#KhajwalOW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ZaiserMO23" mdate="2024-03-01">
+<author pid="249/5578">Fabian Zaiser</author>
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">Chih-Hao Luke Ong</author>
+<title>Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/0747af6f877c0cb555fea595f01b0e83-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#ZaiserMO23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03415" mdate="2024-08-28">
+<author pid="337/1844">Basim Khajwal</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.</title>
+<year>2023</year>
+<volume>abs/2301.03415</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03415</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03415</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-17058" mdate="2025-03-03">
+<author pid="249/5578">Fabian Zaiser</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach.</title>
+<year>2023</year>
+<volume>abs/2305.17058</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.17058</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-17058</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-13160" mdate="2023-08-01">
+<author pid="236/4994">Peixin Wang</author>
+<author pid="19/7123">Hongfei Fu 0001</author>
+<author pid="307/3974">Tengshun Yang</author>
+<author pid="315/4682">Guanyan Li</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Template-Based Static Posterior Inference for Bayesian Probabilistic Programming.</title>
+<year>2023</year>
+<volume>abs/2307.13160</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.13160</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-13160</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-14888" mdate="2023-10-30">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Tom Rainforth</author>
+<title>Beyond Bayesian Model Averaging over Paths in Probabilistic Programs with Stochastic Support.</title>
+<year>2023</year>
+<volume>abs/2310.14888</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.14888</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-14888</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-00594" mdate="2023-11-07">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Tom Rainforth</author>
+<title>Rethinking Variational Inference for Probabilistic Programs with Stochastic Support.</title>
+<year>2023</year>
+<volume>abs/2311.00594</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.00594</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-00594</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/MakZO22" mdate="2022-12-07">
+<author pid="259/1517">Carol Mak</author>
+<author orcid="0000-0001-5158-2002" pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Nonparametric Involutive Markov Chain Monte Carlo.</title>
+<pages>14802-14859</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/mak22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#MakZO22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LiMO22" mdate="2025-03-03">
+<author pid="315/4682">Guanyan Li</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Probabilistic Verification Beyond Context-Freeness.</title>
+<pages>33:1-33:13</pages>
+<year>2022</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/3531130.3533351</ee>
+<crossref>conf/lics/2022</crossref>
+<url>db/conf/lics/lics2022.html#LiMO22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ReicheltOR22" mdate="2024-01-08">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Thomas Rainforth</author>
+<title>Rethinking Variational Inference for Probabilistic Programs with Stochastic Support.</title>
+<year>2022</year>
+<crossref>conf/nips/2022</crossref>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/62203a74e233e933b160711e791e1a02-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#ReicheltOR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/JonesOR22" mdate="2023-03-21">
+<author orcid="0000-0003-1762-5405" pid="188/6104">Eddie Jones</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<title>CycleQ: an efficient basis for cyclic equational reasoning.</title>
+<pages>395-409</pages>
+<year>2022</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3519939.3523731</ee>
+<crossref>conf/pldi/2022</crossref>
+<url>db/conf/pldi/pldi2022.html#JonesOR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BeutnerOZ22" mdate="2025-01-19">
+<author pid="244/2160">Raven Beutner</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0001-5158-2002" pid="249/5578">Fabian Zaiser</author>
+<title>Guaranteed bounds for posterior inference in universal probabilistic programming.</title>
+<pages>536-551</pages>
+<year>2022</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3519939.3523721</ee>
+<ee>https://www.wikidata.org/entity/Q130842141</ee>
+<crossref>conf/pldi/2022</crossref>
+<url>db/conf/pldi/pldi2022.html#BeutnerOZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/ReicheltGOR22" mdate="2022-10-15">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="211/7991">Adam Golinski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Tom Rainforth</author>
+<title>Expectation programming: Adapting probabilistic programming systems to estimate expectations efficiently.</title>
+<pages>1676-1685</pages>
+<year>2022</year>
+<booktitle>UAI</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v180/reichelt22a.html</ee>
+<crossref>conf/uai/2022</crossref>
+<url>db/conf/uai/uai2022.html#ReicheltGOR22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-02948" mdate="2022-04-12">
+<author pid="244/2160">Raven Beutner</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="249/5578">Fabian Zaiser</author>
+<title>Guaranteed Bounds for Posterior Inference in Universal Probabilistic Programming.</title>
+<year>2022</year>
+<volume>abs/2204.02948</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.02948</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-02948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-01100" mdate="2022-11-04">
+<author pid="259/1517">Carol Mak</author>
+<author pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Nonparametric Involutive Markov Chain Monte Carlo.</title>
+<year>2022</year>
+<volume>abs/2211.01100</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.01100</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-01100</url>
+</article>
+</r>
+<r><article key="journals/tocl/BroadbentCOS21" mdate="2021-09-01">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0001-5936-240X" pid="21/858">Olivier Serre</author>
+<title>Higher-order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.</title>
+<pages>12:1-12:37</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3452917</ee>
+<url>db/journals/tocl/tocl22.html#BroadbentCOS21</url>
+</article>
+</r>
+<r><article key="journals/tocl/BroadbentCHMOS21" mdate="2025-03-03">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Collapsible Pushdown Parity Games.</title>
+<pages>16:1-16:51</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3457214</ee>
+<ee>https://www.wikidata.org/entity/Q130860102</ee>
+<url>db/journals/tocl/tocl22.html#BroadbentCHMOS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/MakOPW21" mdate="2024-08-28">
+<author orcid="0000-0002-6512-2864" pid="259/1517">Carol Mak</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-8192-0321" pid="162/5078">Hugo Paquet</author>
+<author orcid="0000-0002-2807-8462" pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Densities of Almost Surely Terminating Probabilistic Programs are Differentiable Almost Everywhere.</title>
+<pages>432-461</pages>
+<year>2021</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-72019-3_16</ee>
+<crossref>conf/esop/2021</crossref>
+<url>db/conf/esop/esop2021.html#MakOPW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/MakZO21" mdate="2021-10-14">
+<author pid="259/1517">Carol Mak</author>
+<author orcid="0000-0001-5158-2002" pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Nonparametric Hamiltonian Monte Carlo.</title>
+<pages>7336-7347</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/mak21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#MakZO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/BurnORW21" mdate="2024-08-28">
+<author pid="200/7840">Toby Cathcart Burn</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.</title>
+<pages>1-13</pages>
+<year>2021</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS52264.2021.9470527</ee>
+<crossref>conf/lics/2021</crossref>
+<url>db/conf/lics/lics2021.html#BurnORW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Kenyon-RobertsO21" mdate="2021-07-09">
+<author pid="286/1043">Andrew Kenyon-Roberts</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.</title>
+<pages>1-13</pages>
+<year>2021</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS52264.2021.9470550</ee>
+<crossref>conf/lics/2021</crossref>
+<url>db/conf/lics/lics2021.html#Kenyon-RobertsO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BeutnerO21" mdate="2025-01-19">
+<author orcid="0000-0001-6234-5651" pid="244/2160">Raven Beutner</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>On probabilistic termination of functional programs with continuous distributions.</title>
+<pages>1312-1326</pages>
+<year>2021</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3453483.3454111</ee>
+<ee>https://www.wikidata.org/entity/Q130955196</ee>
+<crossref>conf/pldi/2021</crossref>
+<url>db/conf/pldi/pldi2021.html#BeutnerO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smt/ZaiserO21" mdate="2023-03-10">
+<author pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Abstract: The Extended Theory of Trees and Algebraic (Co)datatypes.</title>
+<pages>65</pages>
+<year>2021</year>
+<booktitle>SMT</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2908/abstract2.pdf</ee>
+<crossref>conf/smt/2021</crossref>
+<url>db/conf/smt/smt2021.html#ZaiserO21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-11164" mdate="2021-02-24">
+<author pid="286/1043">Andrew Kenyon-Roberts</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.</title>
+<year>2021</year>
+<volume>abs/2102.11164</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.11164</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-11164</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-04990" mdate="2021-04-19">
+<author pid="244/2160">Raven Beutner</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>On Probabilistic Termination of Functional Programs with Continuous Distributions.</title>
+<year>2021</year>
+<volume>abs/2104.04990</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.04990</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-04990</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-14175" mdate="2024-08-28">
+<author pid="200/7840">Toby Cathcart Burn</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="16/9032">Steven J. Ramsay</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.</title>
+<year>2021</year>
+<volume>abs/2104.14175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.14175</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-14175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-04953" mdate="2021-06-15">
+<author pid="294/8807">Tim Reichelt</author>
+<author pid="211/7991">Adam Golinski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="166/1198">Tom Rainforth</author>
+<title>Expectation Programming.</title>
+<year>2021</year>
+<volume>abs/2106.04953</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.04953</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-04953</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-10238" mdate="2021-06-29">
+<author pid="259/1517">Carol Mak</author>
+<author pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Nonparametric Hamiltonian Monte Carlo.</title>
+<year>2021</year>
+<volume>abs/2106.10238</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.10238</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-10238</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-12553" mdate="2021-11-26">
+<author pid="188/6104">Eddie Jones</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="16/9032">Steven J. Ramsay</author>
+<title>CycleQ: An Efficient Basis for Cyclic Equational Reasoning.</title>
+<year>2021</year>
+<volume>abs/2111.12553</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.12553</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-12553</url>
+</article>
+</r>
+<r><inproceedings key="conf/fscd/Alvarez-Picallo20" mdate="2020-06-30">
+<author orcid="0000-0001-9843-3768" pid="230/4274">Mario Alvarez-Picallo</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Difference &#955;-Calculus: A Language for Difference Categories.</title>
+<pages>32:1-32:21</pages>
+<year>2020</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2020.32</ee>
+<crossref>conf/fscd/2020</crossref>
+<url>db/conf/fscd/fscd2020.html#Alvarez-Picallo20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-2005-06659" mdate="2021-10-14">
+<author orcid="0000-0001-5158-2002" pid="249/5578">Fabian Zaiser</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Extended Theory of Trees and Algebraic (Co)datatypes.</title>
+<booktitle>VPT/HCVS@ETAPS</booktitle>
+<year>2020</year>
+<pages>167-196</pages>
+<crossref>journals/corr/abs-2008-02483</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.320.14</ee>
+<ee type="oa">https://arxiv.org/abs/2005.06659</ee>
+<url>db/series/eptcs/eptcs320.html#abs-2005-06659</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-08241" mdate="2020-03-02">
+<author pid="259/1517">Carol Mak</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>A Differential-form Pullback Programming Language for Higher-order Reverse-mode Automatic Differentiation.</title>
+<year>2020</year>
+<volume>abs/2002.08241</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.08241</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-08241</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03924" mdate="2024-08-28">
+<author pid="259/1517">Carol Mak</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="162/5078">Hugo Paquet</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>Densities of almost-surely terminating probabilistic programs are differentiable almost everywhere.</title>
+<year>2020</year>
+<volume>abs/2004.03924</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03924</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03924</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-06361" mdate="2020-10-20">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author pid="59/4321">Matthew Hague</author>
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Collapsible Pushdown Parity Games.</title>
+<year>2020</year>
+<volume>abs/2010.06361</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.06361</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-06361</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-06366" mdate="2020-10-20">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Higher-Order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.</title>
+<year>2020</year>
+<volume>abs/2010.06366</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.06366</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-06366</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14476" mdate="2020-12-01">
+<author pid="230/4274">Mario Alvarez-Picallo</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Difference Lambda-Calculus: A Language for Difference Categories.</title>
+<year>2020</year>
+<volume>abs/2011.14476</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14476</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14476</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-13333" mdate="2021-01-11">
+<author pid="72/7705-1">Martin Lester 0001</author>
+<author pid="118/3450">Robin P. Neatherway</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="16/9032">Steven J. Ramsay</author>
+<title>Verifying Liveness Properties of ML Programs.</title>
+<year>2020</year>
+<volume>abs/2012.13333</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.13333</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-13333</url>
+</article>
+</r>
+<r><article key="journals/toplas/Cotton-BarrattM19" mdate="2025-03-03">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>ML, Visibly Pushdown Class Memory Automata, and Extended Branching Vector Addition Systems with States.</title>
+<pages>11:1-11:38</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3310338</ee>
+<ee>https://www.wikidata.org/entity/Q128022771</ee>
+<url>db/journals/toplas/toplas41.html#Cotton-BarrattM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/Alvarez-Picallo19" mdate="2019-10-19">
+<author pid="230/4274">Mario Alvarez-Picallo</author>
+<author pid="230/4134">Alex Eyers-Taylor</author>
+<author orcid="0000-0003-0602-1657" pid="183/2751">Michael Peyton Jones</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fixing Incremental Computation - Derivatives of Fixpoints, and the Recursive Semantics of Datalog.</title>
+<pages>525-552</pages>
+<year>2019</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17184-1_19</ee>
+<crossref>conf/esop/2019</crossref>
+<url>db/conf/esop/esop2019.html#Alvarez-Picallo19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/Alvarez-Picallo19" mdate="2019-08-20">
+<author pid="230/4274">Mario Alvarez-Picallo</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Change Actions: Models of Generalised Differentiation.</title>
+<pages>45-61</pages>
+<year>2019</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17127-8_3</ee>
+<crossref>conf/fossacs/2019</crossref>
+<url>db/conf/fossacs/fossacs2019.html#Alvarez-Picallo19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jelia/MorelCO19" mdate="2019-05-07">
+<author pid="222/3054">Rolf Morel</author>
+<author pid="153/8346">Andrew Cropper</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Typed Meta-interpretive Learning of Logic Programs.</title>
+<pages>198-213</pages>
+<year>2019</year>
+<booktitle>JELIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-19570-0_13</ee>
+<crossref>conf/jelia/2019</crossref>
+<url>db/conf/jelia/jelia2019.html#MorelCO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/OngW19" mdate="2024-08-28">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>HoCHC: A Refutationally Complete and Semantically Invariant System of Higher-order Logic Modulo Theories.</title>
+<pages>1-14</pages>
+<year>2019</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2019.8785784</ee>
+<crossref>conf/lics/2019</crossref>
+<url>db/conf/lics/lics2019.html#OngW19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-05465" mdate="2019-05-21">
+<author pid="230/4274">Mario Alvarez-Picallo</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Change Actions: Models of Generalised Differentiation.</title>
+<year>2019</year>
+<volume>abs/1902.05465</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.05465</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-05465</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-10396" mdate="2024-08-28">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="180/8364-1">Dominik Wagner 0001</author>
+<title>HoCHC: a Refutationally-complete and Semantically-invariant System of Higher-order Logic Modulo Theories.</title>
+<year>2019</year>
+<volume>abs/1902.10396</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.10396</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-10396</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12634" mdate="2019-10-31">
+<author pid="251/9098">Anne Schreuder</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Polynomial Probabilistic Invariants and the Optional Stopping Theorem.</title>
+<year>2019</year>
+<volume>abs/1910.12634</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12634</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12634</url>
+</article>
+</r>
+<r><article key="journals/ai/IanovskiO18" mdate="2020-10-26">
+<author orcid="0000-0001-9411-2529" pid="51/9924">Egor Ianovski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>The complexity of decision problems about equilibria in two-player Boolean games.</title>
+<pages>1-15</pages>
+<year>2018</year>
+<volume>261</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2018.04.006</ee>
+<url>db/journals/ai/ai261.html#IanovskiO18</url>
+</article>
+</r>
+<r><article key="journals/iandc/IanovskiO18" mdate="2020-11-03">
+<author orcid="0000-0001-9411-2529" pid="51/9924">Egor Ianovski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Simulating cardinal preferences in Boolean games: A proof technique.</title>
+<pages>488-518</pages>
+<year>2018</year>
+<volume>261</volume>
+<journal>Inf. Comput.</journal>
+<ee>https://doi.org/10.1016/j.ic.2017.09.008</ee>
+<url>db/journals/iandc/iandc261.html#IanovskiO18</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/BurnOR18" mdate="2021-10-14">
+<author pid="200/7840">Toby Cathcart Burn</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<title>Higher-order constrained horn clauses for verification.</title>
+<pages>11:1-11:28</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3158099</ee>
+<url>db/journals/pacmpl/pacmpl2.html#BurnOR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/lics/TsukadaAO18" mdate="2025-01-19">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author pid="00/2793">Kazuyuki Asada</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Species, Profunctors and Taylor Expansion Weighted by SMCC: A Unified Framework for Modelling Nondeterministic, Probabilistic and Quantum Programs.</title>
+<pages>889-898</pages>
+<year>2018</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/3209108.3209157</ee>
+<ee>https://www.wikidata.org/entity/Q130925617</ee>
+<crossref>conf/lics/2018</crossref>
+<url>db/conf/lics/lics2018.html#TsukadaAO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/DuanTDO18" mdate="2018-06-26">
+<author pid="95/3691">Zhao Duan</author>
+<author pid="00/5365">Cong Tian</author>
+<author pid="39/6857">Zhenhua Duan</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>InterpChecker: Reducing State Space via Interpolations - (Competition Contribution).</title>
+<pages>432-436</pages>
+<year>2018</year>
+<booktitle>TACAS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89963-3_27</ee>
+<crossref>conf/tacas/2018-2</crossref>
+<url>db/conf/tacas/tacas2018-2.html#DuanTDO18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-03598" mdate="2021-01-23">
+<author orcid="0000-0001-5153-8140" pid="03/9537">Long Pham</author>
+<author pid="16/9032">Steven J. Ramsay</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Defunctionalization of Higher-Order Constrained Horn Clauses.</title>
+<year>2018</year>
+<volume>abs/1810.03598</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.03598</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-03598</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-06069" mdate="2018-11-30">
+<author pid="230/4274">Mario Alvarez-Picallo</author>
+<author pid="230/4134">Alex Eyers-Taylor</author>
+<author pid="183/2751">Michael Peyton Jones</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fixing Incremental Computation: Derivatives of Fixpoints, and the Recursive Semantics of Datalog.</title>
+<year>2018</year>
+<volume>abs/1811.06069</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.06069</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-06069</url>
+</article>
+</r>
+<r><article key="journals/tocl/HagueMOS17" mdate="2025-03-03">
+<author pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0001-5936-240X" pid="21/858">Olivier Serre</author>
+<title>Collapsible Pushdown Automata and Recursion Schemes.</title>
+<pages>25:1-25:42</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3091122</ee>
+<url>db/journals/tocl/tocl18.html#HagueMOS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/csfw/DOsualdoOT17" mdate="2023-03-24">
+<author orcid="0000-0002-9179-5827" pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<title>Deciding Secrecy of Security Protocols for an Unbounded Number of Sessions: The Case of Depth-Bounded Processes.</title>
+<pages>464-480</pages>
+<year>2017</year>
+<booktitle>CSF</booktitle>
+<ee>https://doi.org/10.1109/CSF.2017.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSF.2017.32</ee>
+<crossref>conf/csfw/2017</crossref>
+<url>db/conf/csfw/csf2017.html#DOsualdoOT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/Cotton-BarrattM17" mdate="2025-03-03">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>ML and Extended Branching VASS.</title>
+<pages>314-340</pages>
+<year>2017</year>
+<booktitle>ESOP</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54434-1_12</ee>
+<crossref>conf/esop/2017</crossref>
+<url>db/conf/esop/esop2017.html#Cotton-BarrattM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icla/Ong17" mdate="2017-05-21">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Automata, Logic and Games for the &#955;-Calculus.</title>
+<pages>23-26</pages>
+<year>2017</year>
+<booktitle>ICLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54069-5_3</ee>
+<crossref>conf/icla/2017</crossref>
+<url>db/conf/icla/icla2017.html#Ong17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/TianDDO17" mdate="2023-03-24">
+<author pid="00/5365">Cong Tian</author>
+<author pid="95/3691">Zhao Duan</author>
+<author pid="39/6857">Zhenhua Duan</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>More effective interpolations in software model checking.</title>
+<pages>183-193</pages>
+<year>2017</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2017.8115631</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASE.2017.8115631</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3155589</ee>
+<crossref>conf/kbse/2017</crossref>
+<url>db/conf/kbse/ase2017.html#TianDDO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong17" mdate="2023-03-24">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Quantitative semantics of the lambda calculus: Some generalisations of the relational model.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2017.8005064</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005064</ee>
+<crossref>conf/lics/2017</crossref>
+<url>db/conf/lics/lics2017.html#Ong17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/TsukadaAO17" mdate="2023-03-24">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author pid="00/2793">Kazuyuki Asada</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Generalised species of rigid resource terms.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2017.8005093</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005093</ee>
+<crossref>conf/lics/2017</crossref>
+<url>db/conf/lics/lics2017.html#TsukadaAO17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icfem/2017" mdate="2019-05-14">
+<editor pid="39/6857">Zhenhua Duan</editor>
+<editor pid="o/CHLukeOng">Luke Ong</editor>
+<title>Formal Methods and Software Engineering - 19th International Conference on Formal Engineering Methods, ICFEM 2017, Xi'an, China, November 13-17, 2017, Proceedings</title>
+<booktitle>ICFEM</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10610</volume>
+<isbn>978-3-319-68689-9</isbn>
+<isbn>978-3-319-68690-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-68690-5</ee>
+<url>db/conf/icfem/icfem2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BurnOR17" mdate="2018-08-13">
+<author pid="200/7840">Toby Cathcart Burn</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="16/9032">Steven J. Ramsay</author>
+<title>Higher-Order Constrained Horn Clauses and Refinement Types.</title>
+<year>2017</year>
+<volume>abs/1705.06216</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.06216</ee>
+<url>db/journals/corr/corr1705.html#BurnOR17</url>
+</article>
+</r>
+<r><article key="journals/jcs/LesterOS16" mdate="2023-08-28">
+<author orcid="0000-0002-2323-1771" pid="72/7705-1">Martin Mariusz Lester</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</author>
+<author pid="91/504">Max Sch&#228;fer</author>
+<title>Information flow analysis for a dynamically typed language with staged metaprogramming.</title>
+<pages>541-582</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>J. Comput. Secur.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/JCS-160557</ee>
+<ee>https://www.wikidata.org/entity/Q114944790</ee>
+<url>db/journals/jcs/jcs24.html#LesterOS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/DOsualdoO16" mdate="2020-10-25">
+<author orcid="0000-0002-9179-5827" pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On Hierarchical Communication Topologies in the \pi -calculus.</title>
+<pages>149-175</pages>
+<year>2016</year>
+<booktitle>ESOP</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49498-1_7</ee>
+<crossref>conf/esop/2016</crossref>
+<url>db/conf/esop/esop2016.html#DOsualdoO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/TsukadaO16" mdate="2021-08-11">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Plays as Resource Terms via Non-idempotent Intersection Types.</title>
+<pages>237-246</pages>
+<year>2016</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/2933575.2934553</ee>
+<ee>https://ieeexplore.ieee.org/document/8576417</ee>
+<crossref>conf/lics/2016</crossref>
+<url>db/conf/lics/lics2016.html#TsukadaO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/HagueKO16" mdate="2021-06-23">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author pid="59/9638">Jonathan Kochems</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Unboundedness and downward closures of higher-order pushdown automata.</title>
+<pages>151-163</pages>
+<year>2016</year>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/2837614.2837627</ee>
+<ee>https://doi.org/10.1145/2914770.2837627</ee>
+<crossref>conf/popl/2016</crossref>
+<url>db/conf/popl/popl2016.html#HagueKO16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DOsualdoO16" mdate="2018-08-13">
+<author pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On Hierarchical Communication Topologies in the pi-calculus.</title>
+<year>2016</year>
+<volume>abs/1601.01725</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.01725</ee>
+<url>db/journals/corr/corr1601.html#DOsualdoO16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/shonan-reports/KobayashiOW16" mdate="2021-03-04">
+<author pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author pid="27/7046">Igor Walukiewicz</author>
+<title>Higher-Order Model Checking (NII Shonan Meeting 2016-4).</title>
+<year>2016</year>
+<volume>2016</volume>
+<journal>NII Shonan Meet. Rep.</journal>
+<ee type="oa">https://shonan.nii.ac.jp/seminars/078/</ee>
+<url>db/journals/shonan-reports/shonan-reports2016.html#KobayashiOW16</url>
+</article>
+</r>
+<r><article key="journals/tcs/OngQ15" mdate="2021-02-17">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="q/RuyQueiroz">Ruy J. G. B. de Queiroz</author>
+<title>Logic, Language, Information and Computation (WoLLIC 2012).</title>
+<pages>1-2</pages>
+<year>2015</year>
+<volume>603</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2015.07.011</ee>
+<url>db/journals/tcs/tcs603.html#OngQ15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fossacs/Cotton-BarrattH15" mdate="2025-03-03">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author pid="63/5147-2">David Hopkins 0002</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fragments of ML Decidable by Nested Data Class Memory Automata.</title>
+<pages>249-263</pages>
+<year>2015</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46678-0_16</ee>
+<crossref>conf/fossacs/2015</crossref>
+<url>db/conf/fossacs/fossacs2015.html#Cotton-BarrattH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lata/Cotton-BarrattMO15" mdate="2025-03-03">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Weak and Nested Class Memory Automata.</title>
+<pages>188-199</pages>
+<year>2015</year>
+<booktitle>LATA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15579-1_14</ee>
+<crossref>conf/lata/2015</crossref>
+<url>db/conf/lata/lata2015.html#Cotton-BarrattMO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong15" mdate="2023-03-24">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</author>
+<title>Higher-Order Model Checking: An Overview.</title>
+<pages>1-15</pages>
+<year>2015</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2015.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2015.9</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2876515</ee>
+<crossref>conf/lics/2015</crossref>
+<url>db/conf/lics/lics2015.html#Ong15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/TsukadaO15" mdate="2023-03-24">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Nondeterminism in Game Semantics via Sheaves.</title>
+<pages>220-231</pages>
+<year>2015</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2015.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2015.30</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2876536</ee>
+<crossref>conf/lics/2015</crossref>
+<url>db/conf/lics/lics2015.html#TsukadaO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/HagueLO15" mdate="2025-01-19">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony Widjaja Lin</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach.</title>
+<pages>1-19</pages>
+<year>2015</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2814270.2814288</ee>
+<ee>https://doi.org/10.1145/2858965.2814288</ee>
+<ee>https://www.wikidata.org/entity/Q130990236</ee>
+<crossref>conf/oopsla/2015</crossref>
+<url>db/conf/oopsla/oopsla2015.html#HagueLO15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Cotton-BarrattHMO15" mdate="2022-04-21">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author pid="63/5147-2">David Hopkins 0002</author>
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fragments of ML Decidable by Nested Data Class Memory Automata.</title>
+<year>2015</year>
+<volume>abs/1501.04511</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.04511</ee>
+<url>db/journals/corr/corr1501.html#Cotton-BarrattHMO15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DOsualdoO15" mdate="2018-08-13">
+<author pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>A Type System for proving Depth Boundedness in the pi-calculus.</title>
+<year>2015</year>
+<volume>abs/1502.00944</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.00944</ee>
+<url>db/journals/corr/corr1502.html#DOsualdoO15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HagueKO15" mdate="2018-08-13">
+<author pid="59/4321">Matthew Hague</author>
+<author pid="59/9638">Jonathan Kochems</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Unboundedness and Downwards Closures of Higher-Order Pushdown Automata.</title>
+<year>2015</year>
+<volume>abs/1507.03304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.03304</ee>
+<url>db/journals/corr/corr1507.html#HagueKO15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Ong15a" mdate="2018-08-13">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Normalisation by Traversals.</title>
+<year>2015</year>
+<volume>abs/1511.02629</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.02629</ee>
+<url>db/journals/corr/corr1511.html#Ong15a</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/TsukadaO14" mdate="2018-11-06">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Compositional higher-order model checking via <i>&#969;</i>-regular games over B&#246;hm trees.</title>
+<pages>78:1-78:10</pages>
+<year>2014</year>
+<booktitle>CSL-LICS</booktitle>
+<ee>https://doi.org/10.1145/2603088.2603133</ee>
+<crossref>conf/csl/2014</crossref>
+<url>db/conf/csl/csl2014.html#TsukadaO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/IanovskiO14" mdate="2021-02-09">
+<author pid="51/9924">Egor Ianovski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>EGuaranteeNash for Boolean Games Is NEXP-Hard.</title>
+<year>2014</year>
+<booktitle>KR</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/KR/KR14/paper/view/8002</ee>
+<crossref>conf/kr/2014</crossref>
+<url>db/conf/kr/kr2014.html#IanovskiO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/RamsayNO14" mdate="2021-10-14">
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<author pid="118/3450">Robin P. Neatherway</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A type-directed abstraction refinement approach to higher-order model checking.</title>
+<pages>61-72</pages>
+<year>2014</year>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/2535838.2535873</ee>
+<ee>https://doi.org/10.1145/2578855.2535873</ee>
+<crossref>conf/popl/2014</crossref>
+<url>db/conf/popl/popl2014.html#RamsayNO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/NeatherwayO14" mdate="2025-01-19">
+<author pid="118/3450">Robin P. Neatherway</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>TravMC2: higher-order model checking for alternating parity tree automata.</title>
+<pages>129-132</pages>
+<year>2014</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1145/2632362.2632381</ee>
+<ee>https://www.wikidata.org/entity/Q130970061</ee>
+<crossref>conf/spin/2014</crossref>
+<url>db/conf/spin/spin2014.html#NeatherwayO14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KochemsO14" mdate="2018-08-13">
+<author pid="59/9638">Jonathan Kochems</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Safety verification of asynchronous pushdown systems with shaped stacks.</title>
+<year>2014</year>
+<volume>abs/1401.6325</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.6325</ee>
+<url>db/journals/corr/corr1401.html#KochemsO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cotton-BarrattMO14" mdate="2018-08-13">
+<author pid="151/6552">Conrad Cotton-Barratt</author>
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Weak and Nested Class Memory Automata.</title>
+<year>2014</year>
+<volume>abs/1409.1136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.1136</ee>
+<url>db/journals/corr/corr1409.html#Cotton-BarrattMO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TsukadaO14" mdate="2018-08-13">
+<author pid="97/7182">Takeshi Tsukada</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Innocent Strategies are Sheaves over Plays - Deterministic, Non-deterministic and Probabilistic Innocence.</title>
+<year>2014</year>
+<volume>abs/1409.2764</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.2764</ee>
+<url>db/journals/corr/corr1409.html#TsukadaO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KochemsO14a" mdate="2018-08-13">
+<author pid="59/9638">Jonathan Kochems</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Decidable Models of Recursive Asynchronous Concurrency.</title>
+<year>2014</year>
+<volume>abs/1410.8852</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1410.8852</ee>
+<url>db/journals/corr/corr1410.html#KochemsO14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HagueLO14" mdate="2018-08-13">
+<author pid="59/4321">Matthew Hague</author>
+<author pid="38/2655">Anthony Widjaja Lin</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>Detecting Redundant CSS Rules in HTML5 Applications: A Tree-Rewriting Approach.</title>
+<year>2014</year>
+<volume>abs/1412.5143</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.5143</ee>
+<url>db/journals/corr/corr1412.html#HagueLO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/KochemsO13" mdate="2017-06-02">
+<author pid="59/9638">Jonathan Kochems</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Safety Verification of Asynchronous Pushdown Systems with Shaped Stacks.</title>
+<pages>288-302</pages>
+<year>2013</year>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40184-8_21</ee>
+<crossref>conf/concur/2013</crossref>
+<url>db/conf/concur/concur2013.html#KochemsO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csfw/0001OS13" mdate="2023-03-24">
+<author orcid="0000-0002-2323-1771" pid="72/7705-1">Martin Lester 0001</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</author>
+<author pid="91/504">Max Sch&#228;fer</author>
+<title>Information Flow Analysis for a Dynamically Typed Language with Staged Metaprogramming.</title>
+<pages>209-223</pages>
+<year>2013</year>
+<booktitle>CSF</booktitle>
+<ee>https://doi.org/10.1109/CSF.2013.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSF.2013.21</ee>
+<crossref>conf/csfw/2013</crossref>
+<url>db/conf/csfw/csf2013.html#0001OS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lata/Ong13" mdate="2017-06-04">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</author>
+<title>Recursion Schemes, Collapsible Pushdown Automata and Higher-Order Model Checking.</title>
+<pages>13-41</pages>
+<year>2013</year>
+<crossref>conf/lata/2013</crossref>
+<booktitle>LATA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37064-9_3</ee>
+<url>db/conf/lata/lata2013.html#Ong13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/DOsualdoKO13" mdate="2020-10-25">
+<author orcid="0000-0002-9179-5827" pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="59/9638">Jonathan Kochems</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Automatic Verification of Erlang-Style Concurrency.</title>
+<pages>454-476</pages>
+<year>2013</year>
+<booktitle>SAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38856-9_24</ee>
+<crossref>conf/sas/2013</crossref>
+<url>db/conf/sas/sas2013.html#DOsualdoKO13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/birthday/2013abramsky" mdate="2019-05-14">
+<editor pid="94/5818">Bob Coecke</editor>
+<editor orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</editor>
+<editor pid="p/PPanangaden">Prakash Panangaden</editor>
+<title>Computation, Logic, Games, and Quantum Foundations. The Many Facets of Samson Abramsky - Essays Dedicated to Samson Abramsky on the Occasion of His 60th Birthday</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>7860</volume>
+<ee>https://doi.org/10.1007/978-3-642-38164-5</ee>
+<isbn>978-3-642-38163-8</isbn>
+<booktitle>Computation, Logic, Games, and Quantum Foundations</booktitle>
+<url>db/conf/birthday/abramsky2013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-3178" mdate="2018-08-13">
+<author pid="72/7705-1">Martin Lester 0001</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="91/504">Max Sch&#228;fer</author>
+<title>Information Flow Analysis for a Dynamically Typed Functional Language with Staged Metaprogramming</title>
+<ee type="oa">http://arxiv.org/abs/1302.3178</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.3178</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-3178</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-2201" mdate="2018-08-13">
+<author pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="59/9638">Jonathan Kochems</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Automatic Verification of Erlang-Style Concurrency</title>
+<ee type="oa">http://arxiv.org/abs/1303.2201</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.2201</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-2201</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/IanovskiO13" mdate="2018-08-13">
+<author pid="51/9924">Egor Ianovski</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<title>EGuaranteeNash for Boolean Games is NEXP-Hard.</title>
+<year>2013</year>
+<volume>abs/1312.4114</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.4114</ee>
+<url>db/journals/corr/corr1312.html#IanovskiO13</url>
+</article>
+</r>
+<r><inproceedings key="conf/agere/DOsualdoKO12" mdate="2020-10-25">
+<author orcid="0000-0002-9179-5827" pid="127/6548">Emanuele D'Osualdo</author>
+<author pid="59/9638">Jonathan Kochems</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Luke Ong</author>
+<title>Soter: an automatic safety verifier for erlang.</title>
+<pages>137-140</pages>
+<year>2012</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/2414639.2414658</ee>
+<crossref>conf/agere/2012</crossref>
+<url>db/conf/agere/agere2012.html#DOsualdoKO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/HopkinsMO12" mdate="2025-03-03">
+<author pid="63/5147-2">David Hopkins 0002</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Hector: An Equivalence Checker for a Higher-Order Fragment of ML.</title>
+<pages>774-780</pages>
+<year>2012</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31424-7_63</ee>
+<crossref>conf/cav/2012</crossref>
+<url>db/conf/cav/cav2012.html#HopkinsMO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/OngT12" mdate="2017-06-04">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="97/7182">Takeshi Tsukada</author>
+<title>Two-Level Game Semantics, Intersection Types, and Recursion Schemes.</title>
+<pages>325-336</pages>
+<year>2012</year>
+<booktitle>ICALP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31585-5_31</ee>
+<crossref>conf/icalp/2012-2</crossref>
+<url>db/conf/icalp/icalp2012-2.html#OngT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/NeatherwayRO12" mdate="2021-10-14">
+<author pid="118/3450">Robin P. Neatherway</author>
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A traversal-based algorithm for higher-order model checking.</title>
+<pages>353-364</pages>
+<year>2012</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/2364527.2364578</ee>
+<ee>https://doi.org/10.1145/2398856.2364578</ee>
+<crossref>conf/icfp/2012</crossref>
+<url>db/conf/icfp/icfp2012.html#NeatherwayRO12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/wollic/2012" mdate="2021-06-01">
+<editor orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<editor pid="q/RuyQueiroz">Ruy J. G. B. de Queiroz</editor>
+<title>Logic, Language, Information and Computation - 19th International Workshop, WoLLIC 2012, Buenos Aires, Argentina, September 3-6, 2012. Proceedings</title>
+<volume>7456</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-32621-9</ee>
+<ee>https://www.wikidata.org/entity/Q104587957</ee>
+<isbn>978-3-642-32620-2</isbn>
+<booktitle>WoLLIC</booktitle>
+<url>db/conf/wollic/wollic2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/corr/abs-1109-5267" mdate="2020-06-25">
+<author orcid="0000-0002-0537-0604" pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Complexity of Model Checking Recursion Schemes for Fragments of the Modal Mu-Calculus</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-7(4:9)2011</ee>
+<ee type="oa">http://arxiv.org/abs/1109.5267</ee>
+<year>2011</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>7</volume>
+<number>4</number>
+<url>db/journals/lmcs/lmcs7.html#abs-1109-5267</url>
+</article>
+</r>
+<r><article key="journals/iandc/HagueO11" mdate="2021-02-12">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A saturation method for the modal &#956;-calculus over pushdown systems.</title>
+<pages>799-821</pages>
+<year>2011</year>
+<volume>209</volume>
+<journal>Inf. Comput.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1016/j.ic.2010.12.004</ee>
+<url>db/journals/iandc/iandc209.html#HagueO11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/HopkinsMO11" mdate="2025-03-03">
+<author pid="63/5147-2">David Hopkins 0002</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A Fragment of ML Decidable by Visibly Pushdown Automata.</title>
+<pages>149-161</pages>
+<year>2011</year>
+<booktitle>ICALP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22012-8_11</ee>
+<crossref>conf/icalp/2011-2</crossref>
+<url>db/conf/icalp/icalp2011-2.html#HopkinsMO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/OngR11" mdate="2021-10-14">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-0825-8386" pid="16/9032">Steven J. Ramsay</author>
+<title>Verifying higher-order functional programs with pattern-matching algebraic data types.</title>
+<pages>587-598</pages>
+<year>2011</year>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/1926385.1926453</ee>
+<ee>https://doi.org/10.1145/1925844.1926453</ee>
+<crossref>conf/popl/2011</crossref>
+<url>db/conf/popl/popl2011.html#OngR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/KochemsO11" mdate="2018-08-23">
+<author pid="59/9638">Jonathan Kochems</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Improved Functional Flow and Reachability Analyses Using Indexed Linear Tree Grammars.</title>
+<pages>187-202</pages>
+<year>2011</year>
+<booktitle>RTA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.RTA.2011.187</ee>
+<crossref>conf/rta/2011</crossref>
+<url>db/conf/rta/rta2011.html#KochemsO11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tase/2011" mdate="2019-10-16">
+<editor pid="39/6857">Zhenhua Duan</editor>
+<editor pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<title>5th IEEE International Symposium on Theoretical Aspects of Software Engineering, TASE 2011, Xi'an, China, 29-31 August 2011</title>
+<isbn>978-1-4577-1487-0</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6041095/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/tase/2011/4506/00/index.html</ee>
+<booktitle>TASE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2011</year>
+<url>db/conf/tase/tase2011.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/tlca/2011" mdate="2019-05-14">
+<editor orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<title>Typed Lambda Calculi and Applications - 10th International Conference, TLCA 2011, Novi Sad, Serbia, June 1-3, 2011. Proceedings</title>
+<volume>6690</volume>
+<year>2011</year>
+<ee>https://doi.org/10.1007/978-3-642-21691-6</ee>
+<isbn>978-3-642-21690-9</isbn>
+<booktitle>TLCA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/tlca/tlca2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/shonan-reports/KobayashiOH11" mdate="2023-03-21">
+<author pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author pid="o/CHLukeOng">Luke Ong</author>
+<author orcid="0000-0002-9201-6864" pid="77/2466">David Van Horn</author>
+<title>Automated Techniques for Higher-Order Program Verification (NII Shonan Meeting 2011-5).</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>NII Shonan Meet. Rep.</journal>
+<ee type="oa">https://shonan.nii.ac.jp/seminars/005/</ee>
+<url>db/journals/shonan-reports/shonan-reports2011.html#KobayashiOH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/lics/BroadbentCOS10" mdate="2023-03-24">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Recursion Schemes and Logical Reflection.</title>
+<pages>120-129</pages>
+<year>2010</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2010.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2010.40</ee>
+<crossref>conf/lics/2010</crossref>
+<url>db/conf/lics/lics2010.html#BroadbentCOS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/HagueO10" mdate="2017-06-15">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Analysing Mu-Calculus Properties of Pushdown Systems.</title>
+<pages>187-192</pages>
+<year>2010</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16164-3_14</ee>
+<crossref>conf/spin/2010</crossref>
+<url>db/conf/spin/spin2010.html#HagueO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/BaslerHKOWZ10" mdate="2020-03-27">
+<author pid="95/3093">G&#233;rard Basler</author>
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0002-6681-5283" pid="k/DanielKroening">Daniel Kroening</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="72/5272">Thomas Wahl</author>
+<author pid="09/7915">Haoxian Zhao</author>
+<title>Boom: Taking Boolean Program Model Checking One Step Further.</title>
+<pages>145-149</pages>
+<year>2010</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-12002-2_11</ee>
+<crossref>conf/tacas/2010</crossref>
+<url>db/conf/tacas/tacas2010.html#BaslerHKOWZ10</url>
+</inproceedings>
+</r>
+<r><incollection key="series/natosec/Ong10" mdate="2017-06-09">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Models of Higher-Order Computation: Recursion Schemes and Collapsible Pushdown Automata.</title>
+<pages>263-299</pages>
+<year>2010</year>
+<booktitle>Logics and Languages for Reliability and Security</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-100-8-263</ee>
+<crossref>series/natosec/25</crossref>
+<url>db/series/natosec/natosec25.html#Ong10</url>
+</incollection>
+</r>
+<r><proceedings key="conf/fossacs/2010" mdate="2022-03-16">
+<editor orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<title>Foundations of Software Science and Computational Structures, 13th International Conference, FOSSACS 2010, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2010, Paphos, Cyprus, March 20-28, 2010. Proceedings</title>
+<volume>6014</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-12032-9</ee>
+<ee>https://www.wikidata.org/entity/Q108045001</ee>
+<isbn>978-3-642-12031-2</isbn>
+<booktitle>FoSSaCS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/fossacs/fossacs2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5906" mdate="2018-08-13">
+<author pid="59/4321">Matthew Hague</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A Saturation Method for the Modal Mu-Calculus with Backwards Modalities over Pushdown Systems</title>
+<ee type="oa">http://arxiv.org/abs/1006.5906</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5906</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5906</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-0901-2399" mdate="2020-06-25">
+<author pid="09/2048">William Blum</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Safe Lambda Calculus</title>
+<ee type="oa">http://arxiv.org/abs/0901.2399</ee>
+<year>2009</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>5</volume>
+<url>db/journals/lmcs/lmcs5.html#abs-0901-2399</url>
+<number>1</number>
+</article>
+</r>
+<r><inproceedings key="conf/cav/HopkinsO09" mdate="2022-04-21">
+<author pid="63/5147-2">David Hopkins 0002</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Homer: A Higher-Order Observational Equivalence Model checkER.</title>
+<pages>654-660</pages>
+<year>2009</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02658-4_51</ee>
+<crossref>conf/cav/2009</crossref>
+<url>db/conf/cav/cav2009.html#HopkinsO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/HagueO09" mdate="2017-06-15">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Winning Regions of Pushdown Parity Games: A Saturation Method.</title>
+<pages>384-398</pages>
+<year>2009</year>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04081-8_26</ee>
+<crossref>conf/concur/2009</crossref>
+<url>db/conf/concur/concur2009.html#HagueO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/BroadbentO09" mdate="2019-02-07">
+<author pid="73/2953">Christopher H. Broadbent</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On Global Model Checking Trees Generated by Higher-Order Recursion Schemes.</title>
+<pages>107-121</pages>
+<year>2009</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-00596-1_9</ee>
+<crossref>conf/fossacs/2009</crossref>
+<url>db/conf/fossacs/fossacs2009.html#BroadbentO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/KobayashiO09" mdate="2019-10-19">
+<author orcid="0000-0002-0537-0604" pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Complexity of Model Checking Recursion Schemes for Fragments of the Modal Mu-Calculus.</title>
+<pages>223-234</pages>
+<year>2009</year>
+<booktitle>ICALP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02930-1_19</ee>
+<crossref>conf/icalp/2009-2</crossref>
+<url>db/conf/icalp/icalp2009-2.html#KobayashiO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/KobayashiO09" mdate="2023-03-24">
+<author orcid="0000-0002-0537-0604" pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A Type System Equivalent to the Modal Mu-Calculus Model Checking of Higher-Order Recursion Schemes.</title>
+<pages>179-188</pages>
+<year>2009</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2009.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2009.29</ee>
+<crossref>conf/lics/2009</crossref>
+<url>db/conf/lics/lics2009.html#KobayashiO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/OngT09" mdate="2023-03-24">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="30/4960">Nikos Tzevelekos</author>
+<title>Functional Reachability.</title>
+<pages>286-295</pages>
+<year>2009</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2009.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2009.48</ee>
+<crossref>conf/lics/2009</crossref>
+<url>db/conf/lics/lics2009.html#OngT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/lmcs/HagueO08" mdate="2020-06-25">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems.</title>
+<year>2008</year>
+<volume>4</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2168/LMCS-4(4:14)2008</ee>
+<url>db/journals/lmcs/lmcs4.html#HagueO08</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/Ong08" mdate="2018-06-26">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Verification of Higher-Order Computation: A Game-Semantic Approach.</title>
+<pages>299-306</pages>
+<year>2008</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-78739-6_23</ee>
+<crossref>conf/esop/2008</crossref>
+<url>db/conf/esop/esop2008.html#Ong08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/CarayolHMOS08" mdate="2023-03-24">
+<author pid="c/ArnaudCarayol">Arnaud Carayol</author>
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author pid="04/926">Antoine Meyer</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Winning Regions of Higher-Order Pushdown Games.</title>
+<pages>193-204</pages>
+<year>2008</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2008.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2008.41</ee>
+<crossref>conf/lics/2008</crossref>
+<url>db/conf/lics/lics2008.html#CarayolHMOS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/HagueMOS08" mdate="2025-03-03">
+<author orcid="0000-0003-4913-3800" pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="21/858">Olivier Serre</author>
+<title>Collapsible Pushdown Automata and Recursion Schemes.</title>
+<pages>452-461</pages>
+<year>2008</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2008.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2008.34</ee>
+<crossref>conf/lics/2008</crossref>
+<url>db/conf/lics/lics2008.html#HagueMOS08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ifipTCS/2008" mdate="2019-09-27">
+<editor pid="a/GiorgioAusiello">Giorgio Ausiello</editor>
+<editor pid="k/JuhaniKarhumaki">Juhani Karhum&#228;ki</editor>
+<editor pid="79/4374">Giancarlo Mauri</editor>
+<editor pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<title>Fifth IFIP International Conference On Theoretical Computer Science - TCS 2008, IFIP 20th World Computer Congress, TC 1, Foundations of Computer Science, September 7-10, 2008, Milano, Italy</title>
+<volume>273</volume>
+<year>2008</year>
+<isbn>978-0-387-09679-7</isbn>
+<booktitle>IFIP TCS</booktitle>
+<publisher>Springer</publisher>
+<series href="db/series/ifip/index.html">IFIP</series>
+<ee>https://doi.org/10.1007/978-0-387-09680-3</ee>
+<url>db/conf/ifipTCS/ifipTCS2008.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0811-1103" mdate="2018-08-13">
+<author pid="59/4321">Matthew Hague</author>
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems</title>
+<ee type="oa">http://arxiv.org/abs/0811.1103</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0811.1103</volume>
+<url>db/journals/corr/corr0811.html#abs-0811-1103</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/SanjabiO07" mdate="2023-09-28">
+<author pid="185/0320">Sam Bakhtiar Sanjabi</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fully abstract semantics of additive aspects by translation.</title>
+<pages>135-148</pages>
+<year>2007</year>
+<crossref>conf/aosd/2007</crossref>
+<booktitle>AOSD</booktitle>
+<ee>https://doi.org/10.1145/1218563.1218579</ee>
+<url>db/conf/aosd/aosd2007.html#SanjabiO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/HagueO07" mdate="2018-06-26">
+<author pid="59/4321">Matthew Hague</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems.</title>
+<pages>213-227</pages>
+<year>2007</year>
+<crossref>conf/fossacs/2007</crossref>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-71389-0_16</ee>
+<url>db/conf/fossacs/fossacs2007.html#HagueO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/Ong07" mdate="2017-06-04">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Hierarchies of Infinite Structures Generated by Pushdown Automata and Recursion Schemes.</title>
+<pages>15-21</pages>
+<year>2007</year>
+<crossref>conf/mfcs/2007</crossref>
+<booktitle>MFCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74456-6_4</ee>
+<url>db/conf/mfcs/mfcs2007.html#Ong07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/BlumO07" mdate="2017-06-05">
+<author pid="09/2048">William Blum</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Safe Lambda Calculus.</title>
+<pages>39-53</pages>
+<year>2007</year>
+<crossref>conf/tlca/2007</crossref>
+<booktitle>TLCA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73228-0_5</ee>
+<url>db/conf/tlca/tlca2007.html#BlumO07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/GhicaMO06" mdate="2025-03-03">
+<author pid="g/DanRGhica">Dan R. Ghica</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Syntactic control of concurrency.</title>
+<pages>234-251</pages>
+<year>2006</year>
+<volume>350</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2005.10.032</ee>
+<url>db/journals/tcs/tcs350.html#GhicaMO06</url>
+</article>
+</r>
+<r><article key="journals/tocl/MurawskiO06" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Fast verification of MLL proof nets via IMLL.</title>
+<pages>473-498</pages>
+<year>2006</year>
+<volume>7</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1149114.1149116</ee>
+<url>db/journals/tocl/tocl7.html#MurawskiO06</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/Ong06" mdate="2017-06-02">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Some Results on a Game-Semantic Approach to Verifying Finitely-Presentable Infinite Structures (Extended Abstract).</title>
+<pages>31-40</pages>
+<year>2006</year>
+<crossref>conf/csl/2006</crossref>
+<booktitle>CSL</booktitle>
+<ee>https://doi.org/10.1007/11874683_2</ee>
+<url>db/conf/csl/csl2006.html#Ong06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong06" mdate="2023-03-24">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On Model-Checking Trees Generated by Higher-Order Recursion Schemes.</title>
+<pages>81-90</pages>
+<year>2006</year>
+<crossref>conf/lics/2006</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2006.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2006.38</ee>
+<url>db/conf/lics/lics2006.html#Ong06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/AehligMO05" mdate="2018-06-26">
+<author pid="59/4489">Klaus Aehlig</author>
+<author pid="70/1676">Jolie G. de Miranda</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Safety Is not a Restriction at Level 2 for String Languages.</title>
+<pages>490-504</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31982-5_31</ee>
+<year>2005</year>
+<crossref>conf/fossacs/2005</crossref>
+<booktitle>FoSSaCS</booktitle>
+<url>db/conf/fossacs/fossacs2005.html#AehligMO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/MurawskiOW05" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="27/7046">Igor Walukiewicz</author>
+<title>Idealized Algol with Ground Recursion, and DPDA Equivalence.</title>
+<pages>917-929</pages>
+<year>2005</year>
+<crossref>conf/icalp/2005</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/11523468_74</ee>
+<url>db/conf/icalp/icalp2005.html#MurawskiOW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/AehligMO05" mdate="2017-06-05">
+<author pid="59/4489">Klaus Aehlig</author>
+<author pid="70/1676">Jolie G. de Miranda</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>The Monadic Second Order Theory of Trees Given by Arbitrary Level-Two Recursion Schemes Is Decidable.</title>
+<pages>39-54</pages>
+<ee>https://doi.org/10.1007/11417170_5</ee>
+<year>2005</year>
+<crossref>conf/tlca/2005</crossref>
+<booktitle>TLCA</booktitle>
+<url>db/conf/tlca/tlca2005.html#AehligMO05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/csl/2005" mdate="2019-05-14">
+<editor pid="o/CHLukeOng">C.-H. Luke Ong</editor>
+<title>Computer Science Logic, 19th International Workshop, CSL 2005, 14th Annual Conference of the EACSL, Oxford, UK, August 22-25, 2005, Proceedings</title>
+<volume>3634</volume>
+<year>2005</year>
+<isbn>3-540-28231-9</isbn>
+<booktitle>CSL</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11538363</ee>
+<url>db/conf/csl/csl2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/apal/Ong04" mdate="2020-02-21">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>An approach to deciding the observational equivalence of Algol-like languages.</title>
+<pages>125-171</pages>
+<year>2004</year>
+<volume>130</volume>
+<journal>Ann. Pure Appl. Log.</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1016/j.apal.2003.12.006</ee>
+<url>db/journals/apal/apal130.html#Ong04</url>
+</article>
+</r>
+<r><article key="journals/tcs/OngG04" mdate="2021-02-17">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author orcid="0000-0002-0638-4610" pid="96/4344">Pietro Di Gianantonio</author>
+<title>Games characterizing Levy-Longo trees.</title>
+<pages>121-142</pages>
+<year>2004</year>
+<volume>312</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(03)00405-5</ee>
+<url>db/journals/tcs/tcs312.html#OngG04</url>
+</article>
+</r>
+<r><article key="journals/tcs/MurawskiO04" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On an interpretation of safe recursion in light affine logic.</title>
+<pages>197-223</pages>
+<year>2004</year>
+<volume>318</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2003.10.017</ee>
+<url>db/journals/tcs/tcs318.html#MurawskiO04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/GhicaMO04" mdate="2025-03-03">
+<author pid="g/DanRGhica">Dan R. Ghica</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Syntactic Control of Concurrency.</title>
+<pages>683-694</pages>
+<ee>https://doi.org/10.1007/978-3-540-27836-8_58</ee>
+<year>2004</year>
+<crossref>conf/icalp/2004</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp2004.html#GhicaMO04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/AbramskyGMOS04" mdate="2025-03-03">
+<author orcid="0000-0003-3921-6637" pid="a/SamsonAbramsky">Samson Abramsky</author>
+<author pid="g/DanRGhica">Dan R. Ghica</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="08/3395">Ian David Bede Stark</author>
+<title>Nominal Games and Full Abstraction for the Nu-Calculus.</title>
+<pages>150-159</pages>
+<year>2004</year>
+<crossref>conf/lics/2004</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2004.1319609</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2004.1319609</ee>
+<ee>https://www.wikidata.org/entity/Q57006702</ee>
+<url>db/conf/lics/lics2004.html#AbramskyGMOS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AbramskyGMO04" mdate="2025-03-03">
+<author orcid="0000-0003-3921-6637" pid="a/SamsonAbramsky">Samson Abramsky</author>
+<author pid="g/DanRGhica">Dan R. Ghica</author>
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Applying Game Semantics to Compositional Software Modeling and Verification.</title>
+<pages>421-435</pages>
+<ee>https://doi.org/10.1007/978-3-540-24730-2_32</ee>
+<ee>https://www.wikidata.org/entity/Q57006692</ee>
+<year>2004</year>
+<crossref>conf/tacas/2004</crossref>
+<booktitle>TACAS</booktitle>
+<url>db/conf/tacas/tacas2004.html#AbramskyGMO04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/MurawskiO03" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Exhausting strategies, joker games and full completeness for IMLL with Unit.</title>
+<pages>269-305</pages>
+<year>2003</year>
+<volume>294</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1/2</number>
+<url>db/journals/tcs/tcs294.html#MurawskiO03</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00244-4</ee>
+</article>
+</r>
+<r><article key="journals/tcs/KerNO03" mdate="2021-02-17">
+<author pid="29/2748">Andrew D. Ker</author>
+<author pid="20/6427">Hanno Nickau</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Adapting innocent game models for the B&#246;hm treelambda -theory.</title>
+<pages>333-366</pages>
+<year>2003</year>
+<volume>308</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(02)00849-6</ee>
+<url>db/journals/tcs/tcs308.html#KerNO03</url>
+</article>
+</r>
+<r><article key="journals/tcs/KerNO02" mdate="2021-02-17">
+<author pid="29/2748">Andrew D. Ker</author>
+<author pid="20/6427">Hanno Nickau</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Innocent game models of untyped lambda-calculus.</title>
+<pages>247-292</pages>
+<year>2002</year>
+<volume>272</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs272.html#KerNO02</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(00)00353-4</ee>
+</article>
+</r>
+<r><inproceedings key="conf/fsttcs/Ong02" mdate="2017-06-02">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Model Checking Algol-Like Languages Using Game Semantics.</title>
+<pages>33-36</pages>
+<year>2002</year>
+<crossref>conf/fsttcs/2002</crossref>
+<booktitle>FSTTCS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36206-1_4</ee>
+<url>db/conf/fsttcs/fsttcs2002.html#Ong02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/OngG02" mdate="2017-06-04">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="96/4344">Pietro Di Gianantonio</author>
+<title>Games Characterizing Levy-Longo Trees.</title>
+<pages>476-487</pages>
+<year>2002</year>
+<crossref>conf/icalp/2002</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45465-9_41</ee>
+<url>db/conf/icalp/icalp2002.html#OngG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong02" mdate="2023-03-24">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Observational Equivalence of 3rd-Order Idealized Algol is Decidable.</title>
+<pages>245-256</pages>
+<year>2002</year>
+<crossref>conf/lics/2002</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2002.1029833</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2002.1029833</ee>
+<url>db/conf/lics/lics2002.html#Ong02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/BasuORSW02" mdate="2025-01-19">
+<author pid="39/1541">Anindya Basu</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">Chih-Hao Luke Ong</author>
+<author pid="l/AprilRasalaLehman">April Rasala</author>
+<author pid="01/4088">F. Bruce Shepherd</author>
+<author pid="94/1460">Gordon T. Wilfong</author>
+<title>Route oscillations in I-BGP with route reflection.</title>
+<pages>235-247</pages>
+<year>2002</year>
+<crossref>conf/sigcomm/2002</crossref>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/633025.633048</ee>
+<ee>https://doi.org/10.1145/964725.633048</ee>
+<ee>https://www.wikidata.org/entity/Q130971861</ee>
+<url>db/conf/sigcomm/sigcomm2002.html#BasuORSW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/MurawskiO01" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Evolving Games and Essential Nets for Affine Polymorphism.</title>
+<pages>360-375</pages>
+<year>2001</year>
+<crossref>conf/tlca/2001</crossref>
+<booktitle>TLCA</booktitle>
+<ee>https://doi.org/10.1007/3-540-45413-6_28</ee>
+<url>db/conf/tlca/tlca2001.html#MurawskiO01</url>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/HylandO00" mdate="2021-02-12">
+<author pid="h/JMEHyland">J. M. E. Hyland</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>On Full Abstraction for PCF: I, II, and III.</title>
+<pages>285-408</pages>
+<year>2000</year>
+<volume>163</volume>
+<journal>Inf. Comput.</journal>
+<number>2</number>
+<url>db/journals/iandc/iandc163.html#HylandO00</url>
+<ee type="oa">https://doi.org/10.1006/inco.2000.2917</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aplas/Ong00" mdate="2004-06-01">
+<author pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Light Logic and Resource Bounded Computation.</title>
+<pages>181</pages>
+<year>2000</year>
+<crossref>conf/aplas/2000</crossref>
+<booktitle>APLAS</booktitle>
+<url>db/conf/aplas/aplas2000.html#Ong00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/MurawskiO00" mdate="2017-06-02">
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Discreet Games, Light Affine Logic and PTIME Computation.</title>
+<pages>427-441</pages>
+<ee>https://doi.org/10.1007/3-540-44622-2_29</ee>
+<year>2000</year>
+<crossref>conf/csl/2000</crossref>
+<booktitle>CSL</booktitle>
+<url>db/conf/csl/csl2000.html#MurawskiO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/MurawskiO00" mdate="2023-03-24">
+<author pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Dominator Trees and Fast Verification of Proof Nets.</title>
+<pages>181-191</pages>
+<year>2000</year>
+<crossref>conf/lics/2000</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2000.855768</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2000.855768</ee>
+<url>db/conf/lics/lics2000.html#MurawskiO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/KerNO99" mdate="2017-06-02">
+<author pid="29/2748">Andrew D. Ker</author>
+<author pid="20/6427">Hanno Nickau</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A Universal Innocent Game Model for the B&#246;hm Tree Lambda Theory.</title>
+<pages>405-419</pages>
+<year>1999</year>
+<crossref>conf/csl/1999</crossref>
+<booktitle>CSL</booktitle>
+<url>db/conf/csl/csl99.html#KerNO99</url>
+<ee>https://doi.org/10.1007/3-540-48168-0_29</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/tcs/KohO99" mdate="2021-02-12">
+<author pid="18/1636">Thong wei Koh</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Internal Languages for Autonomous and *-Autonomous Categories.</title>
+<year>1999</year>
+<crossref>conf/ctcs/1999</crossref>
+<booktitle>CTCS</booktitle>
+<url>db/journals/tcs/entcs29.html#KohO99</url>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(05)80313-5</ee>
+<pages>151</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/tcs/MurawskiO99" mdate="2025-03-03">
+<author orcid="0000-0002-4725-410X" pid="16/1893">Andrzej S. Murawski</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Exhausting Strategies, Joker Games and IMLL with Units.</title>
+<year>1999</year>
+<crossref>conf/ctcs/1999</crossref>
+<booktitle>CTCS</booktitle>
+<pages>209-239</pages>
+<url>db/journals/tcs/entcs29.html#MurawskiO99</url>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(05)80317-2</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/OngS97" mdate="2018-11-06">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="83/2209">Charles A. Stewart</author>
+<title>A Curry-Howard Foundation for Functional Computation with Control.</title>
+<pages>215-227</pages>
+<year>1997</year>
+<crossref>conf/popl/1997</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl97.html#OngS97</url>
+<ee>https://doi.org/10.1145/263699.263722</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong96" mdate="2023-03-24">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>A Semantic View of Classical Proofs: Type-Theoretic, Categorical, and Denotational Characterizations (Preliminary Extended Abstract).</title>
+<pages>230-241</pages>
+<year>1996</year>
+<crossref>conf/lics/1996</crossref>
+<booktitle>LICS</booktitle>
+<url>db/conf/lics/lics96.html#Ong96</url>
+<ee>https://doi.org/10.1109/LICS.1996.561323</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.1996.561323</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpca/HylandO95" mdate="2018-11-06">
+<author pid="h/JMEHyland">J. M. E. Hyland</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Pi-Calculus, Dialogue Games and PCF.</title>
+<pages>96-107</pages>
+<year>1995</year>
+<crossref>conf/fpca/1995</crossref>
+<booktitle>FPCA</booktitle>
+<url>db/conf/fpca/fpca95.html#HylandO95</url>
+<ee>https://doi.org/10.1145/224164.224189</ee>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/AbramskyO93" mdate="2021-02-12">
+<title>Full Abstraction in the Lazy Lambda Calculus</title>
+<author orcid="0000-0003-3921-6637" pid="a/SamsonAbramsky">Samson Abramsky</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<pages>159-267</pages>
+<journal>Inf. Comput.</journal>
+<month>August</month>
+<year>1993</year>
+<volume>105</volume>
+<number>2</number>
+<url>db/journals/iandc/iandc105.html#AbramskyO93</url>
+<ee type="oa">https://doi.org/10.1006/inco.1993.1044</ee>
+<ee>https://www.wikidata.org/entity/Q56443859</ee>
+</article>
+</r>
+<r><inproceedings key="conf/csl/OngR93" mdate="2017-06-02">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<author pid="64/1670">Eike Ritter</author>
+<title>A Generic Strong Normalization Argument: Application to the Calculus of Constructions.</title>
+<pages>261-279</pages>
+<year>1993</year>
+<crossref>conf/csl/1993</crossref>
+<booktitle>CSL</booktitle>
+<url>db/conf/csl/csl93.html#OngR93</url>
+<ee>https://doi.org/10.1007/BFb0049336</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Ong93" mdate="2023-03-24">
+<title>Non-Determinism in a Functional Setting</title>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<pages>275-286</pages>
+<year>1993</year>
+<crossref>conf/lics/1993</crossref>
+<booktitle>LICS</booktitle>
+<url>db/conf/lics/lics93.html#Ong93</url>
+<ee>https://doi.org/10.1109/LICS.1993.287580</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.1993.287580</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/HylandO93" mdate="2017-06-05">
+<author pid="h/JMEHyland">J. M. E. Hyland</author>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Modified Realizability Toposes and Strong Normalization Proofs.</title>
+<pages>179-194</pages>
+<year>1993</year>
+<crossref>conf/tlca/1993</crossref>
+<booktitle>TLCA</booktitle>
+<url>db/conf/tlca/tlca93.html#HylandO93</url>
+<ee>https://doi.org/10.1007/BFb0037106</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Ong92" mdate="2017-06-04">
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<title>Lazy Lambda Calculus: Theories, Models and Local Structure Characterization (Extended Abstract).</title>
+<pages>487-498</pages>
+<year>1992</year>
+<crossref>conf/icalp/1992</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp92.html#Ong92</url>
+<ee>https://doi.org/10.1007/3-540-55719-9_98</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/Ong88" mdate="2023-03-23">
+<title>Fully Abstract Models of the Lazy Lambda Calculus</title>
+<author orcid="0000-0001-7509-680X" pid="o/CHLukeOng">C.-H. Luke Ong</author>
+<pages>368-376</pages>
+<crossref>conf/focs/FOCS29</crossref>
+<year>1988</year>
+<booktitle>FOCS</booktitle>
+<url>db/conf/focs/focs88.html#Ong88</url>
+<ee>https://doi.org/10.1109/SFCS.1988.21953</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SFCS.1988.21953</ee>
+</inproceedings>
+</r>
+<coauthors n="102" nc="8">
+<co c="0"><na f="a/Abramsky:Samson" pid="a/SamsonAbramsky">Samson Abramsky</na></co>
+<co c="7"><na f="a/Aehlig:Klaus" pid="59/4489">Klaus Aehlig</na></co>
+<co c="0"><na f="a/Alvarez=Picallo:Mario" pid="230/4274">Mario Alvarez-Picallo</na></co>
+<co c="0"><na f="a/Asada:Kazuyuki" pid="00/2793">Kazuyuki Asada</na></co>
+<co c="4"><na f="a/Ausiello:Giorgio" pid="a/GiorgioAusiello">Giorgio Ausiello</na></co>
+<co c="1"><na f="b/Barez:Fazl" pid="308/2550">Fazl Barez</na></co>
+<co c="0"><na f="b/Basler:G=eacute=rard" pid="95/3093">G&#233;rard Basler</na></co>
+<co c="2"><na f="b/Basu:Anindya" pid="39/1541">Anindya Basu</na></co>
+<co c="0"><na f="b/Beutner:Raven" pid="244/2160">Raven Beutner</na></co>
+<co c="1"><na f="b/Bibi:Adel" pid="176/0964">Adel Bibi</na></co>
+<co c="-1"><na f="b/Blum:William" pid="09/2048">William Blum</na></co>
+<co c="0"><na f="b/Broadbent:Christopher_H=" pid="73/2953">Christopher H. Broadbent</na></co>
+<co c="1"><na f="b/Bucknall:Ben" pid="361/0440">Ben Bucknall</na></co>
+<co c="0"><na f="b/Burn:Toby_Cathcart" pid="200/7840">Toby Cathcart Burn</na></co>
+<co c="0"><na f="c/Carayol:Arnaud" pid="c/ArnaudCarayol">Arnaud Carayol</na></co>
+<co c="1"><na f="c/Casper:Stephen" pid="255/5295">Stephen Casper</na></co>
+<co c="0"><na f="c/Coecke:Bob" pid="94/5818">Bob Coecke</na></co>
+<co c="0"><na f="c/Cotton=Barratt:Conrad" pid="151/6552">Conrad Cotton-Barratt</na></co>
+<co c="5"><na f="c/Cropper:Andrew" pid="153/8346">Andrew Cropper</na></co>
+<co c="0"><na f="d/D=Osualdo:Emanuele" pid="127/6548">Emanuele D'Osualdo</na></co>
+<co c="3"><na f="d/Duan:Zhao" pid="95/3691">Zhao Duan</na></co>
+<co c="3"><na f="d/Duan:Zhenhua" pid="39/6857">Zhenhua Duan</na></co>
+<co c="0"><na f="e/Eyers=Taylor:Alex" pid="230/4134">Alex Eyers-Taylor</na></co>
+<co c="1"><na f="f/Fist:Tim" pid="351/0927">Tim Fist</na></co>
+<co c="0"><na f="f/Fu_0001:Hongfei" pid="19/7123">Hongfei Fu 0001</na></co>
+<co c="1"><na f="f/Fu:Tingchen" pid="318/0986">Tingchen Fu</na></co>
+<co c="1"><na f="g/Gal:Yarin" pid="67/9076">Yarin Gal</na></co>
+<co c="1"><na f="g/Geva:Mor" pid="203/9159">Mor Geva</na></co>
+<co c="0"><na f="g/Ghica:Dan_R=" pid="g/DanRGhica">Dan R. Ghica</na></co>
+<co c="-1"><na f="g/Gianantonio:Pietro_Di" pid="96/4344">Pietro Di Gianantonio</na></co>
+<co c="1"><na f="g/Golinski:Adam" pid="211/7991">Adam Golinski</na></co>
+<co c="0"><na f="h/Hague:Matthew" pid="59/4321">Matthew Hague</na></co>
+<co c="1"><na f="h/Hern=aacute=ndez=Orallo:Jos=eacute=" pid="h/JoseHernandezOrallo">Jos&#233; Hern&#225;ndez-Orallo</na></co>
+<co c="0"><na f="h/Hopkins_0002:David" pid="63/5147-2">David Hopkins 0002</na></co>
+<co c="0"><na f="h/Horn:David_Van" pid="77/2466">David Van Horn</na></co>
+<co c="0" n="2"><na f="h/Hyland:Martin" pid="h/JMEHyland">Martin Hyland</na><na>J. M. E. Hyland</na></co>
+<co c="0"><na f="i/Ianovski:Egor" pid="51/9924">Egor Ianovski</na></co>
+<co c="0"><na f="j/Jones:Eddie" pid="188/6104">Eddie Jones</na></co>
+<co c="0"><na f="j/Jones:Michael_Peyton" pid="183/2751">Michael Peyton Jones</na></co>
+<co c="4"><na f="k/Karhum=auml=ki:Juhani" pid="k/JuhaniKarhumaki">Juhani Karhum&#228;ki</na></co>
+<co c="-1"><na f="k/Kenyon=Roberts:Andrew" pid="286/1043">Andrew Kenyon-Roberts</na></co>
+<co c="6"><na f="k/Ker:Andrew_D=" pid="29/2748">Andrew D. Ker</na></co>
+<co c="0"><na f="k/Khajwal:Basim" pid="337/1844">Basim Khajwal</na></co>
+<co c="1"><na f="k/Kirk:Robert" pid="01/9684">Robert Kirk</na></co>
+<co c="0"><na f="k/Kobayashi_0001:Naoki" pid="k/NaokiKobayashi">Naoki Kobayashi 0001</na></co>
+<co c="0"><na f="k/Kochems:Jonathan" pid="59/9638">Jonathan Kochems</na></co>
+<co c="-1"><na f="k/Koh:Thong_wei" pid="18/1636">Thong wei Koh</na></co>
+<co c="0"><na f="k/Kroening:Daniel" pid="k/DanielKroening">Daniel Kroening</na></co>
+<co c="1"><na f="k/Krueger_0001:David" pid="142/2741">David Krueger 0001</na></co>
+<co c="1"><na f="l/Lam:Kwok=Yan" pid="10/1993">Kwok-Yan Lam</na></co>
+<co c="0"><na f="l/Le:Xuan=Bach" pid="289/6184">Xuan-Bach Le</na></co>
+<co c="2" n="2"><na f="l/Lehman:April_Rasala" pid="l/AprilRasalaLehman">April Rasala Lehman</na><na>April Rasala</na></co>
+<co c="0" n="2"><na f="l/Lester_0001:Martin" pid="72/7705-1">Martin Lester 0001</na><na>Martin Mariusz Lester</na></co>
+<co c="0"><na f="l/Li:Guanyan" pid="315/4682">Guanyan Li</na></co>
+<co c="0"><na f="l/Lin:Anthony_Widjaja" pid="38/2655">Anthony Widjaja Lin</na></co>
+<co c="0"><na f="l/Liu_0003:Si" pid="147/8363-3">Si Liu 0003</na></co>
+<co c="0"><na f="m/Mak:Carol" pid="259/1517">Carol Mak</na></co>
+<co c="4"><na f="m/Mauri:Giancarlo" pid="79/4374">Giancarlo Mauri</na></co>
+<co c="0"><na f="m/Meyer:Antoine" pid="04/926">Antoine Meyer</na></co>
+<co c="1"><na f="m/Mindermann:S=ouml=ren" pid="211/7976">S&#246;ren Mindermann</na></co>
+<co c="7"><na f="m/Miranda:Jolie_G=_de" pid="70/1676">Jolie G. de Miranda</na></co>
+<co c="5"><na f="m/Morel:Rolf" pid="222/3054">Rolf Morel</na></co>
+<co c="0"><na f="m/Murawski:Andrzej_S=" pid="16/1893">Andrzej S. Murawski</na></co>
+<co c="0"><na f="n/Neatherway:Robin_P=" pid="118/3450">Robin P. Neatherway</na></co>
+<co c="1"><na f="n/Neo:Clement" pid="367/9292">Clement Neo</na></co>
+<co c="6"><na f="n/Nickau:Hanno" pid="20/6427">Hanno Nickau</na></co>
+<co c="1"><na f="o/O=Gara:Aidan" pid="354/6183">Aidan O'Gara</na></co>
+<co c="0"><na f="p/Panangaden:Prakash" pid="p/PPanangaden">Prakash Panangaden</na></co>
+<co c="0"><na f="p/Paquet:Hugo" pid="162/5078">Hugo Paquet</na></co>
+<co c="0"><na f="p/Pham:Long" pid="03/9537">Long Pham</na></co>
+<co c="1"><na f="p/Prabhu:Ameya" pid="181/4512">Ameya Prabhu</na></co>
+<co c="-1"><na f="q/Queiroz:Ruy_J=_G=_B=_de" pid="q/RuyQueiroz">Ruy J. G. B. de Queiroz</na></co>
+<co c="0" n="2"><na f="r/Rabinovich:Alexander_Moshe" pid="r/AlexanderMosheRabinovich">Alexander Moshe Rabinovich</na><na>Alexander Rabinovich</na></co>
+<co c="1" n="2"><na f="r/Rainforth:Tom" pid="166/1198">Tom Rainforth</na><na>Thomas Rainforth</na></co>
+<co c="0" n="2"><na f="r/Ramsay:Steven" pid="16/9032">Steven Ramsay</na><na>Steven J. Ramsay</na></co>
+<co c="1"><na f="r/Reichelt:Tim" pid="294/8807">Tim Reichelt</na></co>
+<co c="-1"><na f="r/Ritter:Eike" pid="64/1670">Eike Ritter</na></co>
+<co c="-1"><na f="s/Sanjabi:Sam_Bakhtiar" pid="185/0320">Sam Bakhtiar Sanjabi</na></co>
+<co c="1"><na f="s/Sanyal:Amartya" pid="203/8807">Amartya Sanyal</na></co>
+<co c="0"><na f="s/Sch=auml=fer:Max" pid="91/504">Max Sch&#228;fer</na></co>
+<co c="-1"><na f="s/Schreuder:Anne" pid="251/9098">Anne Schreuder</na></co>
+<co c="0"><na f="s/Serre:Olivier" pid="21/858">Olivier Serre</na></co>
+<co c="2"><na f="s/Shepherd:F=_Bruce" pid="01/4088">F. Bruce Shepherd</na></co>
+<co c="0" n="2"><na f="s/Stark:Ian" pid="08/3395">Ian Stark</na><na>Ian David Bede Stark</na></co>
+<co c="-1"><na f="s/Stewart:Charles_A=" pid="83/2209">Charles A. Stewart</na></co>
+<co c="3"><na f="t/Tian:Cong" pid="00/5365">Cong Tian</na></co>
+<co c="0"><na f="t/Tiu:Alwen" pid="t/AlwenTiu">Alwen Tiu</na></co>
+<co c="1"><na f="t/Torr_0001:Philip" pid="t/PhilipHSTorr">Philip Torr 0001</na></co>
+<co c="1"><na f="t/Trager:Robert" pid="351/0644">Robert Trager</na></co>
+<co c="0"><na f="t/Tsukada:Takeshi" pid="97/7182">Takeshi Tsukada</na></co>
+<co c="0"><na f="t/Tzevelekos:Nikos" pid="30/4960">Nikos Tzevelekos</na></co>
+<co c="0"><na f="w/Wagner_0001:Dominik" pid="180/8364-1">Dominik Wagner 0001</na></co>
+<co c="0"><na f="w/Wahl:Thomas" pid="72/5272">Thomas Wahl</na></co>
+<co c="0"><na f="w/Walukiewicz:Igor" pid="27/7046">Igor Walukiewicz</na></co>
+<co c="0"><na f="w/Wang:Peixin" pid="236/4994">Peixin Wang</na></co>
+<co c="2"><na f="w/Wilfong:Gordon_T=" pid="94/1460">Gordon T. Wilfong</na></co>
+<co c="0"><na f="w/Witzman:Leon" pid="258/0901">Leon Witzman</na></co>
+<co c="0"><na f="y/Yang:Tengshun" pid="307/3974">Tengshun Yang</na></co>
+<co c="0"><na f="z/Zaiser:Fabian" pid="249/5578">Fabian Zaiser</na></co>
+<co c="0"><na f="z/Zhang_0002:Min" pid="83/5342-2">Min Zhang 0002</na></co>
+<co c="0"><na f="z/Zhao:Haoxian" pid="09/7915">Haoxian Zhao</na></co>
+<co c="0"><na f="z/Zhi:Dapeng" pid="326/1078">Dapeng Zhi</na></co>
+</coauthors>
+</dblpperson>
+
