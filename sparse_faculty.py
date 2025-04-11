@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import json
 from collections import defaultdict
 import os
-
+import csv
 
 # sparse xml
 def parse_collaborations(xml_file):
@@ -69,7 +69,7 @@ def parse_collaborations(xml_file):
 
 
 
-def sparse_faculty_main():
+def generate_raw_data():
     directory = r"faculty_data"
     all_collaborations = {}
     main_authors = []
@@ -104,5 +104,51 @@ def sparse_faculty_main():
     print("data saved in all_collaborations.json and main_authors.json")
 
 
+def generate_network_links():
+    # read the CCDS faculties list
+    with open('main_authors.json', 'r', encoding='utf-8') as f:
+        main_authors = json.load(f)
+
+    # CCDS faculty pid set
+    main_author_pids = {author['pid'] for author in main_authors}
+
+    # read all collaborators
+    with open('all_collaborations.json', 'r', encoding='utf-8') as f:
+        all_collaborations = json.load(f)
+
+    # write in network links
+    with open('main_authors_collaborations.csv', 'w', encoding='utf-8', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+
+        csv_writer.writerow(['colab_id','author_pid', 'author_name', 'year', 'collaborator_pid', 'collaborator_name'])
+
+        count = 0
+        for author_pid, author_data in all_collaborations.items():
+            # for every CCDS faculty
+            if author_pid in main_author_pids:
+                author_name = author_data['author']['name']
+
+                # for each year
+                for year, collaborators in author_data['collaborations_by_year'].items():
+                    # filter the CCDS faculty
+                    main_collaborators = [collab for collab in collaborators if collab['pid'] in main_author_pids and collab['pid'] != author_pid]
+
+                    # write in the info
+                    for collaborator in main_collaborators:
+                        count += 1
+                        csv_writer.writerow([
+                            count,
+                            author_pid,
+                            author_name,
+                            year,
+                            collaborator['pid'],
+                            collaborator['name']
+                        ])
+
+    print("finished in main_authors_collaborations.csv ")
+
+
 if __name__ == "__main__":
-    sparse_faculty_main()
+
+    # generate_raw_data()
+    generate_network_links()
