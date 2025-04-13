@@ -42,9 +42,9 @@ def build_collaboration_networks(csv_file):
             else:
                 collab_pair = tuple(sorted([author1, author2]))
                 collaboration_counts[collab_pair] += 0.5
-            
-            # add edge (也会添加自环)
-            year_graph.add_edge(author1, author2, weight=collaboration_counts[collab_pair])
+                year_graph.add_edge(author1, author2, weight=collaboration_counts[collab_pair])
+            # add edge (no self edge)
+
 
 
         networks[year] = year_graph
