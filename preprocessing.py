@@ -21,6 +21,7 @@ def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
     for idx, row in df.iterrows():
         dblp_url = row["DBLP"]
         name = row["Faculty"]
+        dblp_url = requests.get(dblp_url).url # some url don't have the .html, so request the url to get the final url
 
         # Build XML URL (convert HTML page URL to XML API URL)
         xml_url = dblp_url.replace(".html",".xml")
@@ -36,7 +37,19 @@ def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
             print(f"Downloading XML data for {name}: {xml_url}")
             response = requests.get(xml_url)
             response.raise_for_status()  # Check if request was successful
-                
+            
+            pid = None
+            root = ET.fromstring(response.text)
+            
+            for person in root.findall(".//person"):
+                author = person.find("author")
+                if author is not None:
+                    pid = author.get("pid")
+                    break
+
+            df.at[idx, 'pid'] = pid
+            print(f"{name} : {pid}")    
+            
             # Save XML file
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(response.text)
@@ -49,9 +62,9 @@ def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
         except Exception as e:
             print(f"Failed to download XML data for {name}: {e}")
 
+        df.to_csv(xlsx_file, index=False)
 
-
-
+    print(f"All XML files downloaded to {output_dir}")
 
 def add_pid_to_faculty_csv(input_csv, output_csv=None):
 
@@ -64,7 +77,8 @@ def add_pid_to_faculty_csv(input_csv, output_csv=None):
         dblp_url = row["DBLP"]
         name = row["Faculty"]
 
-        xml_url = dblp_url.replace(".html", ".xml")
+        dblp_url = requests.get(dblp_url).url # some url don't have the .html, so request the url to get the final url
+        xml_url = dblp_url.replace(".html", ".xml") 
 
         try:
 
@@ -93,5 +107,5 @@ def add_pid_to_faculty_csv(input_csv, output_csv=None):
 if __name__ == "__main__":
     # Usage example
     file = "Faculty.csv"
-    #download_dblp_xml(file)
-    add_pid_to_faculty_csv("Faculty.csv")
+    download_dblp_xml(file) 
+    # add_pid_to_faculty_csv(file)
