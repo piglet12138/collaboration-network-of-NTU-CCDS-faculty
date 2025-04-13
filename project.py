@@ -1,5 +1,5 @@
 from preprocessing import *
-from sparse_faculty import  *
+from parse_faculty import  *
 
 
 file = "Faculty.csv"
