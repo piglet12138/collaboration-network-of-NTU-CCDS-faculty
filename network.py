@@ -217,8 +217,9 @@ def visualize_network_evolution(networks, years=None):
     plt.tight_layout()
     plt.show()
 
-networks = build_collaboration_networks('main_authors_collaborations.csv')
-#print_network_info(networks)
-#analyze_specific_year(networks, 2020)
-visualize_year_network(networks, 2025)
-#visualize_network_evolution(networks, [2009, 2010, 2011])
+if __name__ == "__main__":
+    networks = build_collaboration_networks('main_authors_collaborations.csv')
+    #print_network_info(networks)
+    #analyze_specific_year(networks, 2020)
+    visualize_year_network(networks, 2025)
+    #visualize_network_evolution(networks, [2009, 2010, 2011])
