@@ -4,7 +4,7 @@ from collections import defaultdict
 import os
 import csv
 
-# sparse xml
+# parse xml
 def parse_collaborations(xml_file):
 
     tree = ET.parse(xml_file)
@@ -150,5 +150,5 @@ def generate_network_links():
 
 if __name__ == "__main__":
 
-    # generate_raw_data()
+    generate_raw_data()
     generate_network_links()
