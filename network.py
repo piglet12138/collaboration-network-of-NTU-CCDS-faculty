@@ -36,10 +36,14 @@ def build_collaboration_networks(csv_file):
                 year_graph.add_node(author2, name=row['collaborator_name'])
 
             # update colab count
-            collab_pair = tuple(sorted([author1, author2]))
-            collaboration_counts[collab_pair] += 0.5
 
-            # add edge
+            if author1 == author2:
+                continue
+            else:
+                collab_pair = tuple(sorted([author1, author2]))
+                collaboration_counts[collab_pair] += 0.5
+            
+            # add edge (也会添加自环)
             year_graph.add_edge(author1, author2, weight=collaboration_counts[collab_pair])
 
 
@@ -185,5 +189,5 @@ def visualize_network_evolution(networks, years=None):
 networks = build_collaboration_networks('main_authors_collaborations.csv')
 #print_network_info(networks)
 #analyze_specific_year(networks, 2020)
-#visualize_year_network(networks, 2000)
-visualize_network_evolution(networks, [2009, 2010, 2011])
+visualize_year_network(networks, 2020)
+#visualize_network_evolution(networks, [2009, 2010, 2011])

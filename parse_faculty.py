@@ -131,7 +131,7 @@ def generate_network_links():
                 # for each year
                 for year, collaborators in author_data['collaborations_by_year'].items():
                     # filter the CCDS faculty
-                    main_collaborators = [collab for collab in collaborators if collab['pid'] in main_author_pids and collab['pid'] != author_pid]
+                    main_collaborators = [collab for collab in collaborators if collab['pid'] in main_author_pids]
 
                     # write in the info
                     for collaborator in main_collaborators:
