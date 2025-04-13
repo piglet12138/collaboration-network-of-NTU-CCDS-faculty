@@ -90,34 +90,64 @@ def analyze_specific_year(networks, year):
 
 
 def visualize_network(graph, title="Collaboration network"):
-    plt.figure(figsize=(12, 10))
 
+    plt.figure(figsize=(12, 10))
+    
     # spring layout
     pos = nx.spring_layout(graph, seed=42)
-
+    
     # weight -> edge width
-    edge_weights = [graph[u][v]['weight'] * 0.2 for u, v in graph.edges()]
-
-    # degree -> node size
-    node_sizes = [20 * nx.degree(graph, node) for node in graph.nodes()]
-
-    # degree -> node color (higher degree, darker color)
+    edge_weights = [graph[u][v]['weight'] * 0.02 + 0.2 for u, v in graph.edges()]
+    
+    #degree
     degrees = dict(graph.degree())
     max_degree = max(degrees.values()) if degrees else 1
-    node_colors = [plt.cm.Blues(degrees[node]*0.5 / max_degree + 0.5) for node in graph.nodes()]
+    
+    # 5 top degree
+    top_nodes = sorted(degrees.items(), key=lambda x: x[1], reverse=True)[:5]
+    top_node_ids = [node for node, _ in top_nodes]
+    
 
-    # draw network
+    node_sizes = []
+    node_colors = []
+    for node in graph.nodes():
+        if node in top_node_ids:
+            # make the top 5 nodes bigger
+            node_sizes.append(5 * degrees[node] + 2)
+            node_colors.append('red')
+        else:
+            # other nodes
+            node_sizes.append(5 * degrees[node] + 2)
+            node_colors.append(plt.cm.Blues(degrees[node]*0.5 / max_degree + 0.5))
+    
+
     nx.draw_networkx_nodes(graph, pos, node_size=node_sizes, node_color=node_colors, alpha=0.8)
-    nx.draw_networkx_edges(graph, pos, width=edge_weights, alpha=0.8, edge_color='gray')
+    nx.draw_networkx_edges(graph, pos, width=edge_weights, alpha=0.6, edge_color='gray')
+    
 
-    # label
-    if len(graph) < 50:
-        labels = {node: graph.nodes[node].get('name', node) for node in graph.nodes()}
-        nx.draw_networkx_labels(graph, pos, labels=labels, font_size=8)
+
+    # annotate the top 5 nodes
+    for i, (node, degree) in enumerate(top_nodes):
+        name = graph.nodes[node].get('name', node)
+        plt.annotate(f"{i+1}. {name} (degree: {degree})",
+                    xy=pos[node], xytext=(50, 50+i*30),
+                    textcoords="offset points",
+                    bbox=dict(boxstyle="round,pad=0.3", fc="yellow", alpha=0.8),
+                    arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=0.2"))
 
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
+    
+    # 启用交互工具，允许放大缩小
+    plt.gcf().canvas.toolbar_visible = True
+    plt.gcf().canvas.header_visible = False
+    plt.gcf().canvas.footer_visible = False
+    
+    # 添加提示信息
+    plt.figtext(0.5, 0.01, "zoom",
+               ha="center", fontsize=12, bbox={"facecolor":"lightgray", "alpha":0.5})
+    
     plt.show()
 
 
@@ -189,5 +219,5 @@ def visualize_network_evolution(networks, years=None):
 networks = build_collaboration_networks('main_authors_collaborations.csv')
 #print_network_info(networks)
 #analyze_specific_year(networks, 2020)
-visualize_year_network(networks, 2020)
+visualize_year_network(networks, 2025)
 #visualize_network_evolution(networks, [2009, 2010, 2011])
