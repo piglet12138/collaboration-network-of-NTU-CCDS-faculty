@@ -1,538 +1,2691 @@
 <?xml version="1.0"?>
-<dblpperson name="Alvin Chan" pid="163/6518" n="34">
-<person key="homepages/163/6518" mdate="2015-06-15">
-<author pid="163/6518">Alvin Chan</author>
+<dblpperson name="Chee-Wei Tan 0001" pid="04/3030" n="173">
+<person key="homepages/04/3030" mdate="2023-09-16">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<note type="affiliation">Nanyang Technological University, Singapore</note>
+<note type="affiliation" label="former">City University of Hong Kong</note>
+<note type="affiliation" label="former">Princeton University, NJ, USA</note>
+<url>https://dr.ntu.edu.sg/cris/rp/rp02029</url>
+<url>https://scholar.google.com/citations?user=G2CBtcAAAAAJ</url>
+<url>https://mathgenealogy.org/id.php?id=214984</url>
+<url>https://orcid.org/0000-0002-6624-9752</url>
+<url>https://www.wikidata.org/entity/Q102630755</url>
+<url>https://www.researcherid.com/rid/A-7471-2010</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=15072338600</url>
 </person>
-<r><article key="journals/cim/ChenWCLO23" mdate="2023-04-29">
-<author orcid="0000-0002-1719-0328" pid="03/7457">Zhenghua Chen</author>
-<author orcid="0000-0003-0977-3600" pid="16/0-8">Min Wu 0008</author>
-<author orcid="0000-0002-1041-3891" pid="163/6518">Alvin Chan</author>
-<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
-<author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
-<title>Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges [Review Article].</title>
-<pages>60-77</pages>
-<year>2023</year>
-<month>May</month>
-<volume>18</volume>
-<journal>IEEE Comput. Intell. Mag.</journal>
+<homonyms n="3">
+<h f="t/Tan:Chee=Wei"><name>Chee-Wei Tan</name>
+</h>
+<h f="t/Tan_0002:Chee=Wei"><person key="homepages/04/3030-2" mdate="2016-01-06">
+<author pid="04/3030-2">Chee-Wei Tan 0002</author>
+<note type="affiliation">National University of Singapore</note>
+</person>
+</h>
+<h f="t/Tan_0003:Chee=Wei"><person key="homepages/04/3030-3" mdate="2018-11-07">
+<author pid="04/3030-3">Chee-Wei Tan 0003</author>
+<note type="affiliation">Universiti Teknologi Malaysia, Johor Bahru, Malaysia</note>
+</person>
+</h>
+</homonyms>
+<homonyms n="1">
+<h f="t/Tan:Chee_Wei"><name>Chee Wei Tan</name>
+</h>
+</homonyms>
+<r><article key="journals/tai/ChenZTWQZT25" mdate="2025-04-08">
+<author orcid="0000-0002-7701-6313" pid="206/5723">Leiming Chen</author>
+<author orcid="0000-0003-3637-4939" pid="172/8138">Dehai Zhao</author>
+<author orcid="0000-0002-9830-4656" pid="252/1081">Liping Tao</author>
+<author orcid="0000-0002-6170-4744" pid="78/2022-63">Kai Wang 0063</author>
+<author orcid="0000-0001-6922-5986" pid="247/3276">Sibo Qiao</author>
+<author orcid="0000-0003-4371-0953" pid="21/513">Xingjie Zeng</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>A Credible and Fair Federated Learning Framework Based on Blockchain.</title>
+<pages>301-316</pages>
+<year>2025</year>
+<month>February</month>
+<volume>6</volume>
+<journal>IEEE Trans. Artif. Intell.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1109/MCI.2023.3245733</ee>
-<url>db/journals/cim/cim18.html#ChenWCLO23</url>
+<ee>https://doi.org/10.1109/TAI.2024.3355362</ee>
+<url>db/journals/tai/tai6.html#ChenZTWQZT25</url>
+<stream>streams/journals/tai</stream>
 </article>
 </r>
-<r><article key="journals/tnn/ChanMJOXXL22" mdate="2024-10-16">
-<author orcid="0000-0002-1041-3891" pid="163/6518">Alvin Chan</author>
-<author pid="20/6534-3">Lei Ma 0003</author>
-<author orcid="0000-0002-0857-8611" pid="35/11103">Felix Juefei-Xu</author>
-<author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
-<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
-<author pid="166/1912">Minhui Xue 0001</author>
-<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
-<title>Breaking Neural Reasoning Architectures With Metamorphic Relation-Based Adversarial Examples.</title>
-<pages>6976-6982</pages>
-<year>2022</year>
-<volume>33</volume>
-<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
-<number>11</number>
-<ee>https://doi.org/10.1109/TNNLS.2021.3072166</ee>
-<url>db/journals/tnn/tnn33.html#ChanMJOXXL22</url>
+<r><article key="journals/tifs/TuKTCL25" mdate="2025-03-07">
+<author orcid="0009-0000-5710-4108" pid="277/9720">Rongxin Tu</author>
+<author orcid="0000-0002-3134-0353" pid="75/2824">Xiangui Kang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0009-0004-4336-3407" pid="89/3076">Chi-Hung Chi</author>
+<author orcid="0000-0001-7479-7970" pid="10/1993">Kwok-Yan Lam</author>
+<title>All Points Guided Adversarial Generator for Targeted Attack Against Deep Hashing Retrieval.</title>
+<pages>1695-1709</pages>
+<year>2025</year>
+<volume>20</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2025.3534585</ee>
+<url>db/journals/tifs/tifs20.html#TuKTCL25</url>
+<stream>streams/journals/tifs</stream>
 </article>
 </r>
-<r><inproceedings key="conf/ijcai/ChanOT22" mdate="2022-07-27">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="64/4136">Yew Soon Ong</author>
-<author pid="209/4212">Clement Tan</author>
-<title>How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?</title>
-<pages>659-665</pages>
-<year>2022</year>
-<booktitle>IJCAI</booktitle>
-<ee type="oa">https://doi.org/10.24963/ijcai.2022/93</ee>
-<crossref>conf/ijcai/2022</crossref>
-<url>db/conf/ijcai/ijcai2022.html#ChanOT22</url>
-</inproceedings>
+<r><article key="journals/tifs/JiangSLTL25" mdate="2025-04-01">
+<author orcid="0000-0002-3349-3863" pid="21/4633">Yu Jiang</author>
+<author pid="199/8671">Jiyuan Shen</author>
+<author orcid="0000-0003-4060-0839" pid="191/8896">Ziyao Liu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-7479-7970" pid="10/1993">Kwok-Yan Lam</author>
+<title>Toward Efficient and Certified Recovery From Poisoning Attacks in Federated Learning.</title>
+<pages>2632-2647</pages>
+<year>2025</year>
+<volume>20</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2025.3533907</ee>
+<url>db/journals/tifs/tifs20.html#JiangSLTL25</url>
+<stream>streams/journals/tifs</stream>
+</article>
 </r>
-<r><inproceedings key="conf/ijcnn/NgocCBO22" mdate="2022-10-10">
-<author pid="240/2457">Nguyen Hong Ngoc</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="91/1561">Huynh Thi Thanh Binh</author>
-<author pid="64/4136">Yew Soon Ong</author>
-<title>Anti-Forensic Deepfake Personas and How To Spot Them.</title>
-<pages>1-8</pages>
-<year>2022</year>
-<booktitle>IJCNN</booktitle>
-<ee>https://doi.org/10.1109/IJCNN55064.2022.9892357</ee>
-<crossref>conf/ijcnn/2022</crossref>
-<url>db/conf/ijcnn/ijcnn2022.html#NgocCBO22</url>
-</inproceedings>
+<r><article key="journals/tsipn/TanYCP25" mdate="2025-03-07">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author orcid="0000-0002-2062-131X" pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks With Graph Neural Networks.</title>
+<pages>97-113</pages>
+<year>2025</year>
+<volume>11</volume>
+<journal>IEEE Trans. Signal Inf. Process. over Networks</journal>
+<ee>https://doi.org/10.1109/TSIPN.2025.3530346</ee>
+<url>db/journals/tsipn/tsipn11.html#TanYCP25</url>
+<stream>streams/journals/tsipn</stream>
+</article>
 </r>
-<r><inproceedings key="conf/ismar/ChanLC22" mdate="2023-11-12">
-<author pid="163/6518">Alvin Chan</author>
-<author orcid="0000-0002-0262-308X" pid="99/4981">Jeannie Su Ann Lee</author>
-<author pid="69/8073-1">Renjie Chen 0001</author>
-<title>Message from the ISMAR 2022 Demos Chairs.</title>
-<pages>xix</pages>
-<year>2022</year>
-<booktitle>ISMAR Adjunct</booktitle>
-<ee>https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00007</ee>
-<crossref>conf/ismar/2022a</crossref>
-<url>db/conf/ismar/ismar2022a.html#ChanLC22</url>
-</inproceedings>
+<r><article key="journals/tsp/YuT25" mdate="2025-03-03">
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Unraveling the Viral Spread of Misinformation: Maximum-Likelihood Estimation and Starlike Tree Approximation in Markovian Spreading Models.</title>
+<pages>446-461</pages>
+<year>2025</year>
+<volume>73</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<ee>https://doi.org/10.1109/TSP.2025.3527755</ee>
+<url>db/journals/tsp/tsp73.html#YuT25</url>
+<stream>streams/journals/tsp</stream>
+</article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2205-03824" mdate="2022-05-11">
-<author pid="03/7457">Zhenghua Chen</author>
-<author pid="16/0-8">Min Wu 0008</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="l/XiaoliLi">Xiaoli Li 0001</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<title>A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges.</title>
-<year>2022</year>
-<volume>abs/2205.03824</volume>
+<r><article publtype="informal" key="journals/corr/abs-2501-12148" mdate="2025-03-06">
+<author pid="280/3129">Jan Christian Hauffen</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="19/2492">Giuseppe Caire</author>
+<title>Deep Unfolding of Fixed-Point Based Algorithm for Weighted Sum Rate Maximization.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.12148</volume>
 <journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2205.03824</ee>
-<url>db/journals/corr/corr2205.html#abs-2205-03824</url>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.12148</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-12148</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2205-04533" mdate="2022-05-11">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="209/4212">Clement Tan</author>
-<title>How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?</title>
-<year>2022</year>
-<volume>abs/2205.04533</volume>
+<r><article publtype="informal" key="journals/corr/abs-2502-04399" mdate="2025-03-15">
+<author pid="399/8190">Bokeng Zheng</author>
+<author pid="220/6095">Bo Rao</author>
+<author pid="342/5281">Tianxiang Zhu</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="167/9016">Jingpu Duan</author>
+<author pid="04/2090-6">Zhi Zhou 0006</author>
+<author pid="83/6331-4">Xu Chen 0004</author>
+<author pid="62/5337-1">Xiaoxi Zhang 0001</author>
+<title>Online Location Planning for AI-Defined Vehicles: Optimizing Joint Tasks of Order Serving and Spatio-Temporal Heterogeneous Model Fine-Tuning.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.04399</volume>
 <journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2205.04533</ee>
-<url>db/journals/corr/corr2205.html#abs-2205-04533</url>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.04399</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-04399</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2211-07889" mdate="2025-03-03">
-<author pid="313/9775">Jessica Y. Bo</author>
-<author orcid="0000-0003-1921-8897" pid="115/9608">Hen-Wei Huang</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="224/2346">Giovanni Traverso</author>
-<title>Pretraining ECG Data with Adversarial Masking Improves Model Generalizability for Data-Scarce Tasks.</title>
-<year>2022</year>
-<volume>abs/2211.07889</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2211.07889</ee>
-<url>db/journals/corr/corr2211.html#abs-2211-07889</url>
+<r><article key="journals/access/HangTY24" mdate="2024-08-22">
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<title>MCQGen: A Large Language Model-Driven MCQ Generator for Personalized Learning.</title>
+<pages>102261-102273</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2024.3420709</ee>
+<url>db/journals/access/access12.html#HangTY24</url>
+<stream>streams/journals/access</stream>
 </article>
 </r>
-<r><phdthesis key="phd/sg/Chan21" mdate="2023-07-27">
-<author pid="163/6518">Alvin Chan</author>
-<title>Defences and threats in safe deep learning</title>
-<school>Nanyang Technological University, Singapore</school>
-<year>2021</year>
-<ee>https://doi.org/10.32657/10356/152976</ee>
-</phdthesis>
-</r>
-<r><article key="journals/eswa/ChanLJ21" mdate="2022-10-02">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="89/1322">Martin D. Levine</author>
-<author orcid="0000-0001-7350-0696" pid="61/169">Mehrsan Javan</author>
-<title>Player Identification in Hockey Broadcast Videos.</title>
-<pages>113891</pages>
-<year>2021</year>
-<volume>165</volume>
-<journal>Expert Syst. Appl.</journal>
-<ee>https://doi.org/10.1016/j.eswa.2020.113891</ee>
-<url>db/journals/eswa/eswa165.html#ChanLJ21</url>
-</article>
-</r>
-<r><inproceedings key="conf/acl/ZhangCTFW0SYL20" mdate="2024-09-30">
-<author pid="142/9150">Aston Zhang</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="16/7565-1">Jie Fu 0001</author>
-<author pid="173/5469">Shuohang Wang</author>
-<author pid="71/208-7">Shuai Zhang 0007</author>
-<author pid="179/4173">Huajie Shao</author>
-<author pid="148/1920">Shuochao Yao</author>
-<author orcid="0000-0002-1986-7750" pid="139/2266">Roy Ka-Wei Lee</author>
-<title>On Orthogonality Constraints for Transformers.</title>
-<pages>375-382</pages>
-<year>2021</year>
-<booktitle>ACL/IJCNLP (2)</booktitle>
-<ee type="oa">https://doi.org/10.18653/v1/2021.acl-short.48</ee>
-<ee type="oa">https://aclanthology.org/2021.acl-short.48</ee>
-<crossref>conf/acl/2021-2</crossref>
-<url>db/conf/acl/acl2021-2.html#ZhangCTFW0SYL20</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/chil/ChanKOWLP21" mdate="2022-10-02">
-<author pid="163/6518">Alvin Chan</author>
-<author orcid="0000-0002-6499-3692" pid="287/4802">Anna Korsakova</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="287/5048">Fernaldo Richtia Winnerdy</author>
-<author pid="287/4961">Kah Wai Lim</author>
-<author pid="79/10597">Anh Tuan Phan</author>
-<title>RNA alternative splicing prediction with discrete compositional energy network.</title>
-<pages>193-203</pages>
-<year>2021</year>
-<booktitle>CHIL</booktitle>
-<ee>https://doi.org/10.1145/3450439.3451857</ee>
-<crossref>conf/chil/2021</crossref>
-<url>db/conf/chil/chil2021.html#ChanKOWLP21</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/iclr/ChanOPZF21" mdate="2021-06-23">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="266/9615">Bill Pung</author>
-<author pid="142/9150">Aston Zhang</author>
-<author pid="16/7565">Jie Fu</author>
-<title>CoCon: A Self-Supervised Approach for Controlled Text Generation.</title>
-<year>2021</year>
-<booktitle>ICLR</booktitle>
-<ee type="oa">https://openreview.net/forum?id=VD_ozqvBy4W</ee>
-<crossref>conf/iclr/2021</crossref>
-<url>db/conf/iclr/iclr2021.html#ChanOPZF21</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/iclr/ZhangT0CLHF21" mdate="2024-09-24">
-<author pid="142/9150">Aston Zhang</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="71/208-7">Shuai Zhang 0007</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="81/8329">Anh Tuan Luu</author>
-<author pid="65/3225">Siu Cheung Hui</author>
-<author pid="16/7565-1">Jie Fu 0001</author>
-<title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.</title>
-<year>2021</year>
-<booktitle>ICLR</booktitle>
-<ee type="oa">https://openreview.net/forum?id=rcQdycl0zyk</ee>
-<crossref>conf/iclr/2021</crossref>
-<url>db/conf/iclr/iclr2021.html#ZhangT0CLHF21</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/nips/ZhangTSCZ21" mdate="2022-05-03">
-<author pid="142/9150">Aston Zhang</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="152/8226">Yikang Shen</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="71/208-7">Shuai Zhang 0007</author>
-<title>Self-Instantiated Recurrent Units with Dynamic Soft Recursion.</title>
-<pages>6503-6514</pages>
-<year>2021</year>
-<booktitle>NeurIPS</booktitle>
-<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/3341f6f048384ec73a7ba2e77d2db48b-Abstract.html</ee>
-<crossref>conf/nips/2021</crossref>
-<url>db/conf/nips/neurips2021.html#ZhangTSCZ21</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/nips/ChanMKN21" mdate="2024-11-27">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="180/7507">Ali Madani</author>
-<author pid="64/2350">Ben Krause</author>
-<author pid="43/7797-2">Nikhil Naik 0002</author>
-<title>Deep Extrapolation for Attribute-Enhanced Generation.</title>
-<pages>14084-14096</pages>
-<year>2021</year>
-<booktitle>NeurIPS</booktitle>
-<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/75da5036f659fe64b53f3d9b39412967-Abstract.html</ee>
-<crossref>conf/nips/2021</crossref>
-<url>db/conf/nips/neurips2021.html#ChanMKN21</url>
-</inproceedings>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2102-08597" mdate="2024-09-24">
-<author pid="142/9150">Aston Zhang</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="71/208-7">Shuai Zhang 0007</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="81/8329">Anh Tuan Luu</author>
-<author pid="65/3225">Siu Cheung Hui</author>
-<author pid="16/7565-1">Jie Fu 0001</author>
-<title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.</title>
-<year>2021</year>
-<volume>abs/2102.08597</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2102.08597</ee>
-<url>db/journals/corr/corr2102.html#abs-2102-08597</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2103-04246" mdate="2021-03-16">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="287/4802">Anna Korsakova</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="287/5048">Fernaldo Richtia Winnerdy</author>
-<author pid="287/4961">Kah Wai Lim</author>
-<author pid="79/10597">Anh Tuan Phan</author>
-<title>RNA Alternative Splicing Prediction with Discrete Compositional Energy Network.</title>
-<year>2021</year>
-<volume>abs/2103.04246</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2103.04246</ee>
-<url>db/journals/corr/corr2103.html#abs-2103-04246</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2107-02968" mdate="2024-11-27">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="180/7507">Ali Madani</author>
-<author pid="64/2350">Ben Krause</author>
-<author pid="43/7797-2">Nikhil Naik 0002</author>
-<title>Deep Extrapolation for Attribute-Enhanced Generation.</title>
-<year>2021</year>
-<volume>abs/2107.02968</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2107.02968</ee>
-<url>db/journals/corr/corr2107.html#abs-2107-02968</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2111-14031" mdate="2021-12-01">
-<author pid="266/9615">Bill Tuck Weng Pung</author>
-<author pid="163/6518">Alvin Chan</author>
-<title>FastTrees: Parallel Latent Tree-Induction for Faster Sequence Encoding.</title>
-<year>2021</year>
-<volume>abs/2111.14031</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2111.14031</ee>
-<url>db/journals/corr/corr2111.html#abs-2111-14031</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2111-14034" mdate="2021-12-01">
-<author pid="266/9615">Bill Tuck Weng Pung</author>
-<author pid="163/6518">Alvin Chan</author>
-<title>ORCHARD: A Benchmark For Measuring Systematic Generalization of Multi-Hierarchical Reasoning.</title>
-<year>2021</year>
-<volume>abs/2111.14034</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2111.14034</ee>
-<url>db/journals/corr/corr2111.html#abs-2111-14034</url>
-</article>
-</r>
-<r><inproceedings key="conf/acl/TayOFCCLP20" mdate="2024-12-11">
-<author pid="188/6350">Yi Tay</author>
-<author pid="268/1222">Donovan Ong</author>
-<author pid="16/7565-1">Jie Fu 0001</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="84/8761">Nancy F. Chen</author>
-<author pid="81/8329">Anh Tuan Luu</author>
-<author pid="45/1217">Chris Pal</author>
-<title>Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences.</title>
-<pages>5369-5373</pages>
-<year>2020</year>
-<booktitle>ACL</booktitle>
-<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.477</ee>
-<ee type="oa">https://aclanthology.org/2020.acl-main.477/</ee>
-<crossref>conf/acl/2020</crossref>
-<url>db/conf/acl/acl2020.html#TayOFCCLP20</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/cvpr/ChanTO20" mdate="2021-08-30">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<title>What It Thinks Is Important Is Important: Robustness Transfers Through Input Gradients.</title>
-<pages>329-338</pages>
-<year>2020</year>
-<booktitle>CVPR</booktitle>
-<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Chan_What_It_Thinks_Is_Important_Is_Important_Robustness_Transfers_Through_CVPR_2020_paper.html</ee>
-<ee>https://doi.org/10.1109/CVPR42600.2020.00041</ee>
-<crossref>conf/cvpr/2020</crossref>
-<url>db/conf/cvpr/cvpr2020.html#ChanTO20</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/emnlp/ChanTOZ20" mdate="2021-08-06">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="142/9150">Aston Zhang</author>
-<title>Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.</title>
-<pages>4175-4189</pages>
-<year>2020</year>
-<booktitle>EMNLP (Findings)</booktitle>
-<ee type="oa">https://doi.org/10.18653/v1/2020.findings-emnlp.373</ee>
-<ee type="oa">https://aclanthology.org/2020.findings-emnlp.373/</ee>
-<crossref>conf/emnlp/2020f</crossref>
-<url>db/conf/emnlp/emnlp2020f.html#ChanTOZ20</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/iclr/ChanTOF20" mdate="2020-05-07">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="16/7565">Jie Fu</author>
-<title>Jacobian Adversarially Regularized Networks for Robustness.</title>
-<year>2020</year>
-<booktitle>ICLR</booktitle>
-<ee type="oa">https://openreview.net/forum?id=Hke0V1rKPS</ee>
-<crossref>conf/iclr/2020</crossref>
-<url>db/conf/iclr/iclr2020.html#ChanTOF20</url>
-</inproceedings>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2006-03535" mdate="2020-06-09">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="266/9615">Bill Pung</author>
-<author pid="142/9150">Aston Zhang</author>
-<author pid="16/7565">Jie Fu</author>
-<title>CoCon: A Self-Supervised Approach for Controlled Text Generation.</title>
-<year>2020</year>
-<volume>abs/2006.03535</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2006.03535</ee>
-<url>db/journals/corr/corr2006.html#abs-2006-03535</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2009-02429" mdate="2020-09-16">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="89/1322">Martin D. Levine</author>
-<author pid="61/169">Mehrsan Javan</author>
-<title>Player Identification in Hockey Broadcast Videos.</title>
-<year>2020</year>
-<volume>abs/2009.02429</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2009.02429</ee>
-<url>db/journals/corr/corr2009.html#abs-2009-02429</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2010-02684" mdate="2020-10-12">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="142/9150">Aston Zhang</author>
-<title>Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.</title>
-<year>2020</year>
-<volume>abs/2010.02684</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://arxiv.org/abs/2010.02684</ee>
-<url>db/journals/corr/corr2010.html#abs-2010-02684</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-1911-08040" mdate="2019-12-03">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<title>Poison as a Cure: Detecting &#38; Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks.</title>
-<year>2019</year>
-<volume>abs/1911.08040</volume>
-<journal>CoRR</journal>
-<ee type="oa">http://arxiv.org/abs/1911.08040</ee>
-<url>db/journals/corr/corr1911.html#abs-1911-08040</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-1912-05699" mdate="2020-01-02">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<title>What it Thinks is Important is Important: Robustness Transfers through Input Gradients.</title>
-<year>2019</year>
-<volume>abs/1912.05699</volume>
-<journal>CoRR</journal>
-<ee type="oa">http://arxiv.org/abs/1912.05699</ee>
-<url>db/journals/corr/corr1912.html#abs-1912-05699</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-1912-10185" mdate="2020-01-03">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="188/6350">Yi Tay</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<author pid="16/7565">Jie Fu</author>
-<title>Jacobian Adversarially Regularized Networks for Robustness.</title>
-<year>2019</year>
-<volume>abs/1912.10185</volume>
-<journal>CoRR</journal>
-<ee type="oa">http://arxiv.org/abs/1912.10185</ee>
-<url>db/journals/corr/corr1912.html#abs-1912-10185</url>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-1809-02444" mdate="2019-12-03">
-<author pid="163/6518">Alvin Chan</author>
-<author pid="20/6534-3">Lei Ma 0003</author>
-<author pid="35/11103">Felix Juefei-Xu</author>
-<author pid="127/0713">Xiaofei Xie</author>
-<author pid="51/3710-3">Yang Liu 0003</author>
-<author pid="64/4136">Yew-Soon Ong</author>
-<title>Metamorphic Relation Based Adversarial Attacks on Differentiable Neural Computer.</title>
-<year>2018</year>
-<volume>abs/1809.02444</volume>
-<journal>CoRR</journal>
-<ee type="oa">http://arxiv.org/abs/1809.02444</ee>
-<url>db/journals/corr/corr1809.html#abs-1809-02444</url>
-</article>
-</r>
-<r><article key="journals/mr/SethuNCOC15" mdate="2020-02-22">
-<author orcid="0000-0003-4408-7358" pid="163/6727">Raj Sekar Sethu</author>
-<author pid="163/6536">Hong Seng Ng</author>
-<author pid="163/6518">Alvin Chan</author>
-<author pid="163/6450">Cheng Nee Ong</author>
-<author pid="163/6394">Sieng Fong Chan</author>
-<title>Characterization of copper precipitates on aluminum copper bond pads formed after plasma clean and de-ionized water exposure.</title>
-<pages>1101-1108</pages>
-<year>2015</year>
+<r><article key="journals/bjet/NgTL24" mdate="2024-08-02">
+<author orcid="0000-0002-2380-7814" pid="313/0170">Davy Tsz Kit Ng</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="320/1721">Jac Ka Lok Leung</author>
+<title>Empowering student self-regulated learning and science education through ChatGPT: A pioneering pilot study.</title>
+<pages>1328-1353</pages>
+<year>2024</year>
+<month>July</month>
 <volume>55</volume>
-<journal>Microelectron. Reliab.</journal>
-<number>7</number>
-<ee>https://doi.org/10.1016/j.microrel.2015.03.018</ee>
-<url>db/journals/mr/mr55.html#SethuNCOC15</url>
+<journal>Br. J. Educ. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/bjet.13454</ee>
+<url>db/journals/bjet/bjet55.html#NgTL24</url>
+<stream>streams/journals/bjet</stream>
 </article>
 </r>
-<r><article key="journals/tc/LiuXZBC15" mdate="2017-08-23">
-<author pid="13/5407-1">Xuan Liu 0001</author>
-<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
-<author pid="94/689">Shigeng Zhang</author>
-<author pid="14/3799">Kai Bu</author>
-<author pid="163/6518">Alvin Chan</author>
-<title>STEP: A Time-Efficient Tag Searching Protocol in Large RFID Systems.</title>
-<pages>3265-3277</pages>
+<r><article key="journals/cai/ChenZDHNHQT24" mdate="2024-10-06">
+<author orcid="0000-0002-7701-6313" pid="206/5723">Leiming Chen</author>
+<author pid="z/WeishanZhang">Weishan Zhang</author>
+<author pid="344/9550">Cihao Dong</author>
+<author pid="150/6487">Ziling Huang</author>
+<author pid="146/1526">Yuming Nie</author>
+<author pid="309/8559">Zhaoxiang Hou</author>
+<author pid="247/3276">Sibo Qiao</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>FedDRL: Trustworthy Federated Learning Model Fusion Method Based on Staged Reinforcement Learning.</title>
+<pages>1-37</pages>
+<year>2024</year>
+<volume>43</volume>
+<journal>Comput. Informatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.31577/cai_2024_1_1</ee>
+<url>db/journals/cai/cai43.html#ChenZDHNHQT24</url>
+</article>
+</r>
+<r><article key="journals/entropy/ChenZDZZQZT24" mdate="2024-05-17">
+<author orcid="0000-0002-7701-6313" pid="206/5723">Leiming Chen</author>
+<author orcid="0000-0001-9800-1068" pid="z/WeishanZhang">Weishan Zhang</author>
+<author orcid="0009-0007-5769-6263" pid="344/9550">Cihao Dong</author>
+<author orcid="0000-0003-3637-4939" pid="172/8138">Dehai Zhao</author>
+<author orcid="0000-0003-4371-0953" pid="21/513">Xingjie Zeng</author>
+<author orcid="0000-0001-6922-5986" pid="247/3276">Sibo Qiao</author>
+<author pid="375/2727">Yichang Zhu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>FedTKD: A Trustworthy Heterogeneous Federated Learning Based on Adaptive Knowledge Distillation.</title>
+<pages>96</pages>
+<year>2024</year>
+<month>January</month>
+<volume>26</volume>
+<journal>Entropy</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/e26010096</ee>
+<url>db/journals/entropy/entropy26.html#ChenZDZZQZT24</url>
+</article>
+</r>
+<r><article key="journals/ojcs/ZhangGLT24" mdate="2024-08-02">
+<author orcid="0000-0001-6021-5802" pid="03/1403">Yiqian Zhang</author>
+<author orcid="0009-0001-7204-2176" pid="343/9397">Tianli Gao</author>
+<author orcid="0000-0003-0495-332X" pid="48/10800">Congduan Li</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Coded Federated Learning for Communication-Efficient Edge Computing: A Survey.</title>
+<pages>4098-4124</pages>
+<year>2024</year>
+<volume>5</volume>
+<journal>IEEE Open J. Commun. Soc.</journal>
+<ee type="oa">https://doi.org/10.1109/OJCOMS.2024.3423362</ee>
+<url>db/journals/ojcs/ojcs5.html#ZhangGLT24</url>
+<stream>streams/journals/ojcs</stream>
+</article>
+</r>
+<r><article key="journals/tcss/TaoLFSTW24" mdate="2025-01-08">
+<author orcid="0000-0002-9830-4656" pid="252/1081">Liping Tao</author>
+<author orcid="0000-0003-0564-6196" pid="16/6317-15">Yang Lu 0015</author>
+<author orcid="0000-0003-0270-6261" pid="91/3295">Yuqi Fan</author>
+<author orcid="0000-0003-4042-592X" pid="29/563-11">Lei Shi 0011</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0002-3818-4680" pid="78/7437">Zhen Wei</author>
+<title>Throughput-Scalable Shard Reorganization Tailored to Node Relations in Sharding Blockchain Networks.</title>
+<pages>7271-7285</pages>
+<year>2024</year>
+<month>December</month>
+<volume>11</volume>
+<journal>IEEE Trans. Comput. Soc. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCSS.2024.3406769</ee>
+<url>db/journals/tcss/tcss11.html#TaoLFSTW24</url>
+<stream>streams/journals/tcss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/JiangTLY0L24" mdate="2025-02-24">
+<author pid="21/4633">Yu Jiang</author>
+<author pid="319/7773">Xindi Tong</author>
+<author pid="191/8896">Ziyao Liu</author>
+<author pid="364/8410">Huanyi Ye</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>Efficient Federated Unlearning with Adaptive Differential Privacy Preservation.</title>
+<pages>7822-7831</pages>
+<year>2024</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData62323.2024.10825236</ee>
+<crossref>conf/bigdataconf/2024</crossref>
+<url>db/conf/bigdataconf/bigdataconf2024.html#JiangTLY0L24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciss/HangYT24" mdate="2024-05-07">
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>TrumorGPT: Query Optimization and Semantic Reasoning over Networks for Automated Fact-Checking.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS59072.2024.10480162</ee>
+<crossref>conf/ciss/2024</crossref>
+<url>db/conf/ciss/ciss2024.html#HangYT24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciss/YuZT24" mdate="2024-04-17">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Contagion Source Detection by Maximum Likelihood Estimation and Starlike Graph Approximation.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS59072.2024.10480182</ee>
+<crossref>conf/ciss/2024</crossref>
+<url>db/conf/ciss/ciss2024.html#YuZT24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LiangZLZTC24" mdate="2025-01-24">
+<author pid="40/2957">Han Liang</author>
+<author pid="237/3754">Ziwei Zhan</author>
+<author pid="90/5130">Weijie Liu</author>
+<author pid="62/5337-1">Xiaoxi Zhang 0001</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="83/6331-4">Xu Chen 0004</author>
+<title>FedReMa: Improving Personalized Federated Learning via Leveraging the Most Relevant Clients.</title>
+<pages>2090-2097</pages>
+<year>2024</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA240727</ee>
+<crossref>conf/ecai/2024</crossref>
+<url>db/conf/ecai/ecai2024.html#LiangZLZTC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LaskarABRKKJB0P24" mdate="2024-11-14">
+<author pid="250/6292">Md. Tahmid Rahman Laskar</author>
+<author pid="184/8757">Sawsan Alqahtani</author>
+<author pid="241/6155">M. Saiful Bari</author>
+<author pid="80/5108">Mizanur Rahman</author>
+<author pid="342/1624">Mohammad Abdullah Matin Khan</author>
+<author pid="155/3116">Haidar Khan</author>
+<author pid="190/9763">Israt Jahan</author>
+<author pid="160/3678">Amran Bhuiyan</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="180/3830">Md. Rizwan Parvez</author>
+<author pid="71/4476">Enamul Hoque</author>
+<author pid="62/2078">Shafiq Joty</author>
+<author pid="h/XiangjiHuang">Jimmy Huang 0001</author>
+<title>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations.</title>
+<pages>13785-13816</pages>
+<year>2024</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/2024.emnlp-main.764</ee>
+<crossref>conf/emnlp/2024</crossref>
+<url>db/conf/emnlp/emnlp2024.html#LaskarABRKKJB0P24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/ZhaoWZ0C24" mdate="2024-10-15">
+<author orcid="0000-0002-4165-2123" pid="53/8131">Chao Zhao</author>
+<author orcid="0000-0003-2757-7208" pid="212/5263">Zimeng Wang</author>
+<author pid="150/5744">Qiaoqiao Zhou</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0003-2006-0898" pid="97/3135">Chung Chan</author>
+<title>Infodemic Source Detection: Enhanced Formulations with Information Flow.</title>
+<pages>3291-3296</pages>
+<year>2024</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT57864.2024.10619619</ee>
+<crossref>conf/isit/2024</crossref>
+<url>db/conf/isit/isit2024.html#ZhaoWZ0C24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ithings/FuZYP024" mdate="2024-11-08">
+<author pid="241/1053">Shuang Fu</author>
+<author pid="280/0804">Xiangping Bryce Zhai</author>
+<author pid="150/5634">Changyan Yi</author>
+<author pid="63/10575">Lei Pang</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Energy Efficient and Low Latency Computation Offloading via Truly PPO in Mobile Edge Computing Networks with Multi-UAV.</title>
+<pages>98-104</pages>
+<year>2024</year>
+<booktitle>iThings/GreenCom/CPSCom/SmartData/Cybermatics</booktitle>
+<ee>https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00038</ee>
+<crossref>conf/ithings/2024</crossref>
+<url>db/conf/ithings/ithings2024.html#FuZYP024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/JiangTL24" mdate="2025-01-29">
+<author pid="21/4633">Yu Jiang</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>FedUHB: Accelerating Federated Unlearning via Polyak Heavy Ball Method.</title>
+<pages>235-240</pages>
+<year>2024</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW61385.2024.10807033</ee>
+<crossref>conf/itw/2024</crossref>
+<url>db/conf/itw/itw2024.html#JiangTL24</url>
+<stream>streams/conf/itw</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/GaoLLTG24" mdate="2025-01-29">
+<author pid="343/9397">Tianli Gao</author>
+<author pid="136/7245">Jiahong Lin</author>
+<author pid="48/10800">Congduan Li</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="82/4977">Jun Gao</author>
+<title>Federated Learning Meets Network Coding: Efficient Coded Hierarchical Federated Learning.</title>
+<pages>241-246</pages>
+<year>2024</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW61385.2024.10806940</ee>
+<crossref>conf/itw/2024</crossref>
+<url>db/conf/itw/itw2024.html#GaoLLTG24</url>
+<stream>streams/conf/itw</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/WangTB24" mdate="2025-04-07">
+<author pid="78/2022-63">Kai Wang 0063</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="139/0747">Christopher G. Brinton</author>
+<title>Maximizing User Admittance for Cognitive Satellite-Terrestrial Networks Using ODE-Inspired Spectral Radius Estimation.</title>
+<pages>508-513</pages>
+<year>2024</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW61385.2024.10807009</ee>
+<crossref>conf/itw/2024</crossref>
+<url>db/conf/itw/itw2024.html#WangTB24</url>
+<stream>streams/conf/itw</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/FungWT24" mdate="2025-01-19">
+<author orcid="0009-0006-0839-0789" pid="380/6678">Sze Ching Evelyn Fung</author>
+<author orcid="0000-0003-2063-5065" pid="81/3327">Man-Fai Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models.</title>
+<year>2024</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3657604.3664673</ee>
+<ee>https://www.wikidata.org/entity/Q130895153</ee>
+<crossref>conf/lats/2024</crossref>
+<url>db/conf/lats/lats2024.html#FungWT24</url>
+<pages>255-258</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/WangGLT24" mdate="2025-01-19">
+<author orcid="0000-0002-5183-1248" pid="82/8599">Yuchen Wang</author>
+<author orcid="0009-0004-0779-7179" pid="351/0482">Shangxin Guo</author>
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Nemobot: Crafting Strategic Gaming LLM Agents for K-12 AI Education.</title>
+<year>2024</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3657604.3664671</ee>
+<ee>https://www.wikidata.org/entity/Q130820257</ee>
+<crossref>conf/lats/2024</crossref>
+<url>db/conf/lats/lats2024.html#WangGLT24</url>
+<pages>393-397</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netaisys/Chen024" mdate="2025-01-19">
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Neural Sum Rate Maximization for AI-Native Wireless Networks: Alternating Direction Method of Multipliers Framework and Algorithm Unrolling.</title>
+<pages>13-18</pages>
+<year>2024</year>
+<booktitle>NetAISys@MobiSys</booktitle>
+<ee>https://doi.org/10.1145/3662004.3663552</ee>
+<ee>https://www.wikidata.org/entity/Q130910491</ee>
+<crossref>conf/netaisys/2024</crossref>
+<url>db/conf/netaisys/netaisys2024.html#Chen024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tencon/Hou024" mdate="2025-03-17">
+<author pid="400/3119">Runlin Hou</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Similarity-Based Label Propagation for Electric Vehicle Network Representation Learning.</title>
+<pages>856-861</pages>
+<year>2024</year>
+<booktitle>TENCON</booktitle>
+<ee>https://doi.org/10.1109/TENCON61640.2024.10903116</ee>
+<crossref>conf/tencon/2024</crossref>
+<url>db/conf/tencon/tencon2024.html#Hou024</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-08216" mdate="2024-02-01">
+<author pid="21/4633">Yu Jiang</author>
+<author pid="199/8671">Jiyuan Shen</author>
+<author pid="191/8896">Ziyao Liu</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.</title>
+<year>2024</year>
+<volume>abs/2401.08216</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.08216</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-08216</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14890" mdate="2024-10-21">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Unraveling the Viral Spread of Misinformation: Maximum-Likelihood Estimation and Starlike Tree Approximation in Markovian Spreading Models.</title>
+<year>2024</year>
+<volume>abs/2403.14890</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14890</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14890</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-04069" mdate="2024-10-06">
+<author pid="250/6292">Md. Tahmid Rahman Laskar</author>
+<author pid="184/8757">Sawsan Alqahtani</author>
+<author orcid="0000-0001-8795-8040" pid="241/6155">M. Saiful Bari</author>
+<author pid="80/5108">Mizanur Rahman</author>
+<author pid="342/1624">Mohammad Abdullah Matin Khan</author>
+<author pid="155/3116">Haidar Khan</author>
+<author pid="190/9763">Israt Jahan</author>
+<author pid="160/3678">Amran Bhuiyan</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="180/3830">Md. Rizwan Parvez</author>
+<author pid="71/4476">Enamul Hoque</author>
+<author pid="62/2078">Shafiq Joty</author>
+<author pid="h/XiangjiHuang">Jimmy Xiangji Huang</author>
+<title>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations.</title>
+<year>2024</year>
+<volume>abs/2407.04069</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.04069</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-04069</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-12964" mdate="2024-10-17">
+<author pid="215/4027">Siya Chen</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="280/0804">Xiangping Zhai 0001</author>
+<author pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>OpenRANet: Neuralized Spectrum Access by Joint Subcarrier and Power Allocation with Optimization-based Deep Learning.</title>
+<year>2024</year>
+<volume>abs/2409.12964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.12964</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-12964</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-15285" mdate="2024-11-26">
+<author pid="82/8599">Yuchen Wang</author>
+<author pid="351/0482">Shangxin Guo</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework.</title>
+<year>2024</year>
+<volume>abs/2410.15285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.15285</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-15285</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-01825" mdate="2025-01-24">
+<author pid="40/2957">Han Liang</author>
+<author pid="237/3754">Ziwei Zhan</author>
+<author pid="90/5130">Weijie Liu</author>
+<author pid="62/5337-1">Xiaoxi Zhang 0001</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="83/6331-4">Xu Chen 0004</author>
+<title>FedReMa: Improving Personalized Federated Learning via Leveraging the Most Relevant Clients.</title>
+<year>2024</year>
+<volume>abs/2411.01825</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.01825</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-01825</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-02115" mdate="2025-01-24">
+<author pid="237/3754">Ziwei Zhan</author>
+<author pid="392/9620">Wenkuan Zhao</author>
+<author pid="51/2525">Yuanqing Li</author>
+<author pid="90/5130">Weijie Liu</author>
+<author pid="62/5337-1">Xiaoxi Zhang 0001</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="34/3772-1">Chuan Wu 0001</author>
+<author pid="74/6501">Deke Guo</author>
+<author pid="83/6331-4">Xu Chen 0004</author>
+<title>FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation.</title>
+<year>2024</year>
+<volume>abs/2411.02115</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.02115</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-02115</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-11039" mdate="2025-01-01">
+<author pid="21/4633">Yu Jiang</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>FedUHB: Accelerating Federated Unlearning via Polyak Heavy Ball Method.</title>
+<year>2024</year>
+<volume>abs/2411.11039</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.11039</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-11039</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-11044" mdate="2025-01-01">
+<author pid="21/4633">Yu Jiang</author>
+<author pid="319/7773">Xindi Tong</author>
+<author pid="191/8896">Ziyao Liu</author>
+<author pid="364/8410">Huanyi Ye</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>Efficient Federated Unlearning with Adaptive Differential Privacy Preservation.</title>
+<year>2024</year>
+<volume>abs/2411.11044</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.11044</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-11044</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/aaiml/WongQT23" mdate="2023-05-05">
+<author pid="81/3327">Man-Fai Wong</author>
+<author pid="321/3410">Xintong Qi</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry.</title>
+<pages>839-853</pages>
+<year>2023</year>
+<volume>3</volume>
+<journal>Adv. Artif. Intell. Mach. Learn.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.54364/aaiml.2023.1152</ee>
+<url>db/journals/aaiml/aaiml3.html#WongQT23</url>
+</article>
+</r>
+<r><article key="journals/bdcc/HangTYCT23" mdate="2025-03-03">
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author orcid="0009-0004-0391-7663" pid="279/5637">Yi-Zhen Tsai</author>
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0001-9923-9027" pid="35/9005">Jiasi Chen</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Privacy-Enhancing Digital Contact Tracing with Machine Learning for Pandemic Response: A Comprehensive Review.</title>
+<pages>108</pages>
+<year>2023</year>
+<volume>7</volume>
+<journal>Big Data Cogn. Comput.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/bdcc7020108</ee>
+<url>db/journals/bdcc/bdcc7.html#HangTYCT23</url>
+</article>
+</r>
+<r><article key="journals/entropy/WongGHHT23" mdate="2023-08-05">
+<author orcid="0000-0003-2063-5065" pid="81/3327">Man-Fai Wong</author>
+<author pid="351/0482">Shangxin Guo</author>
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author orcid="0000-0002-8630-494X" pid="49/1840">Siu-Wai Ho</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review.</title>
+<pages>888</pages>
+<year>2023</year>
+<month>June</month>
+<volume>25</volume>
+<journal>Entropy</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/e25060888</ee>
+<url>db/journals/entropy/entropy25.html#WongGHHT23</url>
+</article>
+</r>
+<r><article key="journals/ftnet/TanY23" mdate="2024-02-05">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<title>Contagion Source Detection in Epidemic and Infodemic Outbreaks: Mathematical Analysis and Network Algorithms.</title>
+<pages>107-251</pages>
+<year>2023</year>
+<volume>13</volume>
+<journal>Found. Trends Netw.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1561/1300000068</ee>
+<url>db/journals/ftnet/ftnet13.html#TanY23</url>
+</article>
+</r>
+<r><article key="journals/icl/ZhangLT23" mdate="2023-08-31">
+<author orcid="0000-0001-6021-5802" pid="03/1403">Yiqian Zhang</author>
+<author orcid="0000-0003-0495-332X" pid="48/10800">Congduan Li</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>On Symmetric Multilevel Diversity Coding System With Linear Computations.</title>
+<pages>1994-1998</pages>
+<year>2023</year>
+<month>August</month>
+<volume>27</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/LCOMM.2023.3286478</ee>
+<url>db/journals/icl/icl27.html#ZhangLT23</url>
+</article>
+</r>
+<r><article key="journals/tcom/LiZT23" mdate="2023-08-05">
+<author orcid="0000-0003-0495-332X" pid="48/10800">Congduan Li</author>
+<author orcid="0000-0001-6021-5802" pid="03/1403">Yiqian Zhang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing.</title>
+<pages>3847-3860</pages>
+<year>2023</year>
+<month>July</month>
+<volume>71</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCOMM.2023.3275166</ee>
+<url>db/journals/tcom/tcom71.html#LiZT23</url>
+</article>
+</r>
+<r><article key="journals/titb/HangYCTC23" mdate="2024-01-13">
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0003-1381-7418" pid="30/545">Guanrong Chen</author>
+<title>MEGA: Machine Learning-Enhanced Graph Analytics for Infodemic Risk Management.</title>
+<pages>6100-6111</pages>
+<year>2023</year>
+<month>December</month>
+<volume>27</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JBHI.2023.3314632</ee>
+<url>db/journals/titb/titb27.html#HangYCTC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/ChenT23" mdate="2024-08-04">
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Neural Sum Rate Maximization with Deep Unrolling.</title>
+<pages>326-331</pages>
+<year>2023</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM54140.2023.10437390</ee>
+<crossref>conf/globecom/2023</crossref>
+<url>db/conf/globecom/globecom2023.html#ChenT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/ZhaoZZT23" mdate="2024-04-14">
+<author pid="373/0062">Kangwei Zhao</author>
+<author pid="280/0804">Xiangping Bryce Zhai</author>
+<author pid="93/4160">Jing Zhu</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Formation Control Optimization via Virtual Leader Exploration with Deep Reinforcement Learning for Unmanned Aerial Vehicles.</title>
+<pages>807-812</pages>
+<year>2023</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS60453.2023.00121</ee>
+<crossref>conf/icpads/2023</crossref>
+<url>db/conf/icpads/icpads2023.html#ZhaoZZT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/ZhangSTL23" mdate="2024-01-25">
+<author pid="93/7647">Caiyu Zhang</author>
+<author pid="33/4189">Dan Song</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="48/10800">Congduan Li</author>
+<title>Improved Predictive Beam Tracking in ISAC Based on Transceiver Division Structure.</title>
+<pages>255-261</pages>
+<year>2023</year>
+<booktitle>WiOpt</booktitle>
+<ee>https://doi.org/10.23919/WiOpt58741.2023.10349845</ee>
+<crossref>conf/wiopt/2023</crossref>
+<url>db/conf/wiopt/wiopt2023.html#ZhangSTL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-13007" mdate="2023-05-04">
+<author pid="81/3327">Man-Fai Wong</author>
+<author pid="321/3410">Xintong Qi</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry.</title>
+<year>2023</year>
+<volume>abs/2301.13007</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.13007</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-13007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-02503" mdate="2023-07-10">
+<author pid="81/3327">Man-Fai Wong</author>
+<author pid="351/0482">Shangxin Guo</author>
+<author pid="231/3792">Ching Nam Hang</author>
+<author pid="49/1840">Siu-Wai Ho</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review.</title>
+<year>2023</year>
+<volume>abs/2307.02503</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.02503</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-02503</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-04061" mdate="2023-07-24">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<title>Contagion Source Detection in Epidemic and Infodemic Outbreaks: Mathematical Analysis and Network Algorithms.</title>
+<year>2023</year>
+<volume>abs/2307.04061</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.04061</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-04061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-13716" mdate="2025-04-07">
+<author pid="206/5723">Leiming Chen</author>
+<author pid="344/9550">Cihao Dong</author>
+<author pid="247/3276">Sibo Qiao</author>
+<author pid="150/6487">Ziling Huang</author>
+<author pid="78/2022-63">Kai Wang 0063</author>
+<author pid="146/1526">Yuming Nie</author>
+<author pid="309/8559">Zhaoxiang Hou</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>FedDRL: A Trustworthy Federated Learning Model Fusion Method Based on Staged Reinforcement Learning.</title>
+<year>2023</year>
+<volume>abs/2307.13716</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.13716</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-13716</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-14349" mdate="2023-08-02">
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="351/0482">Shangxin Guo</author>
+<author pid="81/3327">Man-Fai Wong</author>
+<author pid="231/3792">Ching Nam Hang</author>
+<title>Copilot for Xcode: Exploring AI-Assisted Programming by Prompting Cloud-based Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2307.14349</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.14349</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-14349</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-14708" mdate="2023-11-30">
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Large Language Model-Driven Classroom Flipping: Empowering Student-Centric Peer Questioning with Flipped Interaction.</title>
+<year>2023</year>
+<volume>abs/2311.14708</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.14708</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-14708</url>
+</article>
+</r>
+<r><article key="journals/jstsp/YuTF22" mdate="2022-05-18">
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author orcid="0000-0001-7218-3043" pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.</title>
+<pages>234-249</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSTSP.2022.3153168</ee>
+<url>db/journals/jstsp/jstsp16.html#YuTF22</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/Tan22" mdate="2022-08-31">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>The Value of Cooperation: From AIMD to Flipped Classroom Teaching.</title>
+<pages>8-13</pages>
+<year>2022</year>
+<volume>49</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3543146.3543149</ee>
+<url>db/journals/sigmetrics/sigmetrics49.html#Tan22</url>
+</article>
+</r>
+<r><article key="journals/tbd/FeiRSTW22" mdate="2023-09-30">
+<author orcid="0000-0001-9568-2857" pid="151/5679">Zhe Fei</author>
+<author orcid="0000-0003-2997-8566" pid="307/5479">Yevgen Ryeznik</author>
+<author orcid="0000-0002-1626-2588" pid="307/5161">Oleksandr Sverdlov</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-5568-3054" pid="130/6757">Weng Kee Wong</author>
+<title>An Overview of Healthcare Data Analytics With Applications to the COVID-19 Pandemic.</title>
+<pages>1463-1480</pages>
+<year>2022</year>
+<volume>8</volume>
+<journal>IEEE Trans. Big Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TBDATA.2021.3103458</ee>
+<url>db/journals/tbd/tbd8.html#FeiRSTW22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/ChenYTP22" mdate="2023-03-21">
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>Identifying the Superspreader in Proactive Backward Contact Tracing by Deep Learning.</title>
+<pages>43-48</pages>
+<year>2022</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS53076.2022.9751196</ee>
+<crossref>conf/ciss/2022</crossref>
+<url>db/conf/ciss/ciss2022.html#ChenYTP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciss/LiCT22" mdate="2022-10-02">
+<author pid="48/10800">Congduan Li</author>
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Fast Breadth-First Search Approximation for Epidemic Source Inference.</title>
+<pages>194-199</pages>
+<year>2022</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS53076.2022.9751156</ee>
+<crossref>conf/ciss/2022</crossref>
+<url>db/conf/ciss/ciss2022.html#LiCT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/LiTHQ22" mdate="2025-03-27">
+<author orcid="0000-0002-6928-4940" pid="202/9917-2">Jingting Li 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author pid="321/3410">Xintong Qi</author>
+<title>A Chatbot-Server Framework for Scalable Machine Learning Education through Crowdsourced Data.</title>
+<pages>271-274</pages>
+<year>2022</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3491140.3528300</ee>
+<crossref>conf/lats/2022</crossref>
+<url>db/conf/lats/lats2022.html#LiTHQ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-06751" mdate="2022-01-24">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.</title>
+<year>2022</year>
+<volume>abs/2201.06751</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.06751</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-06751</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-00880" mdate="2025-01-09">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="215/4027">Siya Chen</author>
+<author pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks.</title>
+<year>2022</year>
+<volume>abs/2211.00880</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.00880</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-00880</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/LiTLC21" mdate="2025-03-27">
+<author pid="48/10800">Congduan Li</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0002-6928-4940" pid="202/9917-2">Jingting Li 0002</author>
+<author orcid="0000-0003-0893-5903" pid="215/4027">Siya Chen</author>
+<title>Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM46510.2021.9685369</ee>
+<crossref>conf/globecom/2021</crossref>
+<url>db/conf/globecom/globecom2021.html#LiTLC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/LiL021" mdate="2025-03-27">
+<author orcid="0000-0002-6928-4940" pid="202/9917-2">Jingting Li 0002</author>
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Blending Peer Instruction with Just-In-Time Teaching: Jointly Optimal Task Scheduling with Feedback for Classroom Flipping.</title>
+<pages>117-126</pages>
+<year>2021</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3430895.3460134</ee>
+<crossref>conf/lats/2021</crossref>
+<url>db/conf/lats/lats2021.html#LiL021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/Ling021" mdate="2021-10-14">
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Peer-Grading at Scale with Rank Aggregation.</title>
+<pages>327-330</pages>
+<year>2021</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3430895.3460980</ee>
+<crossref>conf/lats/2021</crossref>
+<url>db/conf/lats/lats2021.html#Ling021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/SongZLT21" mdate="2022-01-03">
+<author pid="33/4189">Dan Song</author>
+<author pid="280/0804">Xiangping Bryce Zhai</author>
+<author pid="76/1820-9">Xin Liu 0009</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Jointly Optimal Fair Data Collection and Trajectory Design Algorithms in UAV-Aided Cellular Networks.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC49053.2021.9417581</ee>
+<crossref>conf/wcnc/2021</crossref>
+<url>db/conf/wcnc/wcnc2021.html#SongZLT21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-14623" mdate="2021-12-01">
+<author pid="151/5679">Zhe Fei</author>
+<author pid="307/5479">Yevgen Ryeznik</author>
+<author pid="307/5161">Oleksandr Sverdlov</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="130/6757">Weng Kee Wong</author>
+<title>An Overview of Healthcare Data Analytics With Applications to the COVID-19 Pandemic.</title>
+<year>2021</year>
+<volume>abs/2111.14623</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.14623</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-14623</url>
+</article>
+</r>
+<r><article key="journals/tit/HoLTY20" mdate="2020-12-01">
+<author orcid="0000-0002-8630-494X" pid="49/1840">Siu-Wai Ho</author>
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author orcid="0000-0001-7386-4027" pid="89/2937">Raymond W. Yeung</author>
+<title>Proving and Disproving Information Inequalities: Theory and Scalable Algorithms.</title>
+<pages>5522-5536</pages>
+<year>2020</year>
+<volume>66</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIT.2020.2982642</ee>
+<url>db/journals/tit/tit66.html#HoLTY20</url>
+</article>
+</r>
+<r><article key="journals/ton/LiuJCBTZ20" mdate="2020-05-22">
+<author orcid="0000-0001-5786-6938" pid="144/3323">Shengxin Liu</author>
+<author orcid="0000-0003-0785-9291" pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0001-9923-9027" pid="35/9005">Jiasi Chen</author>
+<author orcid="0000-0003-2771-3521" pid="139/0747">Christopher G. Brinton</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-9747-623X" pid="61/7360-2">Liang Zheng 0002</author>
+<title>Economic Viability of a Virtual ISP.</title>
+<pages>902-916</pages>
+<year>2020</year>
+<volume>28</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNET.2020.2977198</ee>
+<url>db/journals/ton/ton28.html#LiuJCBTZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/0001L20" mdate="2020-09-05">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<title>Automated Reasoning by Convex Optimization: Proof Simplicity, Duality and Sparsity.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS48834.2020.1570627814</ee>
+<crossref>conf/ciss/2020</crossref>
+<url>db/conf/ciss/ciss2020.html#0001L20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/Ling0HY19" mdate="2023-03-21">
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0002-8630-494X" pid="49/1840">Siu-Wai Ho</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>Scalable Automated Proving of Information Theoretic Inequalities with Proximal Algorithms.</title>
+<pages>1382-1386</pages>
+<year>2019</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2019.8849799</ee>
+<crossref>conf/isit/2019</crossref>
+<url>db/conf/isit/isit2019.html#Ling0HY19</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lnsn/YuTF19" mdate="2018-12-18">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Rumor Source Detection in Finite Graphs with Boundary Effects by Message-Passing Algorithms.</title>
+<pages>175-192</pages>
+<year>2019</year>
+<booktitle>Influence and Behavior Analysis in Social Networks and Social Media</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02592-2_9</ee>
+<crossref>series/lnsn/2019ka</crossref>
+<url>db/series/lnsn/ka2019.html#YuTF19</url>
+</incollection>
+</r>
+<r><article key="journals/jsac/LiGTY18" mdate="2025-01-19">
+<author pid="48/10800">Congduan Li</author>
+<author pid="39/7802">Xuan Guang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>Fundamental Limits on a Class of Secure Asymmetric Multilevel Diversity Coding Systems.</title>
+<pages>737-747</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JSAC.2018.2825838</ee>
+<ee>https://www.wikidata.org/entity/Q130038673</ee>
+<url>db/journals/jsac/jsac36.html#LiGTY18</url>
+</article>
+</r>
+<r><article key="journals/jstsp/YuTF18" mdate="2025-01-19">
+<author orcid="0000-0003-2794-6309" pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-7218-3043" pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Averting Cascading Failures in Networked Infrastructures: Poset-Constrained Graph Algorithms.</title>
+<pages>733-748</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JSTSP.2018.2844813</ee>
+<ee>https://www.wikidata.org/entity/Q129719865</ee>
+<url>db/journals/jstsp/jstsp12.html#YuTF18</url>
+</article>
+</r>
+<r><article key="journals/tcom/LiGZLT18" mdate="2020-09-01">
+<author pid="48/4185">Dan Li</author>
+<author orcid="0000-0002-0928-421X" pid="39/7802">Xuan Guang</author>
+<author orcid="0000-0003-4269-5173" pid="45/3558">Zhiheng Zhou</author>
+<author orcid="0000-0003-0495-332X" pid="48/10800">Congduan Li</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Hierarchical Performance Analysis on Random Linear Network Coding.</title>
+<pages>2009-2021</pages>
+<year>2018</year>
+<volume>66</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCOMM.2017.2787991</ee>
+<url>db/journals/tcom/tcom66.html#LiGZLT18</url>
+</article>
+</r>
+<r><article key="journals/tmc/ZhengCT18" mdate="2018-11-02">
+<author orcid="0000-0001-9747-623X" pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Max-Min Fairness Rate Control in Wireless Networks: Optimality and Algorithms by Perron-Frobenius Theory.</title>
+<pages>127-140</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMC.2017.2698469</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2017.2698469</ee>
+<url>db/journals/tmc/tmc17.html#ZhengCT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/Yu0F18" mdate="2018-11-02">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Graph algorithms for preventing cascading failures in networks.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS.2018.8362273</ee>
+<crossref>conf/ciss/2018</crossref>
+<url>db/conf/ciss/ciss2018.html#Yu0F18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/KuoHYT18" mdate="2019-10-19">
+<author pid="75/9586">Chun-Yen Kuo</author>
+<author orcid="0000-0003-1624-9735" pid="231/3792">Ching Nam Hang</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Parallel Counting of Triangles in Large Graphs: Pruning and Hierarchical Clustering Algorithms.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC.2018.8547597</ee>
+<crossref>conf/hpec/2018</crossref>
+<url>db/conf/hpec/hpec2018.html#KuoHYT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/Ling018" mdate="2019-10-19">
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Human-Assisted Computation for Auto-Grading.</title>
+<pages>360-364</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00059</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Ling018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/LingT18" mdate="2018-11-21">
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Pilot study on optimal task scheduling in learning.</title>
+<pages>20:1-20:4</pages>
+<year>2018</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/3231644.3231677</ee>
+<crossref>conf/lats/2018</crossref>
+<url>db/conf/lats/lats2018.html#LingT18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/ZhengJTHC17" mdate="2020-04-02">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="30/4930">Sangtae Ha</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Customized Data Plans for Mobile Users: Feasibility and Benefits of Data Trading.</title>
+<pages>949-963</pages>
+<year>2017</year>
+<volume>35</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JSAC.2017.2679661</ee>
+<url>db/journals/jsac/jsac35.html#ZhengJTHC17</url>
+</article>
+</r>
+<r><article key="journals/tcom/ZhaiTHR17" mdate="2024-10-16">
+<author orcid="0000-0001-8939-199X" pid="280/0804">Xiangping Zhai 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="76/6020">Yichao Huang</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Transmit Beamforming and Power Control for Optimizing the Outage Probability Fairness in MISO Networks.</title>
+<pages>839-850</pages>
+<year>2017</year>
+<volume>65</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCOMM.2016.2623719</ee>
+<url>db/journals/tcom/tcom65.html#ZhaiTHR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/YuTF17" mdate="2018-11-06">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Rumor Source Detection in Finite Graphs with Boundary Effects by Message-passing Algorithms.</title>
+<pages>86-90</pages>
+<year>2017</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1145/3110025.3110028</ee>
+<crossref>conf/asunam/2017</crossref>
+<url>db/conf/asunam/asonam2017.html#YuTF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/Zhai017" mdate="2024-10-16">
+<author pid="280/0804">Xiangping Zhai 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Rate-Constrained Energy Minimization in Networks with Multiple Mobile Network Operator Access.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2017.8254466</ee>
+<crossref>conf/globecom/2017</crossref>
+<url>db/conf/globecom/globecom2017.html#Zhai017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ZhengJCBTC17" mdate="2025-03-03">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0001-9923-9027" pid="35/9005">Jiasi Chen</author>
+<author orcid="0000-0003-2771-3521" pid="139/0747">Christopher G. Brinton</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Economic viability of a virtual ISP.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2017.8057123</ee>
+<crossref>conf/infocom/2017</crossref>
+<url>db/conf/infocom/infocom2017.html#ZhengJCBTC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/LiGTY17" mdate="2018-11-02">
+<author pid="48/10800">Congduan Li</author>
+<author pid="39/7802">Xuan Guang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>On secure asymmetric multilevel diversity coding systems.</title>
+<pages>2138-2142</pages>
+<year>2017</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2017.8006907</ee>
+<crossref>conf/isit/2017</crossref>
+<url>db/conf/isit/isit2017.html#LiGTY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/YuTF17" mdate="2018-11-02">
+<author pid="179/3425">Pei-Duo Yu</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Rumor source detection in unicyclic graphs.</title>
+<pages>439-443</pages>
+<year>2017</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2017.8277993</ee>
+<crossref>conf/itw/2017</crossref>
+<url>db/conf/itw/itw2017.html#YuTF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/LiYGZTY17" mdate="2018-11-02">
+<author pid="48/10800">Congduan Li</author>
+<author pid="184/3857">Fangwei Ye</author>
+<author pid="39/7802">Xuan Guang</author>
+<author pid="45/3558">Zhiheng Zhou</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>On independent distributed source coding problems with exact repair.</title>
+<pages>579-583</pages>
+<year>2017</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2017.8277962</ee>
+<crossref>conf/itw/2017</crossref>
+<url>db/conf/itw/itw2017.html#LiYGZTY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/ZhengCJTC17" mdate="2025-03-03">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0001-9923-9027" pid="35/9005">Jiasi Chen</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>An economic analysis of wireless network infrastructure sharing.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>WiOpt</booktitle>
+<ee type="oa">https://dl.ifip.org/db/conf/wiopt/wiopt2017/1570330045.pdf</ee>
+<ee>https://doi.org/10.23919/WIOPT.2017.7959885</ee>
+<crossref>conf/wiopt/2017</crossref>
+<url>db/conf/wiopt/wiopt2017.html#ZhengCJTC17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tit/ZhengHTHL16" mdate="2024-05-07">
+<author orcid="0000-0001-9747-623X" pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0001-7043-8276" pid="03/3341">Y.-W. Peter Hong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="148/1939">Cheng-Lin Hsieh</author>
+<author pid="53/5898">Chia-Han Lee</author>
+<title>Wireless Max-Min Utility Fairness With General Monotonic Constraints by Perron-Frobenius Theory.</title>
+<pages>7283-7298</pages>
+<year>2016</year>
+<volume>62</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TIT.2016.2615183</ee>
+<url>db/journals/tit/tit62.html#ZhengHTHL16</url>
+</article>
+</r>
+<r><article key="journals/tkde/WongTSC16" mdate="2017-11-22">
+<author pid="27/11143">Felix Ming Fai Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="57/3852">Soumya Sen</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Quantifying Political Leaning from Tweets, Retweets, and Retweeters.</title>
+<pages>2158-2172</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2553667</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2553667</ee>
+<url>db/journals/tkde/tkde28.html#WongTSC16</url>
+</article>
+</r>
+<r><article key="journals/tmc/GaoTHZK16" mdate="2023-11-21">
+<author pid="46/3479-10">Yan Gao 0010</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="62/2964">Ying Huang</author>
+<author pid="62/6289-1">Zheng Zeng 0001</author>
+<author pid="83/4027">P. R. Kumar 0001</author>
+<title>Characterization and Optimization of Delay Guarantees for Real-Time Multimedia Traffic Flows in IEEE 802.11 WLANs.</title>
+<pages>1090-1104</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TMC.2015.2407395</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2015.2407395</ee>
+<url>db/journals/tmc/tmc15.html#GaoTHZK16</url>
+</article>
+</r>
+<r><article key="journals/ton/Tan16" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimal Power Control in Rayleigh-Fading Heterogeneous Wireless Networks.</title>
+<pages>940-953</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNET.2015.2404932</ee>
+<url>db/journals/ton/ton24.html#Tan16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/TanYLZF16" mdate="2024-08-04">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="179/3425">Pei-Duo Yu</author>
+<author pid="179/3377">Chun-Kiu Lai</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author pid="f/HungLinFu">Hung-Lin Fu</author>
+<title>Optimal detection of influential spreaders in online social networks.</title>
+<pages>145-150</pages>
+<year>2016</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS.2016.7460492</ee>
+<crossref>conf/ciss/2016</crossref>
+<url>db/conf/ciss/ciss2016.html#TanYLZF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/BiTT16" mdate="2018-11-02">
+<author pid="183/6746">Yingjie Bi</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="85/4619">Ao Tang</author>
+<title>Network utility maximization with path cardinality constraints.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2016.7524408</ee>
+<crossref>conf/infocom/2016</crossref>
+<url>db/conf/infocom/infocom2016.html#BiTT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/ZhengJBTHC16" mdate="2025-03-03">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0003-2771-3521" pid="139/0747">Christopher G. Brinton</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="30/4930">Sangtae Ha</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>On the Viability of a Cloud Virtual Service Provider.</title>
+<pages>235-248</pages>
+<year>2016</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2896377.2901452</ee>
+<ee>https://doi.org/10.1145/2964791.2901452</ee>
+<crossref>conf/sigmetrics/2016</crossref>
+<url>db/conf/sigmetrics/sigmetrics2016.html#ZhengJBTHC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftnet/Tan15" mdate="2020-09-10">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Wireless Network Optimization by Perron-Frobenius Theory.</title>
+<pages>107-218</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Found. Trends Netw.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1561/1300000048</ee>
+<url>db/journals/ftnet/ftnet9.html#Tan15</url>
+</article>
+</r>
+<r><article key="journals/jsac/LaiZLT15" mdate="2020-04-02">
+<author pid="32/5063">I-Wei Lai</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="53/5898">Chia-Han Lee</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Beamforming Duality and Algorithms for Weighted Sum Rate Maximization in Cognitive Radio Networks.</title>
+<pages>832-847</pages>
+<year>2015</year>
+<volume>33</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JSAC.2014.2361079</ee>
+<url>db/journals/jsac/jsac33.html#LaiZLT15</url>
+</article>
+</r>
+<r><article key="journals/jstsp/WangDZT15" mdate="2023-07-13">
+<author pid="146/7830">Zhaoxu Wang</author>
+<author pid="125/2094">Wenxiang Dong</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Rooting our Rumor Sources in Online Social Networks: The Value of Diversity From Multiple Observations.</title>
+<pages>663-677</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JSTSP.2015.2389191</ee>
+<url>db/journals/jstsp/jstsp9.html#WangDZT15</url>
+</article>
+</r>
+<r><article key="journals/tcom/LiSTZSWSL15" mdate="2025-03-03">
+<author pid="139/9804-1">Yuzhou Li 0001</author>
+<author pid="39/4119">Min Sheng</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="04/3348-6">Yan Zhang 0006</author>
+<author pid="20/9668">Yuhua Sun</author>
+<author orcid="0000-0003-3504-9763" pid="02/7910-1">Xijun Wang 0001</author>
+<author pid="67/2601-1">Yan Shi 0001</author>
+<author pid="65/7582-1">Jiandong Li 0001</author>
+<title>Energy-Efficient Subcarrier Assignment and Power Allocation in OFDMA Systems With Max-Min Fairness Guarantees.</title>
+<pages>3183-3195</pages>
+<year>2015</year>
+<volume>63</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCOMM.2015.2450724</ee>
+<url>db/journals/tcom/tcom63.html#LiSTZSWSL15</url>
+</article>
+</r>
+<r><article key="journals/tvt/LouYTW15" mdate="2020-06-25">
+<author pid="133/5204">Xin Lou</author>
+<author pid="74/3592">Hongyi Yao</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0002-9318-1482" pid="21/1550-1">Jianping Wang 0001</author>
+<title>VANDER: Efficient Cooperative Watchdog Monitoring for Lossy Wireless Network Coding.</title>
+<pages>702-713</pages>
 <year>2015</year>
 <volume>64</volume>
-<journal>IEEE Trans. Computers</journal>
-<number>11</number>
-<ee>https://doi.org/10.1109/TC.2015.2394461</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2015.2394461</ee>
-<url>db/journals/tc/tc64.html#LiuXZBC15</url>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVT.2014.2322939</ee>
+<url>db/journals/tvt/tvt64.html#LouYTW15</url>
 </article>
 </r>
-<coauthors n="50" nc="7">
-<co c="0"><na f="b/Binh:Huynh_Thi_Thanh" pid="91/1561">Huynh Thi Thanh Binh</na></co>
-<co c="3"><na f="b/Bo:Jessica_Y=" pid="313/9775">Jessica Y. Bo</na></co>
-<co c="2"><na f="b/Bu:Kai" pid="14/3799">Kai Bu</na></co>
-<co c="1"><na f="c/Chan:Sieng_Fong" pid="163/6394">Sieng Fong Chan</na></co>
-<co c="0"><na f="c/Chen:Nancy_F=" pid="84/8761">Nancy F. Chen</na></co>
-<co c="6"><na f="c/Chen_0001:Renjie" pid="69/8073-1">Renjie Chen 0001</na></co>
-<co c="0"><na f="c/Chen:Zhenghua" pid="03/7457">Zhenghua Chen</na></co>
-<co c="0"><na f="f/Fu:Jie" pid="16/7565">Jie Fu</na></co>
-<co c="0"><na f="f/Fu_0001:Jie" pid="16/7565-1">Jie Fu 0001</na></co>
-<co c="3"><na f="h/Huang:Hen=Wei" pid="115/9608">Hen-Wei Huang</na></co>
-<co c="0"><na f="h/Hui:Siu_Cheung" pid="65/3225">Siu Cheung Hui</na></co>
-<co c="0"><na f="j/Juefei=Xu:Felix" pid="35/11103">Felix Juefei-Xu</na></co>
-<co c="0"><na f="k/Korsakova:Anna" pid="287/4802">Anna Korsakova</na></co>
-<co c="4"><na f="k/Krause:Ben" pid="64/2350">Ben Krause</na></co>
-<co c="6"><na f="l/Lee:Jeannie_Su_Ann" pid="99/4981">Jeannie Su Ann Lee</na></co>
-<co c="0"><na f="l/Lee:Roy_Ka=Wei" pid="139/2266">Roy Ka-Wei Lee</na></co>
-<co c="5"><na f="l/Levine:Martin_D=" pid="89/1322">Martin D. Levine</na></co>
-<co c="0"><na f="l/Li_0001:Xiaoli" pid="l/XiaoliLi">Xiaoli Li 0001</na></co>
-<co c="0"><na f="l/Lim:Kah_Wai" pid="287/4961">Kah Wai Lim</na></co>
-<co c="2"><na f="l/Liu_0001:Xuan" pid="13/5407-1">Xuan Liu 0001</na></co>
-<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
-<co c="0"><na f="l/Luu:Anh_Tuan" pid="81/8329">Anh Tuan Luu</na></co>
-<co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
-<co c="4"><na f="m/Madani:Ali" pid="180/7507">Ali Madani</na></co>
-<co c="4"><na f="n/Naik_0002:Nikhil" pid="43/7797-2">Nikhil Naik 0002</na></co>
-<co c="1"><na f="n/Ng:Hong_Seng" pid="163/6536">Hong Seng Ng</na></co>
-<co c="0"><na f="n/Ngoc:Nguyen_Hong" pid="240/2457">Nguyen Hong Ngoc</na></co>
-<co c="1"><na f="o/Ong:Cheng_Nee" pid="163/6450">Cheng Nee Ong</na></co>
-<co c="0"><na f="o/Ong:Donovan" pid="268/1222">Donovan Ong</na></co>
-<co c="0" n="2"><na f="o/Ong:Yew=Soon" pid="64/4136">Yew-Soon Ong</na><na>Yew Soon Ong</na></co>
-<co c="0" n="2"><na f="p/Pal:Christopher_Joseph" pid="45/1217">Christopher Joseph Pal</na><na>Chris Pal</na></co>
-<co c="0"><na f="p/Phan:Anh_Tuan" pid="79/10597">Anh Tuan Phan</na></co>
-<co c="0" n="2"><na f="p/Pung:Bill" pid="266/9615">Bill Pung</na><na>Bill Tuck Weng Pung</na></co>
-<co c="5" n="2"><na f="r/Roshtkhari:Mehrsan_Javan" pid="61/169">Mehrsan Javan Roshtkhari</na><na>Mehrsan Javan</na></co>
-<co c="1"><na f="s/Sethu:Raj_Sekar" pid="163/6727">Raj Sekar Sethu</na></co>
-<co c="0"><na f="s/Shao:Huajie" pid="179/4173">Huajie Shao</na></co>
-<co c="0"><na f="s/Shen:Yikang" pid="152/8226">Yikang Shen</na></co>
-<co c="0"><na f="t/Tan:Clement" pid="209/4212">Clement Tan</na></co>
-<co c="0"><na f="t/Tay:Yi" pid="188/6350">Yi Tay</na></co>
-<co c="3"><na f="t/Traverso:Giovanni" pid="224/2346">Giovanni Traverso</na></co>
-<co c="0"><na f="w/Wang:Shuohang" pid="173/5469">Shuohang Wang</na></co>
-<co c="0"><na f="w/Winnerdy:Fernaldo_Richtia" pid="287/5048">Fernaldo Richtia Winnerdy</na></co>
-<co c="0"><na f="w/Wu_0008:Min" pid="16/0-8">Min Wu 0008</na></co>
-<co c="2"><na f="x/Xiao_0001:Bin" pid="43/5134-1">Bin Xiao 0001</na></co>
-<co c="0"><na f="x/Xie:Xiaofei" pid="127/0713">Xiaofei Xie</na></co>
-<co c="0"><na f="x/Xue_0001:Minhui" pid="166/1912">Minhui Xue 0001</na></co>
-<co c="0"><na f="y/Yao:Shuochao" pid="148/1920">Shuochao Yao</na></co>
-<co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
-<co c="2"><na f="z/Zhang:Shigeng" pid="94/689">Shigeng Zhang</na></co>
-<co c="0"><na f="z/Zhang_0007:Shuai" pid="71/208-7">Shuai Zhang 0007</na></co>
+<r><inproceedings key="conf/icdsp/WangZT15" mdate="2024-08-13">
+<author pid="146/7830">Zhaoxu Wang</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>On inferring rumor source for SIS model under multiple observations.</title>
+<pages>755-759</pages>
+<year>2015</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2015.7251977</ee>
+<crossref>conf/icdsp/2015</crossref>
+<url>db/conf/icdsp/icdsp2015.html#WangZT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/ZhengT15" mdate="2018-06-22">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>A probabilistic characterization of the rumor graph boundary in rumor source detection.</title>
+<pages>765-769</pages>
+<year>2015</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2015.7251979</ee>
+<crossref>conf/icdsp/2015</crossref>
+<url>db/conf/icdsp/icdsp2015.html#ZhengT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ZhengJTHC15" mdate="2018-06-22">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="30/4930">Sangtae Ha</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Secondary markets for mobile data: Feasibility and benefits of traded data plans.</title>
+<pages>1580-1588</pages>
+<year>2015</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2015.7218537</ee>
+<crossref>conf/infocom/2015</crossref>
+<url>db/conf/infocom/infocom2015.html#ZhengJTHC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/ZhengJTCW15" mdate="2021-07-21">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="40/9937">Carlee Joe-Wong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author orcid="0000-0002-2602-5551" pid="68/1277-7">Xinyu Wang 0007</author>
+<title>How to Bid the Cloud.</title>
+<pages>71-84</pages>
+<year>2015</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/2785956.2787473</ee>
+<ee>https://doi.org/10.1145/2829988.2787473</ee>
+<crossref>conf/sigcomm/2015</crossref>
+<url>db/conf/sigcomm/sigcomm2015.html#ZhengJTCW15</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/PengITH14" mdate="2019-09-25">
+<author orcid="0000-0002-4755-7231" pid="75/6927">Mugen Peng</author>
+<author pid="09/583">Chih-Lin I</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="80/7804">Chuan Huang</author>
+<title>IEEE ACCESS Special Section Editorial: Recent Advances in Cloud Radio Access Networks.</title>
+<pages>1683-1685</pages>
+<year>2014</year>
+<volume>2</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2015.2389971</ee>
+<url>db/journals/access/access2.html#PengITH14</url>
+</article>
+</r>
+<r><article key="journals/jsac/ZhaiZT14" mdate="2024-10-16">
+<author orcid="0000-0001-8939-199X" pid="280/0804">Xiangping Zhai 0001</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Energy-Infeasibility Tradeoff in Cognitive Radio Networks: Price-Driven Spectrum Access Algorithms.</title>
+<pages>528-538</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSAC.2014.140313</ee>
+<url>db/journals/jsac/jsac32.html#ZhaiZT14</url>
+</article>
+</r>
+<r><article key="journals/jsac/ZhengT14" mdate="2020-04-02">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Maximizing Sum Rates in Cognitive Radio Networks: Convex Relaxation and Global Optimization Algorithms.</title>
+<pages>667-680</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSAC.2014.140324</ee>
+<url>db/journals/jsac/jsac32.html#ZhengT14</url>
+</article>
+</r>
+<r><article key="journals/jsac/LouT14" mdate="2020-04-02">
+<author pid="133/5204">Xin Lou</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimization Decomposition of Resistive Power Networks With Energy Storage.</title>
+<pages>1371-1385</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/JSAC.2014.2332091</ee>
+<url>db/journals/jsac/jsac32.html#LouT14</url>
+</article>
+</r>
+<r><article key="journals/jstsp/Chen0Q14" mdate="2020-07-09">
+<author pid="117/9359">Niangjun Chen</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<title>Electric Vehicle Charging in Smart Grid: Optimality and Valley-Filling Algorithms.</title>
+<pages>1073-1083</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/JSTSP.2014.2334275</ee>
+<url>db/journals/jstsp/jstsp8.html#Chen0Q14</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/ZhengT14" mdate="2020-04-25">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Egalitarian fairness framework for joint rate and power optimization in wireless networks.</title>
+<pages>58-60</pages>
+<year>2014</year>
+<volume>42</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2667522.2667541</ee>
+<url>db/journals/sigmetrics/sigmetrics42.html#ZhengT14</url>
+</article>
+</r>
+<r><article key="journals/twc/ZhengT14" mdate="2020-09-06">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimal Algorithms in Wireless Utility Maximization: Proportional Fairness Decomposition and Nonlinear Perron-Frobenius Theory Framework.</title>
+<pages>2086-2095</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TWC.2013.020714.130980</ee>
+<url>db/journals/twc/twc13.html#ZhengT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/Tan14" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Wireless network optimization by Perron-Frobenius theory.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS.2014.6814130</ee>
+<crossref>conf/ciss/2014</crossref>
+<url>db/conf/ciss/ciss2014.html#Tan14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccoms/TanHLY14" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0002-8630-494X" pid="49/1840">Siu-Wai Ho</author>
+<author pid="159/2836">Shan Lint</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>Finding the capacity of next-generation networks by linear programming.</title>
+<pages>192-196</pages>
+<year>2014</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1109/ICCS.2014.7024792</ee>
+<crossref>conf/iccoms/2014</crossref>
+<url>db/conf/iccoms/iccoms2014.html#TanHLY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ZhengT14" mdate="2018-06-22">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Smart spectrum access algorithms in mobile TV white space networks for utility maximization.</title>
+<pages>175-176</pages>
+<year>2014</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/INFCOMW.2014.6849212</ee>
+<crossref>conf/infocom/2014w</crossref>
+<url>db/conf/infocom/infocom2014w.html#ZhengT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/HongTZHL14" mdate="2024-05-07">
+<author orcid="0000-0001-7043-8276" pid="03/3341">Yao-Win Peter Hong</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="148/1939">Cheng-Lin Hsieh</author>
+<author pid="53/5898">Chia-Han Lee</author>
+<title>A unified framework for wireless max-min utility optimization with general monotonic constraints.</title>
+<pages>2076-2084</pages>
+<year>2014</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2014.6848149</ee>
+<crossref>conf/infocom/2014</crossref>
+<url>db/conf/infocom/infocom2014.html#HongTZHL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/HoTY14" mdate="2017-11-22">
+<author orcid="0000-0002-8630-494X" pid="49/1840">Siu-Wai Ho</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="89/2937">Raymond W. Yeung</author>
+<title>Proving and disproving information inequalities.</title>
+<pages>2814-2818</pages>
+<year>2014</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2014.6875347</ee>
+<crossref>conf/isit/2014</crossref>
+<url>db/conf/isit/isit2014.html#HoTY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/ZhengT14" mdate="2018-11-06">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Smart spectrum access algorithms in mobile TV white space networks for utility maximization.</title>
+<pages>31-32</pages>
+<year>2014</year>
+<booktitle>S3@MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2645884.2651822</ee>
+<crossref>conf/mobicom/2014s3</crossref>
+<url>db/conf/mobicom/s3-2014.html#ZhengT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/ChenZWTWWT14" mdate="2021-12-01">
+<author pid="00/9828">Yitao Chen</author>
+<author pid="17/10372">Jinbei Zhang</author>
+<author pid="96/1149">Xinbing Wang</author>
+<author pid="89/1428">Xiaohua Tian</author>
+<author pid="08/9827">Weijie Wu</author>
+<author pid="07/6378-6">Fan Wu 0006</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Secrecy capacity scaling of large-scale cognitive networks.</title>
+<pages>125-134</pages>
+<year>2014</year>
+<booktitle>MobiHoc</booktitle>
+<ee>https://doi.org/10.1145/2632951.2632961</ee>
+<crossref>conf/mobihoc/2014</crossref>
+<url>db/conf/mobihoc/mobihoc2014.html#ChenZWTWWT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/WangDZT14" mdate="2023-07-13">
+<author pid="146/7830">Zhaoxu Wang</author>
+<author pid="125/2094">Wenxiang Dong</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Rumor source detection with multiple observations: fundamental limits and algorithms.</title>
+<pages>1-13</pages>
+<year>2014</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2591971.2591993</ee>
+<ee>https://doi.org/10.1145/2637364.2591993</ee>
+<crossref>conf/sigmetrics/2014</crossref>
+<url>db/conf/sigmetrics/sigmetrics2014.html#WangDZT14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/ZhengTi13" mdate="2020-04-02">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Cognitive Radio Network Duality and Algorithms for Utility Maximization.</title>
+<pages>500-513</pages>
+<year>2013</year>
+<volume>31</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSAC.2013.130315</ee>
+<url>db/journals/jsac/jsac31.html#ZhengTi13</url>
+</article>
+</r>
+<r><article key="journals/ton/YangKZCT13" mdate="2017-11-22">
+<author pid="50/2484-1">Lei Yang 0001</author>
+<author pid="38/2634">Hongseok Kim</author>
+<author pid="59/1232">Junshan Zhang</author>
+<author pid="61/5309">Mung Chiang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Pricing-Based Decentralized Spectrum Access Control in Cognitive Radio Networks.</title>
+<pages>522-535</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNET.2012.2203827</ee>
+<url>db/journals/ton/ton21.html#YangKZCT13</url>
+</article>
+</r>
+<r><article key="journals/ton/TanCS13" mdate="2019-08-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="s/RSrikant">R. Srikant 0001</author>
+<title>Fast Algorithms and Performance Bounds for Sum Rate Maximization in Wireless Networks.</title>
+<pages>706-719</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNET.2012.2210240</ee>
+<url>db/journals/ton/ton21.html#TanCS13</url>
+</article>
+</r>
+<r><article key="journals/twc/HuangTR13" mdate="2020-09-06">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Joint Beamforming and Power Control in Coordinated Multicell: Max-Min Duality, Effective Network and Large System Transition.</title>
+<pages>2730-2742</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TWC.2013.042313.120752</ee>
+<url>db/journals/twc/twc12.html#HuangTR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/HuangTR13" mdate="2017-11-22">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Efficient SINR fairness algorithm for large distributed multiple-antenna networks.</title>
+<pages>5026-5030</pages>
+<year>2013</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2013.6638618</ee>
+<crossref>conf/icassp/2013</crossref>
+<url>db/conf/icassp/icassp2013.html#HuangTR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/WongTSC13" mdate="2021-02-05">
+<author pid="27/11143">Felix Ming Fai Wong</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="57/3852">Soumya Sen</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Quantifying Political Leaning from Tweets and Retweets.</title>
+<year>2013</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/view/6105</ee>
+<crossref>conf/icwsm/2013</crossref>
+<url>db/conf/icwsm/icwsm2013.html#WongTSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/DongZT13" mdate="2023-07-13">
+<author orcid="0000-0002-0272-1069" pid="125/2094">Wenxiang Dong</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Rooting out the rumor culprit from suspects.</title>
+<pages>2671-2675</pages>
+<year>2013</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2013.6620711</ee>
+<crossref>conf/isit/2013</crossref>
+<url>db/conf/isit/isit2013.html#DongZT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/LouT13" mdate="2017-11-22">
+<author pid="133/5204">Xin Lou</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Convex relaxation and decomposition in large resistive power networks with energy storage.</title>
+<pages>642-647</pages>
+<year>2013</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm.2013.6688031</ee>
+<crossref>conf/smartgridcomm/2013</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2013.html#LouT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/ZhaiZWT13" mdate="2024-10-16">
+<author orcid="0000-0001-8939-199X" pid="280/0804">Xiangping Zhai 0001</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author orcid="0000-0002-9318-1482" pid="21/1550-1">Jianping Wang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimization algorithms for epidemic evolution in broadcast networks.</title>
+<pages>1540-1545</pages>
+<year>2013</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2013.6554792</ee>
+<crossref>conf/wcnc/2013</crossref>
+<url>db/conf/wcnc/wcnc2013.html#ZhaiZWT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/ZhaiZT13" mdate="2024-10-16">
+<author pid="280/0804">Xiangping Zhai 0001</author>
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Convex relaxation algorithms for energy-infeasibility tradeoff in cognitive radio networks.</title>
+<pages>396-403</pages>
+<year>2013</year>
+<booktitle>WiOpt</booktitle>
+<ee type="oa">https://dl.ifip.org/db/conf/wiopt/wiopt2013/ZhaiZT13.pdf</ee>
+<ee>https://ieeexplore.ieee.org/document/6576460/</ee>
+<crossref>conf/wiopt/2013</crossref>
+<url>db/conf/wiopt/wiopt2013.html#ZhaiZT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/ZhengT13" mdate="2021-12-09">
+<author pid="61/7360-2">Liang Zheng 0002</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimal fixed-point algorithms for service differentiation in wireless networks.</title>
+<pages>428-435</pages>
+<year>2013</year>
+<booktitle>WiOpt</booktitle>
+<ee type="oa">https://dl.ifip.org/db/conf/wiopt/wiopt2013/ZhengT13.pdf</ee>
+<ee>https://ieeexplore.ieee.org/document/6576464/</ee>
+<crossref>conf/wiopt/2013</crossref>
+<url>db/conf/wiopt/wiopt2013.html#ZhengT13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-6312" mdate="2023-07-13">
+<author pid="125/2094">Wenxiang Dong</author>
+<author pid="47/2917-1">Wenyi Zhang 0001</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<title>Rooting out the Rumor Culprit from Suspects</title>
+<ee type="oa">http://arxiv.org/abs/1301.6312</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.6312</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-6312</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-2774" mdate="2018-08-13">
+<author pid="76/6020">Yichao Huang</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Joint Beamforming and Power Control in Coordinated Multicell: Max-Min Duality, Effective Network and Large System Transition</title>
+<ee type="oa">http://arxiv.org/abs/1303.2774</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.2774</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-2774</url>
+</article>
+</r>
+<r><article key="journals/tit/ZhaoTADP12" mdate="2020-05-19">
+<author pid="48/76-7">Yue Zhao 0007</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="63/1946">Amir Salman Avestimehr</author>
+<author pid="d/SNDiggavi">Suhas N. Diggavi</author>
+<author pid="p/GregoryJPottie">Gregory J. Pottie</author>
+<title>On the Maximum Achievable Sum-Rate With Successive Decoding in Interference Channels.</title>
+<pages>3798-3820</pages>
+<year>2012</year>
+<volume>58</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIT.2012.2190040</ee>
+<url>db/journals/tit/tit58.html#ZhaoTADP12</url>
+</article>
+</r>
+<r><article key="journals/ton/SorooshyariTC12" mdate="2021-10-14">
+<author orcid="0000-0002-1172-6291" pid="69/1612">Siamak Sorooshyari</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Power Control for Cognitive Radio Networks: Axioms, Algorithms, and Analysis.</title>
+<pages>878-891</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNET.2011.2169986</ee>
+<url>db/journals/ton/ton20.html#SorooshyariTC12</url>
+</article>
+</r>
+<r><article key="journals/tsp/CaiQTL12" mdate="2020-03-10">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>Max-Min SINR Coordinated Multipoint Downlink Transmission - Duality and Algorithms.</title>
+<pages>5384-5395</pages>
+<year>2012</year>
+<volume>60</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSP.2012.2208631</ee>
+<url>db/journals/tsp/tsp60.html#CaiQTL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/HuangTR12" mdate="2017-11-22">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Asymptotic analysis of max-min weighted SINR in multiuser downlink.</title>
+<pages>1-5</pages>
+<year>2012</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS.2012.6310750</ee>
+<crossref>conf/ciss/2012</crossref>
+<url>db/conf/ciss/ciss2012.html#HuangTR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciss/HuangTR12a" mdate="2017-11-22">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Multicell network duality with instantaneous and statistical channel information: A nonlinear Perron-Frobenius characterization.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>CISS</booktitle>
+<ee>https://doi.org/10.1109/CISS.2012.6310832</ee>
+<crossref>conf/ciss/2012</crossref>
+<url>db/conf/ciss/ciss2012.html#HuangTR12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/HuangTR12" mdate="2017-11-22">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Outage balancing in multiuser MISO networks: Network duality and algorithms.</title>
+<pages>3918-3923</pages>
+<year>2012</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2012.6503728</ee>
+<crossref>conf/globecom/2012</crossref>
+<url>db/conf/globecom/globecom2012.html#HuangTR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/HuangTR12a" mdate="2017-11-22">
+<author pid="76/6020">Yichao Huang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Cooperative beamforming in multiuser MIMO networks: Fast SINR fairness algorithms.</title>
+<pages>4114-4119</pages>
+<year>2012</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2012.6503761</ee>
+<crossref>conf/globecom/2012</crossref>
+<url>db/conf/globecom/globecom2012.html#HuangTR12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/CaiTL12" mdate="2017-11-22">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>Optimal max-min fairness rate control in wireless networks: Perron-Frobenius characterization and algorithms.</title>
+<pages>648-656</pages>
+<year>2012</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2012.6195808</ee>
+<crossref>conf/infocom/2012</crossref>
+<url>db/conf/infocom/infocom2012.html#CaiTL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isita/HuangTR12" mdate="2021-08-11">
+<author pid="76/6020">Yichao Huang</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="32/1480">Bhaskar D. Rao</author>
+<title>Large system analysis of power minimization in multiuser MISO downlink with transmit-side channel correlation.</title>
+<pages>240-244</pages>
+<year>2012</year>
+<booktitle>ISITA</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6400927/</ee>
+<crossref>conf/isita/2012</crossref>
+<url>db/conf/isita/isita2012.html#HuangTR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/ChenQT12" mdate="2024-02-05">
+<author pid="117/9359">Niangjun Chen</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimal charging of electric vehicles in smart grid: Characterization and valley-filling algorithms.</title>
+<pages>13-18</pages>
+<year>2012</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm.2012.6485952</ee>
+<crossref>conf/smartgridcomm/2012</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2012.html#ChenQT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/TanCL12" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author pid="133/5204">Xin Lou</author>
+<title>DC optimal power flow: Uniqueness and algorithms.</title>
+<pages>641-646</pages>
+<year>2012</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm.2012.6486058</ee>
+<crossref>conf/smartgridcomm/2012</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2012.html#TanCL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/TanFL11" mdate="2020-04-02">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="23/4583">Shmuel Friedland</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>Spectrum Management in Multiuser Cognitive Wireless Networks: Optimality and Algorithm.</title>
+<pages>421-430</pages>
+<year>2011</year>
+<volume>29</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSAC.2011.110214</ee>
+<url>db/journals/jsac/jsac29.html#TanFL11</url>
+</article>
+</r>
+<r><article key="journals/siammax/TanFL11" mdate="2020-05-26">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="23/4583">Shmuel Friedland</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>Nonnegative Matrix Inequalities and their Application to Nonconvex Power Control Optimization.</title>
+<pages>1030-1055</pages>
+<year>2011</year>
+<volume>32</volume>
+<journal>SIAM J. Matrix Anal. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/090757137</ee>
+<url>db/journals/siammax/siammax32.html#TanFL11</url>
+</article>
+</r>
+<r><article key="journals/ton/WangTXT11" mdate="2017-11-22">
+<author pid="93/6765-3">Meng Wang 0003</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="57/6928">Weiyu Xu</author>
+<author pid="85/4619">Ao Tang</author>
+<title>Cost of Not Splitting in Routing: Characterization and Estimation.</title>
+<pages>1849-1859</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNET.2011.2150761</ee>
+<url>db/journals/ton/ton19.html#WangTXT11</url>
+</article>
+</r>
+<r><article key="journals/tsp/CaiQT11" mdate="2020-03-10">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>A Unified Analysis of Max-Min Weighted SINR for MIMO Downlink System.</title>
+<pages>3850-3862</pages>
+<year>2011</year>
+<volume>59</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TSP.2011.2150218</ee>
+<url>db/journals/tsp/tsp59.html#CaiQT11</url>
+</article>
+</r>
+<r><article key="journals/tsp/TanCS11" mdate="2020-03-10">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="s/RSrikant">R. Srikant 0001</author>
+<title>Maximizing Sum Rate and Minimizing MSE on Multiuser Downlink: Optimality, Fast Algorithms and Equivalence via Max-min SINR.</title>
+<pages>6127-6143</pages>
+<year>2011</year>
+<volume>59</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TSP.2011.2165065</ee>
+<url>db/journals/tsp/tsp59.html#TanCS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/CaiQT11" mdate="2025-03-03">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Coordinated Max-Min SIR Optimization in Multicell Downlink - Duality and Algorithm.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/icc.2011.5962539</ee>
+<crossref>conf/icc/2011</crossref>
+<url>db/conf/icc/icc2011.html#CaiQT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/YangKZCT11" mdate="2017-11-22">
+<author pid="50/2484-1">Lei Yang 0001</author>
+<author pid="38/2634">Hongseok Kim</author>
+<author pid="59/1232">Junshan Zhang</author>
+<author pid="61/5309">Mung Chiang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Pricing-based spectrum access control in cognitive radio networks with random access.</title>
+<pages>2228-2236</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2011.5935038</ee>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#YangKZCT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/Tan11" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Optimal power control in Rayleigh-fading heterogeneous networks.</title>
+<pages>2552-2560</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2011.5935080</ee>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#Tan11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/GaoTHZK11" mdate="2023-11-21">
+<author pid="46/3479-10">Yan Gao 0010</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="62/2964">Ying Huang</author>
+<author pid="62/6289-1">Zheng Zeng 0001</author>
+<author pid="83/4027">P. R. Kumar 0001</author>
+<title>Feasibility and optimization of delay guarantees for non-homogeneous flows in IEEE 802.11 WLANs.</title>
+<pages>2660-2668</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2011.5935094</ee>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#GaoTHZK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/ZhaoTADP11" mdate="2020-05-19">
+<author pid="48/76-7">Yue Zhao 0007</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="63/1946">Amir Salman Avestimehr</author>
+<author pid="d/SNDiggavi">Suhas N. Diggavi</author>
+<author pid="p/GregoryJPottie">Gregory J. Pottie</author>
+<title>On the sum-capacity with successive decoding in interference channels.</title>
+<pages>1494-1498</pages>
+<year>2011</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2011.6033790</ee>
+<crossref>conf/isit/2011</crossref>
+<url>db/conf/isit/isit2011.html#ZhaoTADP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/CaiQTL11" mdate="2024-02-05">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>Max-min weighted SINR in coordinated multicell MIMO downlink.</title>
+<pages>286-293</pages>
+<year>2011</year>
+<booktitle>WiOpt</booktitle>
+<ee>https://doi.org/10.1109/WIOPT.2011.5930029</ee>
+<crossref>conf/wiopt/2011</crossref>
+<url>db/conf/wiopt/wiopt2011.html#CaiQTL11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-0038" mdate="2020-05-19">
+<author pid="48/76-7">Yue Zhao 0007</author>
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="63/1946">Amir Salman Avestimehr</author>
+<author pid="d/SNDiggavi">Suhas N. Diggavi</author>
+<author pid="p/GregoryJPottie">Gregory J. Pottie</author>
+<title>On the Sum-Capacity with Successive Decoding in Interference Channels</title>
+<ee type="oa">http://arxiv.org/abs/1103.0038</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.0038</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-0038</url>
+</article>
+</r>
+<r><article key="journals/tvt/SorooshyariTP10" mdate="2022-06-23">
+<author orcid="0000-0002-1172-6291" pid="69/1612">Siamak Sorooshyari</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author orcid="0000-0002-2062-131X" pid="p/HVincentPoor">H. Vincent Poor</author>
+<title>On Maximum-Likelihood SINR Estimation of MPSK in a Multiuser Fading Channel.</title>
+<pages>4175-4181</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVT.2010.2062548</ee>
+<url>db/journals/tvt/tvt59.html#SorooshyariTP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/isit/CaiQT10" mdate="2017-11-22">
+<author pid="91/9795">Desmond W. H. Cai</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<title>Max-min weighted SIR for MIMO downlink system: Optimality and algorithms.</title>
+<pages>2118-2122</pages>
+<year>2010</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2010.5513412</ee>
+<crossref>conf/isit/2010</crossref>
+<url>db/conf/isit/isit2010.html#CaiQT10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/TanC09" mdate="2020-09-01">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="c/ARobertCalderbank">A. Robert Calderbank</author>
+<title>Multiuser detection of alamouti signals.</title>
+<pages>2080-2089</pages>
+<year>2009</year>
+<volume>57</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCOMM.2009.07.070592</ee>
+<url>db/journals/tcom/tcom57.html#TanC09</url>
+</article>
+</r>
+<r><article key="journals/ton/TanPC09" mdate="2017-11-23">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="03/1645">Daniel P&#233;rez Palomar</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Energy-robustness tradeoff in cellular network power control.</title>
+<pages>912-925</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>http://doi.acm.org/10.1145/1569732.1569750</ee>
+<url>db/journals/ton/ton17.html#TanPC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/WangTTL09" mdate="2017-11-22">
+<author pid="93/6765-3">Meng Wang 0003</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="85/4619">Ao Tang</author>
+<author pid="l/StevenHLow">Steven H. Low</author>
+<title>How Bad is Single-Path Routing.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2009.5425408</ee>
+<crossref>conf/globecom/2009</crossref>
+<url>db/conf/globecom/globecom2009.html#WangTTL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/TanCS09" mdate="2019-08-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="s/RSrikant">R. Srikant 0001</author>
+<title>Fast Algorithms and Performance Bounds for Sum Rate Maximization in Wireless Networks.</title>
+<pages>1350-1358</pages>
+<year>2009</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2009.5062050</ee>
+<crossref>conf/infocom/2009</crossref>
+<url>db/conf/infocom/infocom2009.html#TanCS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/TanCS09" mdate="2019-08-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="s/RSrikant">R. Srikant 0001</author>
+<title>Maximizing sum rate and minimizing MSE on multiuser downlink: Optimality, fast algorithms and equivalence via max-min SIR.</title>
+<pages>2669-2673</pages>
+<year>2009</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2009.5205907</ee>
+<crossref>conf/isit/2009</crossref>
+<url>db/conf/isit/isit2009.html#TanCS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/TsiaflakisTYCM08" mdate="2017-11-22">
+<author pid="71/2561">Paschalis Tsiaflakis</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="01/66">Yung Yi</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="41/6762">Marc Moonen</author>
+<title>Optimality certificate of dynamic spectrum management in multi-carrier interference channels.</title>
+<pages>1298-1302</pages>
+<year>2008</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2008.4595197</ee>
+<crossref>conf/isit/2008</crossref>
+<url>db/conf/isit/isit2008.html#TsiaflakisTYCM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftnet/ChiangHLT07" mdate="2024-12-05">
+<author pid="61/5309">Mung Chiang</author>
+<author pid="61/3146">Prashanth Hande</author>
+<author pid="31/83-1">Tian Lan 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Power Control in Wireless Cellular Networks.</title>
+<pages>381-533</pages>
+<year>2007</year>
+<volume>2</volume>
+<journal>Found. Trends Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1561/1300000009</ee>
+<url>db/journals/ftnet/ftnet2.html#ChiangHLT07</url>
+</article>
+</r>
+<r><article key="journals/tpds/TanCLY07" mdate="2020-10-02">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="24/4603">Dah-Ming Chiu</author>
+<author pid="l/JohnCSLui">John C. S. Lui</author>
+<author pid="47/5905">David K. Y. Yau</author>
+<title>A Distributed Throttling Approach for Handling High Bandwidth Aggregates.</title>
+<pages>983-995</pages>
+<year>2007</year>
+<volume>18</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPDS.2007.1034</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2007.1034</ee>
+<url>db/journals/tpds/tpds18.html#TanCLY07</url>
+</article>
+</r>
+<r><article key="journals/twc/ChiangTPOJ07" mdate="2020-09-06">
+<author pid="61/5309">Mung Chiang</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-5250-4874" pid="03/1645">Daniel P&#233;rez Palomar</author>
+<author pid="26/209">Daniel O'Neill</author>
+<author pid="17/6">David Julian</author>
+<title>Power Control By Geometric Programming.</title>
+<pages>2640-2651</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TWC.2007.05960</ee>
+<url>db/journals/twc/twc6.html#ChiangTPOJ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/ChiangHXYTC07" mdate="2023-06-19">
+<author pid="61/5309">Mung Chiang</author>
+<author pid="77/623-1">Jianwei Huang 0001</author>
+<author pid="63/4596">Dahai Xu</author>
+<author pid="01/66">Yung Yi</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="22/2816">Raphael Cendrillon</author>
+<title>Fast Coper for Broadband Access: An Overview.</title>
+<pages>1345-1348</pages>
+<year>2007</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2007.367327</ee>
+<crossref>conf/icassp/2007</crossref>
+<url>db/conf/icassp/icassp2007.html#ChiangHXYTC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/HuangTCC07" mdate="2023-06-19">
+<author pid="77/623-1">Jianwei Huang 0001</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="22/2816">Raphael Cendrillon</author>
+<title>Statistical Multiplexing Over DSL Networks.</title>
+<pages>571-579</pages>
+<year>2007</year>
+<crossref>conf/infocom/2007</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2007.73</ee>
+<url>db/conf/infocom/infocom2007.html#HuangTCC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/TanPC07" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-5250-4874" pid="03/1645">Daniel P&#233;rez Palomar</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Exploiting Hidden Convexity For Flexible And Robust Resource Allocation In Cellular Networks.</title>
+<pages>964-972</pages>
+<year>2007</year>
+<crossref>conf/infocom/2007</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2007.117</ee>
+<url>db/conf/infocom/infocom2007.html#TanPC07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/TanML06" mdate="2020-04-02">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author orcid="0000-0001-6764-268X" pid="m/GMohan">Gurusamy Mohan</author>
+<author pid="l/JohnCSLui">John C. S. Lui</author>
+<title>Achieving Multi-Class Service Differentiation in WDM Optical Burst Switching Networks: A Probabilistic Preemptive Burst Segmentation Scheme.</title>
+<pages>106-119</pages>
+<year>2006</year>
+<volume>24</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>S-12</number>
+<ee>https://doi.org/10.1109/JSAC.2006.258227</ee>
+<url>db/journals/jsac/jsac24.html#TanML06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/TanPC06" mdate="2020-06-22">
+<author pid="04/3030">Chee Wei Tan 0001</author>
+<author pid="03/1645">Daniel P. Palomar</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Distributed Optimization of Coupled Systems With Applications to Network Utility Maximization.</title>
+<pages>981-984</pages>
+<year>2006</year>
+<booktitle>ICASSP (5)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2006.1661442</ee>
+<crossref>conf/icassp/2006</crossref>
+<url>db/conf/icassp/icassp2006.html#TanPC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/TanCLY05" mdate="2023-03-24">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="24/4603">Dah-Ming Chiu</author>
+<author pid="l/JohnCSLui">John C. S. Lui</author>
+<author pid="47/5905">David K. Y. Yau</author>
+<title>Handling High-Bandwidth Traffic Aggregates by Receiver-Driven Feedback Control.</title>
+<pages>143-145</pages>
+<year>2005</year>
+<crossref>conf/compsac/2005-2</crossref>
+<booktitle>COMPSAC (2)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2005.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2005.83</ee>
+<url>db/conf/compsac/compsac2005-2.html#TanCLY05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/TanPC05" mdate="2017-11-22">
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee Wei Tan 0001</author>
+<author orcid="0000-0001-5250-4874" pid="03/1645">Daniel P. Palomar</author>
+<author pid="61/5309">Mung Chiang</author>
+<title>Solving nonconvex power control problems in wireless networks: low SIR regime and distributed algorithms.</title>
+<pages>6</pages>
+<year>2005</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2005.1578413</ee>
+<crossref>conf/globecom/2005</crossref>
+<url>db/conf/globecom/globecom2005.html#TanPC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/TanGL04" mdate="2018-01-03">
+<author pid="04/3030">Chee-Wei Tan 0001</author>
+<author pid="m/GMohan">Mohan Gurusamy</author>
+<author pid="l/JohnCSLui">John Chi-Shing Lui</author>
+<title>Achieving proportional loss differentiation using probabilistic preemptive burst segmentation in optical burst switching WDM networks.</title>
+<pages>1754-1758</pages>
+<year>2004</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2004.1378283</ee>
+<crossref>conf/globecom/2004</crossref>
+<url>db/conf/globecom/globecom2004.html#TanGL04</url>
+</inproceedings>
+</r>
+<coauthors n="177" nc="4">
+<co c="1"><na f="a/Alqahtani:Sawsan" pid="184/8757">Sawsan Alqahtani</na></co>
+<co c="0"><na f="a/Avestimehr:Amir_Salman" pid="63/1946">Amir Salman Avestimehr</na></co>
+<co c="1" n="2"><na f="b/Bari:Saiful" pid="241/6155">Saiful Bari</na><na>M. Saiful Bari</na></co>
+<co c="1"><na f="b/Bhuiyan:Amran" pid="160/3678">Amran Bhuiyan</na></co>
+<co c="0"><na f="b/Bi:Yingjie" pid="183/6746">Yingjie Bi</na></co>
+<co c="0"><na f="b/Brinton:Christopher_G=" pid="139/0747">Christopher G. Brinton</na></co>
+<co c="0"><na f="c/Cai:Desmond_W=_H=" pid="91/9795">Desmond W. H. Cai</na></co>
+<co c="0"><na f="c/Caire:Giuseppe" pid="19/2492">Giuseppe Caire</na></co>
+<co c="0"><na f="c/Calderbank:A=_Robert" pid="c/ARobertCalderbank">A. Robert Calderbank</na></co>
+<co c="0"><na f="c/Cendrillon:Raphael" pid="22/2816">Raphael Cendrillon</na></co>
+<co c="0"><na f="c/Chan:Chung" pid="97/3135">Chung Chan</na></co>
+<co c="0"><na f="c/Chen:Guanrong" pid="30/545">Guanrong Chen</na></co>
+<co c="0"><na f="c/Chen:Jiasi" pid="35/9005">Jiasi Chen</na></co>
+<co c="0"><na f="c/Chen:Leiming" pid="206/5723">Leiming Chen</na></co>
+<co c="0"><na f="c/Chen:Niangjun" pid="117/9359">Niangjun Chen</na></co>
+<co c="0"><na f="c/Chen:Siya" pid="215/4027">Siya Chen</na></co>
+<co c="0"><na f="c/Chen_0004:Xu" pid="83/6331-4">Xu Chen 0004</na></co>
+<co c="0"><na f="c/Chen:Yitao" pid="00/9828">Yitao Chen</na></co>
+<co c="0"><na f="c/Chi:Chi=Hung" pid="89/3076">Chi-Hung Chi</na></co>
+<co c="0"><na f="c/Chiang:Mung" pid="61/5309">Mung Chiang</na></co>
+<co c="0"><na f="c/Chiu:Dah=Ming" pid="24/4603">Dah-Ming Chiu</na></co>
+<co c="0"><na f="d/Diggavi:Suhas_N=" pid="d/SNDiggavi">Suhas N. Diggavi</na></co>
+<co c="0"><na f="d/Dong:Cihao" pid="344/9550">Cihao Dong</na></co>
+<co c="0"><na f="d/Dong:Wenxiang" pid="125/2094">Wenxiang Dong</na></co>
+<co c="0"><na f="d/Duan:Jingpu" pid="167/9016">Jingpu Duan</na></co>
+<co c="0"><na f="f/Fan:Yuqi" pid="91/3295">Yuqi Fan</na></co>
+<co c="2"><na f="f/Fei:Zhe" pid="151/5679">Zhe Fei</na></co>
+<co c="0"><na f="f/Friedland:Shmuel" pid="23/4583">Shmuel Friedland</na></co>
+<co c="0"><na f="f/Fu:Hung=Lin" pid="f/HungLinFu">Hung-Lin Fu</na></co>
+<co c="0"><na f="f/Fu:Shuang" pid="241/1053">Shuang Fu</na></co>
+<co c="0"><na f="f/Fung:Sze_Ching_Evelyn" pid="380/6678">Sze Ching Evelyn Fung</na></co>
+<co c="0"><na f="g/Gao:Jun" pid="82/4977">Jun Gao</na></co>
+<co c="0"><na f="g/Gao:Tianli" pid="343/9397">Tianli Gao</na></co>
+<co c="0"><na f="g/Gao_0010:Yan" pid="46/3479-10">Yan Gao 0010</na></co>
+<co c="0"><na f="g/Guang:Xuan" pid="39/7802">Xuan Guang</na></co>
+<co c="0"><na f="g/Guo:Deke" pid="74/6501">Deke Guo</na></co>
+<co c="0"><na f="g/Guo:Shangxin" pid="351/0482">Shangxin Guo</na></co>
+<co c="0"><na f="h/Ha:Sangtae" pid="30/4930">Sangtae Ha</na></co>
+<co c="0"><na f="h/Hande:Prashanth" pid="61/3146">Prashanth Hande</na></co>
+<co c="0"><na f="h/Hang:Ching_Nam" pid="231/3792">Ching Nam Hang</na></co>
+<co c="0"><na f="h/Hauffen:Jan_Christian" pid="280/3129">Jan Christian Hauffen</na></co>
+<co c="0"><na f="h/Ho:Siu=Wai" pid="49/1840">Siu-Wai Ho</na></co>
+<co c="0" n="2"><na f="h/Hong:Yao=Win_Peter" pid="03/3341">Yao-Win Peter Hong</na><na>Y.-W. Peter Hong</na></co>
+<co c="1"><na f="h/Hoque:Enamul" pid="71/4476">Enamul Hoque</na></co>
+<co c="-1"><na f="h/Hou:Runlin" pid="400/3119">Runlin Hou</na></co>
+<co c="0"><na f="h/Hou:Zhaoxiang" pid="309/8559">Zhaoxiang Hou</na></co>
+<co c="0"><na f="h/Hsieh:Cheng=Lin" pid="148/1939">Cheng-Lin Hsieh</na></co>
+<co c="0"><na f="h/Huang:Chuan" pid="80/7804">Chuan Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Jianwei" pid="77/623-1">Jianwei Huang 0001</na></co>
+<co c="1" n="2"><na f="h/Huang_0001:Jimmy" pid="h/XiangjiHuang">Jimmy Huang 0001</na><na>Jimmy Xiangji Huang</na></co>
+<co c="0"><na f="h/Huang:Yichao" pid="76/6020">Yichao Huang</na></co>
+<co c="0"><na f="h/Huang:Ying" pid="62/2964">Ying Huang</na></co>
+<co c="0"><na f="h/Huang:Ziling" pid="150/6487">Ziling Huang</na></co>
+<co c="0"><na f="i/I:Chih=Lin" pid="09/583">Chih-Lin I</na></co>
+<co c="1"><na f="j/Jahan:Israt" pid="190/9763">Israt Jahan</na></co>
+<co c="0"><na f="j/Jiang:Yu" pid="21/4633">Yu Jiang</na></co>
+<co c="0"><na f="j/Joe=Wong:Carlee" pid="40/9937">Carlee Joe-Wong</na></co>
+<co c="1" n="2"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na><na>Shafiq Joty</na></co>
+<co c="0"><na f="j/Julian:David" pid="17/6">David Julian</na></co>
+<co c="0"><na f="k/Kang:Xiangui" pid="75/2824">Xiangui Kang</na></co>
+<co c="1"><na f="k/Khan:Haidar" pid="155/3116">Haidar Khan</na></co>
+<co c="1"><na f="k/Khan:Mohammad_Abdullah_Matin" pid="342/1624">Mohammad Abdullah Matin Khan</na></co>
+<co c="0"><na f="k/Kim:Hongseok" pid="38/2634">Hongseok Kim</na></co>
+<co c="0"><na f="k/Kumar_0001:P=_R=" pid="83/4027">P. R. Kumar 0001</na></co>
+<co c="0"><na f="k/Kuo:Chun=Yen" pid="75/9586">Chun-Yen Kuo</na></co>
+<co c="0"><na f="l/Lai:Chun=Kiu" pid="179/3377">Chun-Kiu Lai</na></co>
+<co c="0"><na f="l/Lai:I=Wei" pid="32/5063">I-Wei Lai</na></co>
+<co c="0"><na f="l/Lam:Kwok=Yan" pid="10/1993">Kwok-Yan Lam</na></co>
+<co c="0"><na f="l/Lan_0001:Tian" pid="31/83-1">Tian Lan 0001</na></co>
+<co c="1"><na f="l/Laskar:Md=_Tahmid_Rahman" pid="250/6292">Md. Tahmid Rahman Laskar</na></co>
+<co c="0" n="2"><na f="l/Lee:Chia=han" pid="53/5898">Chia-han Lee</na><na>Chia-Han Lee</na></co>
+<co c="3"><na f="l/Leung:Jac_Ka_Lok" pid="320/1721">Jac Ka Lok Leung</na></co>
+<co c="0"><na f="l/Li:Congduan" pid="48/10800">Congduan Li</na></co>
+<co c="0"><na f="l/Li:Dan" pid="48/4185">Dan Li</na></co>
+<co c="0"><na f="l/Li_0001:Jiandong" pid="65/7582-1">Jiandong Li 0001</na></co>
+<co c="0"><na f="l/Li_0002:Jingting" pid="202/9917-2">Jingting Li 0002</na></co>
+<co c="0"><na f="l/Li:Yuanqing" pid="51/2525">Yuanqing Li</na></co>
+<co c="0"><na f="l/Li_0001:Yuzhou" pid="139/9804-1">Yuzhou Li 0001</na></co>
+<co c="0"><na f="l/Liang:Han" pid="40/2957">Han Liang</na></co>
+<co c="0"><na f="l/Lin:Jiahong" pid="136/7245">Jiahong Lin</na></co>
+<co c="0"><na f="l/Ling:Lin" pid="133/2695">Lin Ling</na></co>
+<co c="0"><na f="l/Lint:Shan" pid="159/2836">Shan Lint</na></co>
+<co c="0"><na f="l/Liu:Shengxin" pid="144/3323">Shengxin Liu</na></co>
+<co c="0"><na f="l/Liu:Weijie" pid="90/5130">Weijie Liu</na></co>
+<co c="0"><na f="l/Liu_0009:Xin" pid="76/1820-9">Xin Liu 0009</na></co>
+<co c="0"><na f="l/Liu:Ziyao" pid="191/8896">Ziyao Liu</na></co>
+<co c="0"><na f="l/Lou:Xin" pid="133/5204">Xin Lou</na></co>
+<co c="0"><na f="l/Low:Steven_H=" pid="l/StevenHLow">Steven H. Low</na></co>
+<co c="0"><na f="l/Lu_0015:Yang" pid="16/6317-15">Yang Lu 0015</na></co>
+<co c="0" n="2"><na f="l/Lui:John_C=_S=" pid="l/JohnCSLui">John C. S. Lui</na><na>John Chi-Shing Lui</na></co>
+<co c="0" n="2"><na f="m/Mohan:Gurusamy" pid="m/GMohan">Gurusamy Mohan</na><na>Mohan Gurusamy</na></co>
+<co c="0"><na f="m/Moonen:Marc" pid="41/6762">Marc Moonen</na></co>
+<co c="3"><na f="n/Ng:Davy_Tsz_Kit" pid="313/0170">Davy Tsz Kit Ng</na></co>
+<co c="0"><na f="n/Nie:Yuming" pid="146/1526">Yuming Nie</na></co>
+<co c="0"><na f="o/O=Neill:Daniel" pid="26/209">Daniel O'Neill</na></co>
+<co c="0" n="2"><na f="p/Palomar:Daniel_P=eacute=rez" pid="03/1645">Daniel P&#233;rez Palomar</na><na>Daniel P. Palomar</na></co>
+<co c="0"><na f="p/Pang:Lei" pid="63/10575">Lei Pang</na></co>
+<co c="1"><na f="p/Parvez:Md=_Rizwan" pid="180/3830">Md. Rizwan Parvez</na></co>
+<co c="0"><na f="p/Peng:Mugen" pid="75/6927">Mugen Peng</na></co>
+<co c="0"><na f="p/Poor:H=_Vincent" pid="p/HVincentPoor">H. Vincent Poor</na></co>
+<co c="0"><na f="p/Pottie:Gregory_J=" pid="p/GregoryJPottie">Gregory J. Pottie</na></co>
+<co c="0"><na f="q/Qi:Xintong" pid="321/3410">Xintong Qi</na></co>
+<co c="0"><na f="q/Qiao:Sibo" pid="247/3276">Sibo Qiao</na></co>
+<co c="0"><na f="q/Quek:Tony_Q=_S=" pid="65/1128">Tony Q. S. Quek</na></co>
+<co c="1"><na f="r/Rahman:Mizanur" pid="80/5108">Mizanur Rahman</na></co>
+<co c="0"><na f="r/Rao:Bhaskar_D=" pid="32/1480">Bhaskar D. Rao</na></co>
+<co c="0"><na f="r/Rao:Bo" pid="220/6095">Bo Rao</na></co>
+<co c="2"><na f="r/Ryeznik:Yevgen" pid="307/5479">Yevgen Ryeznik</na></co>
+<co c="0"><na f="s/Sen:Soumya" pid="57/3852">Soumya Sen</na></co>
+<co c="0"><na f="s/Shen:Jiyuan" pid="199/8671">Jiyuan Shen</na></co>
+<co c="0"><na f="s/Sheng:Min" pid="39/4119">Min Sheng</na></co>
+<co c="0"><na f="s/Shi_0011:Lei" pid="29/563-11">Lei Shi 0011</na></co>
+<co c="0"><na f="s/Shi_0001:Yan" pid="67/2601-1">Yan Shi 0001</na></co>
+<co c="0"><na f="s/Song:Dan" pid="33/4189">Dan Song</na></co>
+<co c="0"><na f="s/Sorooshyari:Siamak" pid="69/1612">Siamak Sorooshyari</na></co>
+<co c="0"><na f="s/Srikant_0001:R=" pid="s/RSrikant">R. Srikant 0001</na></co>
+<co c="0"><na f="s/Sun:Yuhua" pid="20/9668">Yuhua Sun</na></co>
+<co c="2"><na f="s/Sverdlov:Oleksandr" pid="307/5161">Oleksandr Sverdlov</na></co>
+<co c="0"><na f="t/Tang:Ao" pid="85/4619">Ao Tang</na></co>
+<co c="0"><na f="t/Tao:Liping" pid="252/1081">Liping Tao</na></co>
+<co c="0"><na f="t/Tian:Xiaohua" pid="89/1428">Xiaohua Tian</na></co>
+<co c="0"><na f="t/Tong:Xindi" pid="319/7773">Xindi Tong</na></co>
+<co c="0"><na f="t/Tsai:Yi=Zhen" pid="279/5637">Yi-Zhen Tsai</na></co>
+<co c="0"><na f="t/Tsiaflakis:Paschalis" pid="71/2561">Paschalis Tsiaflakis</na></co>
+<co c="0"><na f="t/Tu:Rongxin" pid="277/9720">Rongxin Tu</na></co>
+<co c="0"><na f="w/Wang_0001:Jianping" pid="21/1550-1">Jianping Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0063:Kai" pid="78/2022-63">Kai Wang 0063</na></co>
+<co c="0"><na f="w/Wang_0003:Meng" pid="93/6765-3">Meng Wang 0003</na></co>
+<co c="0"><na f="w/Wang_0001:Xijun" pid="02/7910-1">Xijun Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xinbing" pid="96/1149">Xinbing Wang</na></co>
+<co c="0"><na f="w/Wang_0007:Xinyu" pid="68/1277-7">Xinyu Wang 0007</na></co>
+<co c="0"><na f="w/Wang:Yuchen" pid="82/8599">Yuchen Wang</na></co>
+<co c="0"><na f="w/Wang:Zhaoxu" pid="146/7830">Zhaoxu Wang</na></co>
+<co c="0"><na f="w/Wang:Zimeng" pid="212/5263">Zimeng Wang</na></co>
+<co c="0"><na f="w/Wei:Zhen" pid="78/7437">Zhen Wei</na></co>
+<co c="0"><na f="w/Wong:Felix_Ming_Fai" pid="27/11143">Felix Ming Fai Wong</na></co>
+<co c="0"><na f="w/Wong:Man=Fai" pid="81/3327">Man-Fai Wong</na></co>
+<co c="2"><na f="w/Wong:Weng_Kee" pid="130/6757">Weng Kee Wong</na></co>
+<co c="0"><na f="w/Wu_0001:Chuan" pid="34/3772-1">Chuan Wu 0001</na></co>
+<co c="0"><na f="w/Wu_0006:Fan" pid="07/6378-6">Fan Wu 0006</na></co>
+<co c="0"><na f="w/Wu:Weijie" pid="08/9827">Weijie Wu</na></co>
+<co c="0"><na f="x/Xu:Dahai" pid="63/4596">Dahai Xu</na></co>
+<co c="0"><na f="x/Xu:Weiyu" pid="57/6928">Weiyu Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Lei" pid="50/2484-1">Lei Yang 0001</na></co>
+<co c="0"><na f="y/Yao:Hongyi" pid="74/3592">Hongyi Yao</na></co>
+<co c="0"><na f="y/Yau:David_K=_Y=" pid="47/5905">David K. Y. Yau</na></co>
+<co c="0"><na f="y/Ye:Fangwei" pid="184/3857">Fangwei Ye</na></co>
+<co c="0"><na f="y/Ye:Huanyi" pid="364/8410">Huanyi Ye</na></co>
+<co c="0"><na f="y/Yeung:Raymond_W=" pid="89/2937">Raymond W. Yeung</na></co>
+<co c="0"><na f="y/Yi:Changyan" pid="150/5634">Changyan Yi</na></co>
+<co c="0"><na f="y/Yi:Yung" pid="01/66">Yung Yi</na></co>
+<co c="0"><na f="y/Yu:Pei=Duo" pid="179/3425">Pei-Duo Yu</na></co>
+<co c="0"><na f="z/Zeng:Xingjie" pid="21/513">Xingjie Zeng</na></co>
+<co c="0"><na f="z/Zeng_0001:Zheng" pid="62/6289-1">Zheng Zeng 0001</na></co>
+<co c="0" n="2"><na f="z/Zhai:Xiangping_Bryce" pid="280/0804">Xiangping Bryce Zhai</na><na>Xiangping Zhai 0001</na></co>
+<co c="0"><na f="z/Zhan:Ziwei" pid="237/3754">Ziwei Zhan</na></co>
+<co c="0"><na f="z/Zhang:Caiyu" pid="93/7647">Caiyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jinbei" pid="17/10372">Jinbei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junshan" pid="59/1232">Junshan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Weishan" pid="z/WeishanZhang">Weishan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Wenyi" pid="47/2917-1">Wenyi Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiaoxi" pid="62/5337-1">Xiaoxi Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0006:Yan" pid="04/3348-6">Yan Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang:Yiqian" pid="03/1403">Yiqian Zhang</na></co>
+<co c="0"><na f="z/Zhao:Chao" pid="53/8131">Chao Zhao</na></co>
+<co c="0"><na f="z/Zhao:Dehai" pid="172/8138">Dehai Zhao</na></co>
+<co c="0"><na f="z/Zhao:Kangwei" pid="373/0062">Kangwei Zhao</na></co>
+<co c="0"><na f="z/Zhao:Wenkuan" pid="392/9620">Wenkuan Zhao</na></co>
+<co c="0"><na f="z/Zhao_0007:Yue" pid="48/76-7">Yue Zhao 0007</na></co>
+<co c="0"><na f="z/Zheng:Bokeng" pid="399/8190">Bokeng Zheng</na></co>
+<co c="0"><na f="z/Zheng_0002:Liang" pid="61/7360-2">Liang Zheng 0002</na></co>
+<co c="0"><na f="z/Zhou:Qiaoqiao" pid="150/5744">Qiaoqiao Zhou</na></co>
+<co c="0"><na f="z/Zhou_0006:Zhi" pid="04/2090-6">Zhi Zhou 0006</na></co>
+<co c="0"><na f="z/Zhou:Zhiheng" pid="45/3558">Zhiheng Zhou</na></co>
+<co c="0"><na f="z/Zhu:Jing" pid="93/4160">Jing Zhu</na></co>
+<co c="0"><na f="z/Zhu:Tianxiang" pid="342/5281">Tianxiang Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yichang" pid="375/2727">Yichang Zhu</na></co>
 </coauthors>
 </dblpperson>
 

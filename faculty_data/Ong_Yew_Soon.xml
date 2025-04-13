@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Yew-Soon Ong" pid="64/4136" n="551">
+<dblpperson name="Yew-Soon Ong" pid="64/4136" n="552">
 <person key="homepages/64/4136" mdate="2022-12-07">
 <author pid="64/4136">Yew-Soon Ong</author>
 <author pid="64/4136">Yew Soon Ong</author>
@@ -230,6 +230,23 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.15685</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-15685</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05246" mdate="2025-04-11">
+<author pid="401/8249">Chengqi Zheng</author>
+<author pid="130/2468">Haiyan Yin</author>
+<author pid="176/6660">Jianda Chen</author>
+<author pid="401/7522">Terence Ng</author>
+<author pid="64/4136">Yew-Soon Ong</author>
+<author pid="35/5873">Ivor W. Tsang</author>
+<title>Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05246</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05246</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05246</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -8367,7 +8384,7 @@
 <note type="source">British Library, EThOS</note>
 </phdthesis>
 </r>
-<coauthors n="638" nc="5">
+<coauthors n="641" nc="5">
 <co c="0"><na f="a/Abbass:Hussein_A=" pid="a/HusseinAAbbass">Hussein A. Abbass</na></co>
 <co c="0"><na f="a/Abramson_0001:David" pid="09/6203">David Abramson 0001</na></co>
 <co c="0"><na f="a/Acampora:Giovanni" pid="33/5907">Giovanni Acampora</na></co>
@@ -8423,6 +8440,7 @@
 <co c="0"><na f="c/Chen:Enhong" pid="07/258">Enhong Chen</na></co>
 <co c="0"><na f="c/Chen:Huanhuan" pid="72/5816">Huanhuan Chen</na></co>
 <co c="0"><na f="c/Chen_0026:Hui" pid="12/417-26">Hui Chen 0026</na></co>
+<co c="0"><na f="c/Chen:Jianda" pid="176/6660">Jianda Chen</na></co>
 <co c="0"><na f="c/Chen:Junxi" pid="188/1312">Junxi Chen</na></co>
 <co c="0"><na f="c/Chen_0001:Ke" pid="47/6529-1">Ke Chen 0001</na></co>
 <co c="0"><na f="c/Chen_0005:Lin" pid="13/3479-5">Lin Chen 0005</na></co>
@@ -8703,6 +8721,7 @@
 <co c="0"><na f="n/Neri:Ferrante" pid="94/1609">Ferrante Neri</na></co>
 <co c="0"><na f="n/Ng:Hee=Khiang" pid="93/3338">Hee-Khiang Ng</na></co>
 <co c="0"><na f="n/Ng:See=Kiong" pid="00/5480">See-Kiong Ng</na></co>
+<co c="0"><na f="n/Ng:Terence" pid="401/7522">Terence Ng</na></co>
 <co c="0"><na f="n/Ng:Willie" pid="78/4574">Willie Ng</na></co>
 <co c="0"><na f="n/Ngoc:Nguyen_Hong" pid="240/2457">Nguyen Hong Ngoc</na></co>
 <co c="0"><na f="n/Nguyen_0001:Minh_Le" pid="n/MinhLeNguyen">Minh Le Nguyen 0001</na></co>
@@ -8976,6 +8995,7 @@
 <co c="0"><na f="z/Zhao:Junsheng" pid="132/1767">Junsheng Zhao</na></co>
 <co c="0"><na f="z/Zhao:Peilin" pid="84/8411">Peilin Zhao</na></co>
 <co c="0"><na f="z/Zhao:Yinjie" pid="310/1865">Yinjie Zhao</na></co>
+<co c="0"><na f="z/Zheng:Chengqi" pid="401/8249">Chengqi Zheng</na></co>
 <co c="0"><na f="z/Zheng:Cindy" pid="53/4930">Cindy Zheng</na></co>
 <co c="0"><na f="z/Zheng:Jianmin" pid="09/5452">Jianmin Zheng</na></co>
 <co c="0" n="2"><na f="z/Zheng:Qinghua" pid="32/1858">Qinghua Zheng</na><na>Qing-Hua Zheng</na></co>

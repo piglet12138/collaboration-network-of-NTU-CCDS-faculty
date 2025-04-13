@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ying He 0001" pid="h/YingHe1" n="294">
+<dblpperson name="Ying He 0001" pid="h/YingHe1" n="295">
 <person key="homepages/h/YingHe1" mdate="2024-05-01">
 <author pid="h/YingHe1">Ying He 0001</author>
 <url>http://www3.ntu.edu.sg/home/Yhe/</url>
@@ -118,6 +118,26 @@
 </person>
 </h>
 </homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2503-05182" mdate="2025-04-11">
+<author pid="60/7717">Qingyuan Zhou</author>
+<author pid="401/7961">Yuehu Gong</author>
+<author pid="67/4294">Weidong Yang</author>
+<author pid="157/2088">Jiaze Li</author>
+<author pid="375/1580">Yeqi Luo</author>
+<author pid="344/1650">Baixin Xu</author>
+<author pid="25/5081">Shuhao Li</author>
+<author pid="93/866">Ben Fei</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05182</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05182</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05182</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><article key="journals/cad/HuHXWLL24" mdate="2023-12-31">
 <author orcid="0000-0002-6774-6267" pid="210/0076">Jiangbei Hu</author>
 <author orcid="0000-0002-6749-4485" pid="h/YingHe1">Ying He 0001</author>
@@ -4739,7 +4759,7 @@
 <url>db/conf/sma/sma2004.html#HuaHQ04</url>
 </inproceedings>
 </r>
-<coauthors n="360" nc="1">
+<coauthors n="362" nc="1">
 <co c="0"><na f="a/Adikusuma:Yohanes_Yudhi" pid="263/9660">Yohanes Yudhi Adikusuma</na></co>
 <co c="0"><na f="a/Akleman:Ergun" pid="13/568">Ergun Akleman</na></co>
 <co c="0"><na f="a/Alliez:Pierre" pid="98/1937">Pierre Alliez</na></co>
@@ -4800,6 +4820,7 @@
 <co c="0"><na f="g/Garc=iacute=a:Ismael" pid="02/933">Ismael Garc&#237;a</na></co>
 <co c="0"><na f="g/Gong:Wen=Yong" pid="30/9845">Wen-Yong Gong</na></co>
 <co c="0"><na f="g/Gong:Yuanhao" pid="34/7408">Yuanhao Gong</na></co>
+<co c="0"><na f="g/Gong:Yuehu" pid="401/7961">Yuehu Gong</na></co>
 <co c="0"><na f="g/Gu:Chenyang" pid="239/5631">Chenyang Gu</na></co>
 <co c="0"><na f="g/Gu:Chunzhi" pid="238/0488">Chunzhi Gu</na></co>
 <co c="0"><na f="g/Gu:Xianfeng" pid="g/XianfengGu">Xianfeng Gu</na></co>
@@ -4857,6 +4878,7 @@
 <co c="0"><na f="l/Li:Jiaze" pid="157/2088">Jiaze Li</na></co>
 <co c="0"><na f="l/Li:Jin" pid="48/1097">Jin Li</na></co>
 <co c="0"><na f="l/Li_0001:Jinyan" pid="247/9049-1">Jinyan Li 0001</na></co>
+<co c="0"><na f="l/Li:Shuhao" pid="25/5081">Shuhao Li</na></co>
 <co c="0"><na f="l/Li_0003:Xin" pid="09/1365-3">Xin Li 0003</na></co>
 <co c="0"><na f="l/Li:Yanggeng" pid="382/6044">Yanggeng Li</na></co>
 <co c="0"><na f="l/Li:Ye" pid="55/6910">Ye Li</na></co>

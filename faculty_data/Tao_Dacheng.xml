@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Dacheng Tao" pid="46/3391" n="2143">
+<dblpperson name="Dacheng Tao" pid="46/3391" n="2145">
 <person key="homepages/46/3391" mdate="2024-06-07">
 <author pid="46/3391">Dacheng Tao</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -953,6 +953,44 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.01642</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-01642</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-04550" mdate="2025-04-11">
+<author pid="32/1593">Tong Yu</author>
+<author pid="196/3616">Yongcheng Jing</author>
+<author pid="38/326-2">Xikun Zhang 0002</author>
+<author pid="45/8969">Wentao Jiang</author>
+<author pid="07/321">Wenjie Wu</author>
+<author pid="33/6297">Yingjie Wang</author>
+<author pid="19/3768-1">Wenbin Hu 0001</author>
+<author pid="70/6443-1">Bo Du 0001</author>
+<author pid="46/3391">Dacheng Tao</author>
+<title>Benchmarking Reasoning Robustness in Large Language Models.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.04550</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.04550</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-04550</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05794" mdate="2025-04-11">
+<author pid="l/YimingLi-4">Yiming Li 0004</author>
+<author pid="397/3762">Kaiying Yan</author>
+<author pid="154/6303">Shuo Shao</author>
+<author pid="262/6004">Tongqing Zhai</author>
+<author pid="34/3173">Shu-Tao Xia</author>
+<author pid="148/4477">Zhan Qin</author>
+<author pid="46/3391">Dacheng Tao</author>
+<title>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05794</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05794</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05794</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -33655,7 +33693,7 @@
 <url>db/conf/mm/mm2004.html#TaoLT04</url>
 </inproceedings>
 </r>
-<coauthors n="2415" nc="2">
+<coauthors n="2422" nc="2">
 <co c="0"><na f="a/Abdolazimi:Reyhaneh" pid="269/4833">Reyhaneh Abdolazimi</na></co>
 <co c="0"><na f="a/Agarwalla:Abhinav" pid="190/7006">Abhinav Agarwalla</na></co>
 <co c="0"><na f="a/Agustsson:Eirikur" pid="143/7107">Eirikur Agustsson</na></co>
@@ -34555,6 +34593,7 @@
 <co c="0"><na f="l/Li:Yifen" pid="278/2438">Yifen Li</na></co>
 <co c="0"><na f="l/Li:Yige" pid="01/2511">Yige Li</na></co>
 <co c="0"><na f="l/Li:Yiming" pid="181/2877">Yiming Li</na></co>
+<co c="0"><na f="l/Li_0004:Yiming" pid="l/YimingLi-4">Yiming Li 0004</na></co>
 <co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
 <co c="0"><na f="l/Li_0012:Ying" pid="22/1805-12">Ying Li 0012</na></co>
 <co c="0"><na f="l/Li:Yingfei" pid="52/10575">Yingfei Li</na></co>
@@ -34956,6 +34995,7 @@
 <co c="0"><na f="q/Qin:Xiaolei" pid="207/9014">Xiaolei Qin</na></co>
 <co c="0"><na f="q/Qin:Xueying" pid="94/6767">Xueying Qin</na></co>
 <co c="0"><na f="q/Qin:Zeyu" pid="271/5778">Zeyu Qin</na></co>
+<co c="0"><na f="q/Qin:Zhan" pid="148/4477">Zhan Qin</na></co>
 <co c="0"><na f="q/Qin:Zhenyuan" pid="396/7598">Zhenyuan Qin</na></co>
 <co c="0"><na f="q/Qing:Chunmei" pid="33/5818">Chunmei Qing</na></co>
 <co c="0"><na f="q/Qiu:Baopu" pid="305/4159">Baopu Qiu</na></co>
@@ -35028,6 +35068,7 @@
 <co c="0"><na f="s/Shao:Jing" pid="91/5981">Jing Shao</na></co>
 <co c="0"><na f="s/Shao_0001:Ling" pid="75/1281">Ling Shao 0001</na></co>
 <co c="0"><na f="s/Shao:Ming" pid="49/5671">Ming Shao</na></co>
+<co c="0"><na f="s/Shao:Shuo" pid="154/6303">Shuo Shao</na></co>
 <co c="0"><na f="s/Shao:Zhiyin" pid="298/1665">Zhiyin Shao</na></co>
 <co c="0"><na f="s/Sharma:Sanjeev" pid="68/6632">Sanjeev Sharma</na></co>
 <co c="0"><na f="s/Shawe=Taylor:John" pid="59/41">John Shawe-Taylor</na></co>
@@ -35458,6 +35499,7 @@
 <co c="0"><na f="x/Xia:Gui=Song" pid="97/594">Gui-Song Xia</na></co>
 <co c="0"><na f="x/Xia:Ke" pid="45/1961">Ke Xia</na></co>
 <co c="0"><na f="x/Xia:Ning" pid="81/7216">Ning Xia</na></co>
+<co c="0" n="2"><na f="x/Xia:Shutao" pid="34/3173">Shutao Xia</na><na>Shu-Tao Xia</na></co>
 <co c="0"><na f="x/Xia_0002:Tian" pid="90/4765-2">Tian Xia 0002</na></co>
 <co c="0"><na f="x/Xia:Tianle" pid="377/3834">Tianle Xia</na></co>
 <co c="0"><na f="x/Xia:Wei" pid="77/1243">Wei Xia</na></co>
@@ -35577,6 +35619,7 @@
 <co c="0"><na f="y/Yan:Feng" pid="62/3960">Feng Yan</na></co>
 <co c="0"><na f="y/Yan:Jianqiang" pid="20/8745">Jianqiang Yan</na></co>
 <co c="0"><na f="y/Yan:Junchi" pid="60/7949">Junchi Yan</na></co>
+<co c="0"><na f="y/Yan:Kaiying" pid="397/3762">Kaiying Yan</na></co>
 <co c="0"><na f="y/Yan:Liping" pid="67/8878">Liping Yan</na></co>
 <co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
 <co c="0"><na f="y/Yan_0008:Xin" pid="71/4884-8">Xin Yan 0008</na></co>
@@ -35717,6 +35760,7 @@
 <co c="0"><na f="y/Yu:Tengfei" pid="308/3627">Tengfei Yu</na></co>
 <co c="0"><na f="y/Yu_0004:Ting" pid="y/TingYu-4">Ting Yu 0004</na></co>
 <co c="0"><na f="y/Yu_0016:Ting" pid="181/2866-16">Ting Yu 0016</na></co>
+<co c="0"><na f="y/Yu:Tong" pid="32/1593">Tong Yu</na></co>
 <co c="0"><na f="y/Yu_0004:Wei" pid="82/2790-4">Wei Yu 0004</na></co>
 <co c="0"><na f="y/Yu:Xinchun" pid="182/7469">Xinchun Yu</na></co>
 <co c="0"><na f="y/Yu:Xiyu" pid="178/8689">Xiyu Yu</na></co>
@@ -35764,6 +35808,7 @@
 <co c="0"><na f="z/Zganec=Gros:Jerneja" pid="55/265">Jerneja Zganec-Gros</na></co>
 <co c="0" n="2"><na f="z/Zha:Zhengjun" pid="23/1818">Zhengjun Zha</na><na>Zheng-Jun Zha</na></co>
 <co c="0"><na f="z/Zhai:Guangtao" pid="19/3230">Guangtao Zhai</na></co>
+<co c="0"><na f="z/Zhai:Tongqing" pid="262/6004">Tongqing Zhai</na></co>
 <co c="0"><na f="z/Zhai:Wei" pid="189/3967">Wei Zhai</na></co>
 <co c="0"><na f="z/Zhai:Yingjie" pid="269/9550">Yingjie Zhai</na></co>
 <co c="0"><na f="z/Zhan:Runzhe" pid="286/8257">Runzhe Zhan</na></co>

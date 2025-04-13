@@ -172,8 +172,8 @@
 <stream>streams/journals/tcad</stream>
 </article>
 </r>
-<r><article key="journals/tecs/ShiSACZL24" mdate="2025-03-03">
-<author orcid="0000-0002-9977-529X" pid="09/6041">Liang Shi</author>
+<r><article key="journals/tecs/ShiSACZL24" mdate="2025-04-11">
+<author orcid="0000-0002-9977-529X" pid="09/6041-1">Liang Shi 0001</author>
 <author pid="388/9909">Jingtong Shi</author>
 <author pid="94/10663">Hussam Amrouch</author>
 <author orcid="0000-0002-7110-921X" pid="163/9343">Kuan-Hsun Chen</author>
@@ -3399,7 +3399,7 @@
 <co c="0"><na f="s/Shao:Zili" pid="08/6845">Zili Shao</na></co>
 <co c="0"><na f="s/Shi:Chen" pid="01/6772">Chen Shi</na></co>
 <co c="0"><na f="s/Shi:Jingtong" pid="388/9909">Jingtong Shi</na></co>
-<co c="0"><na f="s/Shi:Liang" pid="09/6041">Liang Shi</na></co>
+<co c="0"><na f="s/Shi_0001:Liang" pid="09/6041-1">Liang Shi 0001</na></co>
 <co c="0"><na f="s/Shi_0001:Yiyu" pid="94/5536">Yiyu Shi 0001</na></co>
 <co c="1"><na f="s/Stevenson:Cory" pid="171/8996">Cory Stevenson</na></co>
 <co c="0"><na f="s/Subramaniam:Ravi" pid="118/9750">Ravi Subramaniam</na></co>

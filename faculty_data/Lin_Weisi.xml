@@ -3026,12 +3026,12 @@
 <url>db/journals/tcsv/tcsv32.html#XiongGWLL22</url>
 </article>
 </r>
-<r><article key="journals/tcsv/GaoLMLLL22" mdate="2022-04-27">
+<r><article key="journals/tcsv/GaoLMLLL22" mdate="2025-04-11">
 <author orcid="0000-0001-7429-5495" pid="28/2073-3">Wei Gao 0003</author>
 <author orcid="0000-0002-5714-1926" pid="276/3125">Guibiao Liao</author>
 <author orcid="0000-0002-2731-5403" pid="40/5402">Siwei Ma</author>
 <author pid="24/712-2">Ge Li 0002</author>
-<author orcid="0000-0002-0891-5577" pid="74/5653">Yongsheng Liang</author>
+<author orcid="0000-0002-0891-5577" pid="74/5653-1">Yongsheng Liang 0001</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
 <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection.</title>
 <pages>2091-2106</pages>
@@ -11660,7 +11660,7 @@
 <co c="0"><na f="l/Li:Zhutuan" pid="172/5759">Zhutuan Li</na></co>
 <co c="0"><na f="l/Liang:Fuhu" pid="246/5767">Fuhu Liang</na></co>
 <co c="0"><na f="l/Liang_0001:Jie" pid="51/239-1">Jie Liang 0001</na></co>
-<co c="0"><na f="l/Liang:Yongsheng" pid="74/5653">Yongsheng Liang</na></co>
+<co c="0"><na f="l/Liang_0001:Yongsheng" pid="74/5653-1">Yongsheng Liang 0001</na></co>
 <co c="0"><na f="l/Liao:Guibiao" pid="276/3125">Guibiao Liao</na></co>
 <co c="0"><na f="l/Liao:Liang" pid="94/1926">Liang Liao</na></co>
 <co c="0"><na f="l/Lim:Guang_Liang" pid="317/5584">Guang Liang Lim</na></co>

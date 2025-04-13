@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Erik Cambria" pid="80/7421" n="608">
+<dblpperson name="Erik Cambria" pid="80/7421" n="609">
 <person key="homepages/80/7421" mdate="2025-04-08">
 <author pid="80/7421">Erik Cambria</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -417,6 +417,28 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.15821</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-15821</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-06635" mdate="2025-04-11">
+<author pid="242/4683">Zhiyuan Ning</author>
+<author pid="377/7687">Zaitian Wang</author>
+<author pid="23/4835">Ran Zhang</author>
+<author pid="75/6813">Ping Xu</author>
+<author pid="80/10061">Kunpeng Liu</author>
+<author pid="219/1752">Pengyang Wang</author>
+<author pid="171/4781">Wei Ju</author>
+<author pid="90/4693-8">Pengfei Wang 0008</author>
+<author pid="08/5234">Yuanchun Zhou</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="63/713">Chong Chen</author>
+<title>Deep Cut-informed Graph Embedding and Clustering.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.06635</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.06635</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-06635</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -9377,7 +9399,7 @@
 <url>db/conf/cost/cost2009.html#CambriaHHE09</url>
 </inproceedings>
 </r>
-<coauthors n="708" nc="12">
+<coauthors n="718" nc="12">
 <co c="0"><na f="a/Abdar:Moloud" pid="189/7633">Moloud Abdar</na></co>
 <co c="6" n="2"><na f="a/Abirami:S=" pid="84/5208">S. Abirami</na><na>S. Abiramy</na></co>
 <co c="0"><na f="a/Aboalsamh:Hatim_A=" pid="63/7092">Hatim A. Aboalsamh</na></co>
@@ -9461,6 +9483,7 @@
 <co c="0"><na f="c/Chang:Kevin_Chen=Chuan" pid="c/KCCChang">Kevin Chen-Chuan Chang</na></co>
 <co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
 <co c="0"><na f="c/Chaturvedi:Iti" pid="68/6526">Iti Chaturvedi</na></co>
+<co c="0"><na f="c/Chen:Chong" pid="63/713">Chong Chen</na></co>
 <co c="0"><na f="c/Chen:Guanyi" pid="220/0907">Guanyi Chen</na></co>
 <co c="0"><na f="c/Chen:Guibin" pid="184/8057">Guibin Chen</na></co>
 <co c="0"><na f="c/Chen_0026:Hui" pid="12/417-26">Hui Chen 0026</na></co>
@@ -9626,6 +9649,7 @@
 <co c="0"><na f="j/Jin:Peng" pid="83/6151">Peng Jin</na></co>
 <co c="0"><na f="j/Jiralerspong:Marco" pid="319/6631">Marco Jiralerspong</na></co>
 <co c="0"><na f="j/Ju:Hao" pid="99/2845">Hao Ju</na></co>
+<co c="0"><na f="j/Ju:Wei" pid="171/4781">Wei Ju</na></co>
 <co c="0"><na f="j/Jung:Soon=Gyo" pid="163/9130">Soon-Gyo Jung</na></co>
 <co c="0"><na f="k/Kalchbrenner:Nal" pid="131/6755">Nal Kalchbrenner</na></co>
 <co c="0"><na f="k/Kasun:Liyanaarachchi_Lekamalage_Chamara" pid="142/3689">Liyanaarachchi Lekamalage Chamara Kasun</na></co>
@@ -9715,6 +9739,7 @@
 <co c="0"><na f="l/Liu_0002:Jun" pid="95/3736-2">Jun Liu 0002</na></co>
 <co c="0"><na f="l/Liu:Junfa" pid="54/2865">Junfa Liu</na></co>
 <co c="0"><na f="l/Liu:Kangbo" pid="350/0707">Kangbo Liu</na></co>
+<co c="0"><na f="l/Liu:Kunpeng" pid="80/10061">Kunpeng Liu</na></co>
 <co c="0"><na f="l/Liu:Liang" pid="10/6178">Liang Liu</na></co>
 <co c="0"><na f="l/Liu:Mengyue" pid="143/6502">Mengyue Liu</na></co>
 <co c="0"><na f="l/Liu_0012:Qian" pid="33/85-12">Qian Liu 0012</na></co>
@@ -9800,6 +9825,7 @@
 <co c="0"><na f="n/Nian:Rui" pid="55/530">Rui Nian</na></co>
 <co c="0" n="2"><na f="n/Nikzad=Khasmakhi:Narjes" pid="244/3476">Narjes Nikzad-Khasmakhi</na><na>Narjes Nikzad</na></co>
 <co c="0"><na f="n/Ning:Huansheng" pid="08/3821">Huansheng Ning</na></co>
+<co c="0"><na f="n/Ning:Zhiyuan" pid="242/4683">Zhiyuan Ning</na></co>
 <co c="0"><na f="n/Nissim:Malvina" pid="91/2392">Malvina Nissim</na></co>
 <co c="0"><na f="n/Niu:Taiyu" pid="382/3345">Taiyu Niu</na></co>
 <co c="0"><na f="n/Nobani:Navid" pid="283/0196">Navid Nobani</na></co>
@@ -9968,6 +9994,8 @@
 <co c="0"><na f="w/Wang_0002:Jingyu" pid="37/2749-2">Jingyu Wang 0002</na></co>
 <co c="0"><na f="w/Wang:Kexin" pid="44/8799">Kexin Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Meng" pid="93/6765-1">Meng Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0008:Pengfei" pid="90/4693-8">Pengfei Wang 0008</na></co>
+<co c="0"><na f="w/Wang:Pengyang" pid="219/1752">Pengyang Wang</na></co>
 <co c="0" n="2"><na f="w/Wang_0001:Qiufeng" pid="86/7443-1">Qiufeng Wang 0001</na><na>Qiu-Feng Wang 0001</na></co>
 <co c="0"><na f="w/Wang_0034:Rui" pid="06/2293-34">Rui Wang 0034</na></co>
 <co c="0"><na f="w/Wang:Suhang" pid="136/9440">Suhang Wang</na></co>
@@ -9976,6 +10004,7 @@
 <co c="0"><na f="w/Wang_0001:Wenwu" pid="61/5537-1">Wenwu Wang 0001</na></co>
 <co c="0"><na f="w/Wang_0002:Xuan" pid="34/4799-2">Xuan Wang 0002</na></co>
 <co c="0"><na f="w/Wang:Yu" pid="02/5889">Yu Wang</na></co>
+<co c="0"><na f="w/Wang:Zaitian" pid="377/7687">Zaitian Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Zhaoxia" pid="94/37-1">Zhaoxia Wang 0001</na></co>
 <co c="0"><na f="w/Wei:Furu" pid="72/5870">Furu Wei</na></co>
 <co c="0"><na f="w/Wei:Runguo" pid="312/2787">Runguo Wei</na></co>
@@ -10008,6 +10037,7 @@
 <co c="0"><na f="x/Xu:Ke" pid="181/2626">Ke Xu</na></co>
 <co c="0"><na f="x/Xu:Kele" pid="158/4231">Kele Xu</na></co>
 <co c="0"><na f="x/Xu:Mingyu" pid="20/7297">Mingyu Xu</na></co>
+<co c="0"><na f="x/Xu:Ping" pid="75/6813">Ping Xu</na></co>
 <co c="0"><na f="x/Xu:Qi" pid="84/1680">Qi Xu</na></co>
 <co c="0"><na f="x/Xu_0001:Ruifeng" pid="93/5407-1">Ruifeng Xu 0001</na></co>
 <co c="0"><na f="x/Xu_0022:Yang" pid="61/3906-22">Yang Xu 0022</na></co>
@@ -10044,6 +10074,7 @@
 <co c="0"><na f="z/Zhang_0014:Ke" pid="20/4152-14">Ke Zhang 0014</na></co>
 <co c="0"><na f="z/Zhang:Meishan" pid="127/0273">Meishan Zhang</na></co>
 <co c="0"><na f="z/Zhang_0005:Min" pid="83/5342-5">Min Zhang 0005</na></co>
+<co c="0"><na f="z/Zhang:Ran" pid="23/4835">Ran Zhang</na></co>
 <co c="0"><na f="z/Zhang_0012:Rui" pid="60/2536-12">Rui Zhang 0012</na></co>
 <co c="0"><na f="z/Zhang:Siyuan" pid="15/7930">Siyuan Zhang</na></co>
 <co c="0"><na f="z/Zhang:Tianlin" pid="217/5169">Tianlin Zhang</na></co>
@@ -10077,6 +10108,7 @@
 <co c="0"><na f="z/Zhou:Liuyang" pid="145/5301">Liuyang Zhou</na></co>
 <co c="0"><na f="z/Zhou:Qiang" pid="43/3182">Qiang Zhou</na></co>
 <co c="0"><na f="z/Zhou_0004:Ran" pid="25/2551-4">Ran Zhou 0004</na></co>
+<co c="0"><na f="z/Zhou:Yuanchun" pid="08/5234">Yuanchun Zhou</na></co>
 <co c="0"><na f="z/Zhu:Hongyuan" pid="133/4527">Hongyuan Zhu</na></co>
 <co c="0"><na f="z/Zhu:Luyao" pid="174/0179">Luyao Zhu</na></co>
 <co c="0"><na f="z/Zhu:Wenhua" pid="16/5893">Wenhua Zhu</na></co>

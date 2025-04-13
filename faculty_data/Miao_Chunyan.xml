@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Chunyan Miao" pid="m/ChunyanMiao" n="636">
+<dblpperson name="Chunyan Miao" pid="m/ChunyanMiao" n="637">
 <person key="homepages/m/ChunyanMiao" mdate="2022-11-02">
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="m/ChunyanMiao">Chun Yan Miao</author>
@@ -69,6 +69,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.02318</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-02318</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-04046" mdate="2025-04-11">
+<author pid="132/4322">Zhipeng Zhou</author>
+<author pid="258/0907">Ziqiao Meng</author>
+<author pid="77/2927">Pengcheng Wu</author>
+<author pid="84/8411">Peilin Zhao</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Continual Optimization with Symmetry Teleportation for Multi-Task Learning.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.04046</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.04046</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-04046</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -9887,7 +9903,7 @@
 <ee>https://doi.org/10.1117/12.321932</ee>
 </inproceedings>
 </r>
-<coauthors n="629" nc="1">
+<coauthors n="631" nc="1">
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="0"><na f="a/Ahmed:Syed_Hassan" pid="78/10960">Syed Hassan Ahmed</na></co>
 <co c="0" n="2"><na f="a/Ailiya:" pid="72/5844">Ailiya</na><na>Ailiya Borjigin</na></co>
@@ -10215,6 +10231,7 @@
 <co c="0"><na f="m/Men:Yifang" pid="198/9537">Yifang Men</na></co>
 <co c="0"><na f="m/Meng_0001:Lei" pid="118/5253-1">Lei Meng 0001</na></co>
 <co c="0"><na f="m/Meng:Xiangxu" pid="17/283">Xiangxu Meng</na></co>
+<co c="0"><na f="m/Meng:Ziqiao" pid="258/0907">Ziqiao Meng</na></co>
 <co c="0"><na f="m/Miao_0001:Yuan" pid="74/1798-1">Yuan Miao 0001</na></co>
 <co c="0"><na f="m/Min:Huaqing" pid="73/6274">Huaqing Min</na></co>
 <co c="0"><na f="m/Molino:Ana_Garcia_del" pid="166/2791">Ana Garcia del Molino</na></co>
@@ -10506,6 +10523,7 @@
 <co c="0"><na f="z/Zhou_0008:Xin" pid="05/3403-8">Xin Zhou 0008</na></co>
 <co c="0"><na f="z/Zhou:Yang" pid="07/4580">Yang Zhou</na></co>
 <co c="0"><na f="z/Zhou_0008:You" pid="20/2165-8">You Zhou 0008</na></co>
+<co c="0"><na f="z/Zhou:Zhipeng" pid="132/4322">Zhipeng Zhou</na></co>
 <co c="0"><na f="z/Zhu:Diwen" pid="18/7753">Diwen Zhu</na></co>
 <co c="0"><na f="z/Zhu_0001:Feida" pid="77/1985">Feida Zhu 0001</na></co>
 <co c="0"><na f="z/Zhu_0002:Feida" pid="77/1985-2">Feida Zhu 0002</na></co>

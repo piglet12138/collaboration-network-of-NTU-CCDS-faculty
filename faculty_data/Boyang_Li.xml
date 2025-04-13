@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Boyang Li" pid="70/1211" n="62">
+<dblpperson name="Boyang Li" pid="70/1211" n="61">
 <person publtype="disambiguation" key="homepages/70/1211" mdate="2021-06-21">
 <author pid="70/1211">Boyang Li</author>
 <author pid="70/1211">Bo-Yang Li</author>
@@ -367,21 +367,6 @@
 <ee type="oa">https://openreview.net/forum?id=HDrXBr26UI</ee>
 <crossref>conf/icml/2024</crossref>
 <url>db/conf/icml/icml2024.html#YangYLF024</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/pricai/HongLLH24" mdate="2024-12-05">
-<author pid="335/0340">Tinghe Hong</author>
-<author pid="70/1211">Boyang Li</author>
-<author pid="52/7699">Weibing Li</author>
-<author pid="86/489">Kai Huang</author>
-<title>Robotic Control of Endoscope Assistance in Skull Base Surgery Based on Adaptive RCM Point.</title>
-<pages>153-164</pages>
-<year>2024</year>
-<booktitle>PRICAI (5)</booktitle>
-<ee>https://doi.org/10.1007/978-981-96-0128-8_14</ee>
-<crossref>conf/pricai/2024-5</crossref>
-<url>db/conf/pricai/pricai2024-5.html#HongLLH24</url>
-<stream>streams/conf/pricai</stream>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/recsys/XuYXLLSZLLHTZZL24" mdate="2025-01-19">
@@ -1140,7 +1125,7 @@
 <url>db/conf/hpcc/hpcc2015.html#LiL15</url>
 </inproceedings>
 </r>
-<coauthors n="218" nc="9">
+<coauthors n="215" nc="9">
 <co c="0"><na f="a/Allcock:William_E=" pid="a/WilliamEAllcock">William E. Allcock</na></co>
 <co c="0"><na f="a/Allcocky:William" pid="372/4622">William Allcocky</na></co>
 <co c="0"><na f="a/Anderson:Alex_K=" pid="289/6859">Alex K. Anderson</na></co>
@@ -1188,11 +1173,9 @@
 <co c="0"><na f="h/He:Haonan" pid="306/1290">Haonan He</na></co>
 <co c="4"><na f="h/He_0003:Hong" pid="09/6675-3">Hong He 0003</na></co>
 <co c="0"><na f="h/Herbert:Sylvia_L=" pid="192/3242">Sylvia L. Herbert</na></co>
-<co c="0"><na f="h/Hong:Tinghe" pid="335/0340">Tinghe Hong</na></co>
 <co c="0"><na f="h/Hou:Xiuhui" pid="335/9553">Xiuhui Hou</na></co>
 <co c="0"><na f="h/How:Jonathan_P=" pid="43/1256">Jonathan P. How</na></co>
 <co c="0"><na f="h/Hu:Yuxi" pid="17/8327">Yuxi Hu</na></co>
-<co c="0"><na f="h/Huang:Kai" pid="86/489">Kai Huang</na></co>
 <co c="0"><na f="h/Huang:Nuoxian" pid="371/4998">Nuoxian Huang</na></co>
 <co c="1"><na f="h/Hwang:Sung_Ju" pid="52/8653">Sung Ju Hwang</na></co>
 <co c="0"><na f="j/Jia:Weile" pid="41/10441">Weile Jia</na></co>
@@ -1223,7 +1206,6 @@
 <co c="3"><na f="l/Li:Qingyong" pid="29/4219">Qingyong Li</na></co>
 <co c="0"><na f="l/Li:Shiqiang" pid="86/10942">Shiqiang Li</na></co>
 <co c="0"><na f="l/Li_0002:Shuang" pid="43/6294-2">Shuang Li 0002</na></co>
-<co c="0"><na f="l/Li:Weibing" pid="52/7699">Weibing Li</na></co>
 <co c="0"><na f="l/Li:Zhenhao" pid="46/10202">Zhenhao Li</na></co>
 <co c="0"><na f="l/Lin:Jiaquan" pid="50/10644">Jiaquan Lin</na></co>
 <co c="0"><na f="l/Liu_0001:Chen" pid="10/2639-1">Chen Liu 0001</na></co>

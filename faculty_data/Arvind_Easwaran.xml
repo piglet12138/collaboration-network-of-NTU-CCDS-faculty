@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Arvind Easwaran" pid="73/1708" n="180">
+<dblpperson name="Arvind Easwaran" pid="73/1708" n="181">
 <person key="homepages/73/1708" mdate="2022-12-07">
 <author pid="73/1708">Arvind Easwaran</author>
 <url>http://www.ntu.edu.sg/home/arvinde/</url>
@@ -22,6 +22,21 @@
 <ee>https://doi.org/10.1016/j.eswa.2024.126031</ee>
 <url>db/journals/eswa/eswa267.html#FangEGS25</url>
 <stream>streams/journals/eswa</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05238" mdate="2025-04-11">
+<author pid="343/4154">Mohit Prashant</author>
+<author pid="73/1708">Arvind Easwaran</author>
+<author pid="80/942">Suman Das</author>
+<author pid="176/3933">Michael Yuhas</author>
+<title>Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05238</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05238</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05238</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/rts/EaswaranA24" mdate="2025-03-03">
@@ -2559,7 +2574,7 @@
 <co c="0"><na f="p/Petters:Stefan_M=" pid="20/1072">Stefan M. Petters</na></co>
 <co c="0" n="2"><na f="p/Phan:Kieu=My" pid="135/0584">Kieu-My Phan</na><na>Kiew-My Phan</na></co>
 <co c="0"><na f="p/Phan:Linh_T=_X=" pid="92/1043">Linh T. X. Phan</na></co>
-<co c="-1"><na f="p/Prashant:Mohit" pid="343/4154">Mohit Prashant</na></co>
+<co c="0"><na f="p/Prashant:Mohit" pid="343/4154">Mohit Prashant</na></co>
 <co c="0"><na f="r/RahimiNasab:Zahra" pid="244/7271">Zahra RahimiNasab</na></co>
 <co c="-1"><na f="r/Raja:Jose_Peeterson_Emerson" pid="332/7795">Jose Peeterson Emerson Raja</na></co>
 <co c="0"><na f="r/Ramakrishna:Shreyas" pid="236/4310">Shreyas Ramakrishna</na></co>

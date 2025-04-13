@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Mo Li 0001" pid="87/4982-1" n="209">
+<dblpperson name="Mo Li 0001" pid="87/4982-1" n="210">
 <person key="homepages/87/4982-1" mdate="2025-01-10">
 <author pid="87/4982-1">Mo Li 0001</author>
 <note type="affiliation">Nanyang Technological University, School of Computer Science and Engineering, Singapore</note>
@@ -71,6 +71,21 @@
 </person>
 </h>
 </homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2503-05346" mdate="2025-04-11">
+<author pid="303/7402">Leming Shen</author>
+<author pid="82/6362-18">Qiang Yang 0018</author>
+<author pid="08/9937">Yuanqing Zheng</author>
+<author pid="87/4982-1">Mo Li 0001</author>
+<title>AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05346</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05346</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05346</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><article key="journals/imwut/DaiXYLTL24" mdate="2025-01-08">
 <author orcid="0000-0002-3423-1785" pid="169/7799">Gaole Dai</author>
 <author orcid="0000-0002-8289-0910" pid="228/5733">Huatao Xu</author>
@@ -3228,7 +3243,7 @@
 <url>db/conf/icpp/icpp2006.html#CaiLLLPN06</url>
 </inproceedings>
 </r>
-<coauthors n="203" nc="3">
+<coauthors n="204" nc="3">
 <co c="0"><na f="a/Ashok:Ashwin" pid="48/1535">Ashwin Ashok</na></co>
 <co c="0"><na f="b/Bian:Kaigui" pid="87/2334">Kaigui Bian</na></co>
 <co c="0"><na f="c/Cai_0003:Jianfeng" pid="48/1907-3">Jianfeng Cai 0003</na></co>
@@ -3365,6 +3380,7 @@
 <co c="0"><na f="s/Seller:Olivier" pid="55/1315">Olivier Seller</na></co>
 <co c="0"><na f="s/Shangguan:Longfei" pid="91/10470">Longfei Shangguan</na></co>
 <co c="0"><na f="s/Shen:Guobin" pid="58/1441">Guobin Shen</na></co>
+<co c="0"><na f="s/Shen:Leming" pid="303/7402">Leming Shen</na></co>
 <co c="0"><na f="s/Shi:Shuyu" pid="123/9215">Shuyu Shi</na></co>
 <co c="0"><na f="s/Sigg:Stephan" pid="82/5155">Stephan Sigg</na></co>
 <co c="0"><na f="s/Song_0001:Qun" pid="29/4368-1">Qun Song 0001</na></co>

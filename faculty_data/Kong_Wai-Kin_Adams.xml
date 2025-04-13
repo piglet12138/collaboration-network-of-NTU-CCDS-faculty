@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Adams Wai-Kin Kong" pid="16/3792" n="139">
+<dblpperson name="Adams Wai-Kin Kong" pid="16/3792" n="140">
 <person key="homepages/16/3792" mdate="2020-01-08">
 <author pid="16/3792">Adams Wai-Kin Kong</author>
 <url>https://orcid.org/0000-0002-9728-9511</url>
@@ -16,6 +16,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.01633</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-01633</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-07191" mdate="2025-04-11">
+<author pid="43/2701-2">Yan Ren 0002</author>
+<author pid="131/6865">Shilin Lu</author>
+<author pid="16/3792">Adams Wai-Kin Kong</author>
+<title>All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.07191</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.07191</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-07191</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1938,13 +1952,13 @@
 <url>db/conf/icpr/icpr2002-3.html#KongZ02</url>
 </inproceedings>
 </r>
-<coauthors n="109" nc="5">
+<coauthors n="109" nc="4">
 <co c="0"><na f="a/Altieri:Lisa" pid="130/0843">Lisa Altieri</na></co>
-<co c="3"><na f="a/Arafat:Naheed_Anjum" pid="204/2502">Naheed Anjum Arafat</na></co>
+<co c="2"><na f="a/Arafat:Naheed_Anjum" pid="204/2502">Naheed Anjum Arafat</na></co>
 <co c="0"><na f="b/Bhattacharya:Prabir" pid="b/PrBhattacharya">Prabir Bhattacharya</na></co>
 <co c="0"><na f="c/Chai:Tingting" pid="226/9414">Tingting Chai</na></co>
 <co c="0" n="2"><na f="c/Chan:Frodo_Kin=Sun" pid="155/3103">Frodo Kin-Sun Chan</na><na>Frodo Kin Sun Chan</na></co>
-<co c="3"><na f="c/Chan:Wai_Lee" pid="271/8115">Wai Lee Chan</na></co>
+<co c="2"><na f="c/Chan:Wai_Lee" pid="271/8115">Wai Lee Chan</na></co>
 <co c="0"><na f="c/Chen:Bingzhi" pid="34/7694">Bingzhi Chen</na></co>
 <co c="0"><na f="c/Chen:Peng" pid="27/7017">Peng Chen</na></co>
 <co c="0"><na f="c/Cheng:Kuanhong" pid="266/7541">Kuanhong Cheng</na></co>
@@ -1953,9 +1967,9 @@
 <co c="0"><na f="c/Cho:Siu=Yeung" pid="05/5226">Siu-Yeung Cho</na></co>
 <co c="0"><na f="c/Chon:Deborah" pid="130/0863">Deborah Chon</na></co>
 <co c="0"><na f="c/Craft:Noah" pid="74/9875">Noah Craft</na></co>
-<co c="2"><na f="d/Datta:Abhik" pid="38/10513">Abhik Datta</na></co>
+<co c="1"><na f="d/Datta:Abhik" pid="38/10513">Abhik Datta</na></co>
 <co c="0"><na f="g/Ghosh:Soham" pid="42/11314">Soham Ghosh</na></co>
-<co c="2"><na f="g/Ghosh:Soumita" pid="08/11011">Soumita Ghosh</na></co>
+<co c="1"><na f="g/Ghosh:Soumita" pid="08/11011">Soumita Ghosh</na></co>
 <co c="0"><na f="g/Goh:Chi_Keong" pid="55/6071">Chi Keong Goh</na></co>
 <co c="0"><na f="g/Guo:Xiaobao" pid="246/5846">Xiaobao Guo</na></co>
 <co c="0"><na f="h/Hall:Cory_Lloyd" pid="241/9614">Cory Lloyd Hall</na></co>
@@ -1964,9 +1978,9 @@
 <co c="0"><na f="h/Huang_0013:Yi" pid="15/6040-13">Yi Huang 0013</na></co>
 <co c="0"><na f="h/Huynh:Nhat_Quang" pid="166/4016">Nhat Quang Huynh</na></co>
 <co c="0"><na f="i/Islam_0002:Md=_Rabiul" pid="11/7412-2">Md. Rabiul Islam 0002</na></co>
-<co c="3"><na f="j/Jessica:Loh_Sher_En" pid="361/7582">Loh Sher En Jessica</na></co>
+<co c="2"><na f="j/Jessica:Loh_Sher_En" pid="361/7582">Loh Sher En Jessica</na></co>
 <co c="0"><na f="j/Jia:Yiping" pid="136/3870">Yiping Jia</na></co>
-<co c="1"><na f="j/Jiao:Licheng" pid="40/3714">Licheng Jiao</na></co>
+<co c="0"><na f="j/Jiao:Licheng" pid="40/3714">Licheng Jiao</na></co>
 <co c="0" n="2"><na f="k/Kamel:Mohamed_S=" pid="k/MSKamel">Mohamed S. Kamel</na><na>Mohamed Kamel</na></co>
 <co c="0"><na f="k/Kang:Wenxiong" pid="75/1559">Wenxiong Kang</na></co>
 <co c="0"><na f="k/Kim_0001:Jung=Jae" pid="83/1191-1">Jung-Jae Kim 0001</na></co>
@@ -1981,12 +1995,12 @@
 <co c="0"><na f="l/Li:Weifeng" pid="97/69">Weifeng Li</na></co>
 <co c="0"><na f="l/Li_0007:Wenxin" pid="22/2010-7">Wenxin Li 0007</na></co>
 <co c="0"><na f="l/Li:Xiaojie" pid="85/6319">Xiaojie Li</na></co>
-<co c="4"><na f="l/Li_0147:Yang" pid="37/4190-147">Yang Li 0147</na></co>
-<co c="1"><na f="l/Li:Yanling" pid="63/1571">Yanling Li</na></co>
+<co c="3"><na f="l/Li_0147:Yang" pid="37/4190-147">Yang Li 0147</na></co>
+<co c="0"><na f="l/Li:Yanling" pid="63/1571">Yanling Li</na></co>
 <co c="0"><na f="l/Li:Zhaoxu" pid="275/0147">Zhaoxu Li</na></co>
 <co c="0"><na f="l/Liao:Qingmin" pid="13/322">Qingmin Liao</na></co>
 <co c="0" n="2"><na f="l/Lim:Joo=Hwee" pid="56/432">Joo-Hwee Lim</na><na>Joo Hwee Lim</na></co>
-<co c="3"><na f="l/Lim:Wei_Xian" pid="361/7274">Wei Xian Lim</na></co>
+<co c="2"><na f="l/Lim:Wei_Xian" pid="361/7274">Wei Xian Lim</na></co>
 <co c="0"><na f="l/Lin:Mingzhi" pid="27/9439">Mingzhi Lin</na></co>
 <co c="0"><na f="l/Lin:Xun" pid="57/88">Xun Lin</na></co>
 <co c="0"><na f="l/Liu:Yanzhu" pid="14/2786">Yanzhu Liu</na></co>
@@ -2004,22 +2018,22 @@
 <co c="0"><na f="p/Prasad:Shitala" pid="66/9554">Shitala Prasad</na></co>
 <co c="0"><na f="q/Qiao:Yitao" pid="375/0124">Yitao Qiao</na></co>
 <co c="0"><na f="q/Qiu:Luyi" pid="339/3400">Luyi Qiu</na></co>
-<co c="1"><na f="r/Ren_0002:Yan" pid="43/2701-2">Yan Ren 0002</na></co>
+<co c="0"><na f="r/Ren_0002:Yan" pid="43/2701-2">Yan Ren 0002</na></co>
 <co c="0"><na f="s/Selvaraj:Nithish_Muthuchamy" pid="279/1105">Nithish Muthuchamy Selvaraj</na></co>
 <co c="0" n="2"><na f="s/Sharifzadeh:Hamid_R=" pid="12/9232">Hamid R. Sharifzadeh</na><na>Hamid Reza Sharifzadeh</na></co>
 <co c="0"><na f="s/Shen:Bingquan" pid="151/9308">Bingquan Shen</na></co>
-<co c="4"><na f="s/Song_0001:Qun" pid="29/4368-1">Qun Song 0001</na></co>
+<co c="3"><na f="s/Song_0001:Qun" pid="29/4368-1">Qun Song 0001</na></co>
 <co c="0"><na f="s/Song:Wenwei" pid="78/6464">Wenwei Song</na></co>
 <co c="0"><na f="s/Styborski:Jeremy" pid="387/1357">Jeremy Styborski</na></co>
 <co c="0"><na f="s/Su_0002:Han" pid="23/3419-2">Han Su 0002</na></co>
 <co c="0"><na f="s/Subbiah:Sathyan" pid="166/3961">Sathyan Subbiah</na></co>
-<co c="4"><na f="t/Tan_0001:Rui" pid="00/5179-1">Rui Tan 0001</na></co>
+<co c="3"><na f="t/Tan_0001:Rui" pid="00/5179-1">Rui Tan 0001</na></co>
 <co c="0"><na f="t/Tan:Yew_Lee" pid="331/5482">Yew Lee Tan</na></co>
 <co c="0"><na f="t/Tang:Chaoying" pid="32/1079">Chaoying Tang</na></co>
-<co c="1"><na f="t/Thng:Steven" pid="299/3299">Steven Thng</na></co>
-<co c="1"><na f="t/Thng:Steven_Tien_Guan" pid="194/5767">Steven Tien Guan Thng</na></co>
+<co c="0"><na f="t/Thng:Steven" pid="299/3299">Steven Thng</na></co>
+<co c="0"><na f="t/Thng:Steven_Tien_Guan" pid="194/5767">Steven Tien Guan Thng</na></co>
 <co c="0"><na f="t/Till:Tristan" pid="401/6271">Tristan Till</na></co>
-<co c="2"><na f="t/Trau:Dieter" pid="89/11432">Dieter Trau</na></co>
+<co c="1"><na f="t/Trau:Dieter" pid="89/11432">Dieter Trau</na></co>
 <co c="0"><na f="w/Wang_0018:Fan" pid="88/898-18">Fan Wang 0018</na></co>
 <co c="0"><na f="w/Wang:Min" pid="181/2695">Min Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Sheng" pid="85/1868-1">Sheng Wang 0001</na></co>
@@ -2032,10 +2046,10 @@
 <co c="0"><na f="w/Wong:Michael" pid="66/1409">Michael Wong</na></co>
 <co c="0"><na f="x/Xu:Qingyong" pid="184/8322">Qingyong Xu</na></co>
 <co c="0"><na f="x/Xu:Xingpeng" pid="166/3959">Xingpeng Xu</na></co>
-<co c="4"><na f="y/Yan_0002:Zhenyu" pid="57/1273-2">Zhenyu Yan 0002</na></co>
+<co c="3"><na f="y/Yan_0002:Zhenyu" pid="57/1273-2">Zhenyu Yan 0002</na></co>
 <co c="0"><na f="y/Yin:Yueming" pid="160/8947">Yueming Yin</na></co>
 <co c="0"><na f="y/You:Jane" pid="y/JaneYou">Jane You</na></co>
-<co c="2" n="2"><na f="y/Yow_0001:Kin_Choong" pid="95/5767">Kin Choong Yow 0001</na><na>Kin-Choong Yow 0001</na></co>
+<co c="1" n="2"><na f="y/Yow_0001:Kin_Choong" pid="95/5767">Kin Choong Yow 0001</na><na>Kin-Choong Yow 0001</na></co>
 <co c="-1"><na f="y/Yu:Peicong" pid="66/11270">Peicong Yu</na></co>
 <co c="0"><na f="y/Yu:Zitong" pid="152/9801">Zitong Yu</na></co>
 <co c="0" n="2"><na f="z/Zhang_0001:David" pid="z/DavidZhang">David Zhang 0001</na><na>David Dapeng Zhang</na></co>
