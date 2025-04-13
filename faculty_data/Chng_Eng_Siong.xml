@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Chng Eng Siong" pid="c/ChngEngSiong" n="434">
+<dblpperson name="Chng Eng Siong" pid="c/ChngEngSiong" n="435">
 <person key="homepages/c/ChngEngSiong" mdate="2025-01-10">
 <author pid="c/ChngEngSiong">Chng Eng Siong</author>
 <author pid="c/ChngEngSiong">Engsiong Chng</author>
@@ -124,6 +124,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.16240</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-16240</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05110" mdate="2025-04-11">
+<author pid="136/7858">Weiguang Chen</author>
+<author pid="99/6243">Junjie Zhang</author>
+<author pid="201/7553">Jielong Yang</author>
+<author pid="c/ChngEngSiong">Eng Siong Chng</author>
+<author pid="92/7819">Xionghu Zhong</author>
+<title>UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05110</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05110</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05110</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1987,9 +2003,9 @@
 <url>db/journals/speech/speech136.html#GuoWDCN22</url>
 </article>
 </r>
-<r><inproceedings key="conf/dcase/XiaoLKSCPW22" mdate="2023-01-05">
+<r><inproceedings key="conf/dcase/XiaoLKSCPW22" mdate="2025-04-11">
 <author pid="181/1848">Yang Xiao</author>
-<author pid="235/1970">Xubo Liu</author>
+<author pid="235/1970-1">Xubo Liu 0001</author>
 <author pid="54/6055">James A. King</author>
 <author pid="202/5608">Arshdeep Singh</author>
 <author pid="c/ChngEngSiong">Eng Siong Chng</author>
@@ -2407,9 +2423,9 @@
 <url>db/journals/corr/corr2207.html#abs-2207-04177</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2207-07429" mdate="2023-09-30">
+<r><article publtype="informal" key="journals/corr/abs-2207-07429" mdate="2025-04-11">
 <author pid="181/1848">Yang Xiao</author>
-<author pid="235/1970">Xubo Liu</author>
+<author pid="235/1970-1">Xubo Liu 0001</author>
 <author pid="54/6055">James A. King</author>
 <author orcid="0000-0003-3465-0952" pid="202/5608">Arshdeep Singh</author>
 <author pid="c/ChngEngSiong">Eng Siong Chng</author>
@@ -6804,7 +6820,7 @@
 <url>db/conf/icassp/icassp1994.html#Chng0M94</url>
 </inproceedings>
 </r>
-<coauthors n="448" nc="3">
+<coauthors n="450" nc="3">
 <co c="0"><na f="a/Agrawal:Satyam" pid="388/2084">Satyam Agrawal</na></co>
 <co c="0"><na f="a/Ajili:Moez" pid="150/2643">Moez Ajili</na></co>
 <co c="0"><na f="a/Alegre:Federico" pid="124/9165">Federico Alegre</na></co>
@@ -7000,7 +7016,7 @@
 <co c="0"><na f="l/Liu:Hexin" pid="125/0337">Hexin Liu</na></co>
 <co c="0"><na f="l/Liu_0003:Siyuan" pid="00/4516-3">Siyuan Liu 0003</na></co>
 <co c="0"><na f="l/Liu:Xiang" pid="31/5736">Xiang Liu</na></co>
-<co c="0"><na f="l/Liu:Xubo" pid="235/1970">Xubo Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Xubo" pid="235/1970-1">Xubo Liu 0001</na></co>
 <co c="0"><na f="l/Liu:Yufei" pid="38/1796">Yufei Liu</na></co>
 <co c="0"><na f="l/Long:Yanhua" pid="64/8052">Yanhua Long</na></co>
 <co c="0"><na f="l/Lu_0003:Fan" pid="35/6336-3">Fan Lu 0003</na></co>
@@ -7196,6 +7212,7 @@
 <co c="0"><na f="y/Yang:Chao=Han_Huck" pid="230/4012">Chao-Han Huck Yang</na></co>
 <co c="2"><na f="y/Yang:Howard_Hua" pid="88/409">Howard Hua Yang</na></co>
 <co c="0"><na f="y/Yang:Jichen" pid="78/7768">Jichen Yang</na></co>
+<co c="0"><na f="y/Yang:Jielong" pid="201/7553">Jielong Yang</na></co>
 <co c="0"><na f="y/Yang:Peng" pid="57/5443">Peng Yang</na></co>
 <co c="0"><na f="y/Yang:Yuhang" pid="92/3175">Yuhang Yang</na></co>
 <co c="0"><na f="y/Yang:Zhao" pid="21/2326">Zhao Yang</na></co>
@@ -7227,6 +7244,7 @@
 <co c="0"><na f="z/Zhang:Jiacen" pid="218/6679">Jiacen Zhang</na></co>
 <co c="0"><na f="z/Zhang:Jian" pid="07/314">Jian Zhang</na></co>
 <co c="0"><na f="z/Zhang:Jicheng" pid="08/2349">Jicheng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junjie" pid="99/6243">Junjie Zhang</na></co>
 <co c="0"><na f="z/Zhang:Lin" pid="37/1629">Lin Zhang</na></co>
 <co c="0"><na f="z/Zhang_0005:Min" pid="83/5342-5">Min Zhang 0005</na></co>
 <co c="0"><na f="z/Zhang:Qiang" pid="72/3527">Qiang Zhang</na></co>

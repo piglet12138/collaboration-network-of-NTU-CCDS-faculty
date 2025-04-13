@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="A. S. Madhukumar" pid="66/549" n="231">
+<dblpperson name="A. S. Madhukumar" pid="66/549" n="232">
 <person key="homepages/66/549" mdate="2020-04-17">
 <author pid="66/549">A. S. Madhukumar</author>
 <url>https://orcid.org/0000-0002-8740-634X</url>
@@ -112,6 +112,22 @@
 <ee>https://doi.org/10.1109/COMSNETS59351.2024.10427543</ee>
 <crossref>conf/comsnets/2024</crossref>
 <url>db/conf/comsnets/comsnets2024.html#SinghRMM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LiMEZSA24" mdate="2025-04-10">
+<author pid="213/0853">Yuanjian Li</author>
+<author pid="66/549">A. S. Madhukumar</author>
+<author pid="174/3471">Tan Zheng Hui Ernest</author>
+<author pid="74/6653">Gan Zheng</author>
+<author pid="41/6237">Walid Saad</author>
+<author pid="a/AHAghvami">A. Hamid Aghvami</author>
+<title>Energy-Efficient UAV-Aided Computation Offloading on THz Band: A MADRL Solution.</title>
+<pages>1515-1520</pages>
+<year>2024</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM52923.2024.10901463</ee>
+<crossref>conf/globecom/2024</crossref>
+<url>db/conf/globecom/globecom2024.html#LiMEZSA24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icc/MaitiME24" mdate="2024-09-02">
@@ -3170,8 +3186,9 @@
 <pages>1153-1156</pages>
 </inproceedings>
 </r>
-<coauthors n="89" nc="2">
+<coauthors n="91" nc="2">
 <co c="0"><na f="a/Adachi:Fumiyuki" pid="18/4890">Fumiyuki Adachi</na></co>
+<co c="0" n="2"><na f="a/Aghvami:Hamid" pid="a/AHAghvami">Hamid Aghvami</na><na>A. Hamid Aghvami</na></co>
 <co c="0"><na f="a/Agrawal:Niharika" pid="241/0468">Niharika Agrawal</na></co>
 <co c="0"><na f="a/Alen:Teo_Choon_Heng" pid="120/8627">Teo Choon Heng Alen</na></co>
 <co c="0"><na f="a/Alphones:A=" pid="14/9401">A. Alphones</na></co>
@@ -3198,7 +3215,7 @@
 <co c="0"><na f="l/Lau:Chiew_Tong" pid="30/6609">Chiew Tong Lau</na></co>
 <co c="0"><na f="l/Lei:Zhongding" pid="72/6767">Zhongding Lei</na></co>
 <co c="0"><na f="l/Li:Qian_=Clara=" pid="20/10398">Qian (Clara) Li</na></co>
-<co c="-1"><na f="l/Li:Yuanjian" pid="213/0853">Yuanjian Li</na></co>
+<co c="0"><na f="l/Li:Yuanjian" pid="213/0853">Yuanjian Li</na></co>
 <co c="0"><na f="l/Liang:Ying=Chang" pid="98/153">Ying-Chang Liang</na></co>
 <co c="0"><na f="l/Lin_0001:Zhiwei" pid="38/1761-1">Zhiwei Lin 0001</na></co>
 <co c="0"><na f="l/Liu:X=" pid="36/677">X. Liu</na></co>
@@ -3258,6 +3275,7 @@
 <co c="0"><na f="y/Ye:Zhenzhen" pid="70/128">Zhenzhen Ye</na></co>
 <co c="1" n="2"><na f="y/Yegnanarayana:Bayya" pid="43/1564">Bayya Yegnanarayana</na><na>B. Yegnanarayana 0001</na></co>
 <co c="0"><na f="y/Yue:Guosen" pid="41/4677">Guosen Yue</na></co>
+<co c="0"><na f="z/Zheng:Gan" pid="74/6653">Gan Zheng</na></co>
 <co c="0"><na f="z/Zhong:Tim_Mingqian" pid="29/6766">Tim Mingqian Zhong</na></co>
 <co c="0"><na f="z/Zhong:Xionghu" pid="92/7819">Xionghu Zhong</na></co>
 </coauthors>

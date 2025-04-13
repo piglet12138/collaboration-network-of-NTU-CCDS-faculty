@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Yang Liu 0003" pid="51/3710-3" n="911">
+<dblpperson name="Yang Liu 0003" pid="51/3710-3" n="912">
 <person key="homepages/51/3710-3" mdate="2025-04-02">
 <author pid="51/3710-3">Yang Liu 0003</author>
 <note type="affiliation">Nanyang Technological University, School of Computer Engineering, Singapore</note>
@@ -2754,6 +2754,25 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.15830</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-15830</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-04385" mdate="2025-04-11">
+<author pid="255/5085">Yihao Huang 0001</author>
+<author pid="53/5106">Xin Luo</author>
+<author pid="25/3038-5">Qing Guo 0005</author>
+<author pid="35/11103">Felix Juefei-Xu</author>
+<author pid="57/5656">Xiaojun Jia</author>
+<author pid="94/4256">Weikai Miao</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.04385</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.04385</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-04385</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -17659,7 +17678,7 @@
 <url>db/conf/fm/wlfm2005.html#LiuS06</url>
 </inproceedings>
 </r>
-<coauthors n="1380" nc="1">
+<coauthors n="1381" nc="1">
 <co c="0"><na f="a/Adhikari:Kiran" pid="130/3641">Kiran Adhikari</na></co>
 <co c="0"><na f="a/Adiga:Vinay_Vishnumurthy" pid="311/8852">Vinay Vishnumurthy Adiga</na></co>
 <co c="0"><na f="a/Alazab:Mamoun" pid="16/7566">Mamoun Alazab</na></co>
@@ -18277,6 +18296,7 @@
 <co c="0"><na f="l/Luo:Ping" pid="54/4989">Ping Luo</na></co>
 <co c="0"><na f="l/Luo:Xiaoxing" pid="311/8795">Xiaoxing Luo</na></co>
 <co c="0"><na f="l/Luo:Xiapu" pid="53/1565">Xiapu Luo</na></co>
+<co c="0"><na f="l/Luo:Xin" pid="53/5106">Xin Luo</na></co>
 <co c="0"><na f="l/Luo:Xuqiong" pid="07/7695">Xuqiong Luo</na></co>
 <co c="0"><na f="l/Luo:Yichen" pid="133/5734">Yichen Luo</na></co>
 <co c="0"><na f="l/Luo:Yixing" pid="254/7944">Yixing Luo</na></co>

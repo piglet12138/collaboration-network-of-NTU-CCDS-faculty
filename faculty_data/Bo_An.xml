@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Bo An 0001" pid="42/6178-1" n="396">
+<dblpperson name="Bo An 0001" pid="42/6178-1" n="397">
 <person key="homepages/42/6178-1" mdate="2025-01-10">
 <author pid="42/6178-1">Bo An 0001</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -134,6 +134,24 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.17421</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-17421</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-06893" mdate="2025-04-11">
+<author pid="292/8460">Zhenghai Xue</author>
+<author pid="401/7942">Lang Feng</author>
+<author pid="188/6025">Jiacheng Xu</author>
+<author pid="36/10052">Kang Kang</author>
+<author pid="73/10075">Xiang Wen</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<title>Policy Regularization on Globally Accessible States in Cross-Dynamics Reinforcement Learning.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.06893</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.06893</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-06893</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -861,11 +879,11 @@
 <url>db/journals/corr/corr2403.html#abs-2403-00255</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2403-03186" mdate="2025-04-09">
+<r><article publtype="informal" key="journals/corr/abs-2403-03186" mdate="2025-04-10">
 <author pid="238/0151">Weihao Tan</author>
 <author pid="267/2359">Ziluo Ding</author>
 <author pid="41/3249-7">Wentao Zhang 0007</author>
-<author pid="25/5732">Boyu Li</author>
+<author pid="25/5732-3">Boyu Li 0003</author>
 <author pid="300/4508">Bohan Zhou</author>
 <author pid="332/0038">Junpeng Yue</author>
 <author pid="356/9950">Haochong Xia</author>
@@ -6111,7 +6129,7 @@
 <url>db/conf/iat/iat2004.html#AnTLC04</url>
 </inproceedings>
 </r>
-<coauthors n="483" nc="1">
+<coauthors n="487" nc="1">
 <co c="0"><na f="a/Aggarwal:Charu_C=" pid="a/CharuCAggarwal">Charu C. Aggarwal</na></co>
 <co c="0"><na f="a/Agmon:Noa" pid="52/1053">Noa Agmon</na></co>
 <co c="0"><na f="a/Alani:Harith" pid="74/2147">Harith Alani</na></co>
@@ -6174,6 +6192,7 @@
 <co c="0"><na f="f/Fan:Changjie" pid="71/882">Changjie Fan</na></co>
 <co c="0"><na f="f/Fang_0001:Fei" pid="57/2878-1">Fei Fang 0001</na></co>
 <co c="0"><na f="f/Fang:Zhou" pid="56/7625">Zhou Fang</na></co>
+<co c="0"><na f="f/Feng:Lang" pid="401/7942">Lang Feng</na></co>
 <co c="0"><na f="f/Feng_0002:Lang" pid="211/0071-2">Lang Feng 0002</na></co>
 <co c="0"><na f="f/Feng_0006:Lei" pid="76/847-6">Lei Feng 0006</na></co>
 <co c="0"><na f="f/Feng_0001:Shanshan" pid="149/1281-1">Shanshan Feng 0001</na></co>
@@ -6247,6 +6266,7 @@
 <co c="0"><na f="j/Jiao:Yan" pid="82/7122">Yan Jiao</na></co>
 <co c="0"><na f="j/Jin:Peng" pid="83/6151">Peng Jin</na></co>
 <co c="0"><na f="k/Kaneko:Takuo" pid="236/4441">Takuo Kaneko</na></co>
+<co c="0"><na f="k/Kang:Kang" pid="36/10052">Kang Kang</na></co>
 <co c="0" n="2"><na f="k/Karlsson_0001:B=ouml=rje" pid="k/BorjeKarlsson">B&#246;rje Karlsson 0001</na><na>B&#246;rje F. Karlsson</na></co>
 <co c="0"><na f="k/Karwowski:Jan" pid="140/1479">Jan Karwowski</na></co>
 <co c="0"><na f="k/Kelkar:Nachiket" pid="280/2998">Nachiket Kelkar</na></co>
@@ -6267,7 +6287,7 @@
 <co c="0"><na f="l/Lemieux:Andrew" pid="151/3581">Andrew Lemieux</na></co>
 <co c="0"><na f="l/Lesser:Victor_R=" pid="l/VRLesser">Victor R. Lesser</na></co>
 <co c="0"><na f="l/Leung:Cyril" pid="76/3131">Cyril Leung</na></co>
-<co c="0"><na f="l/Li:Boyu" pid="25/5732">Boyu Li</na></co>
+<co c="0"><na f="l/Li_0003:Boyu" pid="25/5732-3">Boyu Li 0003</na></co>
 <co c="0"><na f="l/Li:Chao" pid="66/190">Chao Li</na></co>
 <co c="0"><na f="l/Li_0016:Dong" pid="47/4826-16">Dong Li 0016</na></co>
 <co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
@@ -6479,6 +6499,7 @@
 <co c="0"><na f="w/Wei_0004:Qi" pid="43/2782-4">Qi Wei 0004</na></co>
 <co c="0"><na f="w/Wei:Wenya" pid="308/1268">Wenya Wei</na></co>
 <co c="0"><na f="w/Wei:Zixi" pid="247/3651">Zixi Wei</na></co>
+<co c="0"><na f="w/Wen:Xiang" pid="73/10075">Xiang Wen</na></co>
 <co c="0"><na f="w/Wen_0001:Ying" pid="41/4203-1">Ying Wen 0001</na></co>
 <co c="0"><na f="w/Weng:Jianshu" pid="98/392">Jianshu Weng</na></co>
 <co c="0"><na f="w/Westbrook:David" pid="09/2642">David Westbrook</na></co>
@@ -6503,6 +6524,7 @@
 <co c="0"><na f="x/Xiong:Yanhai" pid="165/3229">Yanhai Xiong</na></co>
 <co c="0"><na f="x/Xu:Haifeng" pid="04/1895">Haifeng Xu</na></co>
 <co c="0"><na f="x/Xu_0006:Hang" pid="33/678-6">Hang Xu 0006</na></co>
+<co c="0"><na f="x/Xu:Jiacheng" pid="188/6025">Jiacheng Xu</na></co>
 <co c="0"><na f="x/Xu:Miao" pid="42/3241">Miao Xu</na></co>
 <co c="0"><na f="x/Xu_0009:Ning" pid="04/5856-9">Ning Xu 0009</na></co>
 <co c="0"><na f="x/Xu:Xinrun" pid="341/8034">Xinrun Xu</na></co>

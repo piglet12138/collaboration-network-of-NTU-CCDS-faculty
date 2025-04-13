@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Aixin Sun" pid="78/5155" n="344">
+<dblpperson name="Aixin Sun" pid="78/5155" n="345">
 <person key="homepages/78/5155" mdate="2023-07-17">
 <author pid="78/5155">Aixin Sun</author>
 <url>http://www.ntu.edu.sg/home/AXSun/</url>
@@ -38,6 +38,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.05072</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-05072</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05212" mdate="2025-04-11">
+<author pid="220/2546">Guoxiu He</author>
+<author pid="55/3110">Xin Song</author>
+<author pid="78/5155">Aixin Sun</author>
+<title>Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05212</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05212</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05212</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -5148,7 +5162,7 @@
 <url>db/conf/icdm/icdm2001.html#SunL01</url>
 </inproceedings>
 </r>
-<coauthors n="392" nc="3">
+<coauthors n="393" nc="3">
 <co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
 <co c="0"><na f="a/Akbari_0001:Mohammad" pid="07/7212-1">Mohammad Akbari 0001</na></co>
 <co c="0"><na f="a/Aliannejadi:Mohammad" pid="178/6008">Mohammad Aliannejadi</na></co>
@@ -5395,6 +5409,7 @@
 <co c="0"><na f="s/Shulman:Stuart_W=" pid="88/6972">Stuart W. Shulman</na></co>
 <co c="0" n="2"><na f="s/Siong:Chng_Eng" pid="c/ChngEngSiong">Chng Eng Siong</na><na>Eng Siong Chng</na></co>
 <co c="0"><na f="s/Song:Shuangyong" pid="91/8381">Shuangyong Song</na></co>
+<co c="0"><na f="s/Song:Xin" pid="55/3110">Xin Song</na></co>
 <co c="0"><na f="s/Srivastava:Jaideep" pid="s/JaideepSrivastava">Jaideep Srivastava</na></co>
 <co c="0"><na f="s/Su:Jian" pid="91/1388">Jian Su</na></co>
 <co c="0"><na f="s/Sun_0021:Jian" pid="68/4942-21">Jian Sun 0021</na></co>

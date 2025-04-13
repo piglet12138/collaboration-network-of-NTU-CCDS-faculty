@@ -151,10 +151,10 @@
 <stream>streams/journals/corr</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2503-01295" mdate="2025-04-08">
+<r><article publtype="informal" key="journals/corr/abs-2503-01295" mdate="2025-04-10">
 <author pid="216/5435">Mingzhe Du</author>
 <author pid="81/8329">Anh Tuan Luu</author>
-<author pid="119/1943">Bin Ji</author>
+<author pid="119/1943-2">Bin Ji 0002</author>
 <author pid="249/8429">Xiaobao Wu</author>
 <author pid="94/3756">Dong Huang</author>
 <author pid="35/3246-1">Terry Yue Zhuo</author>
@@ -376,10 +376,10 @@
 <url>db/conf/aaai/aaai2024.html#WuPNFLNL24</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/DuLJN24" mdate="2024-04-02">
+<r><inproceedings key="conf/aaai/DuLJN24" mdate="2025-04-10">
 <author pid="216/5435">Mingzhe Du</author>
 <author pid="81/8329">Anh Tuan Luu</author>
-<author pid="119/1943">Bin Ji</author>
+<author pid="119/1943-2">Bin Ji 0002</author>
 <author pid="00/5480">See-Kiong Ng</author>
 <title>From Static to Dynamic: Knowledge Metabolism for Large Language Models.</title>
 <pages>23784-23786</pages>
@@ -787,10 +787,10 @@
 <url>db/conf/nips/neurips2024.html#0001E0YGT0PWSL024</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/nips/DuLJLN24" mdate="2025-02-13">
+<r><inproceedings key="conf/nips/DuLJLN24" mdate="2025-04-10">
 <author pid="216/5435">Mingzhe Du</author>
 <author pid="81/8329">Anh Tuan Luu</author>
-<author pid="119/1943">Bin Ji</author>
+<author pid="119/1943-2">Bin Ji 0002</author>
 <author pid="33/85">Qian Liu</author>
 <author pid="00/5480">See-Kiong Ng</author>
 <title>Mercury: A Code Efficiency Benchmark for Code Large Language Models.</title>
@@ -935,10 +935,10 @@
 <url>db/journals/corr/corr2402.html#abs-2402-07577</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2402-07844" mdate="2024-02-19">
+<r><article publtype="informal" key="journals/corr/abs-2402-07844" mdate="2025-04-10">
 <author pid="216/5435">Mingzhe Du</author>
 <author pid="81/8329">Anh Tuan Luu</author>
-<author pid="119/1943">Bin Ji</author>
+<author pid="119/1943-2">Bin Ji 0002</author>
 <author pid="00/5480">See-Kiong Ng</author>
 <title>Mercury: An Efficiency Benchmark for LLM Code Synthesis.</title>
 <year>2024</year>
@@ -1188,14 +1188,14 @@
 <stream>streams/journals/corr</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2409-00509" mdate="2025-02-24">
+<r><article publtype="informal" key="journals/corr/abs-2409-00509" mdate="2025-04-10">
 <author pid="39/3864">Zhiyuan Hu</author>
 <author pid="69/5817">Yuliang Liu</author>
 <author pid="160/8761">Jinman Zhao</author>
 <author pid="264/2706">Suyuchen Wang</author>
 <author pid="59/2227-15">Yan Wang 0015</author>
 <author pid="71/3692">Wei Shen</author>
-<author pid="59/3358">Qing Gu</author>
+<author pid="59/3358-1">Qing Gu 0001</author>
 <author pid="81/8329">Anh Tuan Luu</author>
 <author pid="00/5480">See-Kiong Ng</author>
 <author pid="23/4069">Zhiwei Jiang</author>
@@ -2029,10 +2029,10 @@
 <url>db/journals/corr/corr2310.html#abs-2310-08069</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2310-14248" mdate="2023-10-30">
+<r><article publtype="informal" key="journals/corr/abs-2310-14248" mdate="2025-04-10">
 <author pid="216/5435">Mingzhe Du</author>
 <author pid="81/8329">Anh Tuan Luu</author>
-<author pid="119/1943">Bin Ji</author>
+<author pid="119/1943-2">Bin Ji 0002</author>
 <author pid="00/5480">See-Kiong Ng</author>
 <title>From Static to Dynamic: A Continual Learning Framework for Large Language Models.</title>
 <year>2023</year>
@@ -3569,7 +3569,7 @@
 <co c="0"><na f="g/Gao:Xinyu" pid="14/9076">Xinyu Gao</na></co>
 <co c="0"><na f="g/Gobeill:Julien" pid="52/3355">Julien Gobeill</na></co>
 <co c="0" n="2"><na f="g/Gonzalez=Hernandez:Graciela" pid="219/1529">Graciela Gonzalez-Hernandez</na><na>Graciela Gonzalez 0001</na></co>
-<co c="0"><na f="g/Gu:Qing" pid="59/3358">Qing Gu</na></co>
+<co c="0"><na f="g/Gu_0001:Qing" pid="59/3358-1">Qing Gu 0001</na></co>
 <co c="1"><na f="g/Guertler:Leon_O=" pid="334/1938">Leon O. Guertler</na></co>
 <co c="0"><na f="g/Guo_0002:An" pid="211/4804-2">An Guo 0002</na></co>
 <co c="0"><na f="g/Guo:Yikai" pid="334/4154">Yikai Guo</na></co>
@@ -3591,7 +3591,7 @@
 <co c="0"><na f="h/Huang:Xinting" pid="240/7147">Xinting Huang</na></co>
 <co c="0"><na f="h/Huang_0001:Yihao" pid="255/5085">Yihao Huang 0001</na></co>
 <co c="0"><na f="h/Hui:Siu_Cheung" pid="65/3225">Siu Cheung Hui</na></co>
-<co c="0"><na f="j/Ji:Bin" pid="119/1943">Bin Ji</na></co>
+<co c="0"><na f="j/Ji_0002:Bin" pid="119/1943-2">Bin Ji 0002</na></co>
 <co c="0"><na f="j/Ji:Rongrong" pid="86/5681">Rongrong Ji</na></co>
 <co c="0"><na f="j/Jia:Ju" pid="248/5418">Ju Jia</na></co>
 <co c="0"><na f="j/Jia:Meihuizi" pid="150/3494">Meihuizi Jia</na></co>

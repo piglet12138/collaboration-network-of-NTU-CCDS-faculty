@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Zhiqi Shen 0001" pid="03/1554-1" n="256">
+<dblpperson name="Zhiqi Shen 0001" pid="03/1554-1" n="257">
 <person key="homepages/03/1554-1" mdate="2025-01-10">
 <author pid="03/1554-1">Zhiqi Shen 0001</author>
 <note type="affiliation">Nanyang Technological University, School of Computer Engineering, Singapore</note>
@@ -151,6 +151,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.11466</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-11466</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05108" mdate="2025-04-11">
+<author pid="293/1098">Shibo Feng</author>
+<author pid="368/0771">Wanjin Feng</author>
+<author pid="32/4831-1">Xingyu Gao 0001</author>
+<author pid="84/8411">Peilin Zhao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05108</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05108</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05108</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -3974,7 +3990,7 @@
 <url>db/conf/asc/asc2000.html#MiaoMGS00</url>
 </inproceedings>
 </r>
-<coauthors n="264" nc="1">
+<coauthors n="265" nc="1">
 <co c="0" n="2"><na f="a/Ailiya:" pid="72/5844">Ailiya</na><na>Ailiya Borjigin</na></co>
 <co c="0"><na f="a/An_0001:Bo" pid="42/6178-1">Bo An 0001</na></co>
 <co c="0"><na f="b/Bai_0001:Quan" pid="26/4097-1">Quan Bai 0001</na></co>
@@ -4019,6 +4035,7 @@
 <co c="0"><na f="f/Feng_0001:Wenjie" pid="126/2373-1">Wenjie Feng 0001</na></co>
 <co c="0"><na f="f/Feng:Yuhong" pid="84/485">Yuhong Feng</na></co>
 <co c="0"><na f="f/Fu:Honghao" pid="284/1243">Honghao Fu</na></co>
+<co c="0"><na f="g/Gao_0001:Xingyu" pid="32/4831-1">Xingyu Gao 0001</na></co>
 <co c="0"><na f="g/Gao:Zhanning" pid="153/2320">Zhanning Gao</na></co>
 <co c="0"><na f="g/Gay:Robert_K=_L=" pid="55/311">Robert K. L. Gay</na></co>
 <co c="0" n="2"><na f="g/Goh:Angela" pid="g/AngelaGoh">Angela Goh</na><na>Angela Eck Soong Goh</na></co>

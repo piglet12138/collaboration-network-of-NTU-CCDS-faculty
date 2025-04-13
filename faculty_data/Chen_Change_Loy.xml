@@ -391,7 +391,7 @@
 <url>db/conf/aaai/aaai2024.html#YuZJLCW24</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cvpr/CaiJQGZLMWWYPFD24" mdate="2024-10-02">
+<r><inproceedings key="conf/cvpr/CaiJQGZLMWWYPFD24" mdate="2025-04-10">
 <author pid="232/3190">Zhongang Cai</author>
 <author pid="44/430">Jianping Jiang</author>
 <author pid="311/1048">Zhongfei Qing</author>
@@ -408,7 +408,7 @@
 <author pid="29/5999-7">Peng Gao 0007</author>
 <author pid="161/2022">Zhitao Yang</author>
 <author pid="89/4402">Yang Gao</author>
-<author pid="118/4502">Jiaqi Li</author>
+<author pid="118/4502-7">Jiaqi Li 0007</author>
 <author pid="295/2082">Tianxiang Ren</author>
 <author pid="296/6205">Yukun Wei</author>
 <author pid="91/6236-1">Xiaogang Wang 0001</author>
@@ -3316,7 +3316,7 @@
 <url>db/journals/corr/corr2312.html#abs-2312-03763</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2312-04547" mdate="2024-07-26">
+<r><article publtype="informal" key="journals/corr/abs-2312-04547" mdate="2025-04-10">
 <author pid="232/3190">Zhongang Cai</author>
 <author pid="44/430">Jianping Jiang</author>
 <author pid="311/1048">Zhongfei Qing</author>
@@ -3333,7 +3333,7 @@
 <author pid="29/5999-7">Peng Gao 0007</author>
 <author pid="161/2022">Zhitao Yang</author>
 <author pid="89/4402">Yang Gao</author>
-<author pid="118/4502">Jiaqi Li</author>
+<author pid="118/4502-7">Jiaqi Li 0007</author>
 <author pid="295/2082">Tianxiang Ren</author>
 <author pid="296/6205">Yukun Wei</author>
 <author pid="91/6236-1">Xiaogang Wang 0001</author>
@@ -9884,7 +9884,7 @@
 <url>db/conf/iconip/iconip2006-2.html#LoyLL06</url>
 </inproceedings>
 </r>
-<coauthors n="1004" nc="2">
+<coauthors n="1003" nc="2">
 <co c="0"><na f="a/A:Hari_Kumar" pid="376/2490">Hari Kumar A</na></co>
 <co c="0"><na f="a/A:Jayakar_Reddy" pid="376/1255">Jayakar Reddy A</na></co>
 <co c="0"><na f="a/Adrashyappanamath:Swaroop" pid="361/3155">Swaroop Adrashyappanamath</na></co>
@@ -10214,7 +10214,6 @@
 <co c="0"><na f="l/Li_0001:Hongyang" pid="95/8433-1">Hongyang Li 0001</na></co>
 <co c="0"><na f="l/Li:Huaxiong" pid="92/1251">Huaxiong Li</na></co>
 <co c="0"><na f="l/Li:Jiang" pid="41/3068">Jiang Li</na></co>
-<co c="0"><na f="l/Li:Jiaqi" pid="118/4502">Jiaqi Li</na></co>
 <co c="0"><na f="l/Li_0007:Jiaqi" pid="118/4502-7">Jiaqi Li 0007</na></co>
 <co c="0"><na f="l/Li:Jiatong" pid="19/11348">Jiatong Li</na></co>
 <co c="0"><na f="l/Li:Jilin" pid="46/3002">Jilin Li</na></co>

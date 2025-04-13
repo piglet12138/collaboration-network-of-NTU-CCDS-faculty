@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Shijian Lu" pid="42/2718" n="408">
+<dblpperson name="Shijian Lu" pid="42/2718" n="409">
 <person key="homepages/42/2718" mdate="2009-06-09">
 <author pid="42/2718">Shijian Lu</author>
 </person>
@@ -39,6 +39,22 @@
 <ee>https://doi.org/10.1016/j.patcog.2024.111121</ee>
 <url>db/journals/pr/pr159.html#GuanXHXEL25</url>
 <stream>streams/journals/pr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-05204" mdate="2025-04-11">
+<author pid="297/1548">Zining Chen</author>
+<author pid="55/7547">Zhicheng Zhao</author>
+<author pid="60/3006">Fei Su</author>
+<author pid="284/0094">Xiaoqin Zhang</author>
+<author pid="42/2718">Shijian Lu</author>
+<title>Data-Efficient Generalization for Zero-shot Composed Image Retrieval.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.05204</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.05204</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-05204</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/eswa/ZhangGKEL24" mdate="2024-08-22">
@@ -2701,10 +2717,10 @@
 <url>db/journals/tcyb/tcyb51.html#ZhuCPZKLFLL21</url>
 </article>
 </r>
-<r><article key="journals/tip/LiZSLLLL21" mdate="2024-03-07">
+<r><article key="journals/tip/LiZSLLLL21" mdate="2025-04-11">
 <author pid="136/0654">Tianjiao Li</author>
 <author orcid="0000-0002-4960-3190" pid="10/4661-21">Wei Zhang 0021</author>
-<author orcid="0000-0002-1344-4415" pid="10/8738">Ran Song</author>
+<author orcid="0000-0002-1344-4415" pid="10/8738">Ran Song 0001</author>
 <author pid="89/6935-5">Zhiheng Li 0005</author>
 <author orcid="0000-0002-4365-4165" pid="95/3736-36">Jun Liu 0036</author>
 <author pid="77/709-3">Xiaolei Li 0003</author>
@@ -6183,7 +6199,7 @@
 <url>db/conf/hicss/hicss1997.html#GortonCLC97</url>
 </inproceedings>
 </r>
-<coauthors n="368" nc="2">
+<coauthors n="372" nc="2">
 <co c="0"><na f="a/Ablavatski:Artsiom" pid="199/8337">Artsiom Ablavatski</na></co>
 <co c="0"><na f="a/Ali:Eman" pid="218/3089">Eman Ali</na></co>
 <co c="0"><na f="a/Ambastha:Abhinit_Kumar" pid="155/3149">Abhinit Kumar Ambastha</na></co>
@@ -6214,6 +6230,7 @@
 <co c="0"><na f="c/Chen_0001:Ping" pid="33/3675-1">Ping Chen 0001</na></co>
 <co c="0"><na f="c/Chen_0003:Tao" pid="69/510-3">Tao Chen 0003</na></co>
 <co c="0"><na f="c/Chen:Yiwen" pid="82/6302">Yiwen Chen</na></co>
+<co c="0"><na f="c/Chen:Zining" pid="297/1548">Zining Chen</na></co>
 <co c="0"><na f="c/Cheng_0001:Li" pid="13/4938-1">Li Cheng 0001</na></co>
 <co c="0"><na f="c/Cheng:Xinhua" pid="260/2943">Xinhua Cheng</na></co>
 <co c="0"><na f="c/Cheng:Yi" pid="70/4429">Yi Cheng</na></co>
@@ -6426,11 +6443,12 @@
 <co c="0"><na f="s/Silander:Tomi" pid="17/4198">Tomi Silander</na></co>
 <co c="0"><na f="s/Song:Bai" pid="331/1541">Bai Song</na></co>
 <co c="0"><na f="s/Song:Qi" pid="82/5132">Qi Song</na></co>
-<co c="0"><na f="s/Song:Ran" pid="10/8738">Ran Song</na></co>
+<co c="0"><na f="s/Song_0001:Ran" pid="10/8738">Ran Song 0001</na></co>
 <co c="0"><na f="s/Song:Yilin" pid="26/5438">Yilin Song</na></co>
 <co c="0"><na f="s/Spence:R=" pid="13/2740">R. Spence</na></co>
 <co c="0"><na f="s/Sreedhar:Rushi_Padhuman" pid="118/4504">Rushi Padhuman Sreedhar</na></co>
 <co c="0"><na f="s/Su:Bolan" pid="54/3836">Bolan Su</na></co>
+<co c="0"><na f="s/Su:Fei" pid="60/3006">Fei Su</na></co>
 <co c="0"><na f="t/Taalimi:Ali" pid="91/8582">Ali Taalimi</na></co>
 <co c="0"><na f="t/Tan:Cheston" pid="136/9366">Cheston Tan</na></co>
 <co c="0"><na f="t/Tan:Chew_Lim" pid="t/ChewLimTan">Chew Lim Tan</na></co>
@@ -6534,6 +6552,7 @@
 <co c="0"><na f="z/Zhang:Xi" pid="87/1222">Xi Zhang</na></co>
 <co c="0"><na f="z/Zhang:Xiaobing" pid="58/4562">Xiaobing Zhang</na></co>
 <co c="0"><na f="z/Zhang_0002:Xiaofeng" pid="61/3976-2">Xiaofeng Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Xiaoqin" pid="284/0094">Xiaoqin Zhang</na></co>
 <co c="0"><na f="z/Zhang_0002:Xiaoqin" pid="z/XiaoqinZhang-2">Xiaoqin Zhang 0002</na></co>
 <co c="0"><na f="z/Zhang:Xinyong" pid="13/5960">Xinyong Zhang</na></co>
 <co c="0"><na f="z/Zhang_0006:Zheng" pid="181/2621-6">Zheng Zhang 0006</na></co>
@@ -6542,6 +6561,7 @@
 <co c="0"><na f="z/Zhao:Deli" pid="77/1992">Deli Zhao</na></co>
 <co c="0"><na f="z/Zhao:Dongya" pid="34/5394">Dongya Zhao</na></co>
 <co c="0"><na f="z/Zhao:Haiyu" pid="203/8513">Haiyu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhicheng" pid="55/7547">Zhicheng Zhao</na></co>
 <co c="0"><na f="z/Zheng:Jianmin" pid="09/5452">Jianmin Zheng</na></co>
 <co c="0"><na f="z/Zheng:Qichen" pid="285/4546">Qichen Zheng</na></co>
 <co c="0"><na f="z/Zhou:Changqing" pid="40/6559">Changqing Zhou</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Tianwei Zhang" pid="77/7902" n="34">
+<dblpperson name="Tianwei Zhang" pid="77/7902" n="35">
 <person publtype="disambiguation" key="homepages/77/7902" mdate="2021-04-09">
 <author pid="77/7902">Tianwei Zhang</author>
 </person>
@@ -154,6 +154,28 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.05206</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-05206</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-07091" mdate="2025-04-11">
+<author pid="202/8467">Shuhe Wang</author>
+<author pid="77/5121-1">Xiaoya Li 0001</author>
+<author pid="73/5746-1">Jiwei Li 0001</author>
+<author pid="05/3838-2">Guoyin Wang 0002</author>
+<author pid="87/7297-1">Xiaofei Sun 0001</author>
+<author pid="401/7968">Bob Zhu</author>
+<author pid="15/4507-1">Han Qiu 0001</author>
+<author pid="32/7445">Mo Yu</author>
+<author pid="401/8373">Shengjie Shen</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="47/2454">Eduard H. Hovy</author>
+<title>FaceID-6M: A Large-Scale, Open-Source FaceID Customization Dataset.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.07091</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.07091</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-07091</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -587,7 +609,7 @@
 <url>db/conf/iconip/iconip2012-2.html#LiuZ12</url>
 </inproceedings>
 </r>
-<coauthors n="139" nc="4">
+<coauthors n="144" nc="4">
 <co c="3"><na f="a/Agrawal:Shweta" pid="74/6138">Shweta Agrawal</na></co>
 <co c="0"><na f="a/Ai:Danni" pid="78/8613">Danni Ai</na></co>
 <co c="0"><na f="b/Bai:Yang" pid="39/6825">Yang Bai</na></co>
@@ -658,14 +680,17 @@
 <co c="0"><na f="p/Pang:Tianyu" pid="202/2550">Tianyu Pang</na></co>
 <co c="2"><na f="p/Peitl:Tom=aacute=s" pid="181/3386">Tom&#225;s Peitl</na></co>
 <co c="0"><na f="p/Peng:Zhengchun" pid="95/11528">Zhengchun Peng</na></co>
+<co c="0"><na f="q/Qiu_0001:Han" pid="15/4507-1">Han Qiu 0001</na></co>
 <co c="0"><na f="q/Qiu:Xipeng" pid="69/1395">Xipeng Qiu</na></co>
 <co c="-1"><na f="r/Rao:Shaobin" pid="327/7579">Shaobin Rao</na></co>
+<co c="0"><na f="s/Shen:Shengjie" pid="401/8373">Shengjie Shen</na></co>
 <co c="0"><na f="s/Shi:Jieming" pid="147/1237">Jieming Shi</na></co>
 <co c="0"><na f="s/Song:Hong" pid="09/4495">Hong Song</na></co>
 <co c="0"><na f="s/Sugiyama:Masashi" pid="35/1228">Masashi Sugiyama</na></co>
 <co c="0"><na f="s/Sun:Chuanhou" pid="319/3706">Chuanhou Sun</na></co>
 <co c="0"><na f="s/Sun:Jun" pid="68/5216">Jun Sun</na></co>
 <co c="0"><na f="s/Sun:Kun" pid="30/3530">Kun Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Xiaofei" pid="87/7297-1">Xiaofei Sun 0001</na></co>
 <co c="0"><na f="s/Sun:Ye" pid="29/795">Ye Sun</na></co>
 <co c="0"><na f="s/Sun_0001:Zhenglong" pid="02/3837">Zhenglong Sun 0001</na></co>
 <co c="2"><na f="s/Szeider:Stefan" pid="s/StefanSzeider">Stefan Szeider</na></co>
@@ -703,6 +728,7 @@
 <co c="0"><na f="y/Yang:Xianglin" pid="01/2410">Xianglin Yang</na></co>
 <co c="-1"><na f="y/Yang:Yali" pid="30/9266">Yali Yang</na></co>
 <co c="0"><na f="y/Yu:Lequan" pid="165/8092">Lequan Yu</na></co>
+<co c="0"><na f="y/Yu:Mo" pid="32/7445">Mo Yu</na></co>
 <co c="0"><na f="y/Yu:Nenghai" pid="96/5144">Nenghai Yu</na></co>
 <co c="0"><na f="z/Zhang_0003:An" pid="78/5581-3">An Zhang 0003</na></co>
 <co c="0"><na f="z/Zhang:Guoqiang" pid="24/5631">Guoqiang Zhang</na></co>
@@ -725,6 +751,7 @@
 <co c="0"><na f="z/Zheng:Qingyuan" pid="256/3948">Qingyuan Zheng</na></co>
 <co c="0"><na f="z/Zheng:Xiang" pid="63/6318">Xiang Zheng</na></co>
 <co c="0"><na f="z/Zheng_0001:Yefeng" pid="44/6510">Yefeng Zheng 0001</na></co>
+<co c="0"><na f="z/Zhu:Bob" pid="401/7968">Bob Zhu</na></co>
 <co c="0"><na f="z/Zhu:Jihua" pid="01/3607">Jihua Zhu</na></co>
 <co c="0"><na f="z/Zhua:Mengmeng" pid="372/5964">Mengmeng Zhua</na></co>
 </coauthors>
