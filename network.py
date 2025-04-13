@@ -5,10 +5,45 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 读取CSV数据
-def build_collaboration_networks(csv_file):
+def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors_collaborations.csv', faculty_csv = 'Faculty.csv'):
 
-    df = pd.read_csv(csv_file)
+    df = pd.read_csv(main_authors_collaborations_csv)
+    faculty_info = pd.read_csv(faculty_csv)
+    
+    # Merge faculty information with collaboration data
 
+    # Merge on author_pid = pid, keeping only the needed columns
+    df = pd.merge(
+        df,
+        faculty_info[['pid', 'Area', 'Management', 'Position']],
+        left_on='author_pid',
+        right_on='pid',
+        how='left'
+    )
+    df = df.rename(columns={
+        'Area': 'author_area',
+        'Management': 'author_management',
+        'Position': 'author_position'
+    })
+    # Drop the redundant pid column from the merge
+    df = df.drop(columns=['pid'])
+
+
+    df = pd.merge(
+        df,
+        faculty_info[['pid', 'Area', 'Management', 'Position']],
+        left_on='collaborator_pid',
+        right_on='pid',
+        how='left'
+    )
+    
+    df = df.rename(columns={
+        'Area': 'collaborator_area',
+        'Management': 'collaborator_management',
+        'Position': 'collaborator_position'
+    })
+    # Drop the redundant pid column from the second merge
+    df = df.drop(columns=['pid'])
     years = sorted(df['year'].unique())
 
     # initialize networks, networks for each year
@@ -32,9 +67,9 @@ def build_collaboration_networks(csv_file):
 
             # add nodes(if not exists)
             if not year_graph.has_node(author1):
-                year_graph.add_node(author1, name=row['author_name'])
+                year_graph.add_node(author1, name=row['author_name'], area=row['author_area'], management=row['author_management'], position = row['author_position'])
             if not year_graph.has_node(author2):
-                year_graph.add_node(author2, name=row['collaborator_name'])
+                year_graph.add_node(author2, name=row['collaborator_name'], area=row['collaborator_area'], management=row['collaborator_management'], position = row['collaborator_position'])
 
             # update colab count
 
