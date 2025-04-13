@@ -2,6 +2,7 @@ import pandas as pd
 import networkx as nx
 from collections import defaultdict
 import matplotlib.pyplot as plt
+import numpy as np
 
 # 读取CSV数据
 def build_collaboration_networks(csv_file):
@@ -130,7 +131,7 @@ def visualize_network(graph, title="Collaboration network"):
     for i, (node, degree) in enumerate(top_nodes):
         name = graph.nodes[node].get('name', node)
         plt.annotate(f"{i+1}. {name} (degree: {degree})",
-                    xy=pos[node], xytext=(50, 50+i*30),
+                    xy=pos[node], xytext=(50 + np.random.randint(-10, 10), 50 + i*30 + np.random.randint(-10, 10)),
                     textcoords="offset points",
                     bbox=dict(boxstyle="round,pad=0.3", fc="yellow", alpha=0.8),
                     arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=0.2"))
