@@ -126,64 +126,103 @@ def analyze_specific_year(networks, year):
 
 
 def visualize_network(graph, title="Collaboration network"):
-
     plt.figure(figsize=(12, 10))
-    
-    # spring layout
-    pos = nx.spring_layout(graph, seed=42)
-    
+
+    # separate connected nodes and isolated nodes
+    connected_nodes = [n for n in graph.nodes() if graph.degree(n) > 0]
+    isolated_nodes = [n for n in graph.nodes() if graph.degree(n) == 0]
+
+    # spring layout for connected nodes
+    pos = {}
+    if connected_nodes:
+        connected_graph = graph.subgraph(connected_nodes)
+        connected_pos = nx.spring_layout(connected_graph, seed=42)
+        pos.update(connected_pos)
+
+    # clusterd layout for isolated nodes(right corner)
+    if isolated_nodes:
+        # initialize the position of isolated zone
+        if connected_nodes:
+            max_x = max(p[0] for p in pos.values()) + 0.2
+            min_y = min(p[1] for p in pos.values()) - 0.2
+        else:
+            max_x, min_y = 0, 0
+
+        # calculate the size of web
+        n_isolated = len(isolated_nodes)
+        cols = max(1, min(int(np.sqrt(n_isolated)), 10))  # at most 10 col
+        rows = (n_isolated + cols - 1) // cols
+
+        # place isolated nodes
+        for i, node in enumerate(isolated_nodes):
+            row, col = i // cols, i % cols
+            pos[node] = (max_x + col * 0.1, min_y - row * 0.1)
+
     # weight -> edge width
-    edge_weights = [graph[u][v]['weight'] * 0.02 + 0.2 for u, v in graph.edges()]
-    
-    #degree
+    edge_weights = [graph[u][v]['weight'] * 0.03 + 0.3 for u, v in graph.edges()]
+
+    # degree
     degrees = dict(graph.degree())
     max_degree = max(degrees.values()) if degrees else 1
-    
+
     # 5 top degree
     top_nodes = sorted(degrees.items(), key=lambda x: x[1], reverse=True)[:5]
     top_node_ids = [node for node, _ in top_nodes]
-    
 
+    # node size and color
     node_sizes = []
     node_colors = []
     for node in graph.nodes():
         if node in top_node_ids:
             # make the top 5 nodes bigger
-            node_sizes.append(5 * degrees[node] + 2)
+            node_sizes.append(5 * degrees[node] + 5)
             node_colors.append('red')
         else:
             # other nodes
-            node_sizes.append(5 * degrees[node] + 2)
-            node_colors.append(plt.cm.Blues(degrees[node]*0.5 / max_degree + 0.5))
-    
+            node_sizes.append(5 * degrees[node] + 5)
+            if node in isolated_nodes:
+                # grey for isolated nodes
+                node_colors.append('grey')
+            else:
+                node_colors.append(plt.cm.Blues(degrees[node] * 0.5 / max_degree + 0.5))
 
+    # draw nodes
     nx.draw_networkx_nodes(graph, pos, node_size=node_sizes, node_color=node_colors, alpha=0.8)
-    nx.draw_networkx_edges(graph, pos, width=edge_weights, alpha=0.6, edge_color='gray')
-    
 
+    # draw edges
+    if graph.edges():
+        nx.draw_networkx_edges(graph, pos, width=edge_weights, alpha=0.6, edge_color='gray')
+
+    # annotate isolated nodes
+    if isolated_nodes:
+        plt.annotate(f" ({len(isolated_nodes)} isolated nodes)",
+                     xy=(max_x, min_y),
+                     xytext=(max_x, min_y - rows * 0.1 - 0.2),
+                     ha='center', va='top',
+                     bbox=dict(boxstyle="round,pad=0.3", fc="lightgray", alpha=0.8))
 
     # annotate the top 5 nodes
     for i, (node, degree) in enumerate(top_nodes):
         name = graph.nodes[node].get('name', node)
-        plt.annotate(f"{i+1}. {name} (degree: {degree})",
-                    xy=pos[node], xytext=(50 + np.random.randint(-10, 10), 50 + i*30 + np.random.randint(-10, 10)),
-                    textcoords="offset points",
-                    bbox=dict(boxstyle="round,pad=0.3", fc="yellow", alpha=0.8),
-                    arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=0.2"))
+        plt.annotate(f"{i + 1}. {name} (degree: {degree})",
+                     xy=pos[node], xytext=(50 + np.random.randint(-10, 10), 50 + i * 30 + np.random.randint(-10, 10)),
+                     textcoords="offset points",
+                     bbox=dict(boxstyle="round,pad=0.3", fc="yellow", alpha=0.8),
+                     arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=0.2"))
 
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    
-    # 启用交互工具，允许放大缩小
+
+    #
     plt.gcf().canvas.toolbar_visible = True
     plt.gcf().canvas.header_visible = False
     plt.gcf().canvas.footer_visible = False
-    
-    # 添加提示信息
-    plt.figtext(0.5, 0.01, "zoom",
-               ha="center", fontsize=12, bbox={"facecolor":"lightgray", "alpha":0.5})
-    
+
+    #
+    plt.figtext(0.5, 0.01, "click the tools to zoom in",
+                ha="center", fontsize=12, bbox={"facecolor": "lightgray", "alpha": 0.5})
+
     plt.show()
 
 
