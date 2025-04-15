@@ -235,7 +235,7 @@ def visualize_year_network(networks, year):
     visualize_network(graph, title=f"{year} collaboration network")
 
 
-def create_network_dashboard(networks):
+def create_network_dashboard(networks):# for code run on notebook
     """create a dashboaed to show the evolution of the network"""
     import ipywidgets as widgets
     from IPython.display import display, clear_output
@@ -247,7 +247,7 @@ def create_network_dashboard(networks):
     year_slider = widgets.SelectionSlider(
         options=years,
         value=years[-1],  # default the latest year
-        description='年份:',
+        description='year:',
         disabled=False,
         continuous_update=False,
         orientation='horizontal',
