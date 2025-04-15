@@ -235,6 +235,84 @@ def visualize_year_network(networks, year):
     visualize_network(graph, title=f"{year} collaboration network")
 
 
+def create_network_dashboard(networks):
+    """create a dashboaed to show the evolution of the network"""
+    import ipywidgets as widgets
+    from IPython.display import display, clear_output
+
+    # get all availiable years
+    years = sorted(networks.keys())
+
+    # year slider
+    year_slider = widgets.SelectionSlider(
+        options=years,
+        value=years[-1],  # default the latest year
+        description='年份:',
+        disabled=False,
+        continuous_update=False,
+        orientation='horizontal',
+        readout=True
+    )
+
+    # info output area
+    info_output = widgets.Output()
+
+    # graph output area
+    graph_output = widgets.Output()
+
+    # the overall layout
+    dashboard = widgets.VBox([
+        graph_output,
+        widgets.HBox([year_slider]),
+        info_output
+    ])
+
+    # define update function
+    def update_dashboard(year):
+        # clear the output area
+        with info_output:
+            clear_output(wait=True)
+            # network info
+            graph = networks[year]
+            print(f"year: {year}")
+            print(f"number of nodes: {graph.number_of_nodes()}")
+            print(f"edges: {graph.number_of_edges()}")
+
+            # node with largest degree
+            if graph.number_of_nodes() > 0:
+                degrees = dict(graph.degree())
+                top_nodes = sorted(degrees.items(), key=lambda x: x[1], reverse=True)[:5]
+
+                print("\nnode with largest degree:")
+                for i, (node, degree) in enumerate(top_nodes):
+                    name = graph.nodes[node].get('name', node)
+                    print(f"  {i + 1}. {name}: {degree}")
+
+                # the most weighted edge
+                if graph.number_of_edges() > 0:
+                    max_weight_edge = max(graph.edges(data=True), key=lambda x: x[2]['weight'])
+                    author1, author2 = max_weight_edge[0], max_weight_edge[1]
+                    weight = max_weight_edge[2]['weight']
+
+                    author1_name = graph.nodes[author1].get('name', author1)
+                    author2_name = graph.nodes[author2].get('name', author2)
+
+                    print(
+                        f"\nthe most frequently collaborated authors: {author1_name} and {author2_name} (for {weight} times)")
+
+        # the graph
+        with graph_output:
+            clear_output(wait=True)
+            visualize_network(graph, title=f"collaboration network of {year}")
+
+    # connect the update function and slider
+    year_slider.observe(lambda change: update_dashboard(change['new']), names='value')
+
+    # initial output
+    update_dashboard(year_slider.value)
+
+    return dashboard
+
 def visualize_network_evolution(networks, years=None):
     """可视化网络随时间的演化"""
     if years is None:
