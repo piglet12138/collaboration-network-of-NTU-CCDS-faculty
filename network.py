@@ -369,9 +369,116 @@ def visualize_network_evolution(networks, years=None):
     plt.tight_layout()
     plt.show()
 
+def visualize_years_network_grid(networks, start_year=2000, end_year=2025, save_path=None):
+    """Visualize network evolution across multiple years using a grid layout"""
+    years = [year for year in range(start_year, end_year + 1) if year in networks]
+    
+    if not years:
+        print(f"No network data available between {start_year} and {end_year}")
+        return
+    
+    # Calculate appropriate grid layout
+    n_years = len(years)
+    cols = int(np.ceil(np.sqrt(n_years)))
+    rows = int(np.ceil(n_years / cols))
+    
+    # Create figure with appropriate size
+    fig, axes = plt.subplots(rows, cols, figsize=(4*cols, 3*rows))
+    axes = axes.flatten() if n_years > 1 else [axes]
+    
+    for i, year in enumerate(years):
+        if i >= len(axes):
+            break  # Safety check
+            
+        graph = networks[year]
+        ax = axes[i]
+        
+        # Separate connected nodes and isolated nodes
+        connected_nodes = [n for n in graph.nodes() if graph.degree(n) > 0]
+        isolated_nodes = [n for n in graph.nodes() if graph.degree(n) == 0]
+        
+        # Layout for connected nodes
+        pos = {}
+        if connected_nodes:
+            connected_graph = graph.subgraph(connected_nodes)
+            connected_pos = nx.spring_layout(connected_graph, seed=42)
+            pos.update(connected_pos)
+        
+        # Clustered layout for isolated nodes
+        if isolated_nodes:
+            # Initialize the position of isolated zone
+            if connected_nodes:
+                max_x = max(p[0] for p in pos.values()) + 0.2
+                min_y = min(p[1] for p in pos.values()) - 0.2
+            else:
+                max_x, min_y = 0, 0
+            
+            # Calculate the size of grid
+            n_isolated = len(isolated_nodes)
+            iso_cols = max(1, min(int(np.sqrt(n_isolated)), 10))  # at most 10 columns
+            iso_rows = (n_isolated + iso_cols - 1) // iso_cols
+            
+            # Place isolated nodes
+            for j, node in enumerate(isolated_nodes):
+                row, col = j // iso_cols, j % iso_cols
+                pos[node] = (max_x + col * 0.1, min_y - row * 0.1)
+        
+        # Degree and node sizing
+        degrees = dict(graph.degree())
+        max_degree = max(degrees.values()) if degrees else 1
+        
+        # Find top nodes by degree
+        top_nodes = sorted(degrees.items(), key=lambda x: x[1], reverse=True)[:5]
+        top_node_ids = [node for node, _ in top_nodes]
+        
+        # Node size and color
+        node_sizes = []
+        node_colors = []
+        for node in graph.nodes():
+            if node in top_node_ids:
+                # Make top 5 nodes bigger
+                node_sizes.append(2 * degrees[node] + 2)
+                node_colors.append('red')
+            else:
+                node_sizes.append(2 * degrees[node] + 2)
+                if node in isolated_nodes:
+                    # Grey for isolated nodes
+                    node_colors.append('grey')
+                else:
+                    node_colors.append(plt.cm.Blues(degrees[node] * 0.5 / max_degree + 0.5))
+        
+        # Draw nodes
+        nx.draw_networkx_nodes(graph, pos, ax=ax, node_size=node_sizes, 
+                               node_color=node_colors, alpha=0.8)
+        
+        # Draw edges
+        if graph.edges():
+            edge_weights = [graph[u][v]['weight'] * 0.03 + 0.3 for u, v in graph.edges()]
+            nx.draw_networkx_edges(graph, pos, ax=ax, width=edge_weights,
+                                   alpha=0.6, edge_color='gray')
+        
+
+
+        
+
+    
+    # Hide empty subplots
+    for i in range(len(years), len(axes)):
+        axes[i].set_visible(False)
+    
+    plt.tight_layout()
+    plt.suptitle(f"Network Evolution from {start_year} to {end_year}", fontsize=16, y=1.02)
+    plt.subplots_adjust(top=0.95)
+    
+    # Save figure
+    plt.savefig( f"Network Evolution from {start_year} to {end_year}.png",dpi=300, bbox_inches='tight')
+        
+    plt.show()
+
 if __name__ == "__main__":
     networks = build_collaboration_networks('main_authors_collaborations.csv')
     #print_network_info(networks)
     #analyze_specific_year(networks, 2020)
-    visualize_year_network(networks, 2025)
+    #visualize_year_network(networks, 2025)
     #visualize_network_evolution(networks, [2009, 2010, 2011])
+    visualize_years_network_grid(networks, 2001, 2025)
