@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 15 01:42:59 2025
-
-@author: Choo
-"""
-
 
 import pandas as pd
 import csv
@@ -19,12 +12,12 @@ import re
 from config import *
 from utils import *
 
+
 fields_dict = {
     "Artificial intelligence": "ai",
     "Computer vision": "vision",
     "Machine learning & data mining": "mlmining",
     "Natural language processing": "nlp",
-    "The Web & information retrieval": "ir",
     "Computer architecture": "arch",
     "Computer networks": "comm",
     "Computer security": "sec",
@@ -47,6 +40,8 @@ fields_dict = {
     "Human-computer interaction": "chi",
     "Robotics": "robotics",
     "Visualization": "visualization",
+    "Web+IR": "web+ir"
+
 }
 
 ranking_NA ='//*[@id="regions"]/optgroup[2]/option[1]'
@@ -81,6 +76,7 @@ def save_universities_to_csv(filename, universities):
         writer = csv.writer(csvfile)
         writer.writerow(
             [
+                "Subject Area",
                 "University Name",
                 "Professor Name",
                 "Home Page",
@@ -92,14 +88,14 @@ def save_universities_to_csv(filename, universities):
             for professor in university.get("professors", []):
                 writer.writerow(
                     [
+                        field_name,
                         university.get("name", ""),
                         professor.get("name", ""),
                         professor.get("home_page", ""),
                         professor.get("google_scholar", ""),
-                        professor.get("dblp", "")
+                        professor.get("dblp", ""),
                         ]
                     )
-        
 
 def parse_professors(tbody):
     professors = []
@@ -130,6 +126,7 @@ def parse_professor_info(prof_tr):
                 professor["google_scholar"] = google_scholar["href"]
             dblp_link = td.find("a", title="Click for author's DBLP entry.")
             if dblp_link:
+       #        professor["pub_count"] = clean_text(dblp_link.text)
                 professor["dblp"] = dblp_link["href"]
     return professor
 
@@ -234,13 +231,19 @@ def fetch_collated_universities(url):
 
 if __name__ == "__main__":
     print_field_choices()
-    fields, from_year, to_year = parse_arguments()
+    
+    for field_name, field_code in fields_dict.items():
+        from_year = 2016
+        to_year = 2025
+        fields = field_code  # This is a single field code like "ai", "vision", etc.
+    
+        url = f"https://csrankings.org/#/fromyear/{from_year}/toyear/{to_year}/index?{fields}&world"
+        print(f"Your URL: {url}")
+     
+        universities = fetch_universities(url,ranking_world)
+        safe_field_name = re.sub(r"[^\w]+", "_", field_name).strip("_").lower()
+        filename = f'{safe_field_name}_{from_year}-{to_year}-v2.csv'
+        save_universities_to_csv(filename, universities)
+        print(f"Data has been saved to {filename}")
+     
 
-    url = f"https://csrankings.org/#/fromyear/{from_year}/toyear/{to_year}/index?{fields}&world"
-    print(f"Your URL: {url}")
-
-    universities = fetch_collated_universities(url)
-    # print(universities)
-    filename = f'{from_year}-{to_year}-4.csv'
-    save_universities_to_csv(filename, universities)
-    print(f"Data has been saved to {filename}")
