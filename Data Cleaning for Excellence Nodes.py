@@ -1,10 +1,13 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Apr 16 17:52:10 2025
-
-@author: Choo
+Data Cleaning for Question 5 to add new attributes to the Faculty.csv file
+General Steps
+1. Read subject-specific university ranking CSVs
+2. Extract NTU data and assign ranks (intermediate output)
+3. Aggregate professor data and encode subject area expertise
+4. Retrieve DBLP PIDs via XML
+5. Merge with faculty master data and export the final CSV
 """
-
+# Import necessary libraries for data manipulation, web requests, and XML parsing
 import pandas as pd
 import numpy as np
 import os
@@ -13,6 +16,7 @@ import time
 import xml.etree.ElementTree as ET
 import re
 
+# Mapping of full field names to their corresponding CSRankings field codes
 fields_dict = {
     "Artificial intelligence": "ai",
     "Computer vision": "vision",
@@ -42,12 +46,14 @@ fields_dict = {
     "Visualization": "visualization",
 }
 
+# Create an empty DataFrame to store NTU-specific professor data across all fields
 columns = ["Subject Area", "University Name", "University Rank for Subject Area", "Professor Name", "DBLP Link"]
 combined_df = pd.DataFrame(columns=columns)
 
 university_column = "University Name"
 index_column = "University Rank for Subject Area"
 
+# For each subject area: Read the corresponding CSV file, Assign university ranks, Filter for Nanyang Technological University (NTU), Append to the combined DataFrame
 for field_name, field_code in fields_dict.items():
     safe_field_name = re.sub(r"[^\w]+", "_", field_name).strip("_").lower()
     df = pd.read_csv(f'{safe_field_name}_2016-2025-v1.csv')
@@ -58,17 +64,22 @@ for field_name, field_code in fields_dict.items():
     ntu_df = df_subset[df_subset['University Name'] == 'nanyang technological university']
     combined_df = pd.concat([combined_df, ntu_df], ignore_index=True)
         
-# Create table listing NTU ranks for different subject area
+# Create and print a summary table of NTU's ranking across subject areas
 combined_df_subset = combined_df[["Subject Area", 'University Rank for Subject Area']]
 ntu_ranking = combined_df_subset.drop_duplicates()
 ntu_ranking = ntu_ranking.sort_values(by="University Rank for Subject Area", ascending=True)
 print(ntu_ranking)   
     
+# One-hot encode subject areas and aggregate per facutly. Each row represents a facutly with their subject areas and an 'Excellence' flag.
+
 combined_df_subset2 = combined_df[["Subject Area", "Professor Name", "DBLP Link"]]
 df_encoded = pd.get_dummies(combined_df_subset2, columns=["Subject Area"])
 ntu_agg = df_encoded.groupby(["Professor Name","DBLP Link"]).sum(numeric_only=True).reset_index()
 ntu_agg["Excellence"] = True
     
+
+# Function to extract the unique DBLP person ID (pid) for each professor. Uses the XML version of the DBLP page to parse the PID. 
+# Also used for cleaning Faculty.csv
 def add_pid_to_df(df):
 
     df['pid'] = None
@@ -104,7 +115,7 @@ def add_pid_to_df(df):
 ntu_agg = add_pid_to_df(ntu_agg)
 ntu_agg.to_csv('Excellence Node.csv', index=False)
 
-
+# Merge the aggregated NTU excellence data with the master faculty list using PID. Drop redundant columns and save the enriched faculty file
 df_faculty = pd.read_csv('Faculty.csv')  
 merged_df = df_faculty.merge(
     ntu_agg, 
@@ -113,5 +124,3 @@ merged_df = df_faculty.merge(
     how='left')
 merged_df = merged_df.drop(columns=['DBLP Link','Professor Name'])
 merged_df.to_csv('Faculty_with_excellence.csv', index=False)
-
-
