@@ -3,20 +3,19 @@
 Answering Question 5 using this script
  
 """
-
+# Import necessary libraries for data handling, network analysis, and visualisation
 import pandas as pd
 import networkx as nx
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
-import os
-os.chdir('C:/Users/Choo/Desktop/NTU Sem 2 2025/SD6127 Network Science/Group Project')
 
+# Compute the average value of a given centrality metric for a specific subset of nodes
 def avg_metric(metric_dict, node_set):
     values = [metric_dict[n] for n in node_set if n in metric_dict]
     return np.mean(values) if values else 0 
 
-# 读取CSV数据
+# Read collaboration and faculty data, merge relevant metadata, and construct yearly collaboration networks (accumulative).
 def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors_collaborations.csv', faculty_csv = 'Faculty_with_excellence_v2.csv'):
 
     df = pd.read_csv(main_authors_collaborations_csv)
@@ -110,7 +109,7 @@ def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors
 
     return networks
 
-
+# Print basic statistics of the collaboration network for each year (nodes, edges, most frequent collaboration).
 def print_network_info(networks):
     for year, graph in sorted(networks.items()):
         print(f"\nyear: {year} ")
@@ -129,6 +128,7 @@ def print_network_info(networks):
 
             print(f"  the most frequent colaboration(cumulative): {author1_name} and {author2_name} (for {weight} times)")
 
+# Visualise a collaboration network with node size, color coding, and annotations based on centrality and excellence.
 def visualize_network(graph, title="Collaboration network"):
     plt.figure(figsize=(12, 10))
 
@@ -292,8 +292,3 @@ if __name__ == "__main__":
     networks = build_collaboration_networks('main_authors_collaborations.csv')
     print_network_info(networks)
     visualize_year_network(networks, 2025)
-    
-
-
-
-    
