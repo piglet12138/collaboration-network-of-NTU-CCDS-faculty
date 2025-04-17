@@ -1,4 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Scraping of CSRankings.info website in preparation for Question 5 on identifying Excellence nodes
+"""
 
+# Import required libraries and custom configuration and utility functions
 import pandas as pd
 import csv
 import time
@@ -13,6 +18,7 @@ from config import *
 from utils import *
 
 
+# Mapping of full field names to their corresponding CSRankings field codes
 fields_dict = {
     "Artificial intelligence": "ai",
     "Computer vision": "vision",
@@ -40,10 +46,10 @@ fields_dict = {
     "Human-computer interaction": "chi",
     "Robotics": "robotics",
     "Visualization": "visualization",
-    "Web+IR": "web+ir"
 
 }
 
+# XPath values for selecting different regions in the CSRankings dropdown menu
 ranking_NA ='//*[@id="regions"]/optgroup[2]/option[1]'
 ranking_SA = '//*[@id="regions"]/optgroup[2]/option[2]'
 ranking_africa ='//*[@id="regions"]/optgroup[2]/option[3]'
@@ -53,7 +59,7 @@ ranking_eu ='//*[@id="regions"]/optgroup[2]/option[6]'
 ranking_world = '//*[@id="regions"]/optgroup[2]/option[7]'
 
 
-
+# Displays a table of available subject areas and their codes
 def print_field_choices():
     table = PrettyTable()
     table.field_names = ["Field", "Code"]
@@ -71,6 +77,7 @@ def clean_text(text):
 def clean_number(num_text):
     return re.sub(r"[^0-9]+", "", num_text).strip()
 
+# Save university and professor data into a CSV file
 def save_universities_to_csv(filename, universities):
     with open(filename, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
@@ -97,6 +104,7 @@ def save_universities_to_csv(filename, universities):
                         ]
                     )
 
+# Extract list of professor data from a given university section
 def parse_professors(tbody):
     professors = []
     prof_trs = tbody.find_all("tr", recursive=False)
@@ -107,7 +115,7 @@ def parse_professors(tbody):
             professors.append(professor_info)
     return professors
 
-
+# Extract 3 relevant links (Home page, DBLP, Google Scholar) for a professor
 def parse_professor_info(prof_tr):
     tds = prof_tr.find_all("td")
     if not tds:
@@ -131,7 +139,7 @@ def parse_professor_info(prof_tr):
     return professor
 
 
-
+# Navigate to CSRankings, select a region, and extract university and professor info. The most complicated part...
 def fetch_universities(url,region):
     driver = webdriver.Chrome()
     driver.get(url)
@@ -162,7 +170,7 @@ def fetch_universities(url,region):
 
     return universities
 
-
+# Extract rank and name of a university from the page
 def parse_university_info(tr):
     tds = tr.find_all("td")
     if not tds:
@@ -175,7 +183,7 @@ def parse_university_info(tr):
             university_info["name"] = clean_text(td.text)
     return university_info
 
-
+# Command-line argument parser to configure the scraping parameters
 def parse_arguments():
     parser = argparse.ArgumentParser(
         description="Fetch universities and professors data from CSRankings."
@@ -218,6 +226,7 @@ ranking_aus = '//*[@id="regions"]/optgroup[2]/option[5]'
 ranking_eu ='//*[@id="regions"]/optgroup[2]/option[6]'
 ranking_world = '//*[@id="regions"]/optgroup[2]/option[7]'
 
+# (Optional) Fetch and combine university data across all geographic regions
 def fetch_collated_universities(url):
     uni_NA = fetch_universities(url,ranking_NA)
     uni_SA = fetch_universities(url,ranking_SA)
@@ -229,6 +238,7 @@ def fetch_collated_universities(url):
     merged_uni_ranking = uni_NA + uni_SA + uni_Africa + uni_Asia + uni_Aus + uni_EU + uni_World
     return merged_uni_ranking
 
+# Main script logic: loop through each field, fetch and save data for the region of the entire world.
 if __name__ == "__main__":
     print_field_choices()
     
@@ -245,5 +255,4 @@ if __name__ == "__main__":
         filename = f'{safe_field_name}_{from_year}-{to_year}-v2.csv'
         save_universities_to_csv(filename, universities)
         print(f"Data has been saved to {filename}")
-     
-
+        
