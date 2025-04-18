@@ -19,14 +19,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import re
 #---------------------------------------------------------begin of data preparation-------------------------------------------#
+
 def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
     """
-    #functions for data preparation
-    Read DBLP links from xlsx file, download XML data and save to specified directory
-    
-    Parameters:
-        xlsx_file: Excel file path, containing faculty DBLP links
-        output_dir: Directory to save XML files
+    Description:
+      - Downloads XML versions of DBLP profiles for each faculty member.
+      - Extracts and saves the unique DBLP person ID (pid).
+      - Saves the raw XML for further parsing.
+
+    Time Complexity:
+      - Reading CSV: O(N)
+      - For each faculty:
+          - HTTP request: O(1) I/O-bound
+          - XML parsing: O(M) where M = size of XML
+      - Overall: O(N * M), where N = number of faculty
     """
     # Ensure output directory exists
     if not os.path.exists(output_dir):
@@ -85,9 +91,12 @@ def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
 
 def add_pid_to_faculty_csv(input_csv, output_csv=None):
     """
-    #functions for data preparation
-    Check the DBLP page of Faculty.csv and extract the unique DBLP person ID (pid) for each professor.
-    Uses the XML version of the DBLP page to parse the PID.
+    Description:
+      - Extracts DBLP pid for each professor from their DBLP page.
+      - Updates and saves to CSV with new pid column.
+
+    Time Complexity:
+      - O(N * M), same as above (one HTTP + XML parse per faculty)
     """
     if output_csv is None:
         output_csv = input_csv
@@ -126,12 +135,14 @@ def add_pid_to_faculty_csv(input_csv, output_csv=None):
 
 def parse_collaborations(xml_file):
     """
-    #functions for data preparation
-    Args:
-        xml_file:
+    Description:
+      - Parses an XML file and returns the main author's pid and name.
+      - Gathers all co-authorships year by year.
 
-    Returns:
-
+    Time Complexity:
+      - XML parsing: O(M) where M = size of XML tree
+      - Iterating publications: O(P * A), where P = number of papers, A = authors/paper
+      - Overall: O(P * A)
     """
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -194,11 +205,14 @@ def parse_collaborations(xml_file):
 
 
 def generate_raw_data():
-    '''
-    #functions for data preparation
-    Returns:all_collaborations.json
+    """
+    Description:
+      - Iterates over all XML files and extracts author/collaboration data.
+      - Writes two JSON files: all_collaborations.json and main_authors.json.
 
-    '''
+    Time Complexity:
+      - O(F * P * A), where F = number of XML files
+    """
     directory = r"faculty_data"
     all_collaborations = {}
     main_authors = []
@@ -230,11 +244,13 @@ def generate_raw_data():
 
 
 def generate_network_links():
-    '''
-    functions for data preparation
-    Returns:main_authors_collaborations.csv
+    """
+    Description:
+      - Loads collaboration JSONs and writes all internal CCDS faculty collaborations to a CSV.
 
-    '''
+    Time Complexity:
+      - O(N * Y * C), where N = number of authors, Y = number of years, C = collaborations per year
+    """
     # read the CCDS faculties list
     with open('main_authors.json', 'r', encoding='utf-8') as f:
         main_authors = json.load(f)
@@ -282,15 +298,15 @@ def generate_network_links():
 #---------------------------------------------------------begin of network visualization-------------------------------------------#
 def build_collaboration_networks(main_authors_collaborations_csv='main_authors_collaborations.csv',
                                  faculty_csv='Faculty.csv'):
-    '''
-    build networks with faculty info
-    Args:
-        main_authors_collaborations_csv:
-        faculty_csv:
+    """
+    Description:
+      - Builds a yearly collaboration network.
+      - Nodes = faculty, Edges = collaborations up to that year.
+      - Saves each year's network as GraphML.
 
-    Returns:
-
-    '''
+    Time Complexity:
+      - O(T * R), where T = years, R = rows in CSV (collaboration records)
+    """
     df = pd.read_csv(main_authors_collaborations_csv)
     faculty_info = pd.read_csv(faculty_csv)
 
@@ -374,14 +390,13 @@ def build_collaboration_networks(main_authors_collaborations_csv='main_authors_c
     return networks
 
 def print_network_info(networks):
-    '''
+    """
+    Description:
+      - Prints node/edge counts and heaviest edge for each network.
 
-    Args:
-        networks:
-
-    Returns:
-
-    '''
+    Time Complexity:
+      - O(Y * E), where Y = number of years, E = edges per year
+    """
     for year, graph in sorted(networks.items()):
         print(f"\nyear: {year} ")
         print(f"  number of nodes: {graph.number_of_nodes()}")
@@ -400,15 +415,15 @@ def print_network_info(networks):
             print(f"  the most frequent colaboration(cumulative): {author1_name} and {author2_name} (for {weight} times)")
 
 def analyze_specific_year(networks, year):
-    '''
+    """
+    Description:
+      - Analyzes centrality (top 5 by degree) for a specific year.
 
-    Args:
-        networks:
-        year:
-
-    Returns:
-
-    '''
+    Time Complexity:
+      - Degree Centrality: O(V + E)
+      - Sorting: O(V log V)
+      - Overall: O(V log V)
+    """
     if year not in networks:
         print(f"no network of {year} ")
         return
@@ -425,15 +440,15 @@ def analyze_specific_year(networks, year):
         print(f"  {author_name}: {centrality:.4f}")
 
 def visualize_network(graph, title="Collaboration network"):
-    '''
-    plot network
-    Args:
-        graph:
-        title:
+    """
+    Description:
+      - Visualizes the graph using spring layout for connected and grid layout for isolated nodes.
 
-    Returns:
-
-    '''
+    Time Complexity:
+      - Spring layout: O(V^2)
+      - Drawing: O(V + E)
+      - Overall: O(V^2)
+    """
     plt.figure(figsize=(12, 10))
 
     # separate connected nodes and isolated nodes
@@ -534,6 +549,13 @@ def visualize_network(graph, title="Collaboration network"):
     plt.show()
 
 def visualize_year_network(networks, year):
+    """
+    Description:
+      - Wrapper to visualize a single year from pre-built networks.
+
+    Time Complexity:
+      - Same as visualize_network → O(V^2)
+    """
     if year not in networks:
         print(f"no network data of {year}")
         return
@@ -543,8 +565,12 @@ def visualize_year_network(networks, year):
 
 def create_network_dashboard(networks):
     """
-    create a dashboaed to show the evolution of the network
-    only interactive on notebook
+    Description:
+      - Jupyter-based dashboard for navigating network visualizations year by year.
+
+    Time Complexity:
+      - Setup: O(1)
+      - Each update: O(V^2) (uses visualize_network)
     """
     import ipywidgets as widgets
     from IPython.display import display, clear_output
@@ -624,9 +650,13 @@ def create_network_dashboard(networks):
 
 
 def visualize_years_network_grid(networks, start_year=2000, end_year=2025):
-
     """
-    Visualize network evolution across multiple years using a grid layout
+    Description:
+      - Plots grid of networks over time.
+
+    Time Complexity:
+      - Per graph: O(V^2)
+      - Total: O(Y * V^2), where Y = number of years
     """
     years = [year for year in range(start_year, end_year + 1) if year in networks]
 
@@ -728,6 +758,13 @@ def visualize_years_network_grid(networks, start_year=2000, end_year=2025):
     plt.show()
 #---------------------------------------------------------end of network visualization-------------------------------------------#
 def extract_paper_data(xml_file_path):
+    """
+    Description:
+      - Parses XML to extract paper metadata into a dictionary.
+
+    Time Complexity:
+      - O(P * A), P = papers, A = authors per paper
+    """
     tree = ET.parse(xml_file_path)
     root = tree.getroot()
     papers = {}
@@ -756,6 +793,14 @@ def extract_paper_data(xml_file_path):
 
 #---------------------------------------------------------preprocessing for section 3 Excellence nodes-------------------------------------------#
 def csrankings_scrape():
+    """
+    Description:
+      - Uses Selenium to scrape CSRankings.org for faculty + publication data.
+
+    Time Complexity:
+      - DOM parsing: O(U * P), U = universities, P = professors/univ
+      - Request overhead dominates
+    """
     fields_dict = {
         "Artificial intelligence": "ai",
         "Computer vision": "vision",
@@ -946,13 +991,14 @@ def csrankings_scrape():
 
 
 def add_excellence_to_faculty_csv(df, input_csv, output_csv):
-   """
-   Data Cleaning for Question 5 to add new attributes to the Faculty.csv file
-   General Steps
-   1. Filter CSRankings.info scraped dataset to only NTU faculty
-   2. Retrieve DBLP PIDs via XML
-   3. Merge with faculty master data and export the final CSV
-   """
+    """
+    Description:
+      - Adds "Excellence" flag to Faculty.csv based on CSRankings data.
+
+    Time Complexity:
+      - Matching and merging: O(N)
+      - PID fetching (HTTP + XML): O(N * M)
+    """
     # Create an empty DataFrame to store NTU-specific professor data across all fields
     columns = ["Subject Area", "University Name", "University Rank for Subject Area", "Professor Name", "DBLP Link"]
     combined_df = pd.DataFrame(columns=columns)
@@ -1022,6 +1068,14 @@ Created on Fri Apr 18 21:36:57 2025
 """
 
 def visualize_excellence_central():
+    """
+    Description:
+      - Visualizes centrality vs excellence tags in final network.
+
+    Time Complexity:
+      - Degree/Betweenness Centrality: O(V * E)
+      - Visualization: O(V^2)
+    """
 
     def avg_metric(metric_dict, node_set):
         values = [metric_dict[n] for n in node_set if n in metric_dict]
@@ -1156,6 +1210,13 @@ def visualize_excellence_central():
 
 
 def process_faculty_folder(folder_path, output_path):
+    """
+    Description:
+      - Loops over XML files, parses and merges their paper data.
+
+    Time Complexity:
+      - O(F * P * A), where F = files, P = papers/file
+    """
     papers_by_key = {}
 
     for filename in os.listdir(folder_path):
@@ -1169,6 +1230,13 @@ def process_faculty_folder(folder_path, output_path):
     print(f" Extracted paper data saved to: {output_path}")
 
 def deduplicate_paper_data(input_path, output_path):
+    """
+    Description:
+      - Removes duplicate authors (based on pid) in each paper.
+
+    Time Complexity:
+      - O(P * A), where P = papers, A = authors per paper
+    """
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
