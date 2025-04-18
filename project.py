@@ -1,13 +1,20 @@
 from preprocessing import *
-from parse_faculty import  *
 from faculty import *
 
-# Only run this if you want to download the XML file from DBLP
+# all data preparation,only run this if you want to download the XML file from DBLP
 # file = "Faculty.csv"
 # download_dblp_xml(file)
 # add_pid_to_faculty_csv("Faculty.csv")
 # generate_raw_data()
 # generate_network_links()
+
+#run this for network visualization
+# networks = build_collaboration_networks('main_authors_collaborations.csv')
+# print_network_info(networks)
+# analyze_specific_year(networks, 2020)
+# visualize_year_network(networks, 2025)
+# visualize_network_evolution(networks, [2009, 2010, 2011])
+# visualize_years_network_grid(networks, 2001, 2025)
 
 # Run this to get statistics for Question 1
 get_network_statistics(year=2025)
