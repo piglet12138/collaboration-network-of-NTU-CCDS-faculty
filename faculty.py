@@ -315,6 +315,58 @@ def compare_with_random_network(year = 2025):
         "avg_degree": avg_degree,
         "clustering_coefficient": clustering_coefficient
     }
+
+def visualize_statistics_change():
+    
+    #create collaboration networks for each year
+    networks = build_collaboration_networks('main_authors_collaborations.csv')
+    
+    #### Visualizing nodes and edges over time
+    
+    # Prepare data for plotting
+    years = sorted(networks.keys())
+    num_nodes = [networks[year].number_of_nodes() for year in years]
+    num_edges = [networks[year].number_of_edges() for year in years]
+    avg_degrees = [2 * num_edges[i] / num_nodes[i] if num_nodes[i] > 0 else 0 for i in range(len(years))]
+
+    # Plot the data
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, num_nodes, label='Number of Nodes', marker='o')
+    plt.plot(years, num_edges, label='Number of Edges', marker='s')
+    # plt.plot(years, avg_degrees, label='Average Degree', marker='^')
+
+    # Add labels, legend, and title
+    plt.xlabel('Year')
+    plt.ylabel('Value')
+    plt.title('Change in Network Properties Over Time')
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+
+    # Show the plot
+    plt.show()
+    
+    
+    #### Visualizing average degree and ln(N) over time
+    # Calculate average degrees and ln(N)
+    avg_degrees = [2 * num_edges[i] / num_nodes[i] if num_nodes[i] > 0 else 0 for i in range(len(years))]
+    ln_N = [np.log(n) for n in num_nodes]
+
+    # Plot both metrics
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, avg_degrees, label='Average Degree', marker='^', color='blue')
+    plt.plot(years, ln_N, label='ln(N)', marker='o', color='green')
+
+    # Add labels, legend, and title
+    plt.xlabel('Year')
+    plt.ylabel('Value')
+    plt.title('Average Degree vs ln(N) Over Time')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    # Show the plot
+    plt.show()
     
 if __name__ == '__main__':
     # Uncomment the function you want to run
@@ -322,6 +374,5 @@ if __name__ == '__main__':
     # new1000Network()
     # overallInfo()
     # network_degree_plot()
-    get_network_statistics(year=2025)
-    compare_with_random_network(year=2025)
+    visualize_statistics_change()
     # pass
