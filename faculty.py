@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #PageRank 1000 faculty extraction with degree betweeness for comparison:
-def page_rank_netWork():
+def page_rank_network():
     # Define file paths
     base_path = r"" #subsitute with relative path
     papers_file = r"papers_by_key_cleaned.json"
@@ -134,7 +134,7 @@ def new_1000_network():
     print("- top_1000_weighted_pagerank.csv")
     print("Filtered graph saved as 'filtered_collab_network.graphml'")
 
-def overallInfo():
+def overall_info():
     # Load filtered graph
     graphml_path = r"filtered_collab_network.graphml"
     G = nx.read_graphml(graphml_path)
