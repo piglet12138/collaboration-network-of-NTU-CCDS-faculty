@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #PageRank 1000 faculty extraction with degree betweeness for comparison:
-def pageRankNetWork():
+def page_rank_netWork():
     # Define file paths
     base_path = r"" #subsitute with relative path
     papers_file = r"papers_by_key_cleaned.json"
@@ -61,7 +61,7 @@ def pageRankNetWork():
     print("- top_1000_degree_centrality.csv")
     print("- top_1000_pagerank.csv")
 
-def new1000Network():
+def new_1000_network():
 
     # Define file paths
     base_path = r""
