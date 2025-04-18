@@ -288,6 +288,5 @@ if __name__ == "__main__":
     networks = build_collaboration_networks('main_authors_collaborations.csv')
     print_network_info(networks)
     visualize_year_network(networks, 2025)
-    
 
-  
+    
