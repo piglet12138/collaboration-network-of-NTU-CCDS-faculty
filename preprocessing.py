@@ -10,7 +10,7 @@ import pandas as pd
 import networkx as nx
 from collections import defaultdict
 import matplotlib.pyplot as plt
-
+import numpy as np
 #---------------------------------------------------------begin of data preparation-------------------------------------------#
 def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
     """

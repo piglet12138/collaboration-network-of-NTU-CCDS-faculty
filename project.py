@@ -25,6 +25,8 @@ visualize_statistics_change()
 
 # Run this and change the attribute name to either "position", "management" or "area" to get the visualization for Question 3-5
 analyze_and_visualize_collaboration(year = 2025, attribute_name="position", min_faculty=3)
+analyze_and_visualize_collaboration(year = 2025, attribute_name="management", min_faculty=3)
+analyze_and_visualize_collaboration(year = 2025, attribute_name="area", min_faculty=3)
 
 #1000 preprocessing:
 folder_path = r"faculty_data" #subsitute with relative path
