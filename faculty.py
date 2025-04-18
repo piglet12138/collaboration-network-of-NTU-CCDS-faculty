@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 def pageRankNetWork():
     # Define file paths
     base_path = r"" #subsitute with relative path
-    papers_file = base_path + r"\papers_by_key_cleaned.json"
-    main_authors_file = base_path + r"\main_authors.json"
+    papers_file = r"papers_by_key_cleaned.json"
+    main_authors_file = r"main_authors.json"
 
     # Load data
     with open(papers_file, "r", encoding="utf-8") as f:
@@ -46,7 +46,7 @@ def pageRankNetWork():
         {"pid": pid, "name": pid_to_name.get(pid, "Unknown"), "degree_score": score}
         for pid, score in top_degree
     ])
-    df_degree.to_csv(base_path + r"\top_1000_degree_centrality.csv", index=False)
+    df_degree.to_csv(r"top_1000_degree_centrality.csv", index=False)
 
     # Compute and save PageRank
     pagerank = nx.pagerank(G)
@@ -55,7 +55,7 @@ def pageRankNetWork():
         {"pid": pid, "name": pid_to_name.get(pid, "Unknown"), "pagerank_score": score}
         for pid, score in top_pagerank
     ])
-    df_pagerank.to_csv(base_path + r"\top_1000_pagerank.csv", index=False)
+    df_pagerank.to_csv(r"top_1000_pagerank.csv", index=False)
 
     print("CSV files saved successfully:")
     print("- top_1000_degree_centrality.csv")
@@ -65,8 +65,8 @@ def new1000Network():
 
     # Define file paths
     base_path = r""
-    papers_file = base_path + r"\papers_by_key_cleaned.json"
-    main_authors_file = base_path + r"\main_authors.json"
+    papers_file = r"papers_by_key_cleaned.json"
+    main_authors_file = r"main_authors.json"
 
     # Load data
     with open(papers_file, "r", encoding="utf-8") as f:
@@ -106,7 +106,7 @@ def new1000Network():
         {"pid": pid, "name": pid_to_name.get(pid, "Unknown"), "weighted_degree": score}
         for pid, score in top_degree
     ])
-    df_degree.to_csv(base_path + r"\top_1000_weighted_degree.csv", index=False)
+    df_degree.to_csv(r"top_1000_weighted_degree.csv", index=False)
 
     # Weighted PageRank
     pagerank = nx.pagerank(G, weight='weight')
@@ -115,7 +115,7 @@ def new1000Network():
         {"pid": pid, "name": pid_to_name.get(pid, "Unknown"), "pagerank_score": score}
         for pid, score in top_pagerank
     ])
-    df_pagerank.to_csv(base_path + r"\top_1000_weighted_pagerank.csv", index=False)
+    df_pagerank.to_csv( r"top_1000_weighted_pagerank.csv", index=False)
 
     # -------- Filter the graph to keep only top 1000 pagerank + main authors --------
     top_1000_pagerank_pids = {pid for pid, _ in top_pagerank}
@@ -125,7 +125,7 @@ def new1000Network():
     G.remove_nodes_from(nodes_to_remove)
 
     # Optional: Save the filtered graph as GraphML or GEXF (for Gephi visualization)
-    nx.write_graphml(G, base_path + r"\filtered_collab_network.graphml")
+    nx.write_graphml(G, r"filtered_collab_network.graphml")
     # Or save in another format:
     # nx.write_gexf(G, base_path + r"\filtered_collab_network.gexf")
 
