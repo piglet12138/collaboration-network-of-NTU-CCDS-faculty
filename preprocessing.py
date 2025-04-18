@@ -359,7 +359,9 @@ def build_collaboration_networks(main_authors_collaborations_csv='main_authors_c
                 year_graph.add_edge(author1, author2, weight=collaboration_counts[collab_pair])
             # add edge (no self edge)
 
-        nx.write_graphml(year_graph, f"graphs/collaboration_network_{year}.graphml")
+        output_file = f"graphs/collaboration_network_{year}.graphml"
+        if not os.path.exists(output_file):
+            nx.write_graphml(year_graph, output_file)
         networks[year] = year_graph
 
     return networks
