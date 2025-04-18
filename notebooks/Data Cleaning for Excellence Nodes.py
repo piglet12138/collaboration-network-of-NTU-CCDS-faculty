@@ -22,7 +22,7 @@ university_column = "University Name"
 index_column = "University Rank for Subject Area"
 
 # Filter only faculty from NTU. Designate all these faculty as "Excellence" nodes
-df = pd.read_csv('2016-2025-v3.csv')
+df = pd.read_csv('CSRankings_Scrapped_2016-2025.csv')
 df_subset = df[['University Name','Professor Name', 'DBLP Link']]
 df_subset['University Name'] = df_subset['University Name'].str.strip().str.lower()
 ntu_df = df_subset[df_subset['University Name'] == 'nanyang technological university']
