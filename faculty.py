@@ -196,3 +196,86 @@ def network_degree_plot():
     plt.grid(True, which="both", ls="--", linewidth=0.5)
     plt.tight_layout()
     plt.show()
+    
+def get_network_statistics(year = 2025):
+    # Load your filtered graph
+    graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
+    G = nx.read_graphml(graphml_path)
+
+    # Compute statistics
+    num_nodes = G.number_of_nodes()
+    num_edges = G.number_of_edges()
+    avg_degree = sum(dict(G.degree()).values()) / num_nodes
+    clustering_coefficient = nx.average_clustering(G)
+    # Average path length (computed for the largest connected component if graph is not connected)
+    if nx.is_connected(G):
+        avg_path_length = nx.average_shortest_path_length(G)
+    else:
+        largest_cc = max(nx.connected_components(G), key=len)
+        largest_cc_subgraph = G.subgraph(largest_cc)
+        avg_path_length = nx.average_shortest_path_length(largest_cc_subgraph)
+
+    # Print statistics
+    print('Collaboration Network Statistics:')
+    print(f"Number of nodes: {num_nodes}")
+    print(f"Number of edges: {num_edges}")
+    print(f"Average degree: {avg_degree:.2f}")
+    print(f"Clustering coefficient: {clustering_coefficient:.4f}")
+    print(f"Average path length: {avg_path_length:.4f}")
+    
+    return {
+        "num_nodes": num_nodes,
+        "num_edges": num_edges,
+        "avg_degree": avg_degree,
+        "clustering_coefficient": clustering_coefficient,
+        "avg_path_length": avg_path_length
+    }
+    
+def get_comparable_random_network_statistics(year = 2025):
+    graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
+    G = nx.read_graphml(graphml_path)
+
+    # Compute statistics
+    num_nodes = G.number_of_nodes()
+    num_edges = G.number_of_edges()
+    avg_degree = sum(dict(G.degree()).values()) / num_nodes
+    clustering_coefficient = nx.average_clustering(G)
+    # Generate an Erdős-Rényi random graph with same number of nodes and edges
+    print("\nGenerating comparable random network...")
+    random_G = nx.gnm_random_graph(num_nodes, num_edges)
+    
+    # Compute statistics for random graph
+    random_avg_degree = sum(dict(random_G.degree()).values()) / num_nodes
+    random_clustering_coefficient = nx.average_clustering(random_G)
+    random_avg_path_length = nx.average_shortest_path_length(random_G) if nx.is_connected(random_G) else float('inf')
+    # Compare with original graph
+    print("\nRandom Graph Statistics:")
+    print(f"Number of nodes: {random_G.number_of_nodes()}")
+    print(f"Number of edges: {random_G.number_of_edges()}")
+    print(f"Average degree: {random_avg_degree:.2f}")
+    print(f"Clustering coefficient: {random_clustering_coefficient:.4f}")
+    
+    print("\nComparison ratios (real/random):")
+    print(f"Clustering coefficient ratio: {clustering_coefficient/random_clustering_coefficient:.2f}x")
+    # Print statistics
+    print(f"Number of nodes: {num_nodes}")
+    print(f"Number of edges: {num_edges}")
+    print(f"Average degree: {avg_degree:.2f}")
+    print(f"Clustering coefficient: {clustering_coefficient:.4f}")
+    
+    return {
+        "num_nodes": num_nodes,
+        "num_edges": num_edges,
+        "avg_degree": avg_degree,
+        "clustering_coefficient": clustering_coefficient
+    }
+    
+if __name__ == '__main__':
+    # Uncomment the function you want to run
+    # pageRankNetWork()
+    # new1000Network()
+    # overallInfo()
+    # network_degree_plot()
+    get_network_statistics(year=2025)
+    get_comparable_random_network_statistics(=2025)
+    # pass
