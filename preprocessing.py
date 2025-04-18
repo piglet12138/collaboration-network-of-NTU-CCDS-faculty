@@ -113,6 +113,29 @@ def extract_paper_data(xml_file_path):
     tree = ET.parse(xml_file_path)
     root = tree.getroot()
     papers = {}
+    
+    for record in root.findall('.//r/*'):  # <article>, <inproceedings>, etc.
+        key = record.attrib.get("key")
+        title_elem = record.find("title")
+        year_elem = record.find("year")
+        authors = record.findall("author")
+
+        if not key or title_elem is None or year_elem is None or not authors:
+            continue
+
+        papers[key] = {
+            "title": title_elem.text.strip() if title_elem.text else "",
+            "year": year_elem.text.strip() if year_elem.text else "",
+            "authors": [
+                {
+                    "pid": a.attrib.get("pid", ""),
+                    "name": a.text.strip() if a.text else ""
+                } for a in authors
+            ]
+        }
+
+    return papers    
+    
 def add_excellence_to_faculty_csv(input_csv, output_csv):
     """
     Data Cleaning for Question 5 to add new attributes to the Faculty.csv file
@@ -235,27 +258,6 @@ def add_excellence_to_faculty_csv(input_csv, output_csv):
     merged_df = merged_df.drop(columns=['DBLP Link','Professor Name'])
     merged_df.to_csv(output_csv, index=False)
 
-    for record in root.findall('.//r/*'):  # <article>, <inproceedings>, etc.
-        key = record.attrib.get("key")
-        title_elem = record.find("title")
-        year_elem = record.find("year")
-        authors = record.findall("author")
-
-        if not key or title_elem is None or year_elem is None or not authors:
-            continue
-
-        papers[key] = {
-            "title": title_elem.text.strip() if title_elem.text else "",
-            "year": year_elem.text.strip() if year_elem.text else "",
-            "authors": [
-                {
-                    "pid": a.attrib.get("pid", ""),
-                    "name": a.text.strip() if a.text else ""
-                } for a in authors
-            ]
-        }
-
-    return papers
 
 def process_faculty_folder(folder_path, output_path):
     papers_by_key = {}
