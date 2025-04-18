@@ -81,8 +81,7 @@ def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors
                 year_graph.add_edge(author1, author2, weight=collaboration_counts[collab_pair])
             # add edge (no self edge)
 
-
-
+        nx.write_graphml(year_graph, f"graphs/collaboration_network_{year}.graphml")
         networks[year] = year_graph
 
     return networks
@@ -481,4 +480,4 @@ if __name__ == "__main__":
     #analyze_specific_year(networks, 2020)
     #visualize_year_network(networks, 2025)
     #visualize_network_evolution(networks, [2009, 2010, 2011])
-    visualize_years_network_grid(networks, 2001, 2025)
+    # visualize_years_network_grid(networks, 2001, 2025)
