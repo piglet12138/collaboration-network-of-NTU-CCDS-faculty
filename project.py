@@ -16,7 +16,7 @@ output_json = r"papers_by_key_cleaned.json"
 
 process_faculty_folder(folder_path, output_json_path)
 deduplicate_paper_data(input_json, output_json)
-page_rank_netWork()
+page_rank_network()
 new_1000_network()
-overallInfo()
+overall_info()
 network_degree_plot()
