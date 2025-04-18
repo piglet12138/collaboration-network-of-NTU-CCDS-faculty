@@ -1,0 +1,1545 @@
+<?xml version="1.0"?>
+<dblpperson name="Siqiang Luo" pid="117/5965" n="91">
+<person key="homepages/117/5965" mdate="2024-10-08">
+<author pid="117/5965">Siqiang Luo</author>
+<url>https://orcid.org/0000-0001-8197-0903</url>
+</person>
+<r><article key="journals/pacmmod/MoLWL25" mdate="2025-04-08">
+<author orcid="0000-0002-9588-1036" pid="305/0642">Dingheng Mo</author>
+<author orcid="0009-0008-4570-5043" pid="40/6926-1">Junfeng Liu 0001</author>
+<author orcid="0009-0009-4786-6796" pid="88/898-22">Fan Wang 0022</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Aster: Enhancing LSM-structures for Scalable Graph Database.</title>
+<pages>12:1-12:26</pages>
+<year>2025</year>
+<month>February</month>
+<volume>3</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3709662</ee>
+<url>db/journals/pacmmod/pacmmod3.html#MoLWL25</url>
+<stream>streams/journals/pacmmod</stream>
+</article>
+</r>
+<r><article key="journals/pacmmod/LiCLDGZC25" mdate="2025-04-08">
+<author orcid="0000-0001-5764-960X" pid="70/1726-10">Meng Li 0010</author>
+<author orcid="0000-0002-9322-1114" pid="383/5123">Huayi Chai</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0003-0545-8187" pid="124/6911">Haipeng Dai 0001</author>
+<author orcid="0000-0002-1565-9997" pid="39/1859">Rong Gu</author>
+<author orcid="0000-0001-8403-9655" pid="162/1613">Jiaqi Zheng 0001</author>
+<author orcid="0000-0002-6934-1685" pid="51/1742">Guihai Chen</author>
+<title>VEGA: An Active-tuning Learned Index with Group-Wise Learning Granularity.</title>
+<pages>86:1-86:26</pages>
+<year>2025</year>
+<month>February</month>
+<volume>3</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3709736</ee>
+<url>db/journals/pacmmod/pacmmod3.html#LiCLDGZC25</url>
+<stream>streams/journals/pacmmod</stream>
+</article>
+</r>
+<r><article key="journals/tkde/FangLKLWSF25" mdate="2025-01-08">
+<author orcid="0000-0003-4741-9282" pid="86/9628-2">Peng Fang 0002</author>
+<author pid="185/6131">Zhenli Li</author>
+<author orcid="0000-0002-7312-6312" pid="67/2933">Arijit Khan 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-2791-4158" pid="35/5625-1">Fang Wang 0001</author>
+<author orcid="0000-0002-7798-1121" pid="27/1620-1">Zhan Shi 0001</author>
+<author orcid="0000-0002-4674-6006" pid="48/5939-1">Dan Feng 0001</author>
+<title>Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding.</title>
+<pages>408-422</pages>
+<year>2025</year>
+<month>January</month>
+<volume>37</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2024.3424333</ee>
+<url>db/journals/tkde/tkde37.html#FangLKLWSF25</url>
+<stream>streams/journals/tkde</stream>
+</article>
+</r>
+<r><article key="journals/tkde/WangLL25" mdate="2025-03-07">
+<author orcid="0000-0002-8828-2887" pid="78/2022-57">Kai Wang 0057</author>
+<author orcid="0000-0001-7721-3029" pid="181/2634-8">Dan Lin 0008</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Graph Percolation Embeddings for Efficient Knowledge Graph Inductive Reasoning.</title>
+<pages>1198-1212</pages>
+<year>2025</year>
+<month>March</month>
+<volume>37</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2024.3508064</ee>
+<url>db/journals/tkde/tkde37.html#WangLL25</url>
+<stream>streams/journals/tkde</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-06570" mdate="2025-03-19">
+<author pid="305/0642">Dingheng Mo</author>
+<author pid="40/6926-1">Junfeng Liu 0001</author>
+<author pid="88/898-22">Fan Wang 0022</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>Aster: Enhancing LSM-structures for Scalable Graph Database.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.06570</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.06570</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-06570</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-16759" mdate="2025-03-19">
+<author pid="231/8457">Weiping Yu</author>
+<author pid="88/898-22">Fan Wang 0022</author>
+<author pid="328/5872">Xuwei Zhang</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>Are Joins over LSM-trees Ready: Take RocksDB as an Example.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.16759</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.16759</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-16759</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmmod/LiuWML24" mdate="2025-03-19">
+<author orcid="0009-0008-4570-5043" pid="40/6926-1">Junfeng Liu 0001</author>
+<author orcid="0009-0009-4786-6796" pid="88/898-22">Fan Wang 0022</author>
+<author orcid="0000-0002-9588-1036" pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Structural Designs Meet Optimality: Exploring Optimized LSM-tree Structures in a Colossal Configuration Space.</title>
+<pages>175</pages>
+<year>2024</year>
+<volume>2</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3654978</ee>
+<url>db/journals/pacmmod/pacmmod2.html#LiuWML24</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/YuLYC24" mdate="2024-11-06">
+<author orcid="0009-0003-6817-1156" pid="231/8457">Weiping Yu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-0423-4459" pid="158/9996">Zihao Yu</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<title>CAMAL: Optimizing LSM-trees via Active Learning.</title>
+<pages>202:1-202:26</pages>
+<year>2024</year>
+<month>September</month>
+<volume>2</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3677138</ee>
+<url>db/journals/pacmmod/pacmmod2.html#YuLYC24</url>
+<stream>streams/journals/pacmmod</stream>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenLLH24" mdate="2024-12-24">
+<author orcid="0009-0001-6882-1417" pid="352/6148">Guanduo Chen</author>
+<author pid="70/1726-10">Meng Li 0010</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="23/6341">Zhenying He</author>
+<title>Oasis: An Optimal Disjoint Segmented Learned Range Filter.</title>
+<pages>1911-1924</pages>
+<year>2024</year>
+<month>April</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p1911-luo.pdf</ee>
+<ee>https://doi.org/10.14778/3659437.3659447</ee>
+<url>db/journals/pvldb/pvldb17.html#ChenLLH24</url>
+<stream>streams/journals/pvldb</stream>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuL24" mdate="2024-12-19">
+<author pid="203/9503">Haoyu Liu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>BIRD: Efficient Approximation of Bidirectional Hidden Personalized PageRank.</title>
+<pages>2255-2268</pages>
+<year>2024</year>
+<month>May</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p2255-liu.pdf</ee>
+<ee>https://doi.org/10.14778/3665844.3665855</ee>
+<url>db/journals/pvldb/pvldb17.html#LiuL24</url>
+<stream>streams/journals/pvldb</stream>
+</article>
+</r>
+<r><article key="journals/pvldb/YuLL24" mdate="2025-04-01">
+<author pid="158/9996">Zihao Yu</author>
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>GENTI: GPU-powered Walk-based Subgraph Extraction for Scalable Representation Learning on Dynamic Graphs.</title>
+<pages>2269-2278</pages>
+<year>2024</year>
+<month>May</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p2269-yu.pdf</ee>
+<ee>https://doi.org/10.14778/3665844.3665856</ee>
+<url>db/journals/pvldb/pvldb17.html#YuLL24</url>
+<stream>streams/journals/pvldb</stream>
+</article>
+</r>
+<r><article key="journals/pvldb/WangXL24" mdate="2025-03-04">
+<author pid="78/2022-57">Kai Wang 0057</author>
+<author pid="05/9079-4">Yuwei Xu 0004</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>TIGER: Training Inductive Graph Neural Network for Large-scale Knowledge Graph Reasoning.</title>
+<pages>2459-2472</pages>
+<year>2024</year>
+<month>June</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p2459-luo.pdf</ee>
+<ee>https://doi.org/10.14778/3675034.3675039</ee>
+<ee>https://www.wikidata.org/entity/Q130835199</ee>
+<url>db/journals/pvldb/pvldb17.html#WangXL24</url>
+<stream>streams/journals/pvldb</stream>
+</article>
+</r>
+<r><article key="journals/vldb/LiaoMLLY24" mdate="2025-04-01">
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="130/7385">Pengcheng Yin</author>
+<title>Scalable decoupling graph neural network with feature-oriented optimization.</title>
+<pages>667-683</pages>
+<year>2024</year>
+<month>May</month>
+<volume>33</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-023-00829-6</ee>
+<url>db/journals/vldb/vldb33.html#LiaoMLLY24</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WangXWL24" mdate="2025-03-04">
+<author pid="78/2022-57">Kai Wang 0057</author>
+<author pid="05/9079-4">Yuwei Xu 0004</author>
+<author pid="24/968">Zhiyong Wu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs.</title>
+<pages>3742-3759</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.224</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.224</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#WangXWL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/ZhangBLHH24" mdate="2024-05-23">
+<author pid="243/8094">Zhaoqi Zhang</author>
+<author pid="319/0259">Pasquale Balsebre</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="21/9125">Zhen Hai</author>
+<author pid="98/10180">Jiangping Huang</author>
+<title>StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information.</title>
+<pages>15350-15361</pages>
+<year>2024</year>
+<booktitle>LREC/COLING</booktitle>
+<ee type="oa">https://aclanthology.org/2024.lrec-main.1333</ee>
+<crossref>conf/coling/2024</crossref>
+<url>db/conf/coling/coling2024.html#ZhangBLHH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhuLL0ML24" mdate="2024-07-29">
+<author pid="219/4427">Zulun Zhu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="121/4164">Wenqing Lin</author>
+<author pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author pid="268/2072">Chunbo Li</author>
+<title>Personalized PageRanks over Dynamic Graphs - The Case for Optimizing Quality of Service.</title>
+<pages>409-422</pages>
+<year>2024</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE60146.2024.00038</ee>
+<crossref>conf/icde/2024</crossref>
+<url>db/conf/icde/icde2024.html#ZhuLL0ML24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiZLWW24" mdate="2024-07-29">
+<author pid="92/5001">Ling Li</author>
+<author pid="73/5946">Yuhai Zhao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="64/146">Guoren Wang</author>
+<author pid="07/9078">Zhengkui Wang</author>
+<title>Efficient Community Search in Edge-Attributed Graphs (Extended Abstract).</title>
+<pages>5731-5732</pages>
+<year>2024</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE60146.2024.00497</ee>
+<crossref>conf/icde/2024</crossref>
+<url>db/conf/icde/icde2024.html#LiZLWW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LuoZ24" mdate="2024-10-18">
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="219/4427">Zulun Zhu</author>
+<title>Massively Parallel Single-Source SimRanks in O(log N) Rounds.</title>
+<pages>2252-2260</pages>
+<year>2024</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://www.ijcai.org/proceedings/2024/249</ee>
+<crossref>conf/ijcai/2024</crossref>
+<url>db/conf/ijcai/ijcai2024.html#LuoZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ChengSS0LL24" mdate="2024-09-08">
+<author orcid="0009-0003-1241-7188" pid="14/8823">Yao Cheng</author>
+<author orcid="0000-0001-9012-7088" pid="193/1652">Caihua Shan</author>
+<author orcid="0000-0001-7174-4793" pid="51/609">Yifei Shen</author>
+<author orcid="0009-0003-0142-2483" pid="40/1491-67">Xiang Li 0067</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0003-3103-8442" pid="254/0830-2">Dongsheng Li 0002</author>
+<title>Resurrecting Label Propagation for Graphs with Heterophily and Label Noise.</title>
+<pages>433-444</pages>
+<year>2024</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3637528.3671774</ee>
+<crossref>conf/kdd/2024</crossref>
+<url>db/conf/kdd/kdd2024.html#ChengSS0LL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZhuWLLL24" mdate="2024-09-20">
+<author orcid="0000-0002-5176-6378" pid="219/4427">Zulun Zhu</author>
+<author orcid="0000-0002-8828-2887" pid="78/2022-57">Kai Wang 0057</author>
+<author orcid="0000-0002-0839-5460" pid="203/9503">Haoyu Liu</author>
+<author orcid="0000-0002-6405-1531" pid="260/6811">Jintang Li</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Topology-monitorable Contrastive Learning on Dynamic Graphs.</title>
+<pages>4700-4711</pages>
+<year>2024</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3637528.3671777</ee>
+<crossref>conf/kdd/2024</crossref>
+<url>db/conf/kdd/kdd2024.html#ZhuWLLL24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-09769" mdate="2025-02-04">
+<author pid="325/8141">Chenghua Gong</author>
+<author pid="14/8823">Yao Cheng</author>
+<author pid="72/6230-1">Jianxiang Yu 0001</author>
+<author pid="33/965">Can Xu</author>
+<author pid="193/1652">Caihua Shan</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<title>Towards Learning from Graphs with Heterophily: Progress and Future.</title>
+<year>2024</year>
+<volume>abs/2401.09769</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.09769</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-09769</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-11804" mdate="2025-03-04">
+<author pid="78/2022-57">Kai Wang 0057</author>
+<author pid="05/9079-4">Yuwei Xu 0004</author>
+<author pid="24/968">Zhiyong Wu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs.</title>
+<year>2024</year>
+<volume>abs/2402.11804</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.11804</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-11804</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-13268" mdate="2025-04-01">
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="158/9996">Zihao Yu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network.</title>
+<year>2024</year>
+<volume>abs/2403.13268</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.13268</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-13268</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-09675" mdate="2025-04-01">
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="203/9503">Haoyu Liu</author>
+<author pid="219/4427">Zulun Zhu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<title>Benchmarking Spectral Graph Neural Networks: A Comprehensive Study on Effectiveness and Efficiency.</title>
+<year>2024</year>
+<volume>abs/2406.09675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.09675</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-09675</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-15130" mdate="2024-10-15">
+<author pid="231/8457">Weiping Yu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="158/9996">Zihao Yu</author>
+<author pid="33/3180">Gao Cong</author>
+<title>CAMAL: Optimizing LSM-trees via Active Learning.</title>
+<year>2024</year>
+<volume>abs/2409.15130</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.15130</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-15130</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-12609" mdate="2024-11-24">
+<author pid="78/2022-57">Kai Wang 0057</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs.</title>
+<year>2024</year>
+<volume>abs/2410.12609</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.12609</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-12609</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-04738" mdate="2025-01-14">
+<author pid="274/2346">Ningyi Liao</author>
+<author pid="158/9996">Zihao Yu</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>DHIL-GT: Scalable Graph Transformer with Decoupled Hierarchy Labeling.</title>
+<year>2024</year>
+<volume>abs/2412.04738</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.04738</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-04738</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmmod/MoCLS23" mdate="2024-01-13">
+<author orcid="0000-0002-9588-1036" pid="305/0642">Dingheng Mo</author>
+<author orcid="0009-0007-2606-7528" pid="332/4410">Fanchao Chen</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0001-9012-7088" pid="193/1652">Caihua Shan</author>
+<title>Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads.</title>
+<pages>213:1-213:25</pages>
+<year>2023</year>
+<month>September</month>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3617333</ee>
+<url>db/journals/pacmmod/pacmmod1.html#MoCLS23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangKLWFLYC23" mdate="2025-01-19">
+<author pid="86/9628-2">Peng Fang 0002</author>
+<author orcid="0000-0002-7312-6312" pid="67/2933">Arijit Khan 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="35/5625-1">Fang Wang 0001</author>
+<author pid="48/5939-1">Dan Feng 0001</author>
+<author pid="185/6131">Zhenli Li</author>
+<author pid="67/4051">Wei Yin</author>
+<author pid="337/7287">Yuchao Cao</author>
+<title>Distributed Graph Embedding with Information-Oriented Random Walks.</title>
+<pages>1643-1656</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1643-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3587136.3587140</ee>
+<ee>https://www.wikidata.org/entity/Q130854691</ee>
+<url>db/journals/pvldb/pvldb16.html#FangKLWFLYC23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TianSL0XZ23" mdate="2025-02-09">
+<author pid="56/3860">Wei Tian</author>
+<author pid="147/1237-1">Jieming Shi 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="66/3387-57">Hui Li 0057</author>
+<author pid="64/1308">Xike Xie</author>
+<author pid="166/6636">Yuanhang Zou</author>
+<title>Effective and Efficient Route Planning Using Historical Trajectories on Road Networks.</title>
+<pages>2512-2524</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2512-tian.pdf</ee>
+<ee>https://doi.org/10.14778/3603581.3603591</ee>
+<ee>https://www.wikidata.org/entity/Q130904122</ee>
+<url>db/journals/pvldb/pvldb16.html#TianSL0XZ23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YowLLC23" mdate="2025-04-01">
+<author orcid="0000-0002-2526-6927" pid="306/8536">Kai Siong Yow</author>
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Machine Learning for Subgraph Extraction: Methods, Applications and Challenges.</title>
+<pages>3864-3867</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3864-yow.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611571</ee>
+<url>db/journals/pvldb/pvldb16.html#YowLLC23</url>
+</article>
+</r>
+<r><article key="journals/tkde/MoL23" mdate="2023-06-02">
+<author orcid="0000-0002-9588-1036" pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Single-Source Personalized PageRanks With Workload Robustness.</title>
+<pages>6320-6334</pages>
+<year>2023</year>
+<month>June</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2022.3175814</ee>
+<url>db/journals/tkde/tkde35.html#MoL23</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiZLWW23" mdate="2023-10-14">
+<author orcid="0000-0002-2063-4006" pid="92/5001">Ling Li</author>
+<author orcid="0000-0002-1080-0859" pid="73/5946">Yuhai Zhao</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-0181-8379" pid="64/146">Guoren Wang</author>
+<author orcid="0000-0003-4554-0791" pid="07/9078">Zhengkui Wang</author>
+<title>Efficient Community Search in Edge-Attributed Graphs.</title>
+<pages>10790-10806</pages>
+<year>2023</year>
+<month>October</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2023.3267550</ee>
+<url>db/journals/tkde/tkde35.html#LiZLWW23</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiCDXLGYC23" mdate="2025-03-12">
+<author orcid="0000-0001-5764-960X" pid="70/1726-10">Meng Li 0010</author>
+<author orcid="0009-0009-0788-1908" pid="137/1400">Deyi Chen</author>
+<author orcid="0000-0003-0545-8187" pid="124/6911">Haipeng Dai 0001</author>
+<author orcid="0000-0002-2129-9094" pid="275/8979">Rongbiao Xie</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-1565-9997" pid="39/1859">Rong Gu</author>
+<author orcid="0000-0003-2402-5854" pid="44/7710-3">Tong Yang 0003</author>
+<author orcid="0000-0002-6934-1685" pid="51/1742">Guihai Chen</author>
+<title>Seesaw Counting Filter: A Dynamic Filtering Framework for Vulnerable Negative Keys.</title>
+<pages>12987-13001</pages>
+<year>2023</year>
+<month>December</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2023.3273709</ee>
+<url>db/journals/tkde/tkde35.html#LiCDXLGYC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/0001X0LLZ23" mdate="2024-10-24">
+<author pid="41/10049-1">Wenting Zhao 0001</author>
+<author pid="205/8901">Gongping Xu</author>
+<author pid="59/8491-1">Zhen Cui 0001</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="58/10813-1">Cheng Long 0001</author>
+<author pid="07/4227-21">Tong Zhang 0021</author>
+<title>Deep Graph Structural Infomax.</title>
+<pages>4920-4928</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i4.25618</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#0001X0LLZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LuoZXYLK23" mdate="2025-03-10">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="149/1342">Zichen Zhu</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<author pid="56/2998-1">Yin Yang 0001</author>
+<author pid="268/2072">Chunbo Li</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>Multi-Task Processing in Vertex-Centric Graph Systems: Evaluations and Insights.</title>
+<pages>247-259</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.48786/edbt.2023.20</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#LuoZXYLK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiLZSWQ23" mdate="2024-08-04">
+<author pid="92/5001">Ling Li</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="73/5946">Yuhai Zhao</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="07/9078">Zhengkui Wang</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin 0001</author>
+<title>COCLEP: Contrastive Learning-based Semi-Supervised Community Search.</title>
+<pages>2483-2495</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00191</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#LiLZSWQ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YewLML23" mdate="2025-04-01">
+<author pid="352/6714">Jun Xuan Yew</author>
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Example Searcher: A Spatial Query System via Example.</title>
+<pages>3635-3638</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00286</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#YewLML23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LiaoLLS23" mdate="2025-02-10">
+<author pid="274/2346">Ningyi Liao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="147/1237-1">Jieming Shi 0001</author>
+<title>LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/206191b9b7349e2743d98d855dec9e58-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#LiaoLLS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-10983" mdate="2024-08-04">
+<author pid="231/8457">Weiping Yu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Less is More: Towards Lightweight Cost Estimator for Database Systems.</title>
+<year>2023</year>
+<volume>abs/2303.10983</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.10983</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-10983</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-15702" mdate="2024-08-04">
+<author pid="86/9628-2">Peng Fang 0002</author>
+<author pid="67/2933">Arijit Khan 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="35/5625-1">Fang Wang 0001</author>
+<author pid="48/5939-1">Dan Feng 0001</author>
+<author pid="185/6131">Zhenli Li</author>
+<author pid="67/4051">Wei Yin</author>
+<author pid="337/7287">Yuchao Cao</author>
+<title>Distributed Graph Embedding with Information-Oriented Random Walks.</title>
+<year>2023</year>
+<volume>abs/2303.15702</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.15702</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-15702</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-04015" mdate="2024-08-04">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="219/4427">Zulun Zhu</author>
+<title>Massively Parallel Single-Source SimRanks in o(log n) Rounds.</title>
+<year>2023</year>
+<volume>abs/2304.04015</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.04015</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-04015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-09958" mdate="2025-04-01">
+<author pid="203/9503">Haoyu Liu</author>
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation.</title>
+<year>2023</year>
+<volume>abs/2305.09958</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.09958</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-09958</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-09974" mdate="2024-07-18">
+<author pid="78/2022-57">Kai Wang 0057</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="181/2634-8">Dan Lin 0008</author>
+<title>River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning.</title>
+<year>2023</year>
+<volume>abs/2305.09974</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.09974</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-09974</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-07013" mdate="2024-08-04">
+<author pid="305/0642">Dingheng Mo</author>
+<author pid="332/4410">Fanchao Chen</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="193/1652">Caihua Shan</author>
+<title>Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads.</title>
+<year>2023</year>
+<volume>abs/2308.07013</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.07013</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-07013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-16560" mdate="2024-08-04">
+<author pid="14/8823">Yao Cheng</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="51/609">Yifei Shen</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="254/0830-2">Dongsheng Li 0002</author>
+<title>Label Propagation for Graph Label Noise.</title>
+<year>2023</year>
+<volume>abs/2310.16560</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.16560</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-16560</url>
+</article>
+</r>
+<r><article key="journals/ijon/ZhuCLYLQZ22" mdate="2024-08-04">
+<author orcid="0000-0001-9558-3787" pid="63/5448">Peng Zhu</author>
+<author pid="135/6864">Dawei Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="166/9351">Fangzhou Yang</author>
+<author pid="01/5820">Yifeng Luo</author>
+<author pid="55/3364">Weining Qian</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>SI-News: Integrating social information for news recommendation with attention-based graph convolutional network.</title>
+<pages>33-42</pages>
+<year>2022</year>
+<volume>494</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2022.04.073</ee>
+<url>db/journals/ijon/ijon494.html#ZhuCLYLQZ22</url>
+</article>
+</r>
+<r><article key="journals/isci/LuoWK22" mdate="2024-08-04">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5766-2115" pid="70/4432-1">Xiaowei Wu 0001</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>Distributed PageRank computation with improved round complexities.</title>
+<pages>109-125</pages>
+<year>2022</year>
+<volume>607</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2022.05.108</ee>
+<url>db/journals/isci/isci607.html#LuoWK22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiaoMLLY22" mdate="2024-10-09">
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="130/7385">Pengcheng Yin</author>
+<title>SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.</title>
+<pages>3240-3248</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3240-liao.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551866</ee>
+<url>db/journals/pvldb/pvldb15.html#LiaoMLLY22</url>
+</article>
+</r>
+<r><article key="journals/ws/ZhuCLXLL22" mdate="2024-08-04">
+<author orcid="0000-0001-9558-3787" pid="63/5448">Peng Zhu</author>
+<author orcid="0000-0002-5877-7387" pid="135/6864">Dawei Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="319/3768">Ruyao Xu</author>
+<author pid="78/4623">Yuqi Liang</author>
+<author pid="01/5820">Yifeng Luo</author>
+<title>Leveraging enterprise knowledge graph to infer web events' influences via self-supervised learning.</title>
+<pages>100722</pages>
+<year>2022</year>
+<volume>74</volume>
+<journal>J. Web Semant.</journal>
+<ee>https://doi.org/10.1016/j.websem.2022.100722</ee>
+<url>db/journals/ws/ws74.html#ZhuCLXLL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/XuCCLLQ22" mdate="2025-02-10">
+<author pid="319/3768">Ruyao Xu</author>
+<author pid="135/6864">Dawei Cheng</author>
+<author pid="152/6215-1">Cen Chen 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="01/5820">Yifeng Luo</author>
+<author pid="55/3364">Weining Qian</author>
+<title>Multi-scale Time Based Stock Appreciation Ranking Prediction via Price Co-movement Discrimination.</title>
+<pages>455-467</pages>
+<year>2022</year>
+<booktitle>DASFAA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-00129-1_39</ee>
+<crossref>conf/dasfaa/2022-3</crossref>
+<url>db/conf/dasfaa/dasfaa2022-3.html#XuCCLLQ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangLSYS22" mdate="2025-02-10">
+<author pid="141/5046">Hanyuan Zhang</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="147/1237-1">Jieming Shi 0001</author>
+<author pid="236/5688">Jing Nathan Yan</author>
+<author pid="63/6566-8">Weiwei Sun 0008</author>
+<title>Example-based Spatial Search at Scale.</title>
+<pages>539-551</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00045</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#ZhangLSYS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhuLXYMH22" mdate="2024-08-04">
+<author pid="149/1342">Zichen Zhu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<author pid="56/2998-1">Yin Yang 0001</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author pid="74/2507">Yufei Han</author>
+<title>VC-Tune: Tuning and Exploring Distributed Vertex-Centric Graph Systems.</title>
+<pages>3142-3145</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00283</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#ZhuLXYMH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LiZCSLLQ22" mdate="2023-04-20">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="279/6596">Renyu Zhu</author>
+<author pid="14/8823">Yao Cheng</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="254/0830-2">Dongsheng Li 0002</author>
+<author pid="55/3364">Weining Qian</author>
+<title>Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.</title>
+<pages>13242-13256</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/li22ad.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#LiZCSLLQ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhuPL0YL22" mdate="2023-06-26">
+<author pid="219/4427">Zulun Zhu</author>
+<author pid="260/6444">Jiaying Peng</author>
+<author pid="260/6811">Jintang Li</author>
+<author pid="01/5394-1">Liang Chen 0001</author>
+<author orcid="0000-0002-0426-5407" pid="58/6957-1">Qi Yu 0001</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>Spiking Graph Convolutional Networks.</title>
+<pages>2434-2440</pages>
+<year>2022</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2022/338</ee>
+<crossref>conf/ijcai/2022</crossref>
+<url>db/conf/ijcai/ijcai2022.html#ZhuPL0YL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/XuLSLLSH22" mdate="2025-02-09">
+<author pid="328/0282">Zequan Xu</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="147/1237-1">Jieming Shi 0001</author>
+<author pid="66/3387-57">Hui Li 0057</author>
+<author pid="37/3102-1">Chen Lin 0001</author>
+<author pid="155/8114">Qihang Sun</author>
+<author pid="69/8730">Shaofeng Hu</author>
+<title>Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction.</title>
+<pages>238-245</pages>
+<year>2022</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM55031.2022.00053</ee>
+<crossref>conf/mdm/2022</crossref>
+<url>db/conf/mdm/mdm2022.html#XuLSLLSH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KimLCY22" mdate="2024-10-06">
+<author orcid="0000-0002-4905-2704" pid="27/5423-7">Junghoon Kim 0007</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>DMCS : Density Modularity based Community Search.</title>
+<pages>889-903</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526137</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#KimLCY22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KnorrLLLZIM22" mdate="2024-10-06">
+<author pid="214/6009">Eric R. Knorr</author>
+<author orcid="0000-0002-6749-1081" pid="322/1443">Baptiste Lemaire</author>
+<author pid="267/6394">Andrew Lim</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<title>Proteus: A Self-Designing Range Filter.</title>
+<pages>1670-1684</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526167</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#KnorrLLLZIM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiCDXLGYC22" mdate="2025-03-12">
+<author pid="70/1726-10">Meng Li 0010</author>
+<author pid="137/1400">Deyi Chen</author>
+<author orcid="0000-0003-0545-8187" pid="124/6911">Haipeng Dai 0001</author>
+<author pid="275/8979">Rongbiao Xie</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="39/1859">Rong Gu</author>
+<author pid="44/7710-3">Tong Yang 0003</author>
+<author pid="51/1742">Guihai Chen</author>
+<title>Seesaw Counting Filter: An Efficient Guardian for Vulnerable Negative Keys During Dynamic Filtering.</title>
+<pages>2759-2767</pages>
+<year>2022</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3485447.3511996</ee>
+<ee>https://www.wikidata.org/entity/Q130916415</ee>
+<crossref>conf/www/2022</crossref>
+<url>db/conf/www/www2022.html#LiCDXLGYC22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-01057" mdate="2024-08-04">
+<author orcid="0000-0002-2526-6927" pid="306/8536">Kai Siong Yow</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Learning-Based Approaches for Graph Problems: A Survey.</title>
+<year>2022</year>
+<volume>abs/2204.01057</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.01057</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-01057</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-07720" mdate="2024-08-31">
+<author pid="27/5423-7">Junghoon Kim 0007</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>DMCS : Density Modularity based Community Search.</title>
+<year>2022</year>
+<volume>abs/2204.07720</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.07720</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-07720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-02767" mdate="2024-08-04">
+<author pid="219/4427">Zulun Zhu</author>
+<author pid="260/6444">Jiaying Peng</author>
+<author pid="260/6811">Jintang Li</author>
+<author pid="01/5394-1">Liang Chen 0001</author>
+<author orcid="0000-0002-0426-5407" pid="58/6957-1">Qi Yu 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Spiking Graph Convolutional Networks.</title>
+<year>2022</year>
+<volume>abs/2205.02767</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.02767</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-02767</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07308" mdate="2024-08-04">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="279/6596">Renyu Zhu</author>
+<author pid="14/8823">Yao Cheng</author>
+<author pid="193/1652">Caihua Shan</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="254/0830-2">Dongsheng Li 0002</author>
+<author pid="55/3364">Weining Qian</author>
+<title>Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.</title>
+<year>2022</year>
+<volume>abs/2205.07308</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07308</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07308</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-01503" mdate="2024-08-04">
+<author pid="214/6009">Eric R. Knorr</author>
+<author pid="322/1443">Baptiste Lemaire</author>
+<author pid="267/6394">Andrew Lim</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<title>Proteus: A Self-Designing Range Filter.</title>
+<year>2022</year>
+<volume>abs/2207.01503</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.01503</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-01503</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-09179" mdate="2025-04-01">
+<author orcid="0000-0003-3176-4401" pid="274/2346">Ningyi Liao</author>
+<author pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="130/7385">Pengcheng Yin</author>
+<title>SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.</title>
+<year>2022</year>
+<volume>abs/2207.09179</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09179</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-09179</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MoL21" mdate="2022-04-09">
+<author pid="305/0642">Dingheng Mo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>Agenda: Robust Personalized PageRanks in Evolving Graphs.</title>
+<pages>1315-1324</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482317</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#MoL21</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/LuoCKXZH20" mdate="2025-01-19">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-0501-9435" pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author orcid="0000-0002-1949-2768" pid="52/6744">Shuigeng Zhou</author>
+<author orcid="0000-0002-5108-5820" pid="120/1593">Jiafeng Hu</author>
+<title>ROAM: A Fundamental Routing Query on Road Networks with Efficiency.</title>
+<pages>1595-1609</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2906188</ee>
+<ee>https://www.wikidata.org/entity/Q128209371</ee>
+<url>db/journals/tkde/tkde32.html#LuoCKXZH20</url>
+</article>
+</r>
+<r><article key="journals/tkde/LuoXLK20" mdate="2025-01-19">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author orcid="0000-0003-4741-801X" pid="121/4164">Wenqing Lin</author>
+<author orcid="0000-0002-0501-9435" pid="k/BenKao">Ben Kao</author>
+<title>BATON: Batch One-Hop Personalized PageRanks with Efficiency and Accuracy.</title>
+<pages>1897-1908</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2912606</ee>
+<ee>https://www.wikidata.org/entity/Q127985180</ee>
+<url>db/journals/tkde/tkde32.html#LuoXLK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/FanCYLLQZ20" mdate="2021-10-14">
+<author pid="276/5026">Mengzhen Fan</author>
+<author pid="135/6864">Dawei Cheng</author>
+<author pid="166/9351">Fangzhou Yang</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="01/5820">Yifeng Luo</author>
+<author pid="55/3364">Weining Qian</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents.</title>
+<pages>2413-2420</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412707</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#FanCYLLQZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Luo20" mdate="2020-12-15">
+<author pid="117/5965">Siqiang Luo</author>
+<title>Improved Communication Cost in Distributed PageRank Computation - A Theoretical Study.</title>
+<pages>6459-6467</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/luo20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Luo20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoCKDQI20" mdate="2025-01-19">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="266/5764">Rafael Ketsetsidis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores.</title>
+<pages>2071-2086</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389731</ee>
+<ee>https://www.wikidata.org/entity/Q130966286</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LuoCKDQI20</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/FangWCLLHC19" mdate="2025-01-19">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="181/2834">Zheng Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-5985-9886" pid="50/3993-9">Xiaodong Li 0009</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5108-5820" pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-2818-4652" pid="20/3215-6">Xiaojun Chen 0006</author>
+<title>On Spatial-Aware Community Search.</title>
+<pages>783-798</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2845414</ee>
+<ee>https://www.wikidata.org/entity/Q129707740</ee>
+<url>db/journals/tkde/tkde31.html#FangWCLLHC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/Luo19" mdate="2021-02-02">
+<author pid="117/5965">Siqiang Luo</author>
+<title>Distributed PageRank Computation: An Improved Theoretical Study.</title>
+<pages>4496-4503</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33014496</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Luo19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoKWC19" mdate="2024-02-05">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0002-5766-2115" pid="70/4432-1">Xiaowei Wu 0001</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<title>MPR - A Partitioning-Replication Framework for Multi-Processing kNN Search on Road Networks.</title>
+<pages>1310-1321</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00119</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#LuoKWC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoXLK19" mdate="2023-06-26">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author orcid="0000-0003-4741-801X" pid="121/4164">Wenqing Lin</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>Efficient Batch One-Hop Personalized PageRanks.</title>
+<pages>1562-1565</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00142</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#LuoXLK19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LuoKLHCZ18" mdate="2025-01-19">
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>TOAIN: A Throughput Optimizing Adaptive Index for Answering Dynamic kNN Queries on Road Networks.</title>
+<pages>594-606</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p594-luo.pdf</ee>
+<ee>https://doi.org/10.1145/3187009.3177736</ee>
+<ee>https://www.wikidata.org/entity/Q126775576</ee>
+<url>db/journals/pvldb/pvldb11.html#LuoKLHCZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/LiKLE18" mdate="2021-10-14">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ROSC: Robust Spectral Clustering on Multi-scale Data.</title>
+<pages>157-166</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3185993</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#LiKLE18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FangCLLH17" mdate="2023-06-26">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective Community Search over Large Spatial Graphs.</title>
+<pages>709-720</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p709-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3055330.3055337</ee>
+<url>db/journals/pvldb/pvldb10.html#FangCLLH17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangCLHH17" mdate="2023-06-26">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="86/489">Kai Huang</author>
+<title>C-Explorer: Browsing Communities in Large Graphs.</title>
+<pages>1885-1888</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1885-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137800</ee>
+<url>db/journals/pvldb/pvldb10.html#FangCLHH17</url>
+</article>
+</r>
+<r><article key="journals/tkde/HuWCLF17" mdate="2024-02-05">
+<author pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-5766-2115" pid="70/4432-1">Xiaowei Wu 0001</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<title>On Minimal Steiner Maximum-Connected Subgraph Queries.</title>
+<pages>2455-2469</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2730873</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2730873</ee>
+<url>db/journals/tkde/tkde29.html#HuWCLF17</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangCCLH17" mdate="2021-10-14">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="96/5327-1">Yankai Chen 0001</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective and efficient attributed community search.</title>
+<pages>803-828</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-017-0482-5</ee>
+<url>db/journals/vldb/vldb26.html#FangCCLH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/HuCHFL17" mdate="2021-10-14">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<title>On Embedding Uncertain Graphs.</title>
+<pages>157-166</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132885</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#HuCHFL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LuoHCYK17" mdate="2023-06-26">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author pid="87/5735">Jing Yan</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>SEQ: Example-based Query for Spatial Objects.</title>
+<pages>2179-2182</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3133073</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#LuoHCYK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FangCLH16" mdate="2021-10-14">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective Community Search for Large Attributed Graphs.</title>
+<pages>1233-1244</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1233-fang.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994538</ee>
+<url>db/journals/pvldb/pvldb9.html#FangCLH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/HuWCLF16" mdate="2024-02-05">
+<author pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-5766-2115" pid="70/4432-1">Xiaowei Wu 0001</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<title>Querying Minimal Steiner Maximum-Connected Subgraphs in Large Graphs.</title>
+<pages>1241-1250</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983748</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#HuWCLF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LuoLZCG14" mdate="2021-10-14">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="01/5820">Yifeng Luo</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author pid="89/2685">Jihong Guan</author>
+<title>Distributed Spatial Keyword Querying on Road Networks.</title>
+<pages>235-246</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.23</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#LuoLZCG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/LuoLGZ13" mdate="2021-10-14">
+<author pid="01/5820">Yifeng Luo</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="89/2685">Jihong Guan</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>A RAMCloud Storage System based on HDFS: Architecture, implementation and evaluation.</title>
+<pages>744-750</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jss.2012.11.025</ee>
+<url>db/journals/jss/jss86.html#LuoLGZ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuMXLTZ13" mdate="2021-10-14">
+<author pid="18/7753">Andy Diwen Zhu</author>
+<author pid="46/5778">Hui Ma</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="29/7052">Youze Tang</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>Shortest path and distance queries on road networks: towards bridging theory and practice.</title>
+<pages>857-868</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465277</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#ZhuMXLTZ13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-2576" mdate="2018-08-13">
+<author pid="18/7753">Andy Diwen Zhu</author>
+<author pid="46/5778">Hui Ma</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="29/7052">Youze Tang</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>Shortest Path and Distance Queries on Road Networks: Towards Bridging Theory and Practice</title>
+<ee type="oa">http://arxiv.org/abs/1304.2576</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.2576</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-2576</url>
+</article>
+</r>
+<r><article key="journals/ivc/LuoZZY12" mdate="2021-10-14">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="02/5388">Junping Zhang</author>
+<author pid="04/2024">Qian Zhang</author>
+<author orcid="0000-0002-7233-980X" pid="36/2050">Xiaoru Yuan</author>
+<title>Multi-operator image retargeting with automatic integration of direct and indirect seam carving.</title>
+<pages>655-667</pages>
+<year>2012</year>
+<volume>30</volume>
+<journal>Image Vis. Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.imavis.2012.06.008</ee>
+<url>db/journals/ivc/ivc30.html#LuoZZY12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuoLZCG12" mdate="2021-10-14">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="01/5820">Yifeng Luo</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author pid="89/2685">Jihong Guan</author>
+<title>DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks.</title>
+<pages>1966-1969</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1966_siqiangluo_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367549</ee>
+<url>db/journals/pvldb/pvldb5.html#LuoLZCG12</url>
+</article>
+</r>
+<coauthors n="129" nc="1">
+<co c="0"><na f="b/Balsebre:Pasquale" pid="319/0259">Pasquale Balsebre</na></co>
+<co c="0"><na f="c/Cao:Yuchao" pid="337/7287">Yuchao Cao</na></co>
+<co c="0"><na f="c/Chai:Huayi" pid="383/5123">Huayi Chai</na></co>
+<co c="0"><na f="c/Chatterjee:Subarna" pid="139/7927">Subarna Chatterjee</na></co>
+<co c="0"><na f="c/Chen_0001:Cen" pid="152/6215-1">Cen Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Deyi" pid="137/1400">Deyi Chen</na></co>
+<co c="0"><na f="c/Chen:Fanchao" pid="332/4410">Fanchao Chen</na></co>
+<co c="0"><na f="c/Chen:Guanduo" pid="352/6148">Guanduo Chen</na></co>
+<co c="0"><na f="c/Chen:Guihai" pid="51/1742">Guihai Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Liang" pid="01/5394-1">Liang Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0006:Xiaojun" pid="20/3215-6">Xiaojun Chen 0006</na></co>
+<co c="0"><na f="c/Chen_0001:Yankai" pid="96/5327-1">Yankai Chen 0001</na></co>
+<co c="0"><na f="c/Cheng:Dawei" pid="135/6864">Dawei Cheng</na></co>
+<co c="0"><na f="c/Cheng:Reynold" pid="89/2619">Reynold Cheng</na></co>
+<co c="0"><na f="c/Cheng:Yao" pid="14/8823">Yao Cheng</na></co>
+<co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
+<co c="0"><na f="c/Cui_0001:Zhen" pid="59/8491-1">Zhen Cui 0001</na></co>
+<co c="0"><na f="d/Dai_0001:Haipeng" pid="124/6911">Haipeng Dai 0001</na></co>
+<co c="0"><na f="d/Dayan:Niv" pid="129/6927">Niv Dayan</na></co>
+<co c="0"><na f="e/Ester:Martin" pid="e/MartinEster">Martin Ester</na></co>
+<co c="0"><na f="f/Fan:Mengzhen" pid="276/5026">Mengzhen Fan</na></co>
+<co c="0"><na f="f/Fang_0002:Peng" pid="86/9628-2">Peng Fang 0002</na></co>
+<co c="0"><na f="f/Fang:Yixiang" pid="76/1735">Yixiang Fang</na></co>
+<co c="0"><na f="f/Feng_0001:Dan" pid="48/5939-1">Dan Feng 0001</na></co>
+<co c="0"><na f="g/Gong:Chenghua" pid="325/8141">Chenghua Gong</na></co>
+<co c="0"><na f="g/Gu:Rong" pid="39/1859">Rong Gu</na></co>
+<co c="0"><na f="g/Guan:Jihong" pid="89/2685">Jihong Guan</na></co>
+<co c="0"><na f="h/Hai:Zhen" pid="21/9125">Zhen Hai</na></co>
+<co c="0"><na f="h/Han:Yufei" pid="74/2507">Yufei Han</na></co>
+<co c="0"><na f="h/He:Zhenying" pid="23/6341">Zhenying He</na></co>
+<co c="0"><na f="h/Hu:Jiafeng" pid="120/1593">Jiafeng Hu</na></co>
+<co c="0"><na f="h/Hu:Shaofeng" pid="69/8730">Shaofeng Hu</na></co>
+<co c="0"><na f="h/Huang:Jiangping" pid="98/10180">Jiangping Huang</na></co>
+<co c="0"><na f="h/Huang:Kai" pid="86/489">Kai Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Zhipeng" pid="34/10063">Zhipeng Huang 0001</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="k/Kao:Ben" pid="k/BenKao">Ben Kao</na></co>
+<co c="0"><na f="k/Ketsetsidis:Rafael" pid="266/5764">Rafael Ketsetsidis</na></co>
+<co c="0"><na f="k/Khan_0001:Arijit" pid="67/2933">Arijit Khan 0001</na></co>
+<co c="0"><na f="k/Kim_0007:Junghoon" pid="27/5423-7">Junghoon Kim 0007</na></co>
+<co c="0" n="2"><na f="k/Knorr:Eric" pid="214/6009">Eric Knorr</na><na>Eric R. Knorr</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lemaire:Baptiste" pid="322/1443">Baptiste Lemaire</na></co>
+<co c="0"><na f="l/Li:Chunbo" pid="268/2072">Chunbo Li</na></co>
+<co c="0"><na f="l/Li_0002:Dongsheng" pid="254/0830-2">Dongsheng Li 0002</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Li_0057:Hui" pid="66/3387-57">Hui Li 0057</na></co>
+<co c="0"><na f="l/Li:Jintang" pid="260/6811">Jintang Li</na></co>
+<co c="0"><na f="l/Li:Ling" pid="92/5001">Ling Li</na></co>
+<co c="0"><na f="l/Li_0010:Meng" pid="70/1726-10">Meng Li 0010</na></co>
+<co c="0"><na f="l/Li_0067:Xiang" pid="40/1491-67">Xiang Li 0067</na></co>
+<co c="0"><na f="l/Li_0009:Xiaodong" pid="50/3993-9">Xiaodong Li 0009</na></co>
+<co c="0"><na f="l/Li:Zhenli" pid="185/6131">Zhenli Li</na></co>
+<co c="0"><na f="l/Liang:Yuqi" pid="78/4623">Yuqi Liang</na></co>
+<co c="0"><na f="l/Liao:Ningyi" pid="274/2346">Ningyi Liao</na></co>
+<co c="0"><na f="l/Lim:Andrew" pid="267/6394">Andrew Lim</na></co>
+<co c="0"><na f="l/Lin_0001:Chen" pid="37/3102-1">Chen Lin 0001</na></co>
+<co c="0"><na f="l/Lin_0008:Dan" pid="181/2634-8">Dan Lin 0008</na></co>
+<co c="0"><na f="l/Lin:Wenqing" pid="121/4164">Wenqing Lin</na></co>
+<co c="0"><na f="l/Liu:Haoyu" pid="203/9503">Haoyu Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Junfeng" pid="40/6926-1">Junfeng Liu 0001</na></co>
+<co c="0"><na f="l/Long_0001:Cheng" pid="58/10813-1">Cheng Long 0001</na></co>
+<co c="0"><na f="l/Luo:Yifeng" pid="01/5820">Yifeng Luo</na></co>
+<co c="0"><na f="m/Ma:Hui" pid="46/5778">Hui Ma</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Mo:Dingheng" pid="305/0642">Dingheng Mo</na></co>
+<co c="0"><na f="p/Peng:Jiaying" pid="260/6444">Jiaying Peng</na></co>
+<co c="0"><na f="q/Qian:Weining" pid="55/3364">Weining Qian</na></co>
+<co c="0"><na f="q/Qin_0001:Lu" pid="51/5585">Lu Qin 0001</na></co>
+<co c="0"><na f="q/Qin:Wilson" pid="181/5874">Wilson Qin</na></co>
+<co c="0"><na f="s/Shan:Caihua" pid="193/1652">Caihua Shan</na></co>
+<co c="0"><na f="s/Shen:Yifei" pid="51/609">Yifei Shen</na></co>
+<co c="0"><na f="s/Shi_0001:Jieming" pid="147/1237-1">Jieming Shi 0001</na></co>
+<co c="0"><na f="s/Shi_0001:Zhan" pid="27/1620-1">Zhan Shi 0001</na></co>
+<co c="0"><na f="s/Sun:Qihang" pid="155/8114">Qihang Sun</na></co>
+<co c="0"><na f="s/Sun_0008:Weiwei" pid="63/6566-8">Weiwei Sun 0008</na></co>
+<co c="0"><na f="t/Tang:Youze" pid="29/7052">Youze Tang</na></co>
+<co c="0"><na f="t/Tian:Wei" pid="56/3860">Wei Tian</na></co>
+<co c="0"><na f="w/Wang_0022:Fan" pid="88/898-22">Fan Wang 0022</na></co>
+<co c="0"><na f="w/Wang_0001:Fang" pid="35/5625-1">Fang Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Guoren" pid="64/146">Guoren Wang</na></co>
+<co c="0"><na f="w/Wang_0057:Kai" pid="78/2022-57">Kai Wang 0057</na></co>
+<co c="0"><na f="w/Wang_0001:Sibo" pid="131/6529-1">Sibo Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zheng" pid="181/2834">Zheng Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengkui" pid="07/9078">Zhengkui Wang</na></co>
+<co c="0"><na f="w/Wu_0001:Xiaowei" pid="70/4432-1">Xiaowei Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Zhiyong" pid="24/968">Zhiyong Wu</na></co>
+<co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
+<co c="0"><na f="x/Xie:Rongbiao" pid="275/8979">Rongbiao Xie</na></co>
+<co c="0"><na f="x/Xie:Xike" pid="64/1308">Xike Xie</na></co>
+<co c="0"><na f="x/Xu:Can" pid="33/965">Can Xu</na></co>
+<co c="0"><na f="x/Xu:Gongping" pid="205/8901">Gongping Xu</na></co>
+<co c="0"><na f="x/Xu:Ruyao" pid="319/3768">Ruyao Xu</na></co>
+<co c="0"><na f="x/Xu_0004:Yuwei" pid="05/9079-4">Yuwei Xu 0004</na></co>
+<co c="0"><na f="x/Xu:Zequan" pid="328/0282">Zequan Xu</na></co>
+<co c="0"><na f="y/Yan:Jing" pid="87/5735">Jing Yan</na></co>
+<co c="0"><na f="y/Yan:Jing_Nathan" pid="236/5688">Jing Nathan Yan</na></co>
+<co c="0"><na f="y/Yang:Fangzhou" pid="166/9351">Fangzhou Yang</na></co>
+<co c="0"><na f="y/Yang_0003:Tong" pid="44/7710-3">Tong Yang 0003</na></co>
+<co c="0"><na f="y/Yang_0001:Yin" pid="56/2998-1">Yin Yang 0001</na></co>
+<co c="0"><na f="y/Yew:Jun_Xuan" pid="352/6714">Jun Xuan Yew</na></co>
+<co c="0"><na f="y/Yin:Pengcheng" pid="130/7385">Pengcheng Yin</na></co>
+<co c="0"><na f="y/Yin:Wei" pid="67/4051">Wei Yin</na></co>
+<co c="0"><na f="y/Yow:Kai_Siong" pid="306/8536">Kai Siong Yow</na></co>
+<co c="0"><na f="y/Yu_0001:Jianxiang" pid="72/6230-1">Jianxiang Yu 0001</na></co>
+<co c="0"><na f="y/Yu_0001:Qi" pid="58/6957-1">Qi Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Weiping" pid="231/8457">Weiping Yu</na></co>
+<co c="0"><na f="y/Yu:Wenyuan" pid="53/5676">Wenyuan Yu</na></co>
+<co c="0"><na f="y/Yu:Zihao" pid="158/9996">Zihao Yu</na></co>
+<co c="0"><na f="y/Yuan:Xiaoru" pid="36/2050">Xiaoru Yuan</na></co>
+<co c="0"><na f="z/Zhang:Hanyuan" pid="141/5046">Hanyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junping" pid="02/5388">Junping Zhang</na></co>
+<co c="0"><na f="z/Zhang:Qian" pid="04/2024">Qian Zhang</na></co>
+<co c="0"><na f="z/Zhang_0021:Tong" pid="07/4227-21">Tong Zhang 0021</na></co>
+<co c="0"><na f="z/Zhang:Xuwei" pid="328/5872">Xuwei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhaoqi" pid="243/8094">Zhaoqi Zhang</na></co>
+<co c="0"><na f="z/Zhao_0001:Wenting" pid="41/10049-1">Wenting Zhao 0001</na></co>
+<co c="0"><na f="z/Zhao:Yuhai" pid="73/5946">Yuhai Zhao</na></co>
+<co c="0"><na f="z/Zheng_0001:Jiaqi" pid="162/1613">Jiaqi Zheng 0001</na></co>
+<co c="0"><na f="z/Zheng:Yudian" pid="160/1053">Yudian Zheng</na></co>
+<co c="0"><na f="z/Zhou:Aoying" pid="z/AoyingZhou">Aoying Zhou</na></co>
+<co c="0"><na f="z/Zhou:Shuigeng" pid="52/6744">Shuigeng Zhou</na></co>
+<co c="0" n="2"><na f="z/Zhu:Diwen" pid="18/7753">Diwen Zhu</na><na>Andy Diwen Zhu</na></co>
+<co c="0"><na f="z/Zhu:Peng" pid="63/5448">Peng Zhu</na></co>
+<co c="0"><na f="z/Zhu:Renyu" pid="279/6596">Renyu Zhu</na></co>
+<co c="0"><na f="z/Zhu:Zichen" pid="149/1342">Zichen Zhu</na></co>
+<co c="0"><na f="z/Zhu:Zulun" pid="219/4427">Zulun Zhu</na></co>
+<co c="0"><na f="z/Zou:Yuanhang" pid="166/6636">Yuanhang Zou</na></co>
+</coauthors>
+</dblpperson>
+

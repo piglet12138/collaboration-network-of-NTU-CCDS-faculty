@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<dblpperson name="Kheng Leong Tan" pid="242/0323" n="4">
+<person key="homepages/242/0323" mdate="2019-06-04">
+<author pid="242/0323">Kheng Leong Tan</author>
+</person>
+<r><article key="journals/csur/TanCL24" mdate="2025-01-19">
+<author orcid="0000-0003-3873-8126" pid="242/0323">Kheng Leong Tan</author>
+<author orcid="0000-0001-7271-1926" pid="89/3076">Chi-Hung Chi</author>
+<author orcid="0000-0001-7479-7970" pid="10/1993">Kwok-Yan Lam</author>
+<title>Survey on Digital Sovereignty and Identity: From Digitization to Digitalization.</title>
+<pages>61:1-61:36</pages>
+<year>2024</year>
+<month>March</month>
+<volume>56</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3616400</ee>
+<ee>https://www.wikidata.org/entity/Q131110447</ee>
+<url>db/journals/csur/csur56.html#TanCL24</url>
+</article>
+</r>
+<r><article key="journals/winet/TanCL24" mdate="2024-08-22">
+<author orcid="0000-0003-3873-8126" pid="242/0323">Kheng Leong Tan</author>
+<author pid="89/3076">Chi-Hung Chi</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>Secure and privacy-preserving sharing of personal health records with multi-party pre-authorization verification.</title>
+<pages>4773-4795</pages>
+<year>2024</year>
+<month>August</month>
+<volume>30</volume>
+<journal>Wirel. Networks</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11276-022-03114-6</ee>
+<url>db/journals/winet/winet30.html#TanCL24</url>
+<stream>streams/journals/winet</stream>
+</article>
+</r>
+<r><inproceedings key="conf/educon/TanG19" mdate="2019-06-04">
+<author pid="242/0323">Kheng Leong Tan</author>
+<author pid="97/6922">Wooi Boon Goh</author>
+<title>Designing a Multi-disciplinary Group Project for Computer Science and Engineering Students.</title>
+<pages>51-57</pages>
+<year>2019</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON.2019.8725147</ee>
+<crossref>conf/educon/2019</crossref>
+<url>db/conf/educon/educon2019.html#TanG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/educon/TanJ19" mdate="2019-06-04">
+<author pid="242/0323">Kheng Leong Tan</author>
+<author pid="242/0364">Kevin Anthony Jones</author>
+<title>Work-in-Progress: QUASS - A Dynamic Knowledge Sharing System.</title>
+<pages>1345-1348</pages>
+<year>2019</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON.2019.8725159</ee>
+<crossref>conf/educon/2019</crossref>
+<url>db/conf/educon/educon2019.html#TanJ19</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="c/Chi:Chi=Hung" pid="89/3076">Chi-Hung Chi</na></co>
+<co c="-1" n="2"><na f="g/Goh:Wooi=Boon" pid="97/6922">Wooi-Boon Goh</na><na>Wooi Boon Goh</na></co>
+<co c="-1"><na f="j/Jones:Kevin_Anthony" pid="242/0364">Kevin Anthony Jones</na></co>
+<co c="0"><na f="l/Lam:Kwok=Yan" pid="10/1993">Kwok-Yan Lam</na></co>
+</coauthors>
+</dblpperson>
+

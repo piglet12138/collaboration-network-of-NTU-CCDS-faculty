@@ -1,0 +1,836 @@
+<?xml version="1.0"?>
+<dblpperson name="Themis Gouleakis" pid="122/9933" n="58">
+<person key="homepages/122/9933" mdate="2025-03-04">
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<url>https://orcid.org/0009-0001-2293-0773</url>
+</person>
+<r><inproceedings key="conf/icml/ChooGL024" mdate="2024-09-02">
+<author pid="230/4363">Davin Choo</author>
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<author pid="172/1134">Chun Kai Ling</author>
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<title>Online bipartite matching with imperfect advice.</title>
+<year>2024</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://openreview.net/forum?id=61WtHsVKWF</ee>
+<crossref>conf/icml/2024</crossref>
+<url>db/conf/icml/icml2024.html#ChooGL024</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-09784" mdate="2025-03-03">
+<author pid="230/4363">Davin Choo</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="172/1134">Chun Kai Ling</author>
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<title>Online bipartite matching with imperfect advice.</title>
+<year>2024</year>
+<volume>abs/2405.09784</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.09784</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-09784</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-12700" mdate="2025-01-01">
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<author pid="230/4363">Davin Choo</author>
+<author pid="241/9382">Philips George John</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<title>Learning multivariate Gaussians with imperfect advice.</title>
+<year>2024</year>
+<volume>abs/2411.12700</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.12700</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-12700</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/dc/AnagnostidesLHZG23" mdate="2025-03-03">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="59/6303-1">Christoph Lenzen 0001</author>
+<author orcid="0000-0003-3381-0459" pid="39/1043">Bernhard Haeupler</author>
+<author pid="149/2213">Goran Zuzic</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<title>Almost universally optimal distributed Laplacian solvers via low-congestion shortcuts.</title>
+<pages>475-499</pages>
+<year>2023</year>
+<month>December</month>
+<volume>36</volume>
+<journal>Distributed Comput.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00446-023-00454-0</ee>
+<url>db/journals/dc/dc36.html#AnagnostidesLHZG23</url>
+</article>
+</r>
+<r><article key="journals/disopt/AntoniadisGKK23" mdate="2025-03-03">
+<author orcid="0000-0003-2152-7883" pid="91/7609">Antonios Antoniadis 0001</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author orcid="0000-0003-4304-7282" pid="180/5572">Pieter Kleer</author>
+<author pid="153/5818">Pavel Kolev</author>
+<title>Secretary and online matching problems with machine learned advice.</title>
+<pages>100778</pages>
+<year>2023</year>
+<month>May</month>
+<volume>48</volume>
+<journal>Discret. Optim.</journal>
+<number>Part 2</number>
+<ee type="oa">https://doi.org/10.1016/j.disopt.2023.100778</ee>
+<url>db/journals/disopt/disopt48.html#AntoniadisGKK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GouleakisLS23" mdate="2025-03-03">
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themistoklis Gouleakis</author>
+<author pid="322/0017">Konstantinos Lakis</author>
+<author pid="228/7906">Golnoosh Shahkarami</author>
+<title>Learning-Augmented Algorithms for Online TSP on the Line.</title>
+<pages>11989-11996</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i10.26414</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#GouleakisLS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/BampisEGHLSX23" mdate="2025-03-03">
+<author pid="07/3300">Evripidis Bampis</author>
+<author pid="96/3761">Bruno Escoffier</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author orcid="0000-0002-4929-0542" pid="244/9490">Niklas Hahn</author>
+<author pid="322/0017">Kostas Lakis</author>
+<author pid="228/7906">Golnoosh Shahkarami</author>
+<author pid="329/6300">Michalis Xefteris</author>
+<title>Learning-Augmented Online TSP on Rings, Trees, Flowers and (Almost) Everywhere Else.</title>
+<pages>12:1-12:17</pages>
+<year>2023</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2023.12</ee>
+<crossref>conf/esa/2023</crossref>
+<url>db/conf/esa/esa2023.html#BampisEGHLSX23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ChooG023" mdate="2023-08-28">
+<author pid="230/4363">Davin Choo</author>
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<title>Active causal structure learning with advice.</title>
+<pages>5838-5867</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/choo23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#ChooG023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-02169" mdate="2025-03-03">
+<author pid="07/3300">Evripidis Bampis</author>
+<author pid="96/3761">Bruno Escoffier</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="244/9490">Niklas Hahn</author>
+<author pid="322/0017">Kostas Lakis</author>
+<author pid="228/7906">Golnoosh Shahkarami</author>
+<author pid="329/6300">Michalis Xefteris</author>
+<title>Learning-Augmented Online TSP on Rings, Trees, Flowers and (almost) Everywhere Else.</title>
+<year>2023</year>
+<volume>abs/2305.02169</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.02169</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-02169</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-19588" mdate="2023-06-07">
+<author pid="230/4363">Davin Choo</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<title>Active causal structure learning with advice.</title>
+<year>2023</year>
+<volume>abs/2305.19588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.19588</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-19588</url>
+</article>
+</r>
+<r><inproceedings key="conf/podc/Anagnostides0HZ22" mdate="2025-03-03">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="59/6303-1">Christoph Lenzen 0001</author>
+<author pid="39/1043">Bernhard Haeupler</author>
+<author pid="149/2213">Goran Zuzic</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<title>Brief Announcement: Almost Universally Optimal Distributed Laplacian Solver.</title>
+<pages>372-374</pages>
+<year>2022</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3519270.3538464</ee>
+<ee>https://www.wikidata.org/entity/Q130818761</ee>
+<crossref>conf/podc/2022</crossref>
+<url>db/conf/podc/podc2022.html#Anagnostides0HZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/Anagnostides0HZ22" mdate="2025-03-03">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="59/6303-1">Christoph Lenzen 0001</author>
+<author pid="39/1043">Bernhard Haeupler</author>
+<author pid="149/2213">Goran Zuzic</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<title>Almost Universally Optimal Distributed Laplacian Solvers via Low-Congestion Shortcuts.</title>
+<pages>6:1-6:20</pages>
+<year>2022</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2022.6</ee>
+<crossref>conf/wdag/2022</crossref>
+<url>db/conf/wdag/disc2022.html#Anagnostides0HZ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-00655" mdate="2025-03-03">
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author orcid="0009-0004-5595-1839" pid="322/0017">Konstantinos Lakis</author>
+<author pid="228/7906">Golnoosh Shahkarami</author>
+<title>Learning-Augmented Algorithms for Online TSP on the Line.</title>
+<year>2022</year>
+<volume>abs/2206.00655</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.00655</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-00655</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/AnagnostidesGM21" mdate="2021-04-14">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="276/7638">Ali Marashian</author>
+<title>Robust Learning under Strong Noise via SQs.</title>
+<pages>3808-3816</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/anagnostides21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#AnagnostidesGM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/DiakonikolasGKP21" mdate="2025-03-03">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="52/6817">Daniel M. Kane</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Optimal testing of discrete distributions with high probability.</title>
+<pages>542-555</pages>
+<year>2021</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/3406325.3450997</ee>
+<crossref>conf/stoc/2021</crossref>
+<url>db/conf/stoc/stoc2021.html#DiakonikolasGKP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AnagnostidesG21" mdate="2025-03-03">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<title>Deterministic Distributed Algorithms and Lower Bounds in the Hybrid Model.</title>
+<pages>5:1-5:19</pages>
+<year>2021</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2021.5</ee>
+<crossref>conf/wdag/2021</crossref>
+<url>db/conf/wdag/disc2021.html#AnagnostidesG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-08277" mdate="2022-03-24">
+<author pid="95/4731">Dimitris Fotakis 0001</author>
+<author pid="243/2555">Evangelia Gergatsouli</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="297/4669">Nikolas Patris</author>
+<title>Learning Augmented Online Facility Location.</title>
+<year>2021</year>
+<volume>abs/2107.08277</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.08277</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-08277</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-01740" mdate="2021-08-05">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<title>Deterministic Distributed Algorithms and Lower Bounds in the Hybrid Model.</title>
+<year>2021</year>
+<volume>abs/2108.01740</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.01740</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-01740</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-05151" mdate="2022-02-24">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="59/6303-1">Christoph Lenzen 0001</author>
+<title>Accelerated Distributed Laplacian Solvers via Shortcuts.</title>
+<year>2021</year>
+<volume>abs/2109.05151</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.05151</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-05151</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/AntoniadisGKK20" mdate="2023-05-10">
+<author pid="91/7609">Antonios Antoniadis 0001</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="180/5572">Pieter Kleer</author>
+<author pid="153/5818">Pavel Kolev</author>
+<title>Secretary and Online Matching Problems with Machine Learned Advice.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/5a378f8490c8d6af8647a753812f6e31-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#AntoniadisGKK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/AchlioptasGI20" mdate="2025-03-03">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="147/4790">Fotis Iliopoulos</author>
+<title>Simple Local Computation Algorithms for the General Lov&#225;sz Local Lemma.</title>
+<pages>1-10</pages>
+<year>2020</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/3350755.3400250</ee>
+<crossref>conf/spaa/2020</crossref>
+<url>db/conf/spaa/spaa2020.html#AchlioptasGI20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-01026" mdate="2023-05-10">
+<author pid="91/7609">Antonios Antoniadis 0001</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="180/5572">Pieter Kleer</author>
+<author pid="153/5818">Pavel Kolev</author>
+<title>Secretary and Online Matching Problems with Machine Learned Advice.</title>
+<year>2020</year>
+<volume>abs/2006.01026</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.01026</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-01026</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-06540" mdate="2022-04-25">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="52/6817">Daniel M. Kane</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Optimal Testing of Discrete Distributions with High Probability.</title>
+<year>2020</year>
+<volume>abs/2009.06540</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.06540</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-06540</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09106" mdate="2020-10-21">
+<author pid="273/7648">Ioannis Anagnostides</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="276/7638">Ali Marashian</author>
+<title>Robust Learning under Strong Noise via SQs.</title>
+<year>2020</year>
+<volume>abs/2010.09106</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09106</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09106</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12000" mdate="2020-10-27">
+<author pid="d/ConstantinosDaskalakis">Constantinos Daskalakis</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author pid="138/8059">Manolis Zampetakis</author>
+<title>Computationally and Statistically Efficient Truncated Regression.</title>
+<year>2020</year>
+<volume>abs/2010.12000</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12000</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12000</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/DiakonikolasGKP20" mdate="2024-04-04">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="52/6817">Daniel Kane 0001</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Optimal Testing of Discrete Distributions with High Probability.</title>
+<publnr>TR20-140</publnr>
+<year>2020</year>
+<volume>TR20</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2020/140</ee>
+<url>db/journals/eccc/eccc27.html#DiakonikolasGKP20</url>
+</article>
+</r>
+<r><article key="journals/cjtcs/DiakonikolasGPP19" mdate="2022-04-25">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Collision-Based Testers are Optimal for Uniformity and Closeness.</title>
+<year>2019</year>
+<volume>2019</volume>
+<journal>Chic. J. Theor. Comput. Sci.</journal>
+<ee type="oa">http://cjtcs.cs.uchicago.edu/articles/2019/1/contents.html</ee>
+<url>db/journals/cjtcs/cjtcs2019.html#DiakonikolasGPP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/AliakbarpourGPR19" mdate="2019-07-08">
+<author pid="175/1689">Maryam Aliakbarpour</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<author pid="159/1878">Anak Yodpinyanee</author>
+<title>Towards Testing Monotonicity of Distributions Over General Posets.</title>
+<pages>34-82</pages>
+<year>2019</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v99/aliakbarpour19a.html</ee>
+<crossref>conf/colt/2019</crossref>
+<url>db/conf/colt/colt2019.html#AliakbarpourGPR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/DaskalakisGTZ19" mdate="2024-05-07">
+<author pid="d/ConstantinosDaskalakis">Constantinos Daskalakis</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author orcid="0009-0005-4967-5927" pid="138/8059">Manolis Zampetakis</author>
+<title>Computationally and Statistically Efficient Truncated Regression.</title>
+<pages>955-960</pages>
+<year>2019</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v99/daskalakis19a.html</ee>
+<crossref>conf/colt/2019</crossref>
+<url>db/conf/colt/colt2019.html#DaskalakisGTZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/DiakonikolasGKR19" mdate="2019-07-08">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="52/6817">Daniel M. Kane</author>
+<author pid="180/5591">Sankeerth Rao</author>
+<title>Communication and Memory Efficient Testing of Discrete Distributions.</title>
+<pages>1070-1106</pages>
+<year>2019</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v99/diakonikolas19a.html</ee>
+<crossref>conf/colt/2019</crossref>
+<url>db/conf/colt/colt2019.html#DiakonikolasGKR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DiakonikolasGT19" mdate="2021-01-21">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<title>Distribution-Independent PAC Learning of Halfspaces with Massart Noise.</title>
+<pages>4751-4762</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/358aee4cc897452c00244351e4d91f69-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#DiakonikolasGT19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-04709" mdate="2019-06-14">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="52/6817">Daniel M. Kane</author>
+<author pid="180/5591">Sankeerth Rao</author>
+<title>Communication and Memory Efficient Testing of Discrete Distributions.</title>
+<year>2019</year>
+<volume>abs/1906.04709</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.04709</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-04709</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-10075" mdate="2019-06-27">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<title>Distribution-Independent PAC Learning of Halfspaces with Massart Noise.</title>
+<year>2019</year>
+<volume>abs/1906.10075</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.10075</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-10075</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-03182" mdate="2019-07-17">
+<author pid="175/1689">Maryam Aliakbarpour</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<author pid="159/1878">Anak Yodpinyanee</author>
+<title>Towards Testing Monotonicity of Distributions Over General Posets.</title>
+<year>2019</year>
+<volume>abs/1907.03182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.03182</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-03182</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Gouleakis18" mdate="2022-05-04">
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<title>New directions in sublinear algorithms and testing properties of distributions.</title>
+<year>2018</year>
+<school>Massachusetts Institute of Technology, Cambridge, USA</school>
+<ee>https://hdl.handle.net/1721.1/120434</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/120434)</note>
+</phdthesis>
+</r>
+<r><article key="journals/algorithmica/AliakbarpourBGP18" mdate="2025-03-03">
+<author orcid="0000-0001-5064-3221" pid="175/1689">Maryam Aliakbarpour</author>
+<author pid="175/1265">Amartya Shankha Biswas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<author orcid="0000-0002-7572-2003" pid="159/1878">Anak Yodpinyanee</author>
+<title>Sublinear-Time Algorithms for Counting Star Subgraphs via Edge Sampling.</title>
+<pages>668-697</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00453-017-0287-3</ee>
+<url>db/journals/algorithmica/algorithmica80.html#AliakbarpourBGP18</url>
+</article>
+</r>
+<r><article key="journals/mst/CanonneDGR18" mdate="2025-03-03">
+<author orcid="0000-0001-7153-5211" pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Testing Shape Restrictions of Discrete Distributions.</title>
+<pages>4-62</pages>
+<year>2018</year>
+<volume>62</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00224-017-9785-6</ee>
+<url>db/journals/mst/mst62.html#CanonneDGR18</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/CanonneGR18" mdate="2025-03-03">
+<author orcid="0000-0001-7153-5211" pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Sampling Correctors.</title>
+<pages>1373-1423</pages>
+<year>2018</year>
+<volume>47</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/16M1076666</ee>
+<url>db/journals/siamcomp/siamcomp47.html#CanonneGR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/GouleakisTZ18" mdate="2024-05-07">
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author orcid="0009-0005-4967-5927" pid="138/8059">Manolis Zampetakis</author>
+<title>Certified Computation from Unreliable Datasets.</title>
+<pages>3271-3294</pages>
+<year>2018</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v75/gouleakis18a.html</ee>
+<crossref>conf/colt/2018</crossref>
+<url>db/conf/colt/colt2018.html#GouleakisTZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/DaskalakisGTZ18" mdate="2025-03-03">
+<author pid="d/ConstantinosDaskalakis">Constantinos Daskalakis</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author orcid="0000-0002-7560-5069" pid="79/8819">Christos Tzamos</author>
+<author orcid="0009-0005-4967-5927" pid="138/8059">Manolis Zampetakis</author>
+<title>Efficient Statistics, in High Dimensions, from Truncated Samples.</title>
+<pages>639-649</pages>
+<year>2018</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2018.00067</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2018.00067</ee>
+<crossref>conf/focs/2018</crossref>
+<url>db/conf/focs/focs2018.html#DaskalakisGTZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/DiakonikolasGPP18" mdate="2025-03-03">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Sample-Optimal Identity Testing with High Probability.</title>
+<pages>41:1-41:14</pages>
+<year>2018</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2018.41</ee>
+<crossref>conf/icalp/2018</crossref>
+<url>db/conf/icalp/icalp2018.html#DiakonikolasGPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/GhaffariGKMR18" mdate="2025-03-03">
+<author pid="33/5673">Mohsen Ghaffari 0001</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="15/8910-1">Christian Konrad 0001</author>
+<author pid="133/7331">Slobodan Mitrovic</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover.</title>
+<pages>129-138</pages>
+<year>2018</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3212734.3212743</ee>
+<crossref>conf/podc/2018</crossref>
+<url>db/conf/podc/podc2018.html#GhaffariGKMR18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-08237" mdate="2022-05-23">
+<author pid="33/5673">Mohsen Ghaffari 0001</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="133/7331">Slobodan Mitrovic</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover.</title>
+<year>2018</year>
+<volume>abs/1802.08237</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.08237</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-08237</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-03986" mdate="2018-10-05">
+<author pid="d/ConstantinosDaskalakis">Constantinos Daskalakis</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author pid="138/8059">Manolis Zampetakis</author>
+<title>Efficient Statistics, in High Dimensions, from Truncated Samples.</title>
+<year>2018</year>
+<volume>abs/1809.03986</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.03986</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-03986</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-07910" mdate="2018-10-05">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="147/4790">Fotis Iliopoulos</author>
+<title>Local Computation Algorithms for the Lov&#225;sz Local Lemma.</title>
+<year>2018</year>
+<volume>abs/1809.07910</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.07910</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-07910</url>
+</article>
+</r>
+<r><inproceedings key="conf/soda/GouleakisTZ17" mdate="2025-03-03">
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themistoklis Gouleakis</author>
+<author orcid="0000-0002-7560-5069" pid="79/8819">Christos Tzamos</author>
+<author orcid="0009-0005-4967-5927" pid="138/8059">Manolis Zampetakis</author>
+<title>Faster Sublinear Algorithms using Conditional Sampling.</title>
+<pages>1743-1757</pages>
+<year>2017</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611974782.114</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3039800</ee>
+<crossref>conf/soda/2017</crossref>
+<url>db/conf/soda/soda2017.html#GouleakisTZ17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-02728" mdate="2022-04-25">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Sample-Optimal Identity Testing with High Probability.</title>
+<year>2017</year>
+<volume>abs/1708.02728</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.02728</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-02728</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-03926" mdate="2018-08-13">
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author pid="138/8059">Manolis Zampetakis</author>
+<title>Certified Computation in Crowdsourcing.</title>
+<year>2017</year>
+<volume>abs/1709.03926</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.03926</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-03926</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/DiakonikolasGPP17" mdate="2022-09-27">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Sample-Optimal Identity Testing with High Probability.</title>
+<publnr>TR17-133</publnr>
+<year>2017</year>
+<volume>TR17</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2017/133</ee>
+<url>db/journals/eccc/eccc24.html#DiakonikolasGPP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/innovations/CanonneGR16" mdate="2025-03-03">
+<author pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Sampling Correctors.</title>
+<pages>93-102</pages>
+<year>2016</year>
+<booktitle>ITCS</booktitle>
+<ee>https://doi.org/10.1145/2840728.2840729</ee>
+<crossref>conf/innovations/2016</crossref>
+<url>db/conf/innovations/innovations2016.html#CanonneGR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/CanonneDGR16" mdate="2025-03-03">
+<author pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Testing Shape Restrictions of Discrete Distributions.</title>
+<pages>25:1-25:14</pages>
+<year>2016</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2016.25</ee>
+<crossref>conf/stacs/2016</crossref>
+<url>db/conf/stacs/stacs2016.html#CanonneDGR16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AliakbarpourBGP16" mdate="2018-08-13">
+<author pid="175/1689">Maryam Aliakbarpour</author>
+<author pid="175/1265">Amartya Shankha Biswas</author>
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<author pid="159/1878">Anak Yodpinyanee</author>
+<title>Sublinear-Time Algorithms for Counting Star Subgraphs with Applications to Join Selectivity Estimation.</title>
+<year>2016</year>
+<volume>abs/1601.04233</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.04233</ee>
+<url>db/journals/corr/corr1601.html#AliakbarpourBGP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GouleakisTZ16" mdate="2018-08-13">
+<author pid="122/9933">Themistoklis Gouleakis</author>
+<author pid="79/8819">Christos Tzamos</author>
+<author pid="138/8059">Manolis Zampetakis</author>
+<title>Faster Sublinear Algorithms using Conditional Sampling.</title>
+<year>2016</year>
+<volume>abs/1608.04759</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.04759</ee>
+<url>db/journals/corr/corr1608.html#GouleakisTZ16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DiakonikolasGPP16" mdate="2022-04-25">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Collision-based Testers are Optimal for Uniformity and Closeness.</title>
+<year>2016</year>
+<volume>abs/1611.03579</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.03579</ee>
+<url>db/journals/corr/corr1611.html#DiakonikolasGPP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/DiakonikolasGPP16" mdate="2022-09-27">
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="149/2261">John Peebles</author>
+<author pid="40/674">Eric Price 0001</author>
+<title>Collision-based Testers are Optimal for Uniformity and Closeness.</title>
+<publnr>TR16-178</publnr>
+<year>2016</year>
+<volume>TR16</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2016/178</ee>
+<url>db/journals/eccc/eccc23.html#DiakonikolasGPP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CanonneGR15" mdate="2018-08-13">
+<author pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Sampling Correctors.</title>
+<year>2015</year>
+<volume>abs/1504.06544</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.06544</ee>
+<url>db/journals/corr/corr1504.html#CanonneGR15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CanonneDGR15" mdate="2018-08-13">
+<author pid="28/9840L">Cl&#233;ment L. Canonne</author>
+<author pid="d/IliasDiakonikolas">Ilias Diakonikolas</author>
+<author pid="122/9933">Themis Gouleakis</author>
+<author pid="r/RonittRubinfeld">Ronitt Rubinfeld</author>
+<title>Testing Shape Restrictions of Discrete Distributions.</title>
+<year>2015</year>
+<volume>abs/1507.03558</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.03558</ee>
+<url>db/journals/corr/corr1507.html#CanonneDGR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fsttcs/AchlioptasG12" mdate="2025-03-03">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<author orcid="0009-0001-2293-0773" pid="122/9933">Themis Gouleakis</author>
+<title>Algorithmic Improvements of the Lov&#225;sz Local Lemma via Cluster Expansion .</title>
+<pages>16-23</pages>
+<year>2012</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2012.16</ee>
+<crossref>conf/fsttcs/2012</crossref>
+<url>db/conf/fsttcs/fsttcs2012.html#AchlioptasG12</url>
+</inproceedings>
+</r>
+<coauthors n="39" nc="2">
+<co c="1"><na f="a/Achlioptas:Dimitris" pid="34/4066">Dimitris Achlioptas</na></co>
+<co c="0"><na f="a/Aliakbarpour:Maryam" pid="175/1689">Maryam Aliakbarpour</na></co>
+<co c="0"><na f="a/Anagnostides:Ioannis" pid="273/7648">Ioannis Anagnostides</na></co>
+<co c="0"><na f="a/Antoniadis_0001:Antonios" pid="91/7609">Antonios Antoniadis 0001</na></co>
+<co c="0"><na f="b/Bampis:Evripidis" pid="07/3300">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Bhattacharyya_0001:Arnab" pid="64/574">Arnab Bhattacharyya 0001</na></co>
+<co c="0"><na f="b/Biswas:Amartya_Shankha" pid="175/1265">Amartya Shankha Biswas</na></co>
+<co c="0"><na f="c/Canonne:Cl=eacute=ment_L=" pid="28/9840L">Cl&#233;ment L. Canonne</na></co>
+<co c="0"><na f="c/Choo:Davin" pid="230/4363">Davin Choo</na></co>
+<co c="0"><na f="d/Daskalakis:Constantinos" pid="d/ConstantinosDaskalakis">Constantinos Daskalakis</na></co>
+<co c="0"><na f="d/Diakonikolas:Ilias" pid="d/IliasDiakonikolas">Ilias Diakonikolas</na></co>
+<co c="0"><na f="e/Escoffier:Bruno" pid="96/3761">Bruno Escoffier</na></co>
+<co c="0"><na f="f/Fotakis_0001:Dimitris" pid="95/4731">Dimitris Fotakis 0001</na></co>
+<co c="0"><na f="g/Gergatsouli:Evangelia" pid="243/2555">Evangelia Gergatsouli</na></co>
+<co c="0"><na f="g/Ghaffari_0001:Mohsen" pid="33/5673">Mohsen Ghaffari 0001</na></co>
+<co c="0"><na f="h/Haeupler:Bernhard" pid="39/1043">Bernhard Haeupler</na></co>
+<co c="0"><na f="h/Hahn:Niklas" pid="244/9490">Niklas Hahn</na></co>
+<co c="1"><na f="i/Iliopoulos:Fotis" pid="147/4790">Fotis Iliopoulos</na></co>
+<co c="0"><na f="j/John:Philips_George" pid="241/9382">Philips George John</na></co>
+<co c="0" n="2"><na f="k/Kane:Daniel_M=" pid="52/6817">Daniel M. Kane</na><na>Daniel Kane 0001</na></co>
+<co c="0" n="2"><na f="k/Karingula:Sankeerth_Rao" pid="180/5591">Sankeerth Rao Karingula</na><na>Sankeerth Rao</na></co>
+<co c="0"><na f="k/Kleer:Pieter" pid="180/5572">Pieter Kleer</na></co>
+<co c="0"><na f="k/Kolev:Pavel" pid="153/5818">Pavel Kolev</na></co>
+<co c="0"><na f="k/Konrad_0001:Christian" pid="15/8910-1">Christian Konrad 0001</na></co>
+<co c="0" n="2"><na f="l/Lakis:Konstantinos" pid="322/0017">Konstantinos Lakis</na><na>Kostas Lakis</na></co>
+<co c="0"><na f="l/Lenzen_0001:Christoph" pid="59/6303-1">Christoph Lenzen 0001</na></co>
+<co c="0"><na f="l/Ling:Chun_Kai" pid="172/1134">Chun Kai Ling</na></co>
+<co c="0"><na f="m/Marashian:Ali" pid="276/7638">Ali Marashian</na></co>
+<co c="0"><na f="m/Mitrovic:Slobodan" pid="133/7331">Slobodan Mitrovic</na></co>
+<co c="0"><na f="p/Patris:Nikolas" pid="297/4669">Nikolas Patris</na></co>
+<co c="0"><na f="p/Peebles:John" pid="149/2261">John Peebles</na></co>
+<co c="0"><na f="p/Price_0001:Eric" pid="40/674">Eric Price 0001</na></co>
+<co c="0"><na f="r/Rubinfeld:Ronitt" pid="r/RonittRubinfeld">Ronitt Rubinfeld</na></co>
+<co c="0"><na f="s/Shahkarami:Golnoosh" pid="228/7906">Golnoosh Shahkarami</na></co>
+<co c="0"><na f="t/Tzamos:Christos" pid="79/8819">Christos Tzamos</na></co>
+<co c="0"><na f="x/Xefteris:Michalis" pid="329/6300">Michalis Xefteris</na></co>
+<co c="0"><na f="y/Yodpinyanee:Anak" pid="159/1878">Anak Yodpinyanee</na></co>
+<co c="0"><na f="z/Zampetakis:Manolis" pid="138/8059">Manolis Zampetakis</na></co>
+<co c="0"><na f="z/Zuzic:Goran" pid="149/2213">Goran Zuzic</na></co>
+</coauthors>
+</dblpperson>
+

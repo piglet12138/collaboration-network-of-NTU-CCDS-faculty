@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="position" attr.type="string"/>
+<key id="d2" for="node" attr.name="management" attr.type="string"/>
+<key id="d1" for="node" attr.name="area" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="15/3108">
+  <data key="d0">Alexei Sourin</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="s/SeahHockSoon">
+  <data key="d0">Seah Hock Soon</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="99/4535">
+  <data key="d0">Anupam Chattopadhyay</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="d/AnwitamanDatta">
+  <data key="d0">Anwitaman Datta</data>
+  <data key="d1">Distributed Systems</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="73/1708">
+  <data key="d0">Arvind Easwaran</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="66/549">
+  <data key="d0">A. S. Madhukumar</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="30/6609">
+  <data key="d0">Chiew Tong Lau</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="42/6178-1">
+  <data key="d0">Bo An 0001</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="m/ChunyanMiao">
+  <data key="d0">Chunyan Miao</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="03/1554-1">
+  <data key="d0">Zhiqi Shen 0001</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Senior Lecturer</data>
+</node>
+<node id="83/6096">
+  <data key="d0">Jianfei Cai 0001</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="05/2952">
+  <data key="d0">Liang-Tien Chia</data>
+  <data key="d1">Multimedia</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="83/3179">
+  <data key="d0">Wentong Cai 0001</data>
+  <data key="d1">Distributed Systems</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="l/BuSungLee">
+  <data key="d0">Bu-Sung Lee</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">Y</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="64/4136">
+  <data key="d0">Yew-Soon Ong</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="s/CZSun">
+  <data key="d0">Chengzheng Sun</data>
+  <data key="d1">HCI</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="61/3119">
+  <data key="d0">Shell-Ying Huang</data>
+  <data key="d1">Distributed Systems</data>
+  <data key="d2">N</data>
+  <data key="d3">Senior Lecturer</data>
+</node>
+<node id="29/3808">
+  <data key="d0">Tat-Jen Cham</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="80/2106">
+  <data key="d0">Syin Chan</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="95/3115">
+  <data key="d0">Deepu Rajan</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="04/3030">
+  <data key="d0">Chee-Wei Tan 0001</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="b/SSBhowmick">
+  <data key="d0">Sourav S. Bhowmick</data>
+  <data key="d1">Data Management</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="52/910">
+  <data key="d0">Chai Kiat Yeo</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">Y</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="c/ChngEngSiong">
+  <data key="d0">Chng Eng Siong</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="95/7006">
+  <data key="d0">Cuntai Guan</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="33/3180">
+  <data key="d0">Gao Cong</data>
+  <data key="d1">Data Mining</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="63/6663">
+  <data key="d0">Douglas L. Maskell</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="76/440">
+  <data key="d0">Dusit Niyato</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="97/6922">
+  <data key="d0">Wooi-Boon Goh</data>
+  <data key="d1">HCI</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="h/YingHe1">
+  <data key="d0">Ying He 0001</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="65/3225">
+  <data key="d0">Siu Cheung Hui</data>
+  <data key="d1">Information Retrieval</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="07/3111">
+  <data key="d0">Yiping Ke</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Assistant Professor</data>
+</node>
+<node id="16/3792">
+  <data key="d0">Adams Wai-Kin Kong</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="32/228">
+  <data key="d0">Chee Keong Kwoh 0001</data>
+  <data key="d1">Bioinformatics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="10/1993">
+  <data key="d0">Kwok-Yan Lam</data>
+  <data key="d1">Cyber Security</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="74/1907">
+  <data key="d0">Siew-Kei Lam</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Assistant Professor</data>
+</node>
+<node id="23/1694">
+  <data key="d0">Thambipillai Srikanthan</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="69/8028">
+  <data key="d0">Nicholas C. H. Vun</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="23/2460">
+  <data key="d0">Xueyan Tang</data>
+  <data key="d1">Distributed Systems</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="a/QianhuiAltheaLiang">
+  <data key="d0">Qianhui Althea Liang</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Lecturer</data>
+</node>
+<node id="75/2611-2">
+  <data key="d0">Feng Lin 0002</data>
+  <data key="d1">Bioinformatics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="55/4730-1">
+  <data key="d0">Shangwei Lin 0001</data>
+  <data key="d1">Software Engg</data>
+  <data key="d2">N</data>
+  <data key="d3">Assistant Professor</data>
+</node>
+<node id="14/3737">
+  <data key="d0">Weisi Lin</data>
+  <data key="d1">Multimedia</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="51/3710-3">
+  <data key="d0">Yang Liu 0003</data>
+  <data key="d1">Software Engg</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="32/3735">
+  <data key="d0">Li Fang</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Senior Lecturer</data>
+</node>
+<node id="o/CHLukeOng">
+  <data key="d0">C.-H. Luke Ong</data>
+  <data key="d1">Software Engg</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="42/2501-1">
+  <data key="d0">Jun Luo 0001</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="42/2718">
+  <data key="d0">Shijian Lu</data>
+  <data key="d1">Computer Vision</data>
+  <data key="d2">N</data>
+  <data key="d3">Assistant Professor</data>
+</node>
+<node id="w/MelanieWeis">
+  <data key="d0">Melanie Herschel</data>
+  <data key="d1">Computer Architecture</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="n/WeeKeongNg">
+  <data key="d0">Wee Keong Ng</data>
+  <data key="d1">Cyber Security</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="78/5155">
+  <data key="d0">Aixin Sun</data>
+  <data key="d1">Information Retrieval</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="59/4829">
+  <data key="d0">Chin Ann Ong</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Lecturer</data>
+</node>
+<node id="84/2408">
+  <data key="d0">Owen Noel Newton Fernando</data>
+  <data key="d1">HCI</data>
+  <data key="d2">N</data>
+  <data key="d3">Senior Lecturer</data>
+</node>
+<node id="80/5412">
+  <data key="d0">Sinno Jialin Pan</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="q/HiokChaiQuek">
+  <data key="d0">Hiok Chai Quek</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="91/665">
+  <data key="d0">Jagath C. Rajapakse</data>
+  <data key="d1">Bioinformatics</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="09/5452">
+  <data key="d0">Jianmin Zheng</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="38/3641">
+  <data key="d0">Ah-Hwee Tan</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="46/3391">
+  <data key="d0">Dacheng Tao</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="33/885">
+  <data key="d0">Yonggang Wen 0001</data>
+  <data key="d1">Multimedia</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="95/378">
+  <data key="d0">Xavier Bresson</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="84/6889-2">
+  <data key="d0">Jie Zhang 0002</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="93/4009">
+  <data key="d0">Zinovi Rabinovich</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Assistant Professor</data>
+</node>
+<edge source="15/3108" target="s/SeahHockSoon">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="s/SeahHockSoon" target="75/2611-2">
+  <data key="d4">7.0</data>
+</edge>
+<edge source="s/SeahHockSoon" target="09/5452">
+  <data key="d4">2.0</data>
+</edge>
+<edge source="s/SeahHockSoon" target="23/1694">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="66/549" target="30/6609">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="30/6609" target="65/3225">
+  <data key="d4">3.0</data>
+</edge>
+<edge source="30/6609" target="l/BuSungLee">
+  <data key="d4">5.0</data>
+</edge>
+<edge source="30/6609" target="52/910">
+  <data key="d4">2.0</data>
+</edge>
+<edge source="30/6609" target="69/8028">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="42/6178-1" target="m/ChunyanMiao">
+  <data key="d4">4.0</data>
+</edge>
+<edge source="42/6178-1" target="03/1554-1">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="m/ChunyanMiao" target="03/1554-1">
+  <data key="d4">11.0</data>
+</edge>
+<edge source="83/6096" target="05/2952">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="05/2952" target="80/2106">
+  <data key="d4">3.0</data>
+</edge>
+<edge source="05/2952" target="l/BuSungLee">
+  <data key="d4">10.0</data>
+</edge>
+<edge source="05/2952" target="95/3115">
+  <data key="d4">20.0</data>
+</edge>
+<edge source="05/2952" target="b/SSBhowmick">
+  <data key="d4">6.0</data>
+</edge>
+<edge source="05/2952" target="52/910">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="83/3179" target="l/BuSungLee">
+  <data key="d4">29.0</data>
+</edge>
+<edge source="83/3179" target="64/4136">
+  <data key="d4">3.0</data>
+</edge>
+<edge source="83/3179" target="s/CZSun">
+  <data key="d4">2.0</data>
+</edge>
+<edge source="83/3179" target="61/3119">
+  <data key="d4">6.0</data>
+</edge>
+<edge source="l/BuSungLee" target="80/2106">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="l/BuSungLee" target="61/3119">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="l/BuSungLee" target="65/3225">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="l/BuSungLee" target="52/910">
+  <data key="d4">23.0</data>
+</edge>
+<edge source="l/BuSungLee" target="23/2460">
+  <data key="d4">2.0</data>
+</edge>
+<edge source="l/BuSungLee" target="64/4136">
+  <data key="d4">5.0</data>
+</edge>
+<edge source="l/BuSungLee" target="69/8028">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="80/2106" target="95/3115">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="b/SSBhowmick" target="n/WeeKeongNg">
+  <data key="d4">30.0</data>
+</edge>
+<edge source="52/910" target="65/3225">
+  <data key="d4">9.0</data>
+</edge>
+<edge source="52/910" target="23/2460">
+  <data key="d4">2.0</data>
+</edge>
+<edge source="c/ChngEngSiong" target="95/7006">
+  <data key="d4">1.0</data>
+</edge>
+<edge source="74/1907" target="23/1694">
+  <data key="d4">16.0</data>
+</edge>
+<edge source="n/WeeKeongNg" target="78/5155">
+  <data key="d4">6.0</data>
+</edge>
+</graph></graphml>

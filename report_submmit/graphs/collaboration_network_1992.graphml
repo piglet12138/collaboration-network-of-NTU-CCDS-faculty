@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="position" attr.type="string"/>
+<key id="d2" for="node" attr.name="management" attr.type="string"/>
+<key id="d1" for="node" attr.name="area" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="66/549">
+  <data key="d0">A. S. Madhukumar</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="61/3119">
+  <data key="d0">Shell-Ying Huang</data>
+  <data key="d1">Distributed Systems</data>
+  <data key="d2">N</data>
+  <data key="d3">Senior Lecturer</data>
+</node>
+<node id="10/1993">
+  <data key="d0">Kwok-Yan Lam</data>
+  <data key="d1">Cyber Security</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="30/6609">
+  <data key="d0">Chiew Tong Lau</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="l/BuSungLee">
+  <data key="d0">Bu-Sung Lee</data>
+  <data key="d1">Computer Networks</data>
+  <data key="d2">Y</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="14/3737">
+  <data key="d0">Weisi Lin</data>
+  <data key="d1">Multimedia</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="o/CHLukeOng">
+  <data key="d0">C.-H. Luke Ong</data>
+  <data key="d1">Software Engg</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="q/HiokChaiQuek">
+  <data key="d0">Hiok Chai Quek</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+<node id="91/665">
+  <data key="d0">Jagath C. Rajapakse</data>
+  <data key="d1">Bioinformatics</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="s/SeahHockSoon">
+  <data key="d0">Seah Hock Soon</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="s/CZSun">
+  <data key="d0">Chengzheng Sun</data>
+  <data key="d1">HCI</data>
+  <data key="d2">N</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="38/3641">
+  <data key="d0">Ah-Hwee Tan</data>
+  <data key="d1">AI/ML</data>
+  <data key="d2">Y</data>
+  <data key="d3">Professor</data>
+</node>
+<node id="09/5452">
+  <data key="d0">Jianmin Zheng</data>
+  <data key="d1">Computer Graphics</data>
+  <data key="d2">N</data>
+  <data key="d3">Associate Professor</data>
+</node>
+</graph></graphml>

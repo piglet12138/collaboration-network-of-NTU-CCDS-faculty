@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<dblpperson name="Conrad Watt" pid="165/2801" n="25">
+<person key="homepages/165/2801" mdate="2015-07-20">
+<author pid="165/2801">Conrad Watt</author>
+</person>
+<r><article key="journals/pacmpl/RaoRWG25" mdate="2025-02-14">
+<author orcid="0009-0008-4391-1214" pid="305/9064">Xiaojia Rao</author>
+<author orcid="0009-0009-1220-9200" pid="396/4986">Stefan Radziuk</author>
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-4187-0585" pid="g/PhilippaGardner">Philippa Gardner</author>
+<title>Progressful Interpreters for Efficient WebAssembly Mechanisation.</title>
+<pages>627-655</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3704858</ee>
+<url>db/journals/pacmpl/pacmpl9.html#RaoRWG25</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/XuSHLWL25" mdate="2025-02-14">
+<author orcid="0000-0002-9196-3237" pid="363/3514">Qiyuan Xu</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author orcid="0000-0001-7164-0580" pid="76/5461">Zhe Hou</author>
+<author orcid="0000-0002-5878-6486" pid="318/0345">Xiaokun Luan</author>
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>Generically Automating Separation Logic by Functors, Homomorphisms, and Modules.</title>
+<pages>1992-2024</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3704903</ee>
+<url>db/journals/pacmpl/pacmpl9.html#XuSHLWL25</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/YounSLRBGLPRWR24" mdate="2025-01-19">
+<author orcid="0000-0002-5766-2035" pid="285/4769">Dongjun Youn</author>
+<author orcid="0000-0002-1889-3797" pid="311/8917">Wonho Shin</author>
+<author orcid="0009-0003-9757-9994" pid="193/8266">Jaehyun Lee</author>
+<author orcid="0000-0002-0019-9772" pid="03/2760">Sukyoung Ryu</author>
+<author orcid="0000-0003-3753-6821" pid="80/9827">Joachim Breitner</author>
+<author orcid="0000-0002-4187-0585" pid="g/PhilippaGardner">Philippa Gardner</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author orcid="0000-0001-7755-2303" pid="21/497">Matija Pretnar</author>
+<author orcid="0009-0008-4391-1214" pid="305/9064">Xiaojia Rao</author>
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0003-3137-3160" pid="90/3425">Andreas Rossberg</author>
+<title>Bringing the WebAssembly Standard up to Speed with SpecTec.</title>
+<pages>1559-1584</pages>
+<year>2024</year>
+<volume>8</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>PLDI</number>
+<ee type="oa">https://doi.org/10.1145/3656440</ee>
+<ee>https://www.wikidata.org/entity/Q130941083</ee>
+<url>db/journals/pacmpl/pacmpl8.html#YounSLRBGLPRWR24</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-06094" mdate="2025-01-20">
+<author pid="363/3514">Qiyuan Xu</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="76/5461">Zhe Hou</author>
+<author pid="318/0345">Xiaokun Luan</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Generically Automating Separation Logic by Functors, Homomorphisms and Modules.</title>
+<year>2024</year>
+<volume>abs/2411.06094</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.06094</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-06094</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/WattTLM23" mdate="2025-01-19">
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0009-0000-2174-7902" pid="354/1487">Maja Trela</author>
+<author orcid="0000-0003-3576-0504" pid="49/5258">Peter Lammich</author>
+<author orcid="0009-0006-6862-8330" pid="354/1438">Florian M&#228;rkl</author>
+<title>WasmRef-Isabelle: A Verified Monadic Interpreter and Industrial Fuzzing Oracle for WebAssembly.</title>
+<pages>100-123</pages>
+<year>2023</year>
+<volume>7</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>PLDI</number>
+<ee type="oa">https://doi.org/10.1145/3591224</ee>
+<ee>https://www.wikidata.org/entity/Q131109273</ee>
+<url>db/journals/pacmpl/pacmpl7.html#WattTLM23</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/RaoGLWPGB23" mdate="2025-01-19">
+<author orcid="0009-0008-4391-1214" pid="305/9064">Xiaojia Rao</author>
+<author orcid="0000-0002-5951-4642" pid="192/1954">A&#239;na Linn Georges</author>
+<author orcid="0009-0005-4093-2755" pid="354/1494">Maxime Legoupil</author>
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-4442-6543" pid="160/7730">Jean Pichon-Pharabod</author>
+<author orcid="0000-0002-4187-0585" pid="g/PhilippaGardner">Philippa Gardner</author>
+<author orcid="0000-0003-1320-0098" pid="31/910">Lars Birkedal</author>
+<title>Iris-Wasm: Robust and Modular Verification of WebAssembly Programs.</title>
+<pages>1096-1120</pages>
+<year>2023</year>
+<volume>7</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>PLDI</number>
+<ee type="oa">https://doi.org/10.1145/3591265</ee>
+<ee>https://www.wikidata.org/entity/Q130892487</ee>
+<url>db/journals/pacmpl/pacmpl7.html#RaoGLWPGB23</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/MichaelGBJDDWPPVS23" mdate="2025-01-19">
+<author orcid="0000-0002-0305-5424" pid="327/9545">Alexandra E. Michael</author>
+<author orcid="0000-0002-0861-1418" pid="187/9761">Anitha Gollamudi</author>
+<author orcid="0000-0002-5596-6828" pid="181/4477">Jay Bosamiya</author>
+<author orcid="0000-0002-1784-4512" pid="246/5332-1">Evan Johnson 0001</author>
+<author orcid="0000-0002-5517-0045" pid="327/9489">Aidan Denlinger</author>
+<author orcid="0000-0003-4358-2963" pid="199/4885">Craig Disselkoen</author>
+<author orcid="0000-0002-0596-877X" pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-9113-1684" pid="49/6324">Bryan Parno</author>
+<author orcid="0000-0003-3411-9678" pid="41/9729">Marco Patrignani</author>
+<author orcid="0000-0002-4795-0236" pid="185/6272">Marco Vassena</author>
+<author orcid="0000-0002-7041-7464" pid="91/6118">Deian Stefan</author>
+<title>MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code.</title>
+<pages>425-454</pages>
+<year>2023</year>
+<month>January</month>
+<volume>7</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3571208</ee>
+<ee>https://www.wikidata.org/entity/Q130888772</ee>
+<url>db/journals/pacmpl/pacmpl7.html#MichaelGBJDDWPPVS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/uss/YuWBCS23" mdate="2023-10-18">
+<author pid="276/6842">Jason Zhijingcheng Yu</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="341/1481">Aditya Badole</author>
+<author pid="37/10441">Trevor E. Carlson</author>
+<author pid="90/105">Prateek Saxena</author>
+<title>Capstone: A Capability-based Foundation for Trustless Secure Memory Access.</title>
+<year>2023</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity23/presentation/yu-jason</ee>
+<crossref>conf/uss/2023</crossref>
+<url>db/conf/uss/uss2023.html#YuWBCS23</url>
+<pages>787-804</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-13863" mdate="2023-09-30">
+<author orcid="0000-0001-6013-157X" pid="276/6842">Jason Zhijingcheng Yu</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="341/1481">Aditya Badole</author>
+<author pid="37/10441">Trevor E. Carlson</author>
+<author pid="90/105">Prateek Saxena</author>
+<title>Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version).</title>
+<year>2023</year>
+<volume>abs/2302.13863</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.13863</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-13863</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-07223" mdate="2023-11-15">
+<author pid="80/9827">Joachim Breitner</author>
+<author pid="g/PhilippaGardner">Philippa Gardner</author>
+<author pid="193/8266">Jaehyun Lee</author>
+<author pid="97/4946">Sam Lindley</author>
+<author pid="21/497">Matija Pretnar</author>
+<author pid="305/9064">Xiaojia Rao</author>
+<author pid="90/3425">Andreas Rossberg</author>
+<author pid="03/2760">Sukyoung Ryu</author>
+<author pid="311/8917">Wonho Shin</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="285/4769">Dongjun Youn</author>
+<title>Wasm SpecTec: Engineering a Formal Language Standard.</title>
+<year>2023</year>
+<volume>abs/2311.07223</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.07223</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-07223</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/KolosickNJWLGJS22" mdate="2024-10-06">
+<author pid="292/3033">Matthew Kolosick</author>
+<author orcid="0000-0002-0065-6611" pid="201/9230">Shravan Narayan</author>
+<author pid="246/5332-1">Evan Johnson 0001</author>
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0001-6206-9642" pid="81/178">Michael LeMay</author>
+<author orcid="0000-0002-0888-3093" pid="45/6786-1">Deepak Garg 0001</author>
+<author pid="47/4244">Ranjit Jhala</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>Isolation without taxation: near-zero-cost transitions for WebAssembly and SFI.</title>
+<pages>1-30</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3498688</ee>
+<ee>https://www.wikidata.org/entity/Q110782087</ee>
+<url>db/journals/pacmpl/pacmpl6.html#KolosickNJWLGJS22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-13583" mdate="2024-01-12">
+<author pid="327/9545">Alexandra E. Michael</author>
+<author pid="187/9761">Anitha Gollamudi</author>
+<author pid="181/4477">Jay Bosamiya</author>
+<author pid="199/4885">Craig Disselkoen</author>
+<author pid="327/9489">Aidan Denlinger</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="49/6324">Bryan Parno</author>
+<author pid="41/9729">Marco Patrignani</author>
+<author pid="185/6272">Marco Vassena</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code.</title>
+<year>2022</year>
+<volume>abs/2208.13583</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.13583</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-13583</url>
+</article>
+</r>
+<r><inproceedings key="conf/fm/WattRPBG21" mdate="2023-03-21">
+<author pid="165/2801">Conrad Watt</author>
+<author pid="305/9064">Xiaojia Rao</author>
+<author pid="160/7730">Jean Pichon-Pharabod</author>
+<author orcid="0000-0003-3588-3782" pid="64/10263">Martin Bodin</author>
+<author pid="g/PhilippaGardner">Philippa Gardner</author>
+<title>Two Mechanisations of WebAssembly 1.0.</title>
+<pages>61-79</pages>
+<year>2021</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-90870-6_4</ee>
+<crossref>conf/fm/2021</crossref>
+<url>db/conf/fm/fm2021.html#WattRPBG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-00033" mdate="2022-10-02">
+<author pid="292/3033">Matthew Kolosick</author>
+<author pid="201/9230">Shravan Narayan</author>
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0001-6206-9642" pid="81/178">Michael LeMay</author>
+<author pid="45/6786-1">Deepak Garg 0001</author>
+<author pid="47/4244">Ranjit Jhala</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>Isolation Without Taxation: Near Zero Cost Transitions for SFI.</title>
+<year>2021</year>
+<volume>abs/2105.00033</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.00033</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-00033</url>
+</article>
+</r>
+<r><inproceedings key="conf/pldi/WattPPBDFPG20" mdate="2025-01-19">
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-7369-183X" pid="173/9501">Christopher Pulte</author>
+<author orcid="0000-0002-9448-6587" pid="161/4371">Anton Podkopaev</author>
+<author pid="131/3076">Guillaume Barbier</author>
+<author pid="125/7554">Stephen Dolan</author>
+<author pid="118/0095">Shaked Flur</author>
+<author pid="160/7730">Jean Pichon-Pharabod</author>
+<author pid="04/6975">Shu-yu Guo</author>
+<title>Repairing and mechanising the JavaScript relaxed memory model.</title>
+<pages>346-361</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385973</ee>
+<ee>https://www.wikidata.org/entity/Q130986236</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#WattPPBDFPG20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-10554" mdate="2020-05-22">
+<author pid="165/2801">Conrad Watt</author>
+<author pid="173/9501">Christopher Pulte</author>
+<author pid="161/4371">Anton Podkopaev</author>
+<author pid="131/3076">Guillaume Barbier</author>
+<author pid="125/7554">Stephen Dolan</author>
+<author pid="118/0095">Shaked Flur</author>
+<author pid="160/7730">Jean Pichon-Pharabod</author>
+<author pid="04/6975">Shu-yu Guo</author>
+<title>Repairing and Mechanising the JavaScript Relaxed Memory Model.</title>
+<year>2020</year>
+<volume>abs/2005.10554</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.10554</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-10554</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/WattRP19" mdate="2022-03-16">
+<author pid="165/2801">Conrad Watt</author>
+<author pid="90/3425">Andreas Rossberg</author>
+<author pid="160/7730">Jean Pichon-Pharabod</author>
+<title>Weakening WebAssembly.</title>
+<pages>133:1-133:28</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3360559</ee>
+<ee>https://www.wikidata.org/entity/Q110782088</ee>
+<url>db/journals/pacmpl/pacmpl3.html#WattRP19</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/WattRPCS19" mdate="2022-03-16">
+<author pid="165/2801">Conrad Watt</author>
+<author pid="225/4819">John Renner</author>
+<author pid="225/4535">Natalie Popescu</author>
+<author pid="208/7309">Sunjay Cauligi</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>CT-wasm: type-driven secure cryptography for the web ecosystem.</title>
+<pages>77:1-77:29</pages>
+<year>2019</year>
+<volume>3</volume>
+<number>POPL</number>
+<journal>Proc. ACM Program. Lang.</journal>
+<ee type="oa">https://doi.org/10.1145/3290390</ee>
+<ee>https://www.wikidata.org/entity/Q110782102</ee>
+<url>db/journals/pacmpl/pacmpl3.html#WattRPCS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/WattMKG19" mdate="2025-03-24">
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-0400-7467" pid="39/5949-1">Petar Maksimovic 0001</author>
+<author pid="92/1903">Neelakantan R. Krishnaswami</author>
+<author pid="g/PhilippaGardner">Philippa Gardner</author>
+<title>A Program Logic for First-Order Encapsulated WebAssembly.</title>
+<pages>9:1-9:30</pages>
+<year>2019</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2019.9</ee>
+<crossref>conf/ecoop/2019</crossref>
+<url>db/conf/ecoop/ecoop2019.html#WattMKG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/DisselkoenRWGLS19" mdate="2025-01-19">
+<author pid="199/4885">Craig Disselkoen</author>
+<author pid="225/4819">John Renner</author>
+<author pid="165/2801">Conrad Watt</author>
+<author pid="55/1439">Tal Garfinkel</author>
+<author pid="68/8881">Amit Levy</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>Position Paper: Progressive Memory Safety for WebAssembly.</title>
+<pages>4:1-4:8</pages>
+<year>2019</year>
+<booktitle>HASP@ISCA</booktitle>
+<ee>https://doi.org/10.1145/3337167.3337171</ee>
+<ee>https://www.wikidata.org/entity/Q131109256</ee>
+<crossref>conf/isca/2019hasp</crossref>
+<url>db/conf/isca/hasp2019.html#DisselkoenRWGLS19</url>
+</inproceedings>
+</r>
+<r><article publtype="data" key="journals/afp/Watt18" mdate="2020-05-25">
+<author pid="165/2801">Conrad Watt</author>
+<title>WebAssembly.</title>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Arch. Formal Proofs</journal>
+<ee type="oa">https://www.isa-afp.org/entries/WebAssembly.html</ee>
+<url>db/journals/afp/afp2018.html#Watt18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cpp/Watt18" mdate="2018-11-21">
+<author pid="165/2801">Conrad Watt</author>
+<title>Mechanising and verifying the WebAssembly specification.</title>
+<pages>53-65</pages>
+<year>2018</year>
+<booktitle>CPP</booktitle>
+<ee>https://doi.org/10.1145/3167082</ee>
+<ee>https://www.wikidata.org/entity/Q56608525</ee>
+<crossref>conf/cpp/2018</crossref>
+<url>db/conf/cpp/cpp2018.html#Watt18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-01348" mdate="2018-11-18">
+<author pid="165/2801">Conrad Watt</author>
+<author pid="225/4819">John Renner</author>
+<author pid="225/4535">Natalie Popescu</author>
+<author pid="208/7309">Sunjay Cauligi</author>
+<author pid="91/6118">Deian Stefan</author>
+<title>CT-Wasm: Type-Driven Secure Cryptography for the Web Ecosystem.</title>
+<year>2018</year>
+<volume>abs/1808.01348</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.01348</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-01348</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-03479" mdate="2025-03-24">
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-0400-7467" pid="39/5949-1">Petar Maksimovic 0001</author>
+<author pid="92/1903">Neelakantan R. Krishnaswami</author>
+<author pid="g/PhilippaGardner">Philippa Gardner</author>
+<title>A Program Logic for First-Order Encapsulated WebAssembly.</title>
+<year>2018</year>
+<volume>abs/1811.03479</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.03479</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-03479</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/GardnerSWW15" mdate="2019-08-20">
+<author pid="g/PhilippaGardner">Philippa Gardner</author>
+<author pid="40/6128">Gareth Smith</author>
+<author pid="165/2801">Conrad Watt</author>
+<author orcid="0000-0002-0482-2445" pid="76/6488-1">Thomas Wood 0001</author>
+<title>A Trusted Mechanised Specification of JavaScript: One Year On.</title>
+<pages>3-10</pages>
+<year>2015</year>
+<booktitle>CAV (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-21690-4_1</ee>
+<crossref>conf/cav/2015-1</crossref>
+<url>db/conf/cav/cav2015-1.html#GardnerSWW15</url>
+</inproceedings>
+</r>
+<coauthors n="58" nc="3">
+<co c="1"><na f="b/Badole:Aditya" pid="341/1481">Aditya Badole</na></co>
+<co c="0"><na f="b/Barbier:Guillaume" pid="131/3076">Guillaume Barbier</na></co>
+<co c="0"><na f="b/Birkedal:Lars" pid="31/910">Lars Birkedal</na></co>
+<co c="0"><na f="b/Bodin:Martin" pid="64/10263">Martin Bodin</na></co>
+<co c="0"><na f="b/Bosamiya:Jay" pid="181/4477">Jay Bosamiya</na></co>
+<co c="0"><na f="b/Breitner:Joachim" pid="80/9827">Joachim Breitner</na></co>
+<co c="1"><na f="c/Carlson:Trevor_E=" pid="37/10441">Trevor E. Carlson</na></co>
+<co c="0"><na f="c/Cauligi:Sunjay" pid="208/7309">Sunjay Cauligi</na></co>
+<co c="0"><na f="d/Denlinger:Aidan" pid="327/9489">Aidan Denlinger</na></co>
+<co c="0"><na f="d/Disselkoen:Craig" pid="199/4885">Craig Disselkoen</na></co>
+<co c="0"><na f="d/Dolan:Stephen" pid="125/7554">Stephen Dolan</na></co>
+<co c="0"><na f="f/Flur:Shaked" pid="118/0095">Shaked Flur</na></co>
+<co c="0"><na f="g/Gardner:Philippa" pid="g/PhilippaGardner">Philippa Gardner</na></co>
+<co c="0"><na f="g/Garfinkel:Tal" pid="55/1439">Tal Garfinkel</na></co>
+<co c="0"><na f="g/Garg_0001:Deepak" pid="45/6786-1">Deepak Garg 0001</na></co>
+<co c="0"><na f="g/Georges:A=iuml=na_Linn" pid="192/1954">A&#239;na Linn Georges</na></co>
+<co c="0"><na f="g/Gollamudi:Anitha" pid="187/9761">Anitha Gollamudi</na></co>
+<co c="0"><na f="g/Guo:Shu=yu" pid="04/6975">Shu-yu Guo</na></co>
+<co c="1"><na f="h/Hou:Zhe" pid="76/5461">Zhe Hou</na></co>
+<co c="0"><na f="j/Jhala:Ranjit" pid="47/4244">Ranjit Jhala</na></co>
+<co c="0"><na f="j/Johnson_0001:Evan" pid="246/5332-1">Evan Johnson 0001</na></co>
+<co c="0"><na f="k/Kolosick:Matthew" pid="292/3033">Matthew Kolosick</na></co>
+<co c="0"><na f="k/Krishnaswami:Neelakantan_R=" pid="92/1903">Neelakantan R. Krishnaswami</na></co>
+<co c="2"><na f="l/Lammich:Peter" pid="49/5258">Peter Lammich</na></co>
+<co c="0"><na f="l/Lee:Jaehyun" pid="193/8266">Jaehyun Lee</na></co>
+<co c="0"><na f="l/Legoupil:Maxime" pid="354/1494">Maxime Legoupil</na></co>
+<co c="0"><na f="l/LeMay:Michael" pid="81/178">Michael LeMay</na></co>
+<co c="0" n="2"><na f="l/Levy:Amit_A=" pid="68/8881">Amit A. Levy</na><na>Amit Levy</na></co>
+<co c="0"><na f="l/Lindley:Sam" pid="97/4946">Sam Lindley</na></co>
+<co c="1"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="1"><na f="l/Luan:Xiaokun" pid="318/0345">Xiaokun Luan</na></co>
+<co c="0"><na f="m/Maksimovic_0001:Petar" pid="39/5949-1">Petar Maksimovic 0001</na></co>
+<co c="2"><na f="m/M=auml=rkl:Florian" pid="354/1438">Florian M&#228;rkl</na></co>
+<co c="0"><na f="m/Michael:Alexandra_E=" pid="327/9545">Alexandra E. Michael</na></co>
+<co c="0"><na f="n/Narayan:Shravan" pid="201/9230">Shravan Narayan</na></co>
+<co c="0"><na f="p/Parno:Bryan" pid="49/6324">Bryan Parno</na></co>
+<co c="0"><na f="p/Patrignani:Marco" pid="41/9729">Marco Patrignani</na></co>
+<co c="0"><na f="p/Pichon=Pharabod:Jean" pid="160/7730">Jean Pichon-Pharabod</na></co>
+<co c="0"><na f="p/Podkopaev:Anton" pid="161/4371">Anton Podkopaev</na></co>
+<co c="0"><na f="p/Popescu:Natalie" pid="225/4535">Natalie Popescu</na></co>
+<co c="0"><na f="p/Pretnar:Matija" pid="21/497">Matija Pretnar</na></co>
+<co c="0"><na f="p/Pulte:Christopher" pid="173/9501">Christopher Pulte</na></co>
+<co c="0"><na f="r/Radziuk:Stefan" pid="396/4986">Stefan Radziuk</na></co>
+<co c="0"><na f="r/Rao:Xiaojia" pid="305/9064">Xiaojia Rao</na></co>
+<co c="0"><na f="r/Renner:John" pid="225/4819">John Renner</na></co>
+<co c="0"><na f="r/Rossberg:Andreas" pid="90/3425">Andreas Rossberg</na></co>
+<co c="0"><na f="r/Ryu:Sukyoung" pid="03/2760">Sukyoung Ryu</na></co>
+<co c="1"><na f="s/San=aacute=n:David" pid="22/111">David San&#225;n</na></co>
+<co c="1"><na f="s/Saxena:Prateek" pid="90/105">Prateek Saxena</na></co>
+<co c="0"><na f="s/Shin:Wonho" pid="311/8917">Wonho Shin</na></co>
+<co c="0"><na f="s/Smith:Gareth" pid="40/6128">Gareth Smith</na></co>
+<co c="0"><na f="s/Stefan:Deian" pid="91/6118">Deian Stefan</na></co>
+<co c="2"><na f="t/Trela:Maja" pid="354/1487">Maja Trela</na></co>
+<co c="0"><na f="v/Vassena:Marco" pid="185/6272">Marco Vassena</na></co>
+<co c="0"><na f="w/Wood_0001:Thomas" pid="76/6488-1">Thomas Wood 0001</na></co>
+<co c="1"><na f="x/Xu:Qiyuan" pid="363/3514">Qiyuan Xu</na></co>
+<co c="0"><na f="y/Youn:Dongjun" pid="285/4769">Dongjun Youn</na></co>
+<co c="1" n="2"><na f="y/Yu:Zhijingcheng" pid="276/6842">Zhijingcheng Yu</na><na>Jason Zhijingcheng Yu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1768 @@
+<?xml version="1.0"?>
+<dblpperson name="Shangwei Lin 0001" pid="55/4730-1" n="101">
+<person key="homepages/55/4730-1" mdate="2025-01-10">
+<author pid="55/4730-1">Shangwei Lin 0001</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<note type="affiliation">Nanyang Technological University, College of Engineering, Singapore</note>
+<note type="affiliation" label="former">National Chung Cheng University, Chiayi, Taiwan</note>
+<url>https://orcid.org/0000-0002-9726-3434</url>
+<url>https://www.wikidata.org/entity/Q130837760</url>
+</person>
+<homonyms n="2">
+<h f="l/Lin:Shangwei"><person publtype="disambiguation" key="homepages/55/4730" mdate="2020-06-18">
+<author pid="55/4730">Shangwei Lin</author>
+<author pid="55/4730">Shang-Wei Lin</author>
+</person>
+</h>
+<h f="l/Lin_0002:Shangwei"><person key="homepages/55/4730-2" mdate="2020-06-18">
+<author pid="55/4730-2">Shangwei Lin 0002</author>
+<note type="affiliation">Shanxi University, School of Mathematical Sciences, China</note>
+<url>https://orcid.org/0000-0002-0588-7857</url>
+</person>
+</h>
+</homonyms>
+<homonyms n="1">
+<h f="l/Lin:Shang=Wei"><person publtype="disambiguation" key="homepages/55/4730" mdate="2020-06-18">
+<author pid="55/4730">Shangwei Lin</author>
+<author pid="55/4730">Shang-Wei Lin</author>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/csur/GeFLSWZLZLC25" mdate="2025-01-19">
+<author orcid="0000-0003-3683-7374" pid="251/1990">Xiuting Ge</author>
+<author orcid="0000-0002-9930-7111" pid="124/0310">Chunrong Fang</author>
+<author orcid="0009-0008-4580-2046" pid="300/6886">Xuanye Li</author>
+<author orcid="0000-0001-9236-8264" pid="183/2642">Weisong Sun</author>
+<author orcid="0000-0002-3752-0718" pid="144/7556">Daoyuan Wu</author>
+<author orcid="0000-0001-5017-8016" pid="154/5678">Juan Zhai</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0009-0009-8850-5583" pid="96/175">Zhihong Zhao</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9592-7022" pid="86/541-1">Zhenyu Chen 0001</author>
+<title>Machine Learning for Actionable Warning Identification: A Comprehensive Survey.</title>
+<pages>39:1-39:35</pages>
+<year>2025</year>
+<month>February</month>
+<volume>57</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3696352</ee>
+<ee>https://www.wikidata.org/entity/Q130966715</ee>
+<url>db/journals/csur/csur57.html#GeFLSWZLZLC25</url>
+<stream>streams/journals/csur</stream>
+</article>
+</r>
+<r><article key="journals/titb/ChengGJFLL25" mdate="2025-01-25">
+<author orcid="0000-0003-3865-2947" pid="148/8300">Yupeng Cheng</author>
+<author orcid="0000-0003-0974-9299" pid="25/3038-5">Qing Guo 0005</author>
+<author orcid="0000-0002-0857-8611" pid="35/11103">Felix Juefei-Xu</author>
+<author orcid="0000-0002-9702-5524" pid="63/7767">Huazhu Fu</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shangwei Lin 0001</author>
+<author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
+<title>Adversarial Exposure Attack on Diabetic Retinopathy Imagery Grading.</title>
+<pages>297-309</pages>
+<year>2025</year>
+<month>January</month>
+<volume>29</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JBHI.2024.3469630</ee>
+<url>db/journals/titb/titb29.html#ChengGJFLL25</url>
+<stream>streams/journals/titb</stream>
+</article>
+</r>
+<r><article key="journals/eswa/LiZTL24" mdate="2024-07-19">
+<author orcid="0000-0002-3790-2898" pid="151/8526">Yanran Li</author>
+<author orcid="0000-0003-2741-058X" pid="10/2381-2">Yan Zheng 0002</author>
+<author orcid="0009-0006-5081-6712" pid="214/9931">Yon Shin Teo</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shangwei Lin 0001</author>
+<title>Is AI testing beneficial for the manufacturer and social welfare? Optimal test strategy of a smart product.</title>
+<pages>122637</pages>
+<year>2024</year>
+<volume>241</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2023.122637</ee>
+<url>db/journals/eswa/eswa241.html#LiZTL24</url>
+</article>
+</r>
+<r><article key="journals/tsmc/ZhouHDCLLD24" mdate="2024-02-10">
+<author orcid="0000-0002-1583-7570" pid="40/7018-5">Yuan Zhou 0005</author>
+<author orcid="0000-0002-8724-2058" pid="96/7595">Hesuan Hu</author>
+<author pid="236/9144">Gelei Deng</author>
+<author orcid="0000-0002-7797-911X" pid="48/7895">Kun Cheng</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9671-7836" pid="75/157">Zuohua Ding</author>
+<title>Distributed Motion Control for Multiple Mobile Robots Using Discrete-Event Systems and Model Predictive Control.</title>
+<pages>997-1010</pages>
+<year>2024</year>
+<month>February</month>
+<volume>54</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSMC.2023.3322154</ee>
+<url>db/journals/tsmc/tsmc54.html#ZhouHDCLLD24</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/LiC0LWLXJT0024" mdate="2024-10-18">
+<author pid="69/2834">Zhiming Li</author>
+<author pid="274/2297">Yushi Cao</author>
+<author pid="10/2381-2">Yan Zheng 0002</author>
+<author pid="93/3167-14">Xu Liu 0014</author>
+<author pid="263/7329">Bozhi Wu</author>
+<author pid="137/8830">Tianlin Li</author>
+<author pid="313/9308">Xiufeng Xu</author>
+<author pid="333/0818">Junzhe Jiang</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Improving Neural Logic Machines via Failure Reflection.</title>
+<year>2024</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://openreview.net/forum?id=JObct1zyTb</ee>
+<crossref>conf/icml/2024</crossref>
+<url>db/conf/icml/icml2024.html#LiC0LWLXJT0024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/llm4code/LiCXJLTLL24" mdate="2025-01-19">
+<author orcid="0000-0003-3453-5698" pid="69/2834">Zhiming Li</author>
+<author orcid="0000-0001-5694-608X" pid="274/2297">Yushi Cao</author>
+<author orcid="0000-0003-2564-6660" pid="313/9308">Xiufeng Xu</author>
+<author orcid="0000-0003-3476-3260" pid="333/0818">Junzhe Jiang</author>
+<author orcid="0000-0003-2708-0584" pid="93/3167-14">Xu Liu 0014</author>
+<author orcid="0009-0006-5081-6712" pid="214/9931">Yon Shin Teo</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>LLMs for Relational Reasoning: How Far are We?</title>
+<pages>119-126</pages>
+<year>2024</year>
+<booktitle>LLM4CODE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3643795.3648387</ee>
+<ee>https://www.wikidata.org/entity/Q130837761</ee>
+<url>db/conf/llm4code/llm4code2024.html#LiCXJLTLL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/LinWCHST24" mdate="2024-08-04">
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="342/7591">Tzu-Fan Wang</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author orcid="0000-0001-7164-0580" pid="76/5461">Zhe Hou</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<title>A Parallel and Distributed Quantum SAT Solver Based on Entanglement and Teleportation.</title>
+<pages>363-382</pages>
+<year>2024</year>
+<booktitle>TACAS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-57249-4_18</ee>
+<crossref>conf/tacas/2024-2</crossref>
+<url>db/conf/tacas/tacas2024-2.html#LinWCHST24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-09042" mdate="2024-10-18">
+<author pid="69/2834">Zhiming Li</author>
+<author pid="274/2297">Yushi Cao</author>
+<author pid="313/9308">Xiufeng Xu</author>
+<author pid="333/0818">Junzhe Jiang</author>
+<author pid="93/3167-14">Xu Liu 0014</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>LLMs for Relational Reasoning: How Far are We?</title>
+<year>2024</year>
+<volume>abs/2401.09042</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.09042</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-09042</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-02716" mdate="2024-12-29">
+<author pid="251/1990">Xiuting Ge</author>
+<author pid="124/0310">Chunrong Fang</author>
+<author pid="231/4867">Quanjun Zhang</author>
+<author pid="144/7556">Daoyuan Wu</author>
+<author pid="95/10266">Bowen Yu</author>
+<author pid="370/0145">Qirui Zheng</author>
+<author pid="211/4804-2">An Guo 0002</author>
+<author pid="55/4730-1">Shangwei Lin 0001</author>
+<author pid="96/175">Zhihong Zhao</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="86/541-1">Zhenyu Chen 0001</author>
+<title>Pre-trained Model-based Actionable Warning Identification: A Feasibility Study.</title>
+<year>2024</year>
+<volume>abs/2403.02716</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.02716</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-02716</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16032" mdate="2025-03-07">
+<author pid="35/2899-12">Han Liu 0012</author>
+<author pid="07/314-1">Jian Zhang 0001</author>
+<author pid="200/7275">Cen Zhang</author>
+<author pid="96/6053">Xiaohan Zhang</author>
+<author pid="219/9925-2">Kaixuan Li 0002</author>
+<author pid="180/8218-1">Sen Chen 0001</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="11/1917">Yixiang Chen 0001</author>
+<author pid="33/6612">Xinhua Li</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools.</title>
+<year>2024</year>
+<volume>abs/2403.16032</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16032</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16032</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenCL23" mdate="2023-06-02">
+<author orcid="0000-0003-4841-4838" pid="17/4140">Yean-Ru Chen</author>
+<author orcid="0000-0002-9453-6265" pid="342/7786">Si-Han Chen</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shangwei Lin 0001</author>
+<title>SMT Solver With Hardware Acceleration.</title>
+<pages>2055-2068</pages>
+<year>2023</year>
+<month>June</month>
+<volume>42</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2022.3209550</ee>
+<url>db/journals/tcad/tcad42.html#ChenCL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigsoft/WuLXLS023" mdate="2025-01-19">
+<author orcid="0000-0002-0360-2248" pid="263/7329">Bozhi Wu</author>
+<author orcid="0000-0002-5598-4006" pid="207/8653">Shangqing Liu</author>
+<author orcid="0009-0005-8009-2252" pid="181/1848-11">Yang Xiao 0011</author>
+<author orcid="0000-0003-3453-5698" pid="69/2834">Zhiming Li</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Learning Program Semantics for Vulnerability Detection via Vulnerability-Specific Inter-procedural Slicing.</title>
+<pages>1371-1383</pages>
+<year>2023</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3611643.3616351</ee>
+<ee>https://www.wikidata.org/entity/Q130905504</ee>
+<crossref>conf/sigsoft/2023</crossref>
+<url>db/conf/sigsoft/fse2023.html#WuLXLS023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/somet/CaoLTZL023" mdate="2024-07-25">
+<author pid="274/2297">Yushi Cao</author>
+<author pid="151/8526">Yanran Li</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<author pid="10/2381-2">Yan Zheng 0002</author>
+<author pid="275/3656">Zhexin Liang</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>An Automatic Test Plan Generation Approach for Automotive Software Testing.</title>
+<pages>18-27</pages>
+<year>2023</year>
+<booktitle>SoMeT</booktitle>
+<ee>https://doi.org/10.3233/FAIA230220</ee>
+<crossref>conf/somet/2023</crossref>
+<url>db/conf/somet/somet2023.html#CaoLTZL023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-09353" mdate="2023-03-20">
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="342/7786">Si-Han Chen</author>
+<author pid="342/7591">Tzu-Fan Wang</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<title>A Quantum SMT Solver for Bit-Vector Theory.</title>
+<year>2023</year>
+<volume>abs/2303.09353</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.09353</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-09353</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-03344" mdate="2023-08-24">
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="342/7591">Tzu-Fan Wang</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author pid="76/5461">Zhe Hou</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<title>A Parallel and Distributed Quantum SAT Solver Based on Entanglement and Quantum Teleportation.</title>
+<year>2023</year>
+<volume>abs/2308.03344</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.03344</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-03344</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-00324" mdate="2024-05-07">
+<author pid="251/1990">Xiuting Ge</author>
+<author pid="124/0310">Chunrong Fang</author>
+<author pid="300/6886">Xuanye Li</author>
+<author pid="183/2642">Weisong Sun</author>
+<author pid="144/7556">Daoyuan Wu</author>
+<author orcid="0000-0001-5017-8016" pid="154/5678">Juan Zhai</author>
+<author pid="55/4730-1">Shangwei Lin 0001</author>
+<author pid="96/175">Zhihong Zhao</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="86/541-1">Zhenyu Chen 0001</author>
+<title>Machine Learning for Actionable Warning Identification: A Comprehensive Survey.</title>
+<year>2023</year>
+<volume>abs/2312.00324</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.00324</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-00324</url>
+</article>
+</r>
+<r><article key="journals/csur/TolmachLLLL22" mdate="2025-01-19">
+<author orcid="0000-0003-1389-6814" pid="271/8344">Palina Tolmach</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shangwei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="95/6812">Zengxiang Li</author>
+<title>A Survey of Smart Contract Formal Specification and Verification.</title>
+<pages>148:1-148:38</pages>
+<year>2022</year>
+<volume>54</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1145/3464421</ee>
+<ee>https://www.wikidata.org/entity/Q130955075</ee>
+<url>db/journals/csur/csur54.html#TolmachLLLL22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LeLSS22" mdate="2025-01-19">
+<author pid="289/6184">Xuan-Bach Le</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="22/111">David San&#225;n</author>
+<title>A Quantum interpretation of separating conjunction for local reasoning of Quantum programs based on separation logic.</title>
+<pages>1-27</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3498697</ee>
+<ee>https://www.wikidata.org/entity/Q130847054</ee>
+<url>db/journals/pacmpl/pacmpl6.html#LeLSS22</url>
+</article>
+</r>
+<r><article key="journals/tdsc/WangLLLAML22" mdate="2024-04-15">
+<author pid="46/1165">Haijun Wang</author>
+<author orcid="0000-0001-6709-3721" pid="96/2615-12">Ye Liu 0012</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shangwei Lin 0001</author>
+<author orcid="0000-0002-3656-1614" pid="21/6330">Cyrille Artho</author>
+<author orcid="0000-0002-8621-2420" pid="20/6534-3">Lei Ma 0003</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>Oracle-Supported Dynamic Exploit Generation for Smart Contracts.</title>
+<pages>1795-1809</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TDSC.2020.3037332</ee>
+<url>db/journals/tdsc/tdsc19.html#WangLLLAML22</url>
+</article>
+</r>
+<r><article key="journals/tmm/ChengGJLFLL22" mdate="2022-08-25">
+<author orcid="0000-0003-3865-2947" pid="148/8300">Yupeng Cheng</author>
+<author orcid="0000-0003-0974-9299" pid="25/3038-5">Qing Guo 0005</author>
+<author orcid="0000-0002-0857-8611" pid="35/11103">Felix Juefei-Xu</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0003-3809-1086" pid="17/1152-5">Wei Feng 0005</author>
+<author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.</title>
+<pages>3807-3822</pages>
+<year>2022</year>
+<volume>24</volume>
+<journal>IEEE Trans. Multim.</journal>
+<ee>https://doi.org/10.1109/TMM.2021.3108009</ee>
+<url>db/journals/tmm/tmm24.html#ChengGJLFLL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/issta/LiuL0A22" mdate="2025-01-19">
+<author pid="96/2615-12">Ye Liu 0012</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="21/6330">Cyrille Artho</author>
+<title>Finding permission bugs in smart contracts with role mining.</title>
+<pages>716-727</pages>
+<year>2022</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/3533767.3534372</ee>
+<ee>https://www.wikidata.org/entity/Q131109895</ee>
+<crossref>conf/issta/2022</crossref>
+<url>db/conf/issta/issta2022.html#LiuL0A22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/Tolmach0022" mdate="2023-01-15">
+<author orcid="0000-0003-1389-6814" pid="271/8344">Palina Tolmach</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Property-Based Automated Repair of DeFi Protocols.</title>
+<pages>184:1-184:5</pages>
+<year>2022</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3551349.3559560</ee>
+<crossref>conf/kbse/2022</crossref>
+<url>db/conf/kbse/ase2022.html#Tolmach0022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/0001TL022" mdate="2025-01-19">
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="271/8344">Palina Tolmach</author>
+<author pid="96/2615-12">Ye Liu 0012</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<title>SolSEE: a source-level symbolic execution engine for solidity.</title>
+<pages>1687-1691</pages>
+<year>2022</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3540250.3558923</ee>
+<ee>https://www.wikidata.org/entity/Q131110264</ee>
+<crossref>conf/sigsoft/2022</crossref>
+<url>db/conf/sigsoft/fse2022.html#0001TL022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/somet/CaoTZT022" mdate="2024-07-20">
+<author pid="274/2297">Yushi Cao</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<author pid="10/2381-2">Yan Zheng 0002</author>
+<author pid="311/8902">Yuxuan Toh</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>A Holistic Automated Software Structure Exploration Framework for Testing.</title>
+<pages>286-297</pages>
+<year>2022</year>
+<booktitle>SoMeT</booktitle>
+<ee>https://doi.org/10.3233/FAIA220259</ee>
+<crossref>conf/somet/2022</crossref>
+<url>db/conf/somet/somet2022.html#CaoTZT022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-09022" mdate="2025-03-03">
+<author pid="263/7329">Bozhi Wu</author>
+<author pid="207/8653">Shangqing Liu</author>
+<author pid="39/10651">Ruitao Feng</author>
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author pid="210/0973">Jing Kai Siow</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Enhancing Security Patch Identification by Capturing Structures in Commits.</title>
+<year>2022</year>
+<volume>abs/2207.09022</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09022</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-09022</url>
+</article>
+</r>
+<r><article key="journals/compsec/HuZLZKC21" mdate="2023-08-28">
+<author orcid="0000-0001-9566-5424" pid="213/5147">Xinwen Hu</author>
+<author pid="181/2745-2">Yi Zhuang 0002</author>
+<author pid="55/4730-1">Shangwei Lin 0001</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="153/5355">Shuanglong Kan</author>
+<author pid="44/832">Zining Cao</author>
+<title>A security type verifier for smart contracts.</title>
+<pages>102343</pages>
+<year>2021</year>
+<volume>108</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2021.102343</ee>
+<ee>https://www.wikidata.org/entity/Q115047990</ee>
+<url>db/journals/compsec/compsec108.html#HuZLZKC21</url>
+</article>
+</r>
+<r><article key="journals/tifs/FengCXMLL21" mdate="2024-03-15">
+<author orcid="0000-0001-9080-6865" pid="39/10651">Ruitao Feng</author>
+<author orcid="0000-0001-9477-4100" pid="180/8218-1">Sen Chen 0001</author>
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author orcid="0000-0001-6388-2571" pid="134/8681">Guozhu Meng</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.</title>
+<pages>1563-1578</pages>
+<year>2021</year>
+<volume>16</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2020.3025436</ee>
+<url>db/journals/tifs/tifs16.html#FengCXMLL21</url>
+</article>
+</r>
+<r><article key="journals/toplas/SananZLL21" mdate="2023-06-26">
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>CSim<sup><i>2</i></sup>: Compositional Top-down Verification of Concurrent Systems using Rely-Guarantee.</title>
+<pages>2:1-2:46</pages>
+<year>2021</year>
+<volume>43</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3436808</ee>
+<url>db/journals/toplas/toplas43.html#SananZLL21</url>
+</article>
+</r>
+<r><inproceedings key="conf/fc/TolmachLLL21" mdate="2023-06-26">
+<author pid="271/8344">Palina Tolmach</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>Formal Analysis of Composable DeFi Protocols.</title>
+<pages>149-161</pages>
+<year>2021</year>
+<booktitle>Financial Cryptography Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-63958-0_13</ee>
+<crossref>conf/fc/2021w</crossref>
+<url>db/conf/fc/fc2021w.html#TolmachLLL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/CaoZ00TTA21" mdate="2024-06-04">
+<author pid="274/2297">Yushi Cao</author>
+<author pid="10/2381-2">Yan Zheng 0002</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="214/9931">Yon Shin Teo</author>
+<author pid="311/8902">Yuxuan Toh</author>
+<author pid="311/8852">Vinay Vishnumurthy Adiga</author>
+<title>Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning.</title>
+<pages>1151-1155</pages>
+<year>2021</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE51524.2021.9678703</ee>
+<crossref>conf/kbse/2021</crossref>
+<url>db/conf/kbse/ase2021.html#CaoZ00TTA21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-00540" mdate="2022-11-10">
+<author orcid="0000-0003-1389-6814" pid="271/8344">Palina Tolmach</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Formal Analysis of Composable DeFi Protocols.</title>
+<year>2021</year>
+<volume>abs/2103.00540</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00540</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00540</url>
+</article>
+</r>
+<r><article key="journals/automatica/ZhouHLLD20" mdate="2025-01-19">
+<author orcid="0000-0002-1583-7570" pid="40/7018-5">Yuan Zhou 0005</author>
+<author pid="96/7595">Hesuan Hu</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="75/157">Zuohua Ding</author>
+<title>A distributed method to avoid higher-order deadlocks in multi-robot systems.</title>
+<year>2020</year>
+<volume>112</volume>
+<journal>Autom.</journal>
+<ee>https://doi.org/10.1016/j.automatica.2019.108706</ee>
+<ee>https://www.wikidata.org/entity/Q126670876</ee>
+<url>db/journals/automatica/automatica112.html#ZhouHLLD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/JiaoL020" mdate="2025-02-10">
+<author orcid="0000-0002-0543-1147" pid="64/8561-2">Jiao Jiao 0002</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<title>A Generalized Formal Semantic Framework for Smart Contracts.</title>
+<pages>75-96</pages>
+<year>2020</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-45234-6_4</ee>
+<crossref>conf/fase/2020</crossref>
+<url>db/conf/fase/fase2020.html#JiaoL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LeS0020" mdate="2022-04-09">
+<author pid="289/6184">Xuan-Bach Le</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Automatic Verification of Multi-threaded Programs by Inference of Rely-Guarantee Specifications.</title>
+<pages>43-52</pages>
+<year>2020</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS51672.2020.00013</ee>
+<crossref>conf/iceccs/2020</crossref>
+<url>db/conf/iceccs/iceccs2020.html#LeS0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/FengLCLL20" mdate="2025-03-03">
+<author orcid="0000-0001-9080-6865" pid="39/10651">Ruitao Feng</author>
+<author pid="278/2577">Jing Qiang Lim</author>
+<author pid="180/8218-1">Sen Chen 0001</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.</title>
+<pages>63-72</pages>
+<year>2020</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS51672.2020.00015</ee>
+<crossref>conf/iceccs/2020</crossref>
+<url>db/conf/iceccs/iceccs2020.html#FengLCLL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmasia/ChengWF0L20" mdate="2021-05-19">
+<author pid="148/8300">Yupeng Cheng</author>
+<author pid="57/4066">Xingxing Wei</author>
+<author pid="63/7767">Huazhu Fu</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="14/3737">Weisi Lin</author>
+<title>Defense for adversarial videos by self-adaptive JPEG compression and optical texture.</title>
+<pages>55:1-55:7</pages>
+<year>2020</year>
+<booktitle>MMAsia</booktitle>
+<ee>https://doi.org/10.1145/3444685.3446308</ee>
+<crossref>conf/mmasia/2020</crossref>
+<url>db/conf/mmasia/mmasia2020.html#ChengWF0L20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LiuL0Z20" mdate="2025-01-19">
+<author pid="96/2615-12">Ye Liu 0012</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="81/1620">Rong Zhao</author>
+<title>Towards automated verification of smart contract fairness.</title>
+<pages>666-677</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409740</ee>
+<ee>https://www.wikidata.org/entity/Q131109946</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#LiuL0Z20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LiuLLY20" mdate="2025-01-19">
+<author pid="96/2615-12">Ye Liu 0012</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="79/6531-1">Qiang Yan 0001</author>
+<title>ModCon: a model-based testing platform for smart contracts.</title>
+<pages>1601-1605</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3417939</ee>
+<ee>https://www.wikidata.org/entity/Q131110546</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#LiuLLY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/JiaoK0S0020" mdate="2025-02-10">
+<author pid="64/8561-2">Jiao Jiao 0002</author>
+<author pid="153/5355">Shuanglong Kan</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.</title>
+<pages>1695-1712</pages>
+<year>2020</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP40000.2020.00066</ee>
+<crossref>conf/sp/2020</crossref>
+<url>db/conf/sp/sp2020.html#JiaoK0S0020</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icfem/2020" mdate="2021-02-25">
+<editor orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</editor>
+<editor orcid="0000-0001-7164-0580" pid="76/5461">Zhe Hou</editor>
+<editor pid="88/616">Brendan P. Mahony</editor>
+<title>Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods, ICFEM 2020, Singapore, Singapore, March 1-3, 2021, Proceedings</title>
+<booktitle>ICFEM</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12531</volume>
+<isbn>978-3-030-63405-6</isbn>
+<isbn>978-3-030-63406-3</isbn>
+<ee>https://doi.org/10.1007/978-3-030-63406-3</ee>
+<url>db/conf/icfem/icfem2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-04970" mdate="2024-03-15">
+<author pid="39/10651">Ruitao Feng</author>
+<author pid="180/8218-1">Sen Chen 0001</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.</title>
+<year>2020</year>
+<volume>abs/2005.04970</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.04970</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-04970</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-07097" mdate="2020-12-03">
+<author pid="148/8300">Yupeng Cheng</author>
+<author pid="25/3038-5">Qing Guo 0005</author>
+<author pid="35/11103">Felix Juefei-Xu</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="17/1152-5">Wei Feng 0005</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.</title>
+<year>2020</year>
+<volume>abs/2007.07097</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.07097</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-07097</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-02712" mdate="2021-07-07">
+<author pid="271/8344">Palina Tolmach</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="95/6812">Zengxiang Li</author>
+<title>A Survey of Smart Contract Formal Specification and Verification.</title>
+<year>2020</year>
+<volume>abs/2008.02712</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.02712</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-02712</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-09231" mdate="2020-12-03">
+<author pid="148/8300">Yupeng Cheng</author>
+<author pid="35/11103">Felix Juefei-Xu</author>
+<author pid="25/3038-5">Qing Guo 0005</author>
+<author pid="63/7767">Huazhu Fu</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Adversarial Exposure Attack on Diabetic Retinopathy Imagery.</title>
+<year>2020</year>
+<volume>abs/2009.09231</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.09231</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-09231</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-05218" mdate="2024-03-15">
+<author pid="39/10651">Ruitao Feng</author>
+<author pid="278/2577">Jing Qiang Lim</author>
+<author pid="180/8218-1">Sen Chen 0001</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>SeqMobile: A Sequence Based Efficient Android Malware Detection System Using RNN on Mobile Devices.</title>
+<year>2020</year>
+<volume>abs/2011.05218</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.05218</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-05218</url>
+</article>
+</r>
+<r><article key="journals/tsmc/ZhouHLLD19" mdate="2020-06-18">
+<author orcid="0000-0002-1583-7570" pid="40/7018-5">Yuan Zhou 0005</author>
+<author orcid="0000-0002-8724-2058" pid="96/7595">Hesuan Hu</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-9671-7836" pid="75/157">Zuohua Ding</author>
+<title>A Real-Time and Fully Distributed Approach to Motion Planning for Multirobot Systems.</title>
+<pages>2636-2650</pages>
+<year>2019</year>
+<volume>49</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TSMC.2017.2750911</ee>
+<url>db/journals/tsmc/tsmc49.html#ZhouHLLD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/FengCX0M0L19" mdate="2025-03-03">
+<author orcid="0000-0001-9080-6865" pid="39/10651">Ruitao Feng</author>
+<author pid="180/8218-1">Sen Chen 0001</author>
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>MobiDroid: A Performance-Sensitive Malware Detection System on Mobile Platform.</title>
+<pages>61-70</pages>
+<year>2019</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2019.00014</ee>
+<crossref>conf/iceccs/2019</crossref>
+<url>db/conf/iceccs/iceccs2019.html#FengCX0M0L19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/Feng0L19" mdate="2025-03-03">
+<author orcid="0000-0001-9080-6865" pid="39/10651">Ruitao Feng</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shangwei Lin 0001</author>
+<title>A Performance-Sensitive Malware Detection System on Mobile Platform.</title>
+<pages>493-497</pages>
+<year>2019</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32409-4_31</ee>
+<crossref>conf/icfem/2019</crossref>
+<url>db/conf/icfem/icfem2019.html#Feng0L19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WangLLML19" mdate="2025-01-19">
+<author pid="46/1165">Haijun Wang</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>Vultron: catching vulnerable smart contracts once and for all.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>ICSE (NIER)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-NIER.2019.00009</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339134</ee>
+<ee>https://www.wikidata.org/entity/Q130924228</ee>
+<crossref>conf/icse/2019nier</crossref>
+<url>db/conf/icse/nier2019.html#WangLLML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/FengMXSLL19" mdate="2025-03-03">
+<author orcid="0000-0001-9080-6865" pid="39/10651">Ruitao Feng</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author pid="42/6896-1">Ting Su 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Learning Performance Optimization from Code Changes for Android Apps.</title>
+<pages>285-290</pages>
+<year>2019</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICSTW.2019.00067</ee>
+<crossref>conf/icst/2019w</crossref>
+<url>db/conf/icst/icstw2019.html#FengMXSLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/WangXLLLQLL19" mdate="2025-01-19">
+<author pid="46/1165">Haijun Wang</author>
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="77/1513-1">Yun Lin 0001</author>
+<author orcid="0000-0003-4382-0757" pid="204/3729">Yuekang Li</author>
+<author pid="q/ShengchaoQin">Shengchao Qin</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="52/5150-2">Ting Liu 0002</author>
+<title>Locating vulnerabilities in binaries via memory layout recovering.</title>
+<pages>718-728</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338966</ee>
+<ee>https://www.wikidata.org/entity/Q130914890</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#WangXLLLQLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/GaoCXMSL19" mdate="2024-02-05">
+<author pid="99/10523">Sa Gao</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="169/7255">Yukun Ma</author>
+<author orcid="0000-0001-7624-1861" pid="50/5489">Wen Song</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>A Neural Model for Method Name Generation from Functional Description.</title>
+<pages>411-421</pages>
+<year>2019</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER.2019.8667994</ee>
+<crossref>conf/wcre/2019</crossref>
+<url>db/conf/wcre/saner2019.html#GaoCXMSL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-06605" mdate="2021-07-07">
+<author pid="46/1165">Haijun Wang</author>
+<author pid="59/871-8">Yi Li 0008</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="21/6330">Cyrille Artho</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Oracle-Supported Dynamic Exploit Generation for Smart Contracts.</title>
+<year>2019</year>
+<volume>abs/1909.06605</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.06605</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-06605</url>
+</article>
+</r>
+<r><article key="journals/automatica/ZhouHLLD18" mdate="2023-06-26">
+<author orcid="0000-0002-1583-7570" pid="40/7018-5">Yuan Zhou 0005</author>
+<author pid="96/7595">Hesuan Hu</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="75/157">Zuohua Ding</author>
+<title>A distributed approach to robust control of multi-robot systems.</title>
+<pages>1-13</pages>
+<year>2018</year>
+<volume>98</volume>
+<journal>Autom.</journal>
+<ee>https://doi.org/10.1016/j.automatica.2018.08.022</ee>
+<url>db/journals/automatica/automatica98.html#ZhouHLLD18</url>
+</article>
+</r>
+<r><article key="journals/ese/YeBXL18" mdate="2020-08-25">
+<author pid="159/9503">Deheng Ye</author>
+<author orcid="0000-0003-1846-0921" pid="161/1073">Lingfeng Bao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>APIReal: an API recognition and linking approach for online developer forums.</title>
+<pages>3129-3160</pages>
+<year>2018</year>
+<volume>23</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10664-018-9608-7</ee>
+<url>db/journals/ese/ese23.html#YeBXL18</url>
+</article>
+</r>
+<r><article key="journals/ipl/AndreL18" mdate="2025-01-19">
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>The language preservation problem is undecidable for parametric event-recording automata.</title>
+<pages>17-20</pages>
+<year>2018</year>
+<volume>136</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2018.03.013</ee>
+<ee>https://www.wikidata.org/entity/Q130085686</ee>
+<url>db/journals/ipl/ipl136.html#AndreL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fm/ZhangZSLTLS18" mdate="2023-06-26">
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Compositional Reasoning for Shared-Variable Concurrent Programs.</title>
+<pages>523-541</pages>
+<year>2018</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95582-7_31</ee>
+<crossref>conf/fm/2018</crossref>
+<url>db/conf/fm/fm2018.html#ZhangZSLTLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/HorneALT18" mdate="2020-06-18">
+<author orcid="0000-0003-0162-1901" pid="49/10043">Ross Horne</author>
+<author pid="32/7796">Ki Yung Ahn</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<title>Quasi-Open Bisimilarity with Mismatch is Intuitionistic.</title>
+<pages>26-35</pages>
+<year>2018</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/3209108.3209125</ee>
+<crossref>conf/lics/2018</crossref>
+<url>db/conf/lics/lics2018.html#HorneALT18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-01295" mdate="2025-02-10">
+<author pid="64/8561-2">Jiao Jiao 0002</author>
+<author pid="153/5355">Shuanglong Kan</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Executable Operational Semantics of Solidity.</title>
+<year>2018</year>
+<volume>abs/1804.01295</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.01295</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-01295</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-07608" mdate="2020-06-18">
+<author pid="153/5355">Shuanglong Kan</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>K-Rust: An Executable Formal Semantics for Rust.</title>
+<year>2018</year>
+<volume>abs/1804.07608</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.07608</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-07608</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08948" mdate="2020-06-19">
+<author pid="49/2992">&#201;tienne Andr&#233;</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>The language preservation problem is undecidable for parametric event-recording automata.</title>
+<year>2018</year>
+<volume>abs/1812.08948</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08948</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08948</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/KabirXCL17" mdate="2023-03-24">
+<author orcid="0000-0002-6798-6535" pid="59/9972">Muhammad Ashad Kabir</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="92/1223">Prakash Chandrasekaran</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Process Patterns: Reusable Design Artifacts for Business Process Models.</title>
+<pages>714-721</pages>
+<year>2017</year>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2017.193</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2017.193</ee>
+<crossref>conf/compsac/2017-1</crossref>
+<url>db/conf/compsac/compsac2017-1.html#KabirXCL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/AndreL17" mdate="2020-06-18">
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Learning-Based Compositional Parameter Synthesis for Event-Recording Automata.</title>
+<pages>17-32</pages>
+<year>2017</year>
+<booktitle>FORTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60225-7_2</ee>
+<crossref>conf/forte/2017</crossref>
+<url>db/conf/forte/forte2017.html#AndreL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/GaoXMYL17" mdate="2023-03-24">
+<author pid="99/10523">Sa Gao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="169/7255">Yukun Ma</author>
+<author pid="159/9503">Deheng Ye</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Enhancing Knowledge Sharing in Stack Overflow via Automatic External Web Resources Linking.</title>
+<pages>90-99</pages>
+<year>2017</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2017.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICECCS.2017.30</ee>
+<crossref>conf/iceccs/2017</crossref>
+<url>db/conf/iceccs/iceccs2017.html#GaoXMYL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LiSLLL17" mdate="2023-03-24">
+<author pid="174/4939-1">Jiaying Li 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="53/2189-44">Li Li 0044</author>
+<author pid="32/8098">Quang Loc Le</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Automatic loop-invariant generation and refinement through selective sampling.</title>
+<pages>782-792</pages>
+<year>2017</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2017.8115689</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASE.2017.8115689</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3155660</ee>
+<crossref>conf/kbse/2017</crossref>
+<url>db/conf/kbse/ase2017.html#LiSLLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LinSXLSH17" mdate="2023-06-26">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="67/7741">Hao Xiao</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author orcid="0000-0003-4052-6173" pid="99/3222">Henri Hansen</author>
+<title>FiB: squeezing loop invariants by interpolation between Forward/Backward predicate transformers.</title>
+<pages>793-803</pages>
+<year>2017</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2017.8115690</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASE.2017.8115690</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3155661</ee>
+<crossref>conf/kbse/2017</crossref>
+<url>db/conf/kbse/ase2017.html#LinSXLSH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/XieCZLLL17" mdate="2023-06-26">
+<author orcid="0000-0002-1288-6502" pid="127/0713">Xiaofei Xie</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="16/6730">Liang Zou</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="08/2489-1">Xiaohong Li 0001</author>
+<title>Loopster: static loop termination analysis.</title>
+<pages>84-94</pages>
+<year>2017</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3106237.3106260</ee>
+<crossref>conf/sigsoft/2017</crossref>
+<url>db/conf/sigsoft/fse2017.html#XieCZLLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LiCCLLT17" mdate="2025-01-19">
+<author orcid="0000-0003-4382-0757" pid="204/3729">Yuekang Li</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="45/8423">Mahinthan Chandramohan</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<title>Steelix: program-state based binary fuzzing.</title>
+<pages>627-637</pages>
+<year>2017</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3106237.3106295</ee>
+<ee>https://www.wikidata.org/entity/Q131129683</ee>
+<crossref>conf/sigsoft/2017</crossref>
+<url>db/conf/sigsoft/fse2017.html#LiCCLLT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/ZhaoXKSLL17" mdate="2023-03-24">
+<author pid="161/1043">Xuejiao Zhao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0002-6798-6535" pid="59/9972">Muhammad Ashad Kabir</author>
+<author pid="197/4275">Naoya Sawada</author>
+<author pid="l/JingLi34">Jing Li 0034</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>HDSKG: Harvesting domain specific knowledge graph from content of webpages.</title>
+<pages>56-67</pages>
+<year>2017</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER.2017.7884609</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SANER.2017.7884609</ee>
+<crossref>conf/wcre/2017</crossref>
+<url>db/conf/wcre/saner2017.html#ZhaoXKSLL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/isse/Zhu0DL16" mdate="2020-08-13">
+<author pid="117/0699">Huiquan Zhu</author>
+<author orcid="0000-0002-1979-6622" pid="s/JingSun2">Jing Sun 0002</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>From verified model to executable program: the PAT approach.</title>
+<pages>1-26</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>Innov. Syst. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11334-015-0269-z</ee>
+<url>db/journals/isse/isse12.html#Zhu0DL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/KabirHCABXL16" mdate="2024-08-04">
+<author orcid="0000-0002-6798-6535" pid="59/9972">Muhammad Ashad Kabir</author>
+<author pid="02/3721-4">Jun Han 0004</author>
+<author orcid="0000-0003-0264-9965" pid="34/6351">Alan W. Colman</author>
+<author pid="93/10598">Naif R. Aljohani</author>
+<author orcid="0000-0003-2741-6893" pid="129/2480">Mohammed Basheri</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Engineering Socially-Aware Systems and Applications.</title>
+<pages>81-90</pages>
+<year>2016</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2016.019</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICECCS.2016.019</ee>
+<crossref>conf/iceccs/2016</crossref>
+<url>db/conf/iceccs/iceccs2016.html#KabirHCABXL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangZSLTLWS16" mdate="2020-06-18">
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="124/6824">Zhimin Wu</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Compositional Reasoning for Shared-variable Concurrent Programs.</title>
+<year>2016</year>
+<volume>abs/1611.00574</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.00574</ee>
+<url>db/journals/corr/corr1611.html#ZhangZSLTLWS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/LinSNLD15" mdate="2023-06-26">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="11/10607">Truong Khanh Nguyen</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>Interpolation Guided Compositional Verification (T).</title>
+<pages>65-74</pages>
+<year>2015</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2015.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASE.2015.33</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3343895</ee>
+<crossref>conf/kbse/2015</crossref>
+<url>db/conf/kbse/ase2015.html#LinSNLD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SunXLLQ15" mdate="2023-06-26">
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="67/7741">Hao Xiao</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0003-3028-8191" pid="q/ShengchaoQin">Shengchao Qin</author>
+<title>TLV: abstraction through testing, learning, and validation.</title>
+<pages>698-709</pages>
+<year>2015</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2786805.2786817</ee>
+<crossref>conf/sigsoft/2015</crossref>
+<url>db/conf/sigsoft/fse2015.html#SunXLLQ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/LinAL0D14" mdate="2023-08-28">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>Learning Assumptions for CompositionalVerification of Timed Systems.</title>
+<pages>137-153</pages>
+<year>2014</year>
+<volume>40</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSE.2013.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2013.57</ee>
+<ee>https://www.wikidata.org/entity/Q114894541</ee>
+<url>db/journals/tse/tse40.html#LinAL0D14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/HansenLLN014" mdate="2023-06-26">
+<author orcid="0000-0003-4052-6173" pid="99/3222">Henri Hansen</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="11/10607">Truong Khanh Nguyen</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<title>Diamonds Are a Girl's Best Friend: Partial Order Reduction for Timed Automata with Abstractions.</title>
+<pages>391-406</pages>
+<year>2014</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-08867-9_26</ee>
+<crossref>conf/cav/2014</crossref>
+<url>db/conf/cav/cav2014.html#HansenLLN014</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/LinH14" mdate="2025-03-03">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<title>Compositional Synthesis of Concurrent Systems through Causal Model Checking and Learning.</title>
+<pages>416-431</pages>
+<year>2014</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06410-9_29</ee>
+<crossref>conf/fm/2014</crossref>
+<url>db/conf/fm/fm2014.html#LinH14</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/LinP14" mdate="2020-06-19">
+<editor pid="55/4730-1">Shang-Wei Lin 0001</editor>
+<editor orcid="0000-0003-3154-5268" pid="p/LaurePetrucci">Laure Petrucci</editor>
+<title>Proceedings 2nd French Singaporean Workshop on Formal Methods and Applications, FSFMA 2014, Singapore, 13th May 2014.</title>
+<booktitle>FSFMA</booktitle>
+<year>2014</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>156</volume>
+<url>db/series/eptcs/eptcs156.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.156</ee>
+<ee type="oa">http://arxiv.org/abs/1407.1952</ee>
+</proceedings>
+</r>
+<r><inproceedings key="conf/atva/JiLL0DN13" mdate="2023-06-26">
+<author pid="66/7711">Kun Ji</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author pid="11/10607">Truong Khanh Nguyen</author>
+<title>CELL: A Compositional Verification Framework.</title>
+<pages>474-477</pages>
+<year>2013</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-02444-8_38</ee>
+<crossref>conf/atva/2013</crossref>
+<url>db/conf/atva/atva2013.html#JiLL0DN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/AndreLSDL13" mdate="2023-06-26">
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>PSyHCoS: Parameter Synthesis for Hierarchical Concurrent Real-Time Systems.</title>
+<pages>984-989</pages>
+<year>2013</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-39799-8_70</ee>
+<crossref>conf/cav/2013</crossref>
+<url>db/conf/cav/cav2013.html#AndreLSDL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/ZhuDWL13" mdate="2023-03-23">
+<author pid="117/0699">Huiquan Zhu</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author orcid="0000-0002-4861-4963" pid="39/3673">Bimlesh Wadhwa</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Generating C# Programs from CSP# Models.</title>
+<pages>21-26</pages>
+<year>2013</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICSTW.2013.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSTW.2013.10</ee>
+<crossref>conf/icst/2013w</crossref>
+<url>db/conf/icst/icstw2013.html#ZhuDWL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/Xiao0LLS13" mdate="2023-06-26">
+<author pid="67/7741">Hao Xiao</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="04/7120">Chengnian Sun</author>
+<title>TzuYu: Learning stateful typestates.</title>
+<pages>432-442</pages>
+<year>2013</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2013.6693101</ee>
+<crossref>conf/kbse/2013</crossref>
+<url>db/conf/kbse/ase2013.html#Xiao0LLS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/LinH12" mdate="2025-03-03">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<title>Model Checking Prioritized Timed Systems.</title>
+<pages>843-856</pages>
+<year>2012</year>
+<volume>61</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TC.2011.99</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2011.99</ee>
+<url>db/journals/tc/tc61.html#LinH12</url>
+</article>
+</r>
+<r><inproceedings key="conf/fm/LinLSDA12" mdate="2023-06-26">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<title>Automatic Compositional Verification of Timed Systems.</title>
+<pages>272-276</pages>
+<year>2012</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32759-9_24</ee>
+<crossref>conf/fm/2012</crossref>
+<url>db/conf/fm/fm2012.html#LinLSDA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/LinLH0D12" mdate="2025-03-03">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>Automatic Generation of Provably Correct Embedded Systems.</title>
+<pages>214-229</pages>
+<year>2012</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34281-3_17</ee>
+<crossref>conf/icfem/2012</crossref>
+<url>db/conf/icfem/icfem2012.html#LinLH0D12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/LinLLCH11" mdate="2025-03-03">
+<author pid="30/176">Chao-Sheng Lin</author>
+<author pid="49/1500">Chun-Hsien Lu</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<title>VERTAF/Multi-Core: A SysML-Based Application Framework for Multi-Core Embedded Software Development.</title>
+<pages>448-462</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11390-011-1146-3</ee>
+<url>db/journals/jcst/jcst26.html#LinLLCH11</url>
+</article>
+</r>
+<r><article key="journals/tc/LinH11" mdate="2025-03-03">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<title>Counterexample-Guided Assume-Guarantee Synthesis through Learning.</title>
+<pages>734-750</pages>
+<year>2011</year>
+<volume>60</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TC.2010.94</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2010.94</ee>
+<url>db/journals/tc/tc60.html#LinH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/LinADSL11" mdate="2023-06-26">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0001-8473-9555" pid="49/2992">&#201;tienne Andr&#233;</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<title>An Efficient Algorithm for Learning Event-Recording Automata.</title>
+<pages>463-472</pages>
+<year>2011</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24372-1_35</ee>
+<crossref>conf/atva/2011</crossref>
+<url>db/conf/atva/atva2011.html#LinADSL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/HsiungLL10" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="30/176">Chao-Sheng Lin</author>
+<title>Real-Time Embedded Software Design for Mobile and Ubiquitous Systems.</title>
+<pages>13-32</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11265-008-0268-5</ee>
+<url>db/journals/vlsisp/vlsisp59.html#HsiungLL10</url>
+</article>
+</r>
+<r><article key="journals/jss/HsiungLCHSC09" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author pid="45/4118">Chun-Hsian Huang</author>
+<author pid="96/2101">Chihhsiong Shih</author>
+<author pid="c/WilliamCChu">William C. Chu</author>
+<title>Modeling and verification of real-time embedded systems with urgency.</title>
+<pages>1627-1641</pages>
+<year>2009</year>
+<volume>82</volume>
+<journal>J. Syst. Softw.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.jss.2009.03.013</ee>
+<url>db/journals/jss/jss82.html#HsiungLCHSC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ica3pp/HsiungLLCLTSSKHCC09" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="30/176">Chao-Sheng Lin</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author pid="49/1500">Chun-Hsien Lu</author>
+<author pid="02/7231">Sheng-Ya Tong</author>
+<author pid="15/4495">Wan-Ting Su</author>
+<author pid="96/2101">Chihhsiong Shih</author>
+<author pid="72/460">Chorng-Shiuh Koong</author>
+<author pid="69/4123">Nien-Lin Hsueh</author>
+<author orcid="0000-0002-7910-4704" pid="62/6434">Chih-Hung Chang</author>
+<author pid="c/WilliamCChu">William C. Chu</author>
+<title>VERTAF/Multi-Core: A SysML-Based Application Framework for Multi-Core Embedded Software Development.</title>
+<pages>303-314</pages>
+<year>2009</year>
+<booktitle>ICA3PP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03095-6_30</ee>
+<crossref>conf/ica3pp/2009</crossref>
+<url>db/conf/ica3pp/ica3pp2009.html#HsiungLLCLTSSKHCC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Hsiung0CHCSKLLT09" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author pid="69/4123">Nien-Lin Hsueh</author>
+<author orcid="0000-0002-7910-4704" pid="62/6434">Chih-Hung Chang</author>
+<author pid="96/2101">Chihhsiong Shih</author>
+<author pid="72/460">Chorng-Shiuh Koong</author>
+<author pid="30/176">Chao-Sheng Lin</author>
+<author pid="49/1500">Chun-Hsien Lu</author>
+<author pid="02/7231">Sheng-Ya Tong</author>
+<author pid="15/4495">Wan-Ting Su</author>
+<author pid="c/WilliamCChu">William C. Chu</author>
+<title>Model-driven development of multi-core embedded software.</title>
+<pages>9-16</pages>
+<year>2009</year>
+<booktitle>IWMSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/IWMSE.2009.5071378</ee>
+<crossref>conf/icse/2009iwmse</crossref>
+<url>db/conf/icse/iwmse2009.html#Hsiung0CHCSKLLT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/HsiungL08" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Automatic synthesis and verification of real-time embedded software for mobile and ubiquitous systems.</title>
+<pages>153-169</pages>
+<year>2008</year>
+<volume>34</volume>
+<journal>Comput. Lang. Syst. Struct.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.cl.2007.06.002</ee>
+<url>db/journals/cl/cl34.html#HsiungL08</url>
+</article>
+</r>
+<r><inproceedings key="conf/euc/HsiungLHFLCCLL07" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="38/3639">Chin-Chieh Hung</author>
+<author pid="23/2073">Jih-Ming Fu</author>
+<author pid="30/176">Chao-Sheng Lin</author>
+<author pid="00/4471">Cheng-Chi Chiang</author>
+<author pid="90/1453">Kuo-Cheng Chiang</author>
+<author pid="49/1500">Chun-Hsien Lu</author>
+<author pid="44/1398">Pin-Hsien Lu</author>
+<title>Real-Time Embedded Software Design for Mobile and Ubiquitous Systems.</title>
+<pages>718-729</pages>
+<year>2007</year>
+<crossref>conf/euc/2007</crossref>
+<booktitle>EUC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77092-3_62</ee>
+<url>db/conf/euc/euc2007.html#HsiungLHFLCCLL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/HsiungL07" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>From ISA to application design via RTOS - a course design framework for embedded software.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2007.4447793</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPADS.2007.4447793</ee>
+<crossref>conf/icpads/2007</crossref>
+<url>db/conf/icpads/icpads2007.html#HsiungL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/HsiungLCHYSLL06" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<author pid="45/4118">Chun-Hsian Huang</author>
+<author pid="32/1517">Jia-Jen Yeh</author>
+<author pid="33/2079">Hong-Yu Sun</author>
+<author pid="30/176">Chao-Sheng Lin</author>
+<author pid="55/4429">Hsiao-Win Liao</author>
+<title>Model Checking Timed Systems with Urgencies.</title>
+<pages>67-81</pages>
+<year>2006</year>
+<crossref>conf/atva/2006</crossref>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/11901914_8</ee>
+<url>db/conf/atva/atva2006.html#HsiungLCHYSLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/LinHHC05" mdate="2025-03-03">
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="45/4118">Chun-Hsian Huang</author>
+<author pid="17/4140">Yean-Ru Chen</author>
+<title>Model Checking Prioritized Timed Automata.</title>
+<pages>370-384</pages>
+<year>2005</year>
+<crossref>conf/atva/2005</crossref>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/11562948_28</ee>
+<url>db/conf/atva/atva2005.html#LinHHC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/HsiungL05" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Model Checking Timed Systems with Priorities.</title>
+<pages>539-544</pages>
+<year>2005</year>
+<crossref>conf/rtcsa/2005</crossref>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2005.60</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTCSA.2005.60</ee>
+<url>db/conf/rtcsa/rtcsa2005.html#HsiungL05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/HsiungLTLFS04" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="14/1574">Chih-Hao Tseng</author>
+<author pid="33/3573">Trong-Yen Lee</author>
+<author pid="23/2073">Jih-Ming Fu</author>
+<author pid="11/6845">Win-Bin See</author>
+<title>VERTAF: An Application Framework for the Design and Verification of Embedded Real-Time Software.</title>
+<pages>656-674</pages>
+<year>2004</year>
+<volume>30</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSE.2004.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2004.68</ee>
+<url>db/journals/tse/tse30.html#HsiungLTLFS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/aplas/HsiungL04" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Formal Design and Verification of Real-Time Embedded Software.</title>
+<pages>382-397</pages>
+<ee>https://doi.org/10.1007/978-3-540-30477-7_26</ee>
+<year>2004</year>
+<crossref>conf/aplas/2004</crossref>
+<booktitle>APLAS</booktitle>
+<url>db/conf/aplas/aplas2004.html#HsiungL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/HsiungL04" mdate="2025-03-03">
+<author orcid="0000-0002-3639-1467" pid="94/6830">Pao-Ann Hsiung</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>Automatic Synthesis and Verification of Real-Time Embedded Software.</title>
+<pages>12-21</pages>
+<ee>https://doi.org/10.1007/978-3-540-30121-9_2</ee>
+<year>2004</year>
+<crossref>conf/euc/2004</crossref>
+<booktitle>EUC</booktitle>
+<url>db/conf/euc/euc2004.html#HsiungL04</url>
+</inproceedings>
+</r>
+<coauthors n="142" nc="1">
+<co c="0"><na f="a/Adiga:Vinay_Vishnumurthy" pid="311/8852">Vinay Vishnumurthy Adiga</na></co>
+<co c="0"><na f="a/Ahn:Ki_Yung" pid="32/7796">Ki Yung Ahn</na></co>
+<co c="0"><na f="a/Aljohani:Naif_R=" pid="93/10598">Naif R. Aljohani</na></co>
+<co c="0"><na f="a/Andr=eacute=:=Eacute=tienne" pid="49/2992">&#201;tienne Andr&#233;</na></co>
+<co c="0"><na f="a/Artho:Cyrille" pid="21/6330">Cyrille Artho</na></co>
+<co c="0"><na f="b/Bao:Lingfeng" pid="161/1073">Lingfeng Bao</na></co>
+<co c="0"><na f="b/Basheri:Mohammed" pid="129/2480">Mohammed Basheri</na></co>
+<co c="0"><na f="c/Cao:Yushi" pid="274/2297">Yushi Cao</na></co>
+<co c="0"><na f="c/Cao:Zining" pid="44/832">Zining Cao</na></co>
+<co c="0"><na f="c/Chandramohan:Mahinthan" pid="45/8423">Mahinthan Chandramohan</na></co>
+<co c="0"><na f="c/Chandrasekaran:Prakash" pid="92/1223">Prakash Chandrasekaran</na></co>
+<co c="0"><na f="c/Chang:Chih=Hung" pid="62/6434">Chih-Hung Chang</na></co>
+<co c="0"><na f="c/Chen_0001:Bihuan" pid="61/9197">Bihuan Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Chunyang" pid="180/7246">Chunyang Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Sen" pid="180/8218-1">Sen Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Si=Han" pid="342/7786">Si-Han Chen</na></co>
+<co c="0"><na f="c/Chen:Yean=Ru" pid="17/4140">Yean-Ru Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Yixiang" pid="11/1917">Yixiang Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0001:Zhenyu" pid="86/541-1">Zhenyu Chen 0001</na></co>
+<co c="0"><na f="c/Cheng:Kun" pid="48/7895">Kun Cheng</na></co>
+<co c="0"><na f="c/Cheng:Yupeng" pid="148/8300">Yupeng Cheng</na></co>
+<co c="0"><na f="c/Chiang:Cheng=Chi" pid="00/4471">Cheng-Chi Chiang</na></co>
+<co c="0"><na f="c/Chiang:Kuo=Cheng" pid="90/1453">Kuo-Cheng Chiang</na></co>
+<co c="0"><na f="c/Chu:William_C=" pid="c/WilliamCChu">William C. Chu</na></co>
+<co c="0"><na f="c/Colman:Alan_W=" pid="34/6351">Alan W. Colman</na></co>
+<co c="0"><na f="d/Deng:Gelei" pid="236/9144">Gelei Deng</na></co>
+<co c="0"><na f="d/Ding:Zuohua" pid="75/157">Zuohua Ding</na></co>
+<co c="0"><na f="d/Dong:Jin_Song" pid="33/6517">Jin Song Dong</na></co>
+<co c="0"><na f="f/Fang:Chunrong" pid="124/0310">Chunrong Fang</na></co>
+<co c="0"><na f="f/Feng:Ruitao" pid="39/10651">Ruitao Feng</na></co>
+<co c="0"><na f="f/Feng_0005:Wei" pid="17/1152-5">Wei Feng 0005</na></co>
+<co c="0"><na f="f/Fu:Huazhu" pid="63/7767">Huazhu Fu</na></co>
+<co c="0"><na f="f/Fu:Jih=Ming" pid="23/2073">Jih-Ming Fu</na></co>
+<co c="0"><na f="g/Gao:Sa" pid="99/10523">Sa Gao</na></co>
+<co c="0"><na f="g/Ge:Xiuting" pid="251/1990">Xiuting Ge</na></co>
+<co c="0"><na f="g/Guo_0002:An" pid="211/4804-2">An Guo 0002</na></co>
+<co c="0"><na f="g/Guo_0005:Qing" pid="25/3038-5">Qing Guo 0005</na></co>
+<co c="0"><na f="h/Han_0004:Jun" pid="02/3721-4">Jun Han 0004</na></co>
+<co c="0"><na f="h/Hansen:Henri" pid="99/3222">Henri Hansen</na></co>
+<co c="0"><na f="h/Horne:Ross" pid="49/10043">Ross Horne</na></co>
+<co c="0"><na f="h/Hou:Zhe" pid="76/5461">Zhe Hou</na></co>
+<co c="0"><na f="h/Hsiung:Pao=Ann" pid="94/6830">Pao-Ann Hsiung</na></co>
+<co c="0"><na f="h/Hsueh:Nien=Lin" pid="69/4123">Nien-Lin Hsueh</na></co>
+<co c="0"><na f="h/Hu:Hesuan" pid="96/7595">Hesuan Hu</na></co>
+<co c="0"><na f="h/Hu:Xinwen" pid="213/5147">Xinwen Hu</na></co>
+<co c="0"><na f="h/Huang:Chun=Hsian" pid="45/4118">Chun-Hsian Huang</na></co>
+<co c="0"><na f="h/Hung:Chin=Chieh" pid="38/3639">Chin-Chieh Hung</na></co>
+<co c="0"><na f="j/Ji:Kun" pid="66/7711">Kun Ji</na></co>
+<co c="0"><na f="j/Jiang:Junzhe" pid="333/0818">Junzhe Jiang</na></co>
+<co c="0"><na f="j/Jiao_0002:Jiao" pid="64/8561-2">Jiao Jiao 0002</na></co>
+<co c="0"><na f="j/Juefei=Xu:Felix" pid="35/11103">Felix Juefei-Xu</na></co>
+<co c="0"><na f="k/Kabir:Muhammad_Ashad" pid="59/9972">Muhammad Ashad Kabir</na></co>
+<co c="0"><na f="k/Kan:Shuanglong" pid="153/5355">Shuanglong Kan</na></co>
+<co c="0"><na f="k/Koong:Chorng=Shiuh" pid="72/460">Chorng-Shiuh Koong</na></co>
+<co c="0"><na f="l/Le:Quang_Loc" pid="32/8098">Quang Loc Le</na></co>
+<co c="0"><na f="l/Le:Xuan=Bach" pid="289/6184">Xuan-Bach Le</na></co>
+<co c="0"><na f="l/Lee:Trong=Yen" pid="33/3573">Trong-Yen Lee</na></co>
+<co c="0"><na f="l/Li_0001:Jiaying" pid="174/4939-1">Jiaying Li 0001</na></co>
+<co c="0"><na f="l/Li_0034:Jing" pid="l/JingLi34">Jing Li 0034</na></co>
+<co c="0"><na f="l/Li_0002:Kaixuan" pid="219/9925-2">Kaixuan Li 0002</na></co>
+<co c="0"><na f="l/Li_0044:Li" pid="53/2189-44">Li Li 0044</na></co>
+<co c="0"><na f="l/Li:Tianlin" pid="137/8830">Tianlin Li</na></co>
+<co c="0"><na f="l/Li_0001:Xiaohong" pid="08/2489-1">Xiaohong Li 0001</na></co>
+<co c="0"><na f="l/Li:Xinhua" pid="33/6612">Xinhua Li</na></co>
+<co c="0"><na f="l/Li:Xuanye" pid="300/6886">Xuanye Li</na></co>
+<co c="0"><na f="l/Li:Yanran" pid="151/8526">Yanran Li</na></co>
+<co c="0"><na f="l/Li_0008:Yi" pid="59/871-8">Yi Li 0008</na></co>
+<co c="0"><na f="l/Li:Yuekang" pid="204/3729">Yuekang Li</na></co>
+<co c="0"><na f="l/Li:Zengxiang" pid="95/6812">Zengxiang Li</na></co>
+<co c="0"><na f="l/Li:Zhiming" pid="69/2834">Zhiming Li</na></co>
+<co c="0"><na f="l/Liang:Zhexin" pid="275/3656">Zhexin Liang</na></co>
+<co c="0"><na f="l/Liao:Hsiao=Win" pid="55/4429">Hsiao-Win Liao</na></co>
+<co c="0"><na f="l/Lim:Jing_Qiang" pid="278/2577">Jing Qiang Lim</na></co>
+<co c="0"><na f="l/Lin:Chao=Sheng" pid="30/176">Chao-Sheng Lin</na></co>
+<co c="0"><na f="l/Lin:Weisi" pid="14/3737">Weisi Lin</na></co>
+<co c="0"><na f="l/Lin_0001:Yun" pid="77/1513-1">Yun Lin 0001</na></co>
+<co c="0"><na f="l/Liu_0012:Han" pid="35/2899-12">Han Liu 0012</na></co>
+<co c="0"><na f="l/Liu:Shangqing" pid="207/8653">Shangqing Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Ting" pid="52/5150-2">Ting Liu 0002</na></co>
+<co c="0"><na f="l/Liu_0014:Xu" pid="93/3167-14">Xu Liu 0014</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Liu_0012:Ye" pid="96/2615-12">Ye Liu 0012</na></co>
+<co c="0"><na f="l/Lu:Chun=Hsien" pid="49/1500">Chun-Hsien Lu</na></co>
+<co c="0"><na f="l/Lu:Pin=Hsien" pid="44/1398">Pin-Hsien Lu</na></co>
+<co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
+<co c="0"><na f="m/Ma:Yukun" pid="169/7255">Yukun Ma</na></co>
+<co c="0"><na f="m/Mahony:Brendan_P=" pid="88/616">Brendan P. Mahony</na></co>
+<co c="0"><na f="m/Meng:Guozhu" pid="134/8681">Guozhu Meng</na></co>
+<co c="0"><na f="n/Nguyen:Truong_Khanh" pid="11/10607">Truong Khanh Nguyen</na></co>
+<co c="0"><na f="p/Petrucci:Laure" pid="p/LaurePetrucci">Laure Petrucci</na></co>
+<co c="0"><na f="q/Qin:Shengchao" pid="q/ShengchaoQin">Shengchao Qin</na></co>
+<co c="0"><na f="s/San=aacute=n:David" pid="22/111">David San&#225;n</na></co>
+<co c="0"><na f="s/Sawada:Naoya" pid="197/4275">Naoya Sawada</na></co>
+<co c="0"><na f="s/See:Win=Bin" pid="11/6845">Win-Bin See</na></co>
+<co c="0"><na f="s/Shih:Chihhsiong" pid="96/2101">Chihhsiong Shih</na></co>
+<co c="0"><na f="s/Siow:Jing_Kai" pid="210/0973">Jing Kai Siow</na></co>
+<co c="0"><na f="s/Song:Wen" pid="50/5489">Wen Song</na></co>
+<co c="0"><na f="s/Su_0001:Ting" pid="42/6896-1">Ting Su 0001</na></co>
+<co c="0"><na f="s/Su:Wan=Ting" pid="15/4495">Wan-Ting Su</na></co>
+<co c="0"><na f="s/Sun:Chengnian" pid="04/7120">Chengnian Sun</na></co>
+<co c="0" n="2"><na f="s/Sun:Hongyu" pid="33/2079">Hongyu Sun</na><na>Hong-Yu Sun</na></co>
+<co c="0"><na f="s/Sun_0002:Jing" pid="s/JingSun2">Jing Sun 0002</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0"><na f="s/Sun:Weisong" pid="183/2642">Weisong Sun</na></co>
+<co c="0"><na f="t/Teo:Yon_Shin" pid="214/9931">Yon Shin Teo</na></co>
+<co c="0"><na f="t/Tiu:Alwen" pid="t/AlwenTiu">Alwen Tiu</na></co>
+<co c="0"><na f="t/Toh:Yuxuan" pid="311/8902">Yuxuan Toh</na></co>
+<co c="0"><na f="t/Tolmach:Palina" pid="271/8344">Palina Tolmach</na></co>
+<co c="0"><na f="t/Tong:Sheng=Ya" pid="02/7231">Sheng-Ya Tong</na></co>
+<co c="0"><na f="t/Tseng:Chih=Hao" pid="14/1574">Chih-Hao Tseng</na></co>
+<co c="0"><na f="w/Wadhwa:Bimlesh" pid="39/3673">Bimlesh Wadhwa</na></co>
+<co c="0"><na f="w/Wang:Haijun" pid="46/1165">Haijun Wang</na></co>
+<co c="0"><na f="w/Wang:Tzu=Fan" pid="342/7591">Tzu-Fan Wang</na></co>
+<co c="0"><na f="w/Wei:Xingxing" pid="57/4066">Xingxing Wei</na></co>
+<co c="0"><na f="w/Wu:Bozhi" pid="263/7329">Bozhi Wu</na></co>
+<co c="0"><na f="w/Wu:Daoyuan" pid="144/7556">Daoyuan Wu</na></co>
+<co c="0"><na f="w/Wu:Zhimin" pid="124/6824">Zhimin Wu</na></co>
+<co c="0"><na f="x/Xiao:Hao" pid="67/7741">Hao Xiao</na></co>
+<co c="0"><na f="x/Xiao_0011:Yang" pid="181/1848-11">Yang Xiao 0011</na></co>
+<co c="0"><na f="x/Xie:Xiaofei" pid="127/0713">Xiaofei Xie</na></co>
+<co c="0"><na f="x/Xing:Zhenchang" pid="52/6482">Zhenchang Xing</na></co>
+<co c="0"><na f="x/Xu:Xiufeng" pid="313/9308">Xiufeng Xu</na></co>
+<co c="0"><na f="y/Yan_0001:Qiang" pid="79/6531-1">Qiang Yan 0001</na></co>
+<co c="0"><na f="y/Ye:Deheng" pid="159/9503">Deheng Ye</na></co>
+<co c="0"><na f="y/Yeh:Jia=Jen" pid="32/1517">Jia-Jen Yeh</na></co>
+<co c="0"><na f="y/Yu:Bowen" pid="95/10266">Bowen Yu</na></co>
+<co c="0"><na f="z/Zhai:Juan" pid="154/5678">Juan Zhai</na></co>
+<co c="0"><na f="z/Zhang:Cen" pid="200/7275">Cen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Fuyuan" pid="08/7637">Fuyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Jian" pid="07/314-1">Jian Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Quanjun" pid="231/4867">Quanjun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiaohan" pid="96/6053">Xiaohan Zhang</na></co>
+<co c="0"><na f="z/Zhao:Rong" pid="81/1620">Rong Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xuejiao" pid="161/1043">Xuejiao Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yongwang" pid="70/2470">Yongwang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhihong" pid="96/175">Zhihong Zhao</na></co>
+<co c="0"><na f="z/Zheng:Qirui" pid="370/0145">Qirui Zheng</na></co>
+<co c="0"><na f="z/Zheng_0002:Yan" pid="10/2381-2">Yan Zheng 0002</na></co>
+<co c="0"><na f="z/Zhou_0005:Yuan" pid="40/7018-5">Yuan Zhou 0005</na></co>
+<co c="0"><na f="z/Zhu:Huiquan" pid="117/0699">Huiquan Zhu</na></co>
+<co c="0"><na f="z/Zhuang_0002:Yi" pid="181/2745-2">Yi Zhuang 0002</na></co>
+<co c="0"><na f="z/Zou:Liang" pid="16/6730">Liang Zou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1303 @@
+<?xml version="1.0"?>
+<dblpperson name="Xingang Pan" pid="211/7940" n="77">
+<person key="homepages/211/7940" mdate="2025-03-04">
+<author pid="211/7940">Xingang Pan</author>
+<url>https://orcid.org/0000-0002-5825-9467</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2502-14316" mdate="2025-03-19">
+<author pid="03/7764">Songlin Yang</author>
+<author pid="259/2752">Yushi Lan</author>
+<author pid="53/5080">Honghua Chen</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>Textured 3D Regenerative Morphing with 3D Diffusion Prior.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.14316</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.14316</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-14316</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pami/JiangHWPLL24" mdate="2024-04-15">
+<author orcid="0000-0001-7653-4015" pid="52/146-3">Yuming Jiang 0003</author>
+<author orcid="0000-0001-8008-5873" pid="159/4681">Ziqi Huang</author>
+<author orcid="0000-0001-7345-0254" pid="152/2473-2">Tianxing Wu 0002</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0001-5345-1591" pid="01/5855">Chen Change Loy</author>
+<author orcid="0000-0002-4220-5958" pid="05/6300-2">Ziwei Liu 0002</author>
+<title>Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog.</title>
+<pages>3692-3706</pages>
+<year>2024</year>
+<month>May</month>
+<volume>46</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPAMI.2023.3347299</ee>
+<url>db/journals/pami/pami46.html#JiangHWPLL24</url>
+</article>
+</r>
+<r><article key="journals/tog/TeotiaRPKGET24" mdate="2025-01-19">
+<author orcid="0009-0007-6985-7159" pid="243/6711">Kartik Teotia</author>
+<author orcid="0009-0007-5906-8666" pid="241/9493">Mallikarjun B. R. 0001</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0003-0858-0882" pid="58/4700">Hyeongwoo Kim</author>
+<author orcid="0009-0001-8273-6737" pid="09/929-1">Pablo Garrido 0001</author>
+<author orcid="0000-0001-8727-0895" pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>HQ3DAvatar: High-quality Implicit 3D Head Avatar.</title>
+<pages>27:1-27:24</pages>
+<year>2024</year>
+<month>June</month>
+<volume>43</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3649889</ee>
+<ee>https://www.wikidata.org/entity/Q130871349</ee>
+<url>db/journals/tog/tog43.html#TeotiaRPKGET24</url>
+<stream>streams/journals/tog</stream>
+</article>
+</r>
+<r><article key="journals/tog/WolskiDJSTCMDPL24" mdate="2024-10-03">
+<author orcid="0000-0003-2290-0299" pid="202/4413">Krzysztof Wolski</author>
+<author orcid="0009-0008-1919-450X" pid="344/3575">Adarsh Djeacoumar</author>
+<author orcid="0009-0008-4926-1566" pid="295/4647">Alireza Javanmardi</author>
+<author orcid="0000-0002-1343-8613" pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author orcid="0000-0003-0124-0180" pid="180/7491">Guillaume Cordonnier</author>
+<author orcid="0000-0002-8505-4141" pid="m/KMyszkowski">Karol Myszkowski</author>
+<author orcid="0000-0002-9254-4819" pid="59/2449">George Drettakis</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0009-0006-7784-7957" pid="170/1205">Thomas Leimk&#252;hler</author>
+<title>Learning Images Across Scales Using Adversarial Training.</title>
+<pages>131:1-131:13</pages>
+<year>2024</year>
+<month>July</month>
+<volume>43</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3658190</ee>
+<url>db/journals/tog/tog43.html#WolskiDJSTCMDPL24</url>
+<stream>streams/journals/tog</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChenLP24" mdate="2024-10-02">
+<author pid="53/5080">Honghua Chen</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>MVIP-NeRF: Multi-View 3D Inpainting on NeRF Scenes via Diffusion Prior.</title>
+<pages>5344-5353</pages>
+<year>2024</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52733.2024.00511</ee>
+<crossref>conf/cvpr/2024</crossref>
+<url>db/conf/cvpr/cvpr2024.html#ChenLP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhangZX0P24" mdate="2025-03-04">
+<author pid="364/1450-15">Kaiwen Zhang 0015</author>
+<author orcid="0009-0004-6250-8333" pid="79/7629-1">Yifan Zhou 0001</author>
+<author pid="210/2741">Xudong Xu</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing.</title>
+<pages>7912-7921</pages>
+<year>2024</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52733.2024.00756</ee>
+<crossref>conf/cvpr/2024</crossref>
+<url>db/conf/cvpr/cvpr2024.html#ZhangZX0P24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LanHYZMDPL24" mdate="2025-04-01">
+<author pid="259/2752">Yushi Lan</author>
+<author pid="261/3476">Fangzhou Hong</author>
+<author orcid="0000-0002-5576-8629" pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="191/5298">Shangchen Zhou</author>
+<author pid="336/3425">Xuyi Meng</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0001-5345-1591" pid="01/5855">Chen Change Loy</author>
+<title>LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation.</title>
+<pages>112-130</pages>
+<year>2024</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-73235-5_7</ee>
+<crossref>conf/eccv/2024-4</crossref>
+<url>db/conf/eccv/eccv2024-4.html#LanHYZMDPL24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChenWWPJL24" mdate="2025-03-03">
+<author pid="270/4333">Yongwei Chen</author>
+<author orcid="0000-0002-3435-8110" pid="142/3354-2">Tengfei Wang 0002</author>
+<author pid="75/5056">Tong Wu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="60/3834">Kui Jia</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance.</title>
+<pages>128-146</pages>
+<year>2024</year>
+<booktitle>ECCV (24)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72691-0_8</ee>
+<crossref>conf/eccv/2024-24</crossref>
+<url>db/conf/eccv/eccv2024-24.html#ChenWWPJL24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/XiaoZYP24" mdate="2025-03-06">
+<author pid="344/1615">Zeqi Xiao</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>Video Diffusion Models are Training-free Motion Interpreter and Controller.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/8b2fc235787852ead92da2268cd9e90c-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#XiaoZYP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/OuyangDYSP24" mdate="2024-12-23">
+<author orcid="0009-0009-2273-5984" pid="336/7634">Wenqi Ouyang</author>
+<author orcid="0009-0002-6017-2886" pid="07/2924">Yi Dong</author>
+<author orcid="0000-0002-0571-5924" pid="50/2484-45">Lei Yang 0045</author>
+<author orcid="0000-0002-2029-6588" pid="159/3878">Jianlou Si</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<title>I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models.</title>
+<pages>95:1-95:11</pages>
+<year>2024</year>
+<booktitle>SIGGRAPH Asia</booktitle>
+<ee>https://doi.org/10.1145/3680528.3687656</ee>
+<crossref>conf/siggrapha/2024</crossref>
+<url>db/conf/siggrapha/siggrapha2024.html#OuyangDYSP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/FoxPTET24" mdate="2025-04-01">
+<author pid="206/8408">Gereon Fox</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Unsupervised Event-Based Video Reconstruction.</title>
+<pages>4167-4176</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00413</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#FoxPTET24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-12019" mdate="2024-04-08">
+<author pid="259/2752">Yushi Lan</author>
+<author pid="261/3476">Fangzhou Hong</author>
+<author pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="191/5298">Shangchen Zhou</author>
+<author pid="336/3425">Xuyi Meng</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation.</title>
+<year>2024</year>
+<volume>abs/2403.12019</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.12019</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-12019</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-12409" mdate="2025-03-03">
+<author pid="270/4333">Yongwei Chen</author>
+<author orcid="0000-0002-3435-8110" pid="142/3354-2">Tengfei Wang 0002</author>
+<author pid="75/5056">Tong Wu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="60/3834">Kui Jia</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance.</title>
+<year>2024</year>
+<volume>abs/2403.12409</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.12409</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-12409</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-02859" mdate="2024-06-07">
+<author pid="53/5080">Honghua Chen</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior.</title>
+<year>2024</year>
+<volume>abs/2405.02859</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.02859</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-02859</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-14864" mdate="2025-04-01">
+<author pid="344/1615">Zeqi Xiao</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author orcid="0000-0002-5576-8629" pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>Video Diffusion Models are Training-free Motion Interpreter and Controller.</title>
+<year>2024</year>
+<volume>abs/2405.14864</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.14864</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-14864</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-16537" mdate="2025-03-06">
+<author pid="336/7634">Wenqi Ouyang</author>
+<author pid="07/2924">Yi Dong</author>
+<author pid="50/2484-45">Lei Yang 0045</author>
+<author pid="159/3878">Jianlou Si</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models.</title>
+<year>2024</year>
+<volume>abs/2405.16537</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.16537</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-16537</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-08924" mdate="2025-04-01">
+<author pid="202/4413">Krzysztof Wolski</author>
+<author pid="344/3575">Adarsh Djeacoumar</author>
+<author pid="295/4647">Alireza Javanmardi</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="180/7491">Guillaume Cordonnier</author>
+<author pid="m/KMyszkowski">Karol Myszkowski</author>
+<author pid="59/2449">George Drettakis</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="170/1205">Thomas Leimk&#252;hler</author>
+<title>Learning Images Across Scales Using Adversarial Training.</title>
+<year>2024</year>
+<volume>abs/2406.08924</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.08924</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-08924</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-08701" mdate="2025-04-01">
+<author pid="276/3671">Zhening Xing</author>
+<author pid="206/8408">Gereon Fox</author>
+<author pid="215/4033">Yanhong Zeng</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="181/2839-26">Kai Chen 0026</author>
+<title>Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models.</title>
+<year>2024</year>
+<volume>abs/2407.08701</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.08701</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-08701</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-16272" mdate="2025-03-06">
+<author pid="53/5080">Honghua Chen</author>
+<author pid="259/2752">Yushi Lan</author>
+<author pid="270/4333">Yongwei Chen</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors.</title>
+<year>2024</year>
+<volume>abs/2410.16272</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.16272</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-16272</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-08033" mdate="2025-04-01">
+<author pid="259/2752">Yushi Lan</author>
+<author pid="191/5298">Shangchen Zhou</author>
+<author pid="241/6250">Zhaoyang Lyu</author>
+<author pid="261/3476">Fangzhou Hong</author>
+<author orcid="0000-0002-5576-8629" pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation.</title>
+<year>2024</year>
+<volume>abs/2411.08033</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.08033</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-08033</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-16856" mdate="2025-01-01">
+<author pid="270/4333">Yongwei Chen</author>
+<author pid="259/2752">Yushi Lan</author>
+<author pid="191/5298">Shangchen Zhou</author>
+<author pid="142/3354-2">Tengfei Wang 0002</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE.</title>
+<year>2024</year>
+<volume>abs/2411.16856</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.16856</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-16856</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-18301" mdate="2025-03-06">
+<author pid="177/5554">Tianyi Wei</author>
+<author pid="92/1489">Dongdong Chen</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation.</title>
+<year>2024</year>
+<volume>abs/2411.18301</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.18301</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-18301</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-19324" mdate="2025-04-01">
+<author pid="344/1615">Zeqi Xiao</author>
+<author pid="336/7634">Wenqi Ouyang</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author orcid="0000-0002-5576-8629" pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="50/2484-45">Lei Yang 0045</author>
+<author pid="159/3878">Jianlou Si</author>
+<author pid="211/7940">Xingang Pan</author>
+<title>Trajectory Attention for Fine-grained Video Motion Control.</title>
+<year>2024</year>
+<volume>abs/2411.19324</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.19324</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-19324</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-09593" mdate="2025-04-01">
+<author orcid="0000-0002-2698-6627" pid="304/1559">Zexin He</author>
+<author pid="142/3354-2">Tengfei Wang 0002</author>
+<author pid="98/5766-21">Xin Huang 0021</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion.</title>
+<year>2024</year>
+<volume>abs/2412.09593</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.09593</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-09593</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-18565" mdate="2025-01-25">
+<author pid="133/7581">Yihang Luo</author>
+<author pid="191/5298">Shangchen Zhou</author>
+<author pid="259/2752">Yushi Lan</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement.</title>
+<year>2024</year>
+<volume>abs/2412.18565</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.18565</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-18565</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tog/WangSPWCMSTL23" mdate="2025-04-01">
+<author pid="188/7759-37">Chao Wang 0037</author>
+<author pid="172/3357">Ana Serrano</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="202/4413">Krzysztof Wolski</author>
+<author orcid="0000-0003-3022-1931" pid="22/5523-19">Bin Chen 0019</author>
+<author pid="m/KMyszkowski">Karol Myszkowski</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="170/1205">Thomas Leimk&#252;hler</author>
+<title>An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range.</title>
+<pages>221:1-221:11</pages>
+<year>2023</year>
+<month>December</month>
+<volume>42</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3618367</ee>
+<url>db/journals/tog/tog42.html#WangSPWCMSTL23</url>
+</article>
+</r>
+<r><article key="journals/tog/MendirattaPETRTGKT23" mdate="2025-04-01">
+<author pid="280/1629">Mohit Mendiratta</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author pid="243/6711">Kartik Teotia</author>
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="180/6438">Vladislav Golyanik</author>
+<author pid="161/0772">Adam Kortylewski</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>AvatarStudio: Text-Driven Editing of 3D Dynamic Human Head Avatars.</title>
+<pages>226:1-226:18</pages>
+<year>2023</year>
+<month>December</month>
+<volume>42</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3618368</ee>
+<ee>https://www.wikidata.org/entity/Q130866340</ee>
+<url>db/journals/tog/tog42.html#MendirattaPETRTGKT23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/XuXPPZT0L23" mdate="2025-04-01">
+<author pid="242/9358">Linning Xu</author>
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="232/3246">Sida Peng</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Grid-guided Neural Radiance Fields for Large Urban Scenes.</title>
+<pages>8296-8306</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.00802</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#XuXPPZT0L23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/XiangliXPZ0L23" mdate="2024-01-19">
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="242/9358">Linning Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation.</title>
+<pages>3228-3238</pages>
+<year>2023</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV51070.2023.00301</ee>
+<crossref>conf/iccv/2023</crossref>
+<url>db/conf/iccv/iccv2023.html#XiangliXPZ0L23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/WangSPCMSTL23" mdate="2025-04-01">
+<author pid="188/7759-37">Chao Wang 0037</author>
+<author pid="172/3357">Ana Serrano</author>
+<author pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0003-3022-1931" pid="22/5523-19">Bin Chen 0019</author>
+<author pid="m/KMyszkowski">Karol Myszkowski</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="170/1205">Thomas Leimk&#252;hler</author>
+<title>GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild.</title>
+<pages>10475-10485</pages>
+<year>2023</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV51070.2023.00964</ee>
+<crossref>conf/iccv/2023</crossref>
+<url>db/conf/iccv/iccv2023.html#WangSPCMSTL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/WuWPXTLL23" mdate="2024-07-24">
+<author pid="75/5056">Tong Wu</author>
+<author pid="44/740-3">Jiaqi Wang 0003</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="210/2741">Xudong Xu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=DSy8tP4WctmZ</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#WuWPXTLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/PanTLLMT23" mdate="2025-01-19">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0002-3805-4421" pid="198/1021">Ayush Tewari</author>
+<author orcid="0009-0006-7784-7957" pid="170/1205">Thomas Leimk&#252;hler</author>
+<author orcid="0000-0003-4301-1474" pid="204/0052">Lingjie Liu</author>
+<author orcid="0000-0001-7906-4004" pid="157/0426">Abhimitra Meka</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.</title>
+<pages>78:1-78:11</pages>
+<year>2023</year>
+<booktitle>SIGGRAPH (Conference Paper Track)</booktitle>
+<ee>https://doi.org/10.1145/3588432.3591500</ee>
+<ee>https://www.wikidata.org/entity/Q131163166</ee>
+<crossref>conf/siggraph/2023</crossref>
+<url>db/conf/siggraph/siggraph2023.html#PanTLLMT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/WuLYZPWL023" mdate="2024-11-13">
+<author orcid="0000-0001-5557-0623" pid="75/5056">Tong Wu</author>
+<author orcid="0009-0002-4528-5495" pid="215/1997">Zhibing Li</author>
+<author orcid="0009-0008-9552-4320" pid="72/7503-1">Shuai Yang 0001</author>
+<author orcid="0009-0004-7195-4159" pid="29/1005-1">Pan Zhang 0001</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0001-6877-5353" pid="44/740-3">Jiaqi Wang 0003</author>
+<author orcid="0000-0002-8865-7896" pid="53/6088">Dahua Lin</author>
+<author orcid="0000-0002-4220-5958" pid="05/6300-2">Ziwei Liu 0002</author>
+<title>HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image.</title>
+<pages>53:1-53:10</pages>
+<year>2023</year>
+<booktitle>SIGGRAPH Asia</booktitle>
+<ee>https://doi.org/10.1145/3610548.3618168</ee>
+<crossref>conf/siggrapha/2023</crossref>
+<url>db/conf/siggrapha/siggrapha2023.html#WuLYZPWL023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-13953" mdate="2023-06-29">
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="242/9358">Linning Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation.</title>
+<year>2023</year>
+<volume>abs/2303.13953</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.13953</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-13953</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-14001" mdate="2023-09-30">
+<author pid="242/9358">Linning Xu</author>
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="232/3246">Sida Peng</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Grid-guided Neural Radiance Fields for Large Urban Scenes.</title>
+<year>2023</year>
+<volume>abs/2303.14001</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.14001</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-14001</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-14471" mdate="2023-09-30">
+<author pid="243/6711">Kartik Teotia</author>
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="58/4700">Hyeongwoo Kim</author>
+<author pid="09/929-1">Pablo Garrido 0001</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>HQ3DAvatar: High Quality Controllable 3D Head Avatar.</title>
+<year>2023</year>
+<volume>abs/2303.14471</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.14471</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-14471</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-18193" mdate="2023-09-30">
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>GVP: Generative Volumetric Primitives.</title>
+<year>2023</year>
+<volume>abs/2303.18193</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.18193</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-18193</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-10973" mdate="2023-09-30">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="170/1205">Thomas Leimk&#252;hler</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="157/0426">Abhimitra Meka</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.</title>
+<year>2023</year>
+<volume>abs/2305.10973</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.10973</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-10973</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-00547" mdate="2023-09-30">
+<author pid="280/1629">Mohit Mendiratta</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author pid="243/6711">Kartik Teotia</author>
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="180/6438">Vladislav Golyanik</author>
+<author pid="161/0772">Adam Kortylewski</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars.</title>
+<year>2023</year>
+<volume>abs/2306.00547</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.00547</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-00547</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-09278" mdate="2023-08-25">
+<author pid="210/2741">Xudong Xu</author>
+<author pid="241/6250">Zhaoyang Lyu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR.</title>
+<year>2023</year>
+<volume>abs/2308.09278</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.09278</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-09278</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-04543" mdate="2024-11-13">
+<author pid="75/5056">Tong Wu</author>
+<author pid="215/1997">Zhibing Li</author>
+<author pid="72/7503-1">Shuai Yang 0001</author>
+<author pid="29/1005-1">Pan Zhang 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="44/740-3">Jiaqi Wang 0003</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image.</title>
+<year>2023</year>
+<volume>abs/2312.04543</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.04543</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-04543</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-07409" mdate="2025-03-05">
+<author pid="364/1450-15">Kaiwen Zhang 0015</author>
+<author pid="79/7629-1">Yifan Zhou 0001</author>
+<author pid="210/2741">Xudong Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing.</title>
+<year>2023</year>
+<volume>abs/2312.07409</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.07409</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-07409</url>
+</article>
+</r>
+<r><article key="journals/pami/PanZDLLL22" mdate="2023-08-28">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author orcid="0000-0003-2136-7592" pid="211/7010">Xiaohang Zhan</author>
+<author orcid="0000-0003-0777-9232" pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author orcid="0000-0001-5345-1591" pid="01/5855">Chen Change Loy</author>
+<author orcid="0000-0002-6685-7950" pid="54/4989-2">Ping Luo 0002</author>
+<title>Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.</title>
+<pages>7474-7489</pages>
+<year>2022</year>
+<volume>44</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TPAMI.2021.3115428</ee>
+<ee>https://www.wikidata.org/entity/Q113088518</ee>
+<url>db/journals/pami/pami44.html#PanZDLLL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/RTPET22" mdate="2025-03-03">
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>gCoRF: Generative Compositional Radiance Fields.</title>
+<pages>567-576</pages>
+<year>2022</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV57658.2022.00067</ee>
+<crossref>conf/3dim/2022</crossref>
+<url>db/conf/3dim/3dv2022.html#RTPET22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/PanTLT22" mdate="2025-03-03">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>GAN2X: Non-Lambertian Inverse Rendering of Image GANs.</title>
+<pages>711-721</pages>
+<year>2022</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV57658.2022.00081</ee>
+<crossref>conf/3dim/2022</crossref>
+<url>db/conf/3dim/3dv2022.html#PanTLT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Tewari0PFAT22" mdate="2025-03-03">
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="159/4877">Ohad Fried</author>
+<author orcid="0000-0002-8996-7327" pid="64/2431">Maneesh Agrawala</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.</title>
+<pages>1506-1515</pages>
+<year>2022</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52688.2022.00157</ee>
+<crossref>conf/cvpr/2022</crossref>
+<url>db/conf/cvpr/cvpr2022.html#Tewari0PFAT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/XiangliXPZRTDL22" mdate="2025-03-03">
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="242/9358">Linning Xu</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author orcid="0000-0003-1004-7753" pid="211/7941">Anyi Rao</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering.</title>
+<pages>106-122</pages>
+<year>2022</year>
+<booktitle>ECCV (32)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19824-3_7</ee>
+<crossref>conf/eccv/2022-32</crossref>
+<url>db/conf/eccv/eccv2022-32.html#XiangliXPZRTDL22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-15926" mdate="2023-09-30">
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="159/4877">Ohad Fried</author>
+<author pid="64/2431">Maneesh Agrawala</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.</title>
+<year>2022</year>
+<volume>abs/2203.15926</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.15926</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-15926</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-09244" mdate="2023-09-30">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>GAN2X: Non-Lambertian Inverse Rendering of Image GANs.</title>
+<year>2022</year>
+<volume>abs/2206.09244</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.09244</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-09244</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-12697" mdate="2023-12-15">
+<author pid="75/5056">Tong Wu</author>
+<author pid="44/740-3">Jiaqi Wang 0003</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="210/2741">Xudong Xu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.</title>
+<year>2022</year>
+<volume>abs/2208.12697</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.12697</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-12697</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-17344" mdate="2023-09-30">
+<author pid="241/9493">Mallikarjun B. R. 0001</author>
+<author pid="198/1021">Ayush Tewari</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>gCoRF: Generative Compositional Radiance Fields.</title>
+<year>2022</year>
+<volume>abs/2210.17344</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.17344</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-17344</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-12352" mdate="2024-02-28">
+<author pid="188/7759-37">Chao Wang 0037</author>
+<author pid="172/3357">Ana Serrano</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="22/5523-19">Bin Chen 0019</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="m/KMyszkowski">Karol Myszkowski</author>
+<author pid="170/1205">Thomas Leimk&#252;hler</author>
+<title>GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild.</title>
+<year>2022</year>
+<volume>abs/2211.12352</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.12352</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-12352</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/0003HPL021" mdate="2025-03-03">
+<author orcid="0000-0001-7653-4015" pid="52/146-3">Yuming Jiang 0003</author>
+<author pid="159/4681">Ziqi Huang</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>Talk-to-Edit: Fine-Grained Facial Editing via Dialog.</title>
+<pages>13779-13788</pages>
+<year>2021</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV48922.2021.01354</ee>
+<crossref>conf/iccv/2021</crossref>
+<url>db/conf/iccv/iccv2021.html#0003HPL021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PanDLLL21" mdate="2023-06-29">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=FGqiDsBUKL0</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#PanDLLL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/PanXLTD21" mdate="2023-09-30">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="210/2741">Xudong Xu</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.</title>
+<pages>20002-20013</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/a64c94baaf368e1840a1324e839230de-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#PanXLTD21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/XuPLD21" mdate="2023-06-29">
+<author pid="210/2741">Xudong Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.</title>
+<pages>20683-20695</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/acab0116c354964a558e65bdd07ff047-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#XuPLD21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-04425" mdate="2021-09-21">
+<author pid="52/146-3">Yuming Jiang 0003</author>
+<author pid="159/4681">Ziqi Huang</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<title>Talk-to-Edit: Fine-Grained Facial Editing via Dialog.</title>
+<year>2021</year>
+<volume>abs/2109.04425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.04425</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-04425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-15678" mdate="2023-06-29">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="210/2741">Xudong Xu</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.</title>
+<year>2021</year>
+<volume>abs/2110.15678</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.15678</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-15678</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-00969" mdate="2023-06-29">
+<author pid="210/2741">Xudong Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<title>Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.</title>
+<year>2021</year>
+<volume>abs/2111.00969</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.00969</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-00969</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-05504" mdate="2023-06-29">
+<author pid="186/4450">Yuanbo Xiangli</author>
+<author pid="242/9358">Linning Xu</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="224/0709">Nanxuan Zhao</author>
+<author pid="211/7941">Anyi Rao</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>CityNeRF: Building NeRF at City Scale.</title>
+<year>2021</year>
+<volume>abs/2112.05504</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.05504</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-05504</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhanPDLLL20" mdate="2025-03-03">
+<author pid="211/7010">Xiaohang Zhan</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>Self-Supervised Scene De-Occlusion.</title>
+<pages>3783-3791</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Zhan_Self-Supervised_Scene_De-Occlusion_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00384</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#ZhanPDLLL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/0002MPZLYG20" mdate="2025-03-03">
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="239/5123">Zhongqi Miao</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="58/5089">Stella X. Yu</author>
+<author pid="29/7457">Boqing Gong</author>
+<title>Open Compound Domain Adaptation.</title>
+<pages>12403-12412</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01242</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#0002MPZLYG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/PanZDLLL20" mdate="2025-03-03">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.</title>
+<pages>262-277</pages>
+<year>2020</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58536-5_16</ee>
+<crossref>conf/eccv/2020-2</crossref>
+<url>db/conf/eccv/eccv2020-2.html#PanZDLLL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ShaoTPT0020" mdate="2020-12-15">
+<author pid="227/3122">Wenqi Shao</author>
+<author pid="203/8797">Shitao Tang</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="61/6118">Ping Tan</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Channel Equilibrium Networks for Learning Deep Representation.</title>
+<pages>8645-8654</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/shao20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#ShaoTPT0020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00214" mdate="2020-08-14">
+<author pid="227/3122">Wenqi Shao</author>
+<author pid="203/8797">Shitao Tang</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="61/6118">Ping Tan</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Channel Equilibrium Networks for Learning Deep Representation.</title>
+<year>2020</year>
+<volume>abs/2003.00214</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00214</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00214</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-13659" mdate="2023-06-29">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.</title>
+<year>2020</year>
+<volume>abs/2003.13659</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.13659</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-13659</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-02788" mdate="2023-06-29">
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>Self-Supervised Scene De-occlusion.</title>
+<year>2020</year>
+<volume>abs/2004.02788</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.02788</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-02788</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00844" mdate="2023-06-29">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="64/2903-2">Bo Dai 0002</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.</title>
+<year>2020</year>
+<volume>abs/2011.00844</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00844</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00844</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhanP0LL19" mdate="2025-03-03">
+<author pid="211/7010">Xiaohang Zhan</author>
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>Self-Supervised Learning via Conditional Motion Propagation.</title>
+<pages>1881-1889</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_Self-Supervised_Learning_via_Conditional_Motion_Propagation_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00198</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ZhanP0LL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/PanZST019" mdate="2025-03-03">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Switchable Whitening for Deep Representation Learning.</title>
+<pages>1863-1871</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00195</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#PanZST019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-11412" mdate="2019-04-02">
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>Self-Supervised Learning via Conditional Motion Propagation.</title>
+<year>2019</year>
+<volume>abs/1903.11412</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.11412</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-11412</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09739" mdate="2019-04-26">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<title>Switchable Whitening for Deep Representation Learning.</title>
+<year>2019</year>
+<volume>abs/1904.09739</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09739</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09739</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03403" mdate="2019-09-17">
+<author pid="05/6300-2">Ziwei Liu 0002</author>
+<author pid="239/5123">Zhongqi Miao</author>
+<author pid="211/7940">Xingang Pan</author>
+<author pid="211/7010">Xiaohang Zhan</author>
+<author pid="58/5089">Stella X. Yu</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="29/7457">Boqing Gong</author>
+<title>Compound Domain Adaptation in an Open World.</title>
+<year>2019</year>
+<volume>abs/1909.03403</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03403</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03403</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/PanSLWT18" mdate="2025-03-03">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author orcid="0000-0002-7929-5889" pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Spatial as Deep: Spatial CNN for Traffic Scene Understanding.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.12301</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#PanSLWT18</url>
+<pages>7276-7283</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/PanLST18" mdate="2018-11-02">
+<author orcid="0000-0002-5825-9467" pid="211/7940">Xingang Pan</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net.</title>
+<pages>484-500</pages>
+<year>2018</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01225-0_29</ee>
+<crossref>conf/eccv/2018-4</crossref>
+<url>db/conf/eccv/eccv2018-4.html#PanLST18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-09441" mdate="2018-10-09">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net.</title>
+<year>2018</year>
+<volume>abs/1807.09441</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.09441</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-09441</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-06080" mdate="2019-12-10">
+<author pid="211/7940">Xingang Pan</author>
+<author pid="00/3188">Jianping Shi</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Spatial As Deep: Spatial CNN for Traffic Scene Understanding.</title>
+<year>2017</year>
+<volume>abs/1712.06080</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.06080</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-06080</url>
+</article>
+</r>
+<coauthors n="80" nc="1">
+<co c="0"><na f="a/Agrawala:Maneesh" pid="64/2431">Maneesh Agrawala</na></co>
+<co c="0"><na f="c/Chen_0019:Bin" pid="22/5523-19">Bin Chen 0019</na></co>
+<co c="0"><na f="c/Chen:Dongdong" pid="92/1489">Dongdong Chen</na></co>
+<co c="0"><na f="c/Chen:Honghua" pid="53/5080">Honghua Chen</na></co>
+<co c="0"><na f="c/Chen_0026:Kai" pid="181/2839-26">Kai Chen 0026</na></co>
+<co c="0"><na f="c/Chen:Yongwei" pid="270/4333">Yongwei Chen</na></co>
+<co c="0"><na f="c/Cordonnier:Guillaume" pid="180/7491">Guillaume Cordonnier</na></co>
+<co c="0"><na f="d/Dai_0002:Bo" pid="64/2903-2">Bo Dai 0002</na></co>
+<co c="0"><na f="d/Djeacoumar:Adarsh" pid="344/3575">Adarsh Djeacoumar</na></co>
+<co c="0"><na f="d/Dong:Yi" pid="07/2924">Yi Dong</na></co>
+<co c="0"><na f="d/Drettakis:George" pid="59/2449">George Drettakis</na></co>
+<co c="0"><na f="e/Elgharib:Mohamed" pid="232/2002">Mohamed Elgharib</na></co>
+<co c="0"><na f="f/Fox:Gereon" pid="206/8408">Gereon Fox</na></co>
+<co c="0"><na f="f/Fried:Ohad" pid="159/4877">Ohad Fried</na></co>
+<co c="0"><na f="g/Garrido_0001:Pablo" pid="09/929-1">Pablo Garrido 0001</na></co>
+<co c="0"><na f="g/Golyanik:Vladislav" pid="180/6438">Vladislav Golyanik</na></co>
+<co c="0"><na f="g/Gong:Boqing" pid="29/7457">Boqing Gong</na></co>
+<co c="0"><na f="h/He:Zexin" pid="304/1559">Zexin He</na></co>
+<co c="0"><na f="h/Hong:Fangzhou" pid="261/3476">Fangzhou Hong</na></co>
+<co c="0"><na f="h/Huang_0021:Xin" pid="98/5766-21">Xin Huang 0021</na></co>
+<co c="0"><na f="h/Huang:Ziqi" pid="159/4681">Ziqi Huang</na></co>
+<co c="0"><na f="j/Javanmardi:Alireza" pid="295/4647">Alireza Javanmardi</na></co>
+<co c="0"><na f="j/Jia:Kui" pid="60/3834">Kui Jia</na></co>
+<co c="0"><na f="j/Jiang_0003:Yuming" pid="52/146-3">Yuming Jiang 0003</na></co>
+<co c="0"><na f="k/Kim:Hyeongwoo" pid="58/4700">Hyeongwoo Kim</na></co>
+<co c="0"><na f="k/Kortylewski:Adam" pid="161/0772">Adam Kortylewski</na></co>
+<co c="0"><na f="l/Lan:Yushi" pid="259/2752">Yushi Lan</na></co>
+<co c="0"><na f="l/Leimk=uuml=hler:Thomas" pid="170/1205">Thomas Leimk&#252;hler</na></co>
+<co c="0"><na f="l/Li:Zhibing" pid="215/1997">Zhibing Li</na></co>
+<co c="0"><na f="l/Lin:Dahua" pid="53/6088">Dahua Lin</na></co>
+<co c="0"><na f="l/Liu:Lingjie" pid="204/0052">Lingjie Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Ziwei" pid="05/6300-2">Ziwei Liu 0002</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Luo_0002:Ping" pid="54/4989-2">Ping Luo 0002</na></co>
+<co c="0"><na f="l/Luo:Yihang" pid="133/7581">Yihang Luo</na></co>
+<co c="0"><na f="l/Lyu:Zhaoyang" pid="241/6250">Zhaoyang Lyu</na></co>
+<co c="0"><na f="m/Meka:Abhimitra" pid="157/0426">Abhimitra Meka</na></co>
+<co c="0"><na f="m/Mendiratta:Mohit" pid="280/1629">Mohit Mendiratta</na></co>
+<co c="0"><na f="m/Meng:Xuyi" pid="336/3425">Xuyi Meng</na></co>
+<co c="0"><na f="m/Miao:Zhongqi" pid="239/5123">Zhongqi Miao</na></co>
+<co c="0"><na f="m/Myszkowski:Karol" pid="m/KMyszkowski">Karol Myszkowski</na></co>
+<co c="0"><na f="o/Ouyang:Wenqi" pid="336/7634">Wenqi Ouyang</na></co>
+<co c="0"><na f="p/Peng:Sida" pid="232/3246">Sida Peng</na></co>
+<co c="0"><na f="r/R=_0001:Mallikarjun_B=" pid="241/9493">Mallikarjun B. R. 0001</na></co>
+<co c="0"><na f="r/Rao:Anyi" pid="211/7941">Anyi Rao</na></co>
+<co c="0"><na f="s/Seidel:Hans=Peter" pid="s/HansPeterSeidel">Hans-Peter Seidel</na></co>
+<co c="0"><na f="s/Serrano:Ana" pid="172/3357">Ana Serrano</na></co>
+<co c="0"><na f="s/Shao:Wenqi" pid="227/3122">Wenqi Shao</na></co>
+<co c="0"><na f="s/Shi:Jianping" pid="00/3188">Jianping Shi</na></co>
+<co c="0"><na f="s/Si:Jianlou" pid="159/3878">Jianlou Si</na></co>
+<co c="0"><na f="t/Tan:Ping" pid="61/6118">Ping Tan</na></co>
+<co c="0"><na f="t/Tang:Shitao" pid="203/8797">Shitao Tang</na></co>
+<co c="0"><na f="t/Tang:Xiaoou" pid="04/5226">Xiaoou Tang</na></co>
+<co c="0"><na f="t/Teotia:Kartik" pid="243/6711">Kartik Teotia</na></co>
+<co c="0"><na f="t/Tewari:Ayush" pid="198/1021">Ayush Tewari</na></co>
+<co c="0"><na f="t/Theobalt:Christian" pid="55/3346">Christian Theobalt</na></co>
+<co c="0"><na f="w/Wang_0037:Chao" pid="188/7759-37">Chao Wang 0037</na></co>
+<co c="0"><na f="w/Wang_0003:Jiaqi" pid="44/740-3">Jiaqi Wang 0003</na></co>
+<co c="0"><na f="w/Wang_0002:Tengfei" pid="142/3354-2">Tengfei Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaogang" pid="91/6236-1">Xiaogang Wang 0001</na></co>
+<co c="0"><na f="w/Wei:Tianyi" pid="177/5554">Tianyi Wei</na></co>
+<co c="0"><na f="w/Wolski:Krzysztof" pid="202/4413">Krzysztof Wolski</na></co>
+<co c="0"><na f="w/Wu_0002:Tianxing" pid="152/2473-2">Tianxing Wu 0002</na></co>
+<co c="0"><na f="w/Wu:Tong" pid="75/5056">Tong Wu</na></co>
+<co c="0"><na f="x/Xiangli:Yuanbo" pid="186/4450">Yuanbo Xiangli</na></co>
+<co c="0"><na f="x/Xiao:Zeqi" pid="344/1615">Zeqi Xiao</na></co>
+<co c="0"><na f="x/Xing:Zhening" pid="276/3671">Zhening Xing</na></co>
+<co c="0"><na f="x/Xu:Linning" pid="242/9358">Linning Xu</na></co>
+<co c="0"><na f="x/Xu:Xudong" pid="210/2741">Xudong Xu</na></co>
+<co c="0"><na f="y/Yang_0045:Lei" pid="50/2484-45">Lei Yang 0045</na></co>
+<co c="0"><na f="y/Yang_0001:Shuai" pid="72/7503-1">Shuai Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Songlin" pid="03/7764">Songlin Yang</na></co>
+<co c="0"><na f="y/Yu:Stella_X=" pid="58/5089">Stella X. Yu</na></co>
+<co c="0"><na f="z/Zeng:Yanhong" pid="215/4033">Yanhong Zeng</na></co>
+<co c="0"><na f="z/Zhan:Xiaohang" pid="211/7010">Xiaohang Zhan</na></co>
+<co c="0"><na f="z/Zhang_0015:Kaiwen" pid="364/1450-15">Kaiwen Zhang 0015</na></co>
+<co c="0"><na f="z/Zhang_0001:Pan" pid="29/1005-1">Pan Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Nanxuan" pid="224/0709">Nanxuan Zhao</na></co>
+<co c="0"><na f="z/Zhou:Shangchen" pid="191/5298">Shangchen Zhou</na></co>
+<co c="0"><na f="z/Zhou_0001:Yifan" pid="79/7629-1">Yifan Zhou 0001</na></co>
+</coauthors>
+</dblpperson>
+
