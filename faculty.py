@@ -5,7 +5,7 @@ from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
 import glob
-from network import *
+from preprocessing import *
 
 #PageRank 1000 faculty extraction with degree betweeness for comparison:
 def page_rank_network():
