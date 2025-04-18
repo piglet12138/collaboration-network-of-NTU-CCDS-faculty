@@ -1,0 +1,1088 @@
+<?xml version="1.0"?>
+<dblpperson name="Wenya Wang" pid="62/7948" n="69">
+<person key="homepages/62/7948" mdate="2010-03-22">
+<author pid="62/7948">Wenya Wang</author>
+</person>
+<r><inproceedings key="conf/coling/HeWYW25" mdate="2025-01-28">
+<author pid="182/7216">Qiyuan He</author>
+<author pid="79/3601">Yizhong Wang</author>
+<author pid="30/9823">Jianfei Yu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Language Models over Large-Scale Knowledge Base: on Capacity, Flexibility and Reasoning for New Facts.</title>
+<pages>1736-1753</pages>
+<year>2025</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/2025.coling-main.118/</ee>
+<crossref>conf/coling/2025</crossref>
+<url>db/conf/coling/coling2025.html#HeWYW25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-01246" mdate="2025-02-11">
+<author pid="182/7216">Qiyuan He</author>
+<author pid="30/9823">Jianfei Yu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.01246</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.01246</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-01246</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-16636" mdate="2025-03-20">
+<author pid="34/5184">Yin Wu</author>
+<author pid="259/0397">Quanyu Long</author>
+<author pid="181/2820">Jing Li</author>
+<author pid="30/9823">Jianfei Yu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.16636</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.16636</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-16636</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/idt/HuangZW24" mdate="2024-07-11">
+<author pid="216/3164">Qingyu Huang</author>
+<author pid="60/2931">Yi Zhong</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>3D printing slicing algorithm and partition scanning strategy for big data.</title>
+<pages>731-741</pages>
+<year>2024</year>
+<volume>18</volume>
+<journal>Intell. Decis. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/IDT-230247</ee>
+<url>db/journals/idt/idt18.html#HuangZW24</url>
+</article>
+</r>
+<r><article key="journals/tifs/LiuWSRL24" mdate="2024-11-15">
+<author orcid="0000-0002-2279-7634" pid="93/4010-36">Hui Liu 0036</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="82/2248">Hao Sun</author>
+<author pid="81/2446">Anderson Rocha 0001</author>
+<author orcid="0000-0002-8723-8112" pid="121/0867">Haoliang Li</author>
+<title>Robust Domain Misinformation Detection via Multi-Modal Feature Alignment.</title>
+<pages>793-806</pages>
+<year>2024</year>
+<volume>19</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2023.3326368</ee>
+<url>db/journals/tifs/tifs19.html#LiuWSRL24</url>
+</article>
+</r>
+<r><article key="journals/tnn/LvLFW24" mdate="2024-06-18">
+<author orcid="0000-0003-1640-0992" pid="146/6418">Fengmao Lv</author>
+<author orcid="0000-0003-0488-8900" pid="00/4393">Tao Liang</author>
+<author orcid="0000-0002-4221-9727" pid="211/4077">Zhihui Fei</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<title>Progressive Multigranularity Information Propagation for Coupled Aspect-Opinion Extraction.</title>
+<pages>7577-7586</pages>
+<year>2024</year>
+<month>June</month>
+<volume>35</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNNLS.2022.3215190</ee>
+<url>db/journals/tnn/tnn35.html#LvLFW24</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/HuangWHW24" mdate="2025-01-19">
+<author orcid="0009-0006-2290-5531" pid="116/8609-3">Chengyu Huang 0003</author>
+<author pid="188/5861">Zeqiu Wu</author>
+<author pid="268/5766">Yushi Hu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Training Language Models to Generate Text with Citations via Fine-grained Rewards.</title>
+<pages>2926-2949</pages>
+<year>2024</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.acl-long.161</ee>
+<ee type="oa">https://aclanthology.org/2024.acl-long.161</ee>
+<ee>https://www.wikidata.org/entity/Q131457781</ee>
+<crossref>conf/acl/2024-1</crossref>
+<url>db/conf/acl/acl2024-1.html#HuangWHW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/0001X0W024" mdate="2024-09-24">
+<author pid="86/1950-1">Soumya Sanyal 0001</author>
+<author pid="331/8337">Tianyi Xiao</author>
+<author pid="289/6273">Jiacheng Liu 0010</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="36/360-1">Xiang Ren 0001</author>
+<title>Are Machines Better at Complex Reasoning? Unveiling Human-Machine Inference Gaps in Entailment Verification.</title>
+<pages>10361-10386</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.618</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.618</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#0001X0W024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/LiuWLL24" mdate="2025-03-03">
+<author orcid="0000-0002-2279-7634" pid="93/4010-36">Hui Liu 0036</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="275/8912">Haoru Li</author>
+<author orcid="0000-0002-8723-8112" pid="121/0867">Haoliang Li</author>
+<title>TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection.</title>
+<pages>15556-15583</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.919</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.919</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#LiuWLL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/FangWLHL24" mdate="2024-11-30">
+<author orcid="0009-0002-8162-3201" pid="389/2572">Junlin Fang</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-9648-0982" pid="297/4000">Tianze Luo</author>
+<author orcid="0000-0001-9322-2777" pid="171/3049">Yanyong Huang</author>
+<author orcid="0000-0003-1640-0992" pid="146/6418">Fengmao Lv</author>
+<title>Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans.</title>
+<pages>591-601</pages>
+<year>2024</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3627673.3679524</ee>
+<crossref>conf/cikm/2024</crossref>
+<url>db/conf/cikm/cikm2024.html#FangWLHL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/FangWLL24" mdate="2025-01-19">
+<author orcid="0009-0002-8162-3201" pid="389/2572">Junlin Fang</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author orcid="0000-0003-1640-0992" pid="146/6418">Fengmao Lv</author>
+<title>Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance.</title>
+<pages>5810-5819</pages>
+<year>2024</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3664647.3680703</ee>
+<ee>https://www.wikidata.org/entity/Q131165409</ee>
+<crossref>conf/mm/2024</crossref>
+<url>db/conf/mm/mm2024.html#FangWLL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/LiYYWYX24" mdate="2025-01-19">
+<author orcid="0009-0006-3034-7998" pid="236/7682">Ziyan Li</author>
+<author orcid="0000-0001-8380-0609" pid="30/9823">Jianfei Yu</author>
+<author orcid="0009-0008-2903-9589" pid="22/667">Jia Yang</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-7160-9620" pid="09/3925">Li Yang</author>
+<author orcid="0000-0002-0621-1058" pid="50/3262">Rui Xia</author>
+<title>Generative Multimodal Data Augmentation for Low-Resource Multimodal Named Entity Recognition.</title>
+<pages>7336-7345</pages>
+<year>2024</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3664647.3681598</ee>
+<ee>https://www.wikidata.org/entity/Q131161527</ee>
+<crossref>conf/mm/2024</crossref>
+<url>db/conf/mm/mm2024.html#LiYYWYX24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-03686" mdate="2024-07-16">
+<author pid="86/1950-1">Soumya Sanyal 0001</author>
+<author pid="331/8337">Tianyi Xiao</author>
+<author pid="289/6273">Jiacheng Liu 0010</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="36/360-1">Xiang Ren 0001</author>
+<title>Are Machines Better at Complex Reasoning? Unveiling Human-Machine Inference Gaps in Entailment Verification.</title>
+<year>2024</year>
+<volume>abs/2402.03686</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.03686</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-03686</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-04315" mdate="2024-09-19">
+<author pid="116/8609-3">Chengyu Huang 0003</author>
+<author pid="188/5861">Zeqiu Wu</author>
+<author pid="268/5766">Yushi Hu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Training Language Models to Generate Text with Citations via Fine-grained Rewards.</title>
+<year>2024</year>
+<volume>abs/2402.04315</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.04315</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-04315</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-07776" mdate="2024-11-15">
+<author pid="93/4010-36">Hui Liu 0036</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="275/8912">Haoru Li</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection.</title>
+<year>2024</year>
+<volume>abs/2402.07776</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.07776</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-07776</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-13532" mdate="2024-03-21">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="35/8109-10">Yue Deng 0010</author>
+<author pid="213/9040">Leilei Gan</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation.</title>
+<year>2024</year>
+<volume>abs/2402.13532</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.13532</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-13532</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-14273" mdate="2025-01-19">
+<author pid="182/7216">Qiyuan He</author>
+<author pid="79/3601">Yizhong Wang</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Can Language Models Act as Knowledge Bases at Scale?</title>
+<year>2024</year>
+<volume>abs/2402.14273</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.14273</ee>
+<ee>https://www.wikidata.org/entity/Q124664115</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-14273</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16427" mdate="2024-05-30">
+<author pid="61/2757">Ziyan Wang</author>
+<author pid="223/2666">Yingpeng Du</author>
+<author pid="163/5129-1">Zhu Sun 0001</author>
+<author pid="368/7031">Haoyan Chua</author>
+<author pid="80/11494">Kaidong Feng</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<title>Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation.</title>
+<year>2024</year>
+<volume>abs/2403.16427</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16427</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16427</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-07546" mdate="2024-05-16">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="34/5184">Yin Wu</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning.</title>
+<year>2024</year>
+<volume>abs/2404.07546</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.07546</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-07546</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-12617" mdate="2024-06-18">
+<author pid="87/3677">Hang Chen</author>
+<author pid="89/473">Xinyu Yang</author>
+<author pid="278/8488">Jiaying Zhu</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Quantifying Emergence in Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2405.12617</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.12617</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-12617</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-11890" mdate="2024-11-15">
+<author pid="93/4010-36">Hui Liu 0036</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="82/2248">Hao Sun</author>
+<author pid="166/6330">Chris Xing Tian</author>
+<author pid="297/4695">Chenqi Kong</author>
+<author pid="126/6361">Xin Dong</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning.</title>
+<year>2024</year>
+<volume>abs/2406.11890</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.11890</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-11890</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-07505" mdate="2024-09-23">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="176/6660">Jianda Chen</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Large Language Models Know What Makes Exemplary Contexts.</title>
+<year>2024</year>
+<volume>abs/2408.07505</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.07505</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-07505</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-01334" mdate="2024-11-08">
+<author pid="87/3677">Hang Chen</author>
+<author pid="278/8488">Jiaying Zhu</author>
+<author pid="89/473">Xinyu Yang</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Unveiling Language Skills under Circuits.</title>
+<year>2024</year>
+<volume>abs/2410.01334</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.01334</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-01334</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-02400" mdate="2025-01-01">
+<author pid="359/6493">Qisheng Hu</author>
+<author pid="259/0397">Quanyu Long</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?</title>
+<year>2024</year>
+<volume>abs/2411.02400</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.02400</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-02400</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/cm/CaiWCTXW23" mdate="2023-07-30">
+<author pid="258/0546">Yufeng Cai</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="280/7312">Yicong Chen</author>
+<author pid="184/4331">Haijun Tan</author>
+<author pid="55/4104-7">Ning Xie 0007</author>
+<author pid="80/3885">Jiangzhou Wang</author>
+<title>Multiple Cooperative Attackers for Tag-Based Physical Layer Authentication.</title>
+<pages>165-171</pages>
+<year>2023</year>
+<month>July</month>
+<volume>61</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/MCOM.007.2200402</ee>
+<url>db/journals/cm/cm61.html#CaiWCTXW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WangSHS23" mdate="2025-01-19">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="37/44">Vivek Srikumar</author>
+<author pid="52/1296">Hannaneh Hajishirzi</author>
+<author pid="90/5204">Noah A. Smith</author>
+<title>Elaboration-Generating Commonsense Question Answering at Scale.</title>
+<pages>1619-1635</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.90</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.90</ee>
+<ee>https://www.wikidata.org/entity/Q131458034</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#WangSHS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/LiuWL23" mdate="2024-11-15">
+<author orcid="0000-0002-2279-7634" pid="93/4010-36">Hui Liu 0036</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0002-8723-8112" pid="121/0867">Haoliang Li</author>
+<title>Interpretable Multimodal Misinformation Detection with Logic Reasoning.</title>
+<pages>9781-9796</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.620</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.620</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#LiuWL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/WangLWGGLW23" mdate="2025-01-19">
+<author orcid="0009-0004-4030-5535" pid="62/7948">Wenya Wang</author>
+<author orcid="0009-0005-5048-2516" pid="227/9139">Xingwei Lin</author>
+<author orcid="0000-0001-7113-7635" pid="18/3178-4">Jingyi Wang 0004</author>
+<author orcid="0009-0003-6597-0577" pid="189/1639">Wang Gao</author>
+<author orcid="0000-0002-0504-9538" pid="72/1963">Dawu Gu</author>
+<author orcid="0009-0005-5341-4519" pid="83/7134">Wei Lv</author>
+<author orcid="0009-0005-3100-0534" pid="301/5814">Jiashui Wang</author>
+<title>HODOR: Shrinking Attack Surface on Node.js via System Call Limitation.</title>
+<pages>2800-2814</pages>
+<year>2023</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3576915.3616609</ee>
+<ee>https://www.wikidata.org/entity/Q131120446</ee>
+<crossref>conf/ccs/2023</crossref>
+<url>db/conf/ccs/ccs2023.html#WangLWGGLW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/0010WWS0H23" mdate="2024-10-06">
+<author pid="289/6273">Jiacheng Liu 0010</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0002-5503-1838" pid="346/5838">Dianzhuo Wang</author>
+<author pid="90/5204">Noah A. Smith</author>
+<author pid="89/579-1">Yejin Choi 0001</author>
+<author pid="52/1296">Hannaneh Hajishirzi</author>
+<title>Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements.</title>
+<pages>1264-1287</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.81</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.81</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#0010WWS0H23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LongWP23" mdate="2024-05-07">
+<author pid="259/0397">Quanyu Long</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning.</title>
+<pages>6525-6542</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.402</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.402</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#LongWP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/WangZMZ23" mdate="2024-11-13">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="358/1571">Runyu Zhao</author>
+<author pid="47/4497-1">Jie Mei 0001</author>
+<author orcid="0000-0002-8531-6762" pid="77/6893">Kan Zheng</author>
+<title>Design and Implementation of Campus Surveillance System Based on ZLMediaKit.</title>
+<pages>356-358</pages>
+<year>2023</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT58122.2023.00110</ee>
+<crossref>conf/icalt/2023</crossref>
+<url>db/conf/icalt/icalt2023.html#WangZMZ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-03695" mdate="2023-05-11">
+<author pid="289/6273">Jiacheng Liu 0010</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="346/5838">Dianzhuo Wang</author>
+<author pid="90/5204">Noah A. Smith</author>
+<author pid="89/579-1">Yejin Choi 0001</author>
+<author pid="52/1296">Hannaneh Hajishirzi</author>
+<title>Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements.</title>
+<year>2023</year>
+<volume>abs/2305.03695</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.03695</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-03695</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-05964" mdate="2024-11-15">
+<author pid="93/4010-36">Hui Liu 0036</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>Interpretable Multimodal Misinformation Detection with Logic Reasoning.</title>
+<year>2023</year>
+<volume>abs/2305.05964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.05964</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-05964</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-13984" mdate="2023-06-27">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="227/9139">Xingwei Lin</author>
+<author pid="18/3178">Jingyi Wang</author>
+<author pid="189/1639">Wang Gao</author>
+<author pid="72/1963">Dawu Gu</author>
+<author pid="83/7134">Wei Lv</author>
+<author pid="301/5814">Jiashui Wang</author>
+<title>HODOR: Shrinking Attack Surface on Node.js via System Call Limitation.</title>
+<year>2023</year>
+<volume>abs/2306.13984</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.13984</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-13984</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-11551" mdate="2023-11-23">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning.</title>
+<year>2023</year>
+<volume>abs/2311.11551</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.11551</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-11551</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-14315" mdate="2024-11-15">
+<author pid="93/4010-36">Hui Liu 0036</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="82/2248">Hao Sun</author>
+<author pid="81/2446">Anderson Rocha 0001</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>Robust Domain Misinformation Detection via Multi-modal Feature Alignment.</title>
+<year>2023</year>
+<volume>abs/2311.14315</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.14315</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-14315</url>
+</article>
+</r>
+<r><article key="journals/bib/WangZSZS22" mdate="2022-12-25">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="89/5992">Li Zhang</author>
+<author pid="00/7775">Jianqiang Sun</author>
+<author orcid="0000-0001-9713-1864" pid="05/490">Qi Zhao</author>
+<author orcid="0000-0002-8712-0544" pid="301/5049">Jianwei Shuai</author>
+<title>Predicting the potential human lncRNA-miRNA interactions based on graph convolution network with conditional random field.</title>
+<year>2022</year>
+<volume>23</volume>
+<journal>Briefings Bioinform.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1093/bib/bbac463</ee>
+<url>db/journals/bib/bib23.html#WangZSZS22</url>
+</article>
+</r>
+<r><article key="journals/jsac/XieWCZH22" mdate="2022-12-05">
+<author orcid="0000-0002-6443-8111" pid="55/4104-7">Ning Xie 0007</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="280/7312">Yicong Chen</author>
+<author pid="30/10097">Peichang Zhang</author>
+<author orcid="0000-0003-4534-7625" pid="18/1763-1">Lei Huang 0001</author>
+<title>Confidentiality-Preserving Edge-Based Wireless Communications for Contact Tracing Systems.</title>
+<pages>3152-3171</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/JSAC.2022.3211549</ee>
+<url>db/journals/jsac/jsac40.html#XieWCZH22</url>
+</article>
+</r>
+<r><article key="journals/tnn/LiangWL22" mdate="2023-08-28">
+<author pid="00/4393">Tao Liang</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0003-1640-0992" pid="146/6418">Fengmao Lv</author>
+<title>Weakly Supervised Domain Adaptation for Aspect Extraction via Multilevel Interaction Transfer.</title>
+<pages>5818-5829</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TNNLS.2021.3071474</ee>
+<ee>https://www.wikidata.org/entity/Q114931986</ee>
+<url>db/journals/tnn/tnn33.html#LiangWL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WangP22" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Deep Inductive Logic Reasoning for Multi-Hop Reading Comprehension.</title>
+<pages>4999-5009</pages>
+<year>2022</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.acl-long.343</ee>
+<ee type="oa">https://aclanthology.org/2022.acl-long.343</ee>
+<crossref>conf/acl/2022-1</crossref>
+<url>db/conf/acl/acl2022-1.html#WangP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiuWL22" mdate="2024-11-15">
+<author pid="93/4010-36">Hui Liu 0036</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement.</title>
+<pages>4995-5006</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.333</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.333</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#LiuWL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/LongLWP22" mdate="2024-02-05">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="297/4000">Tianze Luo</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.</title>
+<pages>2982-2995</pages>
+<year>2022</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.naacl-main.217</ee>
+<ee type="oa">https://aclanthology.org/2022.naacl-main.217</ee>
+<crossref>conf/naacl/2022</crossref>
+<url>db/conf/naacl/naacl2022.html#LongLWP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-04564" mdate="2022-07-13">
+<author pid="259/0397">Quanyu Long</author>
+<author pid="297/4000">Tianze Luo</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.</title>
+<year>2022</year>
+<volume>abs/2207.04564</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.04564</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-04564</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-01232" mdate="2022-09-26">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="37/44">Vivek Srikumar</author>
+<author pid="52/1296">Hanna Hajishirzi</author>
+<author pid="90/5204">Noah A. Smith</author>
+<title>Elaboration-Generating Commonsense Question Answering at Scale.</title>
+<year>2022</year>
+<volume>abs/2209.01232</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.01232</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-01232</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-03501" mdate="2024-11-15">
+<author orcid="0000-0002-2279-7634" pid="93/4010-36">Hui Liu 0036</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="121/0867">Haoliang Li</author>
+<title>Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement.</title>
+<year>2022</year>
+<volume>abs/2210.03501</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.03501</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-03501</url>
+</article>
+</r>
+<r><article key="journals/coling/WangP21" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Variational Deep Logic Network for Joint Inference of Entities and Relations.</title>
+<pages>775-812</pages>
+<year>2021</year>
+<volume>47</volume>
+<journal>Comput. Linguistics</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1162/coli_a_00415</ee>
+<url>db/journals/coling/coling47.html#WangP21</url>
+</article>
+</r>
+<r><article key="journals/symmetry/WangWZZ21" mdate="2021-12-15">
+<author orcid="0000-0002-9118-230X" pid="95/3819-1">Aili Wang 0001</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="166/7576">Huaming Zhou</author>
+<author pid="07/314">Jian Zhang</author>
+<title>Network Intrusion Detection Algorithm Combined with Group Convolution Network and Snapshot Ensemble.</title>
+<pages>1814</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>Symmetry</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.3390/sym13101814</ee>
+<url>db/journals/symmetry/symmetry13.html#WangWZZ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/nss/WangLWYLG21" mdate="2022-01-14">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="310/8322">Yakang Li</author>
+<author pid="188/7759">Chao Wang</author>
+<author pid="33/4068">Yuan Yan</author>
+<author pid="41/3261">Juanru Li</author>
+<author pid="72/1963">Dawu Gu</author>
+<title>Re-Check Your Certificates! Experiences and Lessons Learnt from Real-World HTTPS Certificate Deployments.</title>
+<pages>17-37</pages>
+<year>2021</year>
+<booktitle>NSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-92708-0_2</ee>
+<crossref>conf/nss/2021</crossref>
+<url>db/conf/nss/nss2021.html#WangLWYLG21</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/JiangWWW20" mdate="2020-07-05">
+<author orcid="0000-0002-6155-2613" pid="07/5949">Kaiyuan Jiang</author>
+<author orcid="0000-0003-3902-4088" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0002-9118-230X" pid="95/3819-1">Aili Wang 0001</author>
+<author orcid="0000-0002-2453-3691" pid="95/10219">Haibin Wu</author>
+<title>Network Intrusion Detection Combined Hybrid Sampling With Deep Hierarchical Network.</title>
+<pages>32464-32476</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2973730</ee>
+<url>db/journals/access/access8.html#JiangWWW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangP20" mdate="2025-01-19">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Integrating Deep Learning with Logic Fusion for Information Extraction.</title>
+<pages>9225-9232</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i05.6460</ee>
+<ee>https://www.wikidata.org/entity/Q125912140</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#WangP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WuWP20" mdate="2024-02-05">
+<author pid="278/7916">Meixi Wu</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Deep Weighted MaxSAT for Aspect-based Opinion Extraction.</title>
+<pages>5618-5628</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.453</ee>
+<ee type="oa">https://aclanthology.org/2020.emnlp-main.453/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#WuWP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-09235" mdate="2020-06-17">
+<author pid="00/4393">Tao Liang</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="146/6418">Fengmao Lv</author>
+<title>Weakly-supervised Domain Adaption for Aspect Extraction via Multi-level Interaction Transfer.</title>
+<year>2020</year>
+<volume>abs/2006.09235</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.09235</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-09235</url>
+</article>
+</r>
+<r><article key="journals/access/PanYPLW19" mdate="2025-01-19">
+<author orcid="0000-0002-4693-6555" pid="228/3573">Yiwei Pan</author>
+<author pid="240/7223">Sihan Yang</author>
+<author pid="42/4394">Hua Peng</author>
+<author pid="02/7633">Tianyun Li</author>
+<author pid="62/7948">Wenya Wang</author>
+<title>Specific Emitter Identification Based on Deep Residual Networks.</title>
+<pages>54425-54434</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2913759</ee>
+<ee>https://www.wikidata.org/entity/Q127935231</ee>
+<url>db/journals/access/access7.html#PanYPLW19</url>
+</article>
+</r>
+<r><article key="journals/coling/WangP19" mdate="2025-01-19">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Syntactically Meaningful and Transferable Recursive Neural Networks for Aspect and Opinion Extraction.</title>
+<pages>705-736</pages>
+<year>2019</year>
+<volume>45</volume>
+<journal>Comput. Linguistics</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1162/coli_a_00362</ee>
+<ee>https://www.wikidata.org/entity/Q127131538</ee>
+<url>db/journals/coling/coling45.html#WangP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ChenWP19" mdate="2024-02-05">
+<author pid="189/9141">Shangyu Chen</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Deep Neural Network Quantization via Layer-Wise Optimization Using Limited Training Data.</title>
+<pages>3329-3336</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33013329</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenWP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WangP19" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Transferable Interactive Memory Network for Domain Adaptation in Fine-Grained Opinion Extraction.</title>
+<pages>7192-7199</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33017192</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ChenWP19" mdate="2024-02-05">
+<author pid="189/9141">Shangyu Chen</author>
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Cooperative Pruning in Cross-Domain Deep Neural Network Compression.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/291</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#ChenWP19</url>
+<pages>2102-2108</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChenWP19" mdate="2021-01-21">
+<author pid="189/9141">Shangyu Chen</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization.</title>
+<pages>3918-3928</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/f8e59f4b2fe7c5705bf878bbd494ccdf-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8647-metaquant-learning-to-quantize-by-learning-to-penetrate-non-differentiable-quantization</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#ChenWP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-03041" mdate="2020-01-02">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<title>Integrating Deep Learning with Logic Fusion for Information Extraction.</title>
+<year>2019</year>
+<volume>abs/1912.03041</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.03041</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-03041</url>
+</article>
+</r>
+<r><phdthesis key="phd/sg/Wang18a" mdate="2023-07-27">
+<author pid="62/7948">Wenya Wang</author>
+<title>Deep interactive learning for fine-grained opinion mining : single-domain, cross-domain &#38; cross-lingual</title>
+<school>Nanyang Technological University, Singapore</school>
+<year>2018</year>
+<ee>https://doi.org/10.32657/10356/75872</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ai/WangPD18" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-6565-3836" pid="80/5412">Sinno Jialin Pan</author>
+<author pid="12/1632">Daniel Dahlmeier</author>
+<title>Memory networks for fine-grained opinion mining.</title>
+<pages>1-17</pages>
+<year>2018</year>
+<volume>265</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2018.09.002</ee>
+<url>db/journals/ai/ai265.html#WangPD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/PanW18" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-6565-3836" pid="80/5412">Sinno Jialin Pan</author>
+<title>Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction.</title>
+<pages>2171-2181</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://aclanthology.org/P18-1202/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1202</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#PanW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmlc2/Wang18" mdate="2018-11-21">
+<author pid="62/7948">Wenya Wang</author>
+<title>A NN-based Feature Engineering Method and its Application in Analysis of User Behaviors on Internet.</title>
+<pages>59-63</pages>
+<year>2018</year>
+<booktitle>ICMLC</booktitle>
+<ee>https://doi.org/10.1145/3195106.3195123</ee>
+<crossref>conf/icmlc2/2018</crossref>
+<url>db/conf/icmlc2/icmlc2018.html#Wang18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangP18" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-6565-3836" pid="80/5412">Sinno Jialin Pan</author>
+<title>Transition-based Adversarial Network for Cross-lingual Aspect Extraction.</title>
+<pages>4475-4481</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/622</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#WangP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WangPDX17" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<author pid="12/1632">Daniel Dahlmeier</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<title>Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.</title>
+<pages>3316-3322</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v31i1.10974</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WangPDX17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangPD17" mdate="2018-08-13">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<author pid="12/1632">Daniel Dahlmeier</author>
+<title>Multi-task Coupled Attentions for Category-specific Aspect and Opinion Terms Co-extraction.</title>
+<year>2017</year>
+<volume>abs/1702.01776</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.01776</ee>
+<url>db/journals/corr/corr1702.html#WangPD17</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/WangPDX16" mdate="2024-02-05">
+<author orcid="0000-0001-5612-7818" pid="62/7948">Wenya Wang</author>
+<author orcid="0000-0001-6565-3836" pid="80/5412">Sinno Jialin Pan</author>
+<author pid="12/1632">Daniel Dahlmeier</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<title>Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.</title>
+<pages>616-626</pages>
+<year>2016</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d16-1059</ee>
+<ee type="oa">https://aclanthology.org/D16-1059/</ee>
+<crossref>conf/emnlp/2016</crossref>
+<url>db/conf/emnlp/emnlp2016.html#WangPDX16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangPDX16" mdate="2018-08-13">
+<author pid="62/7948">Wenya Wang</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<author pid="12/1632">Daniel Dahlmeier</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<title>Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.</title>
+<year>2016</year>
+<volume>abs/1603.06679</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.06679</ee>
+<url>db/journals/corr/corr1603.html#WangPDX16</url>
+</article>
+</r>
+<r><article key="journals/jcamd/ShengJMCYWDGLZ09" mdate="2020-04-16">
+<author pid="31/7948">Chunquan Sheng</author>
+<author pid="45/7948">Haitao Ji</author>
+<author pid="81/7948">Zhenyuan Miao</author>
+<author pid="82/7948">Xiaoyin Che</author>
+<author pid="78/7947">Jianzhong Yao</author>
+<author pid="62/7948">Wenya Wang</author>
+<author pid="66/7948">Guoqiang Dong</author>
+<author pid="71/6601">Wei Guo</author>
+<author pid="08/7948">Jiaguo L&#252;</author>
+<author pid="77/7948">Wannian Zhang</author>
+<title>Homology modeling and molecular dynamics simulation of <i>N</i>-myristoyltransferase from protozoan parasites: active site characterization and insights into rational inhibitor design.</title>
+<pages>375-389</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>J. Comput. Aided Mol. Des.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10822-009-9267-2</ee>
+<ee>https://www.wikidata.org/entity/Q45140752</ee>
+<url>db/journals/jcamd/jcamd23.html#ShengJMCYWDGLZ09</url>
+</article>
+</r>
+<coauthors n="100" nc="2">
+<co c="0"><na f="c/Cai:Yufeng" pid="258/0546">Yufeng Cai</na></co>
+<co c="0"><na f="c/Che:Xiaoyin" pid="82/7948">Xiaoyin Che</na></co>
+<co c="0"><na f="c/Chen:Hang" pid="87/3677">Hang Chen</na></co>
+<co c="0"><na f="c/Chen:Jianda" pid="176/6660">Jianda Chen</na></co>
+<co c="0"><na f="c/Chen:Shangyu" pid="189/9141">Shangyu Chen</na></co>
+<co c="0"><na f="c/Chen:Yicong" pid="280/7312">Yicong Chen</na></co>
+<co c="0"><na f="c/Choi_0001:Yejin" pid="89/579-1">Yejin Choi 0001</na></co>
+<co c="0"><na f="c/Chua:Haoyan" pid="368/7031">Haoyan Chua</na></co>
+<co c="0"><na f="d/Dahlmeier:Daniel" pid="12/1632">Daniel Dahlmeier</na></co>
+<co c="0"><na f="d/Deng_0010:Yue" pid="35/8109-10">Yue Deng 0010</na></co>
+<co c="0"><na f="d/Dong:Guoqiang" pid="66/7948">Guoqiang Dong</na></co>
+<co c="0"><na f="d/Dong:Xin" pid="126/6361">Xin Dong</na></co>
+<co c="0"><na f="d/Du:Yingpeng" pid="223/2666">Yingpeng Du</na></co>
+<co c="0"><na f="f/Fang:Junlin" pid="389/2572">Junlin Fang</na></co>
+<co c="0"><na f="f/Fei:Zhihui" pid="211/4077">Zhihui Fei</na></co>
+<co c="0"><na f="f/Feng:Kaidong" pid="80/11494">Kaidong Feng</na></co>
+<co c="0"><na f="g/Gan:Leilei" pid="213/9040">Leilei Gan</na></co>
+<co c="0"><na f="g/Gao:Wang" pid="189/1639">Wang Gao</na></co>
+<co c="0"><na f="g/Gu:Dawu" pid="72/1963">Dawu Gu</na></co>
+<co c="0"><na f="g/Guo:Wei" pid="71/6601">Wei Guo</na></co>
+<co c="0" n="2"><na f="h/Hajishirzi:Hannaneh" pid="52/1296">Hannaneh Hajishirzi</na><na>Hanna Hajishirzi</na></co>
+<co c="0"><na f="h/He:Qiyuan" pid="182/7216">Qiyuan He</na></co>
+<co c="0"><na f="h/Hu:Qisheng" pid="359/6493">Qisheng Hu</na></co>
+<co c="0"><na f="h/Hu:Yushi" pid="268/5766">Yushi Hu</na></co>
+<co c="0"><na f="h/Huang_0003:Chengyu" pid="116/8609-3">Chengyu Huang 0003</na></co>
+<co c="0"><na f="h/Huang_0001:Lei" pid="18/1763-1">Lei Huang 0001</na></co>
+<co c="1"><na f="h/Huang:Qingyu" pid="216/3164">Qingyu Huang</na></co>
+<co c="0"><na f="h/Huang:Yanyong" pid="171/3049">Yanyong Huang</na></co>
+<co c="0"><na f="j/Ji:Haitao" pid="45/7948">Haitao Ji</na></co>
+<co c="0"><na f="j/Jiang:Kaiyuan" pid="07/5949">Kaiyuan Jiang</na></co>
+<co c="0"><na f="k/Kong:Chenqi" pid="297/4695">Chenqi Kong</na></co>
+<co c="0"><na f="l/Li:Haoliang" pid="121/0867">Haoliang Li</na></co>
+<co c="0"><na f="l/Li:Haoru" pid="275/8912">Haoru Li</na></co>
+<co c="0"><na f="l/Li:Jing" pid="181/2820">Jing Li</na></co>
+<co c="0"><na f="l/Li:Juanru" pid="41/3261">Juanru Li</na></co>
+<co c="0"><na f="l/Li:Tianyun" pid="02/7633">Tianyun Li</na></co>
+<co c="0"><na f="l/Li:Yakang" pid="310/8322">Yakang Li</na></co>
+<co c="0"><na f="l/Li:Ziyan" pid="236/7682">Ziyan Li</na></co>
+<co c="0"><na f="l/Liang:Tao" pid="00/4393">Tao Liang</na></co>
+<co c="0"><na f="l/Lin:Guosheng" pid="126/4778">Guosheng Lin</na></co>
+<co c="0"><na f="l/Lin:Xingwei" pid="227/9139">Xingwei Lin</na></co>
+<co c="0"><na f="l/Liu_0036:Hui" pid="93/4010-36">Hui Liu 0036</na></co>
+<co c="0"><na f="l/Liu_0010:Jiacheng" pid="289/6273">Jiacheng Liu 0010</na></co>
+<co c="0"><na f="l/Long:Quanyu" pid="259/0397">Quanyu Long</na></co>
+<co c="0"><na f="l/L=uuml=:Jiaguo" pid="08/7948">Jiaguo L&#252;</na></co>
+<co c="0"><na f="l/Luo:Tianze" pid="297/4000">Tianze Luo</na></co>
+<co c="0"><na f="l/Lv:Fengmao" pid="146/6418">Fengmao Lv</na></co>
+<co c="0"><na f="l/Lv:Wei" pid="83/7134">Wei Lv</na></co>
+<co c="0"><na f="m/Mei_0001:Jie" pid="47/4497-1">Jie Mei 0001</na></co>
+<co c="0"><na f="m/Miao:Zhenyuan" pid="81/7948">Zhenyuan Miao</na></co>
+<co c="0"><na f="p/Pan:Sinno_Jialin" pid="80/5412">Sinno Jialin Pan</na></co>
+<co c="0"><na f="p/Pan:Yiwei" pid="228/3573">Yiwei Pan</na></co>
+<co c="0"><na f="p/Peng:Hua" pid="42/4394">Hua Peng</na></co>
+<co c="0"><na f="r/Ren_0001:Xiang" pid="36/360-1">Xiang Ren 0001</na></co>
+<co c="0"><na f="r/Rocha_0001:Anderson" pid="81/2446">Anderson Rocha 0001</na></co>
+<co c="0"><na f="s/Sanyal_0001:Soumya" pid="86/1950-1">Soumya Sanyal 0001</na></co>
+<co c="0"><na f="s/Sheng:Chunquan" pid="31/7948">Chunquan Sheng</na></co>
+<co c="0"><na f="s/Shuai:Jianwei" pid="301/5049">Jianwei Shuai</na></co>
+<co c="0"><na f="s/Smith:Noah_A=" pid="90/5204">Noah A. Smith</na></co>
+<co c="0"><na f="s/Srikumar:Vivek" pid="37/44">Vivek Srikumar</na></co>
+<co c="0"><na f="s/Sun:Hao" pid="82/2248">Hao Sun</na></co>
+<co c="0"><na f="s/Sun:Jianqiang" pid="00/7775">Jianqiang Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Zhu" pid="163/5129-1">Zhu Sun 0001</na></co>
+<co c="0"><na f="t/Tan:Haijun" pid="184/4331">Haijun Tan</na></co>
+<co c="0"><na f="t/Tian:Chris_Xing" pid="166/6330">Chris Xing Tian</na></co>
+<co c="0"><na f="w/Wang_0001:Aili" pid="95/3819-1">Aili Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Chao" pid="188/7759">Chao Wang</na></co>
+<co c="0"><na f="w/Wang:Dianzhuo" pid="346/5838">Dianzhuo Wang</na></co>
+<co c="0"><na f="w/Wang:Jiangzhou" pid="80/3885">Jiangzhou Wang</na></co>
+<co c="0"><na f="w/Wang:Jiashui" pid="301/5814">Jiashui Wang</na></co>
+<co c="0"><na f="w/Wang:Jingyi" pid="18/3178">Jingyi Wang</na></co>
+<co c="0"><na f="w/Wang_0004:Jingyi" pid="18/3178-4">Jingyi Wang 0004</na></co>
+<co c="0"><na f="w/Wang:Yizhong" pid="79/3601">Yizhong Wang</na></co>
+<co c="0"><na f="w/Wang:Ziyan" pid="61/2757">Ziyan Wang</na></co>
+<co c="0"><na f="w/Wu:Haibin" pid="95/10219">Haibin Wu</na></co>
+<co c="0"><na f="w/Wu:Meixi" pid="278/7916">Meixi Wu</na></co>
+<co c="0"><na f="w/Wu:Yin" pid="34/5184">Yin Wu</na></co>
+<co c="0"><na f="w/Wu:Zeqiu" pid="188/5861">Zeqiu Wu</na></co>
+<co c="0"><na f="x/Xia:Rui" pid="50/3262">Rui Xia</na></co>
+<co c="0"><na f="x/Xiao:Tianyi" pid="331/8337">Tianyi Xiao</na></co>
+<co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
+<co c="0"><na f="x/Xie_0007:Ning" pid="55/4104-7">Ning Xie 0007</na></co>
+<co c="0"><na f="y/Yan:Yuan" pid="33/4068">Yuan Yan</na></co>
+<co c="0"><na f="y/Yang:Jia" pid="22/667">Jia Yang</na></co>
+<co c="0"><na f="y/Yang:Li" pid="09/3925">Li Yang</na></co>
+<co c="0"><na f="y/Yang:Sihan" pid="240/7223">Sihan Yang</na></co>
+<co c="0"><na f="y/Yang:Xinyu" pid="89/473">Xinyu Yang</na></co>
+<co c="0"><na f="y/Yao:Jianzhong" pid="78/7947">Jianzhong Yao</na></co>
+<co c="0"><na f="y/Yu:Jianfei" pid="30/9823">Jianfei Yu</na></co>
+<co c="0"><na f="z/Zhang:Jian" pid="07/314">Jian Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Li" pid="89/5992">Li Zhang</na></co>
+<co c="0"><na f="z/Zhang:Peichang" pid="30/10097">Peichang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wannian" pid="77/7948">Wannian Zhang</na></co>
+<co c="0"><na f="z/Zhao:Qi" pid="05/490">Qi Zhao</na></co>
+<co c="0"><na f="z/Zhao:Runyu" pid="358/1571">Runyu Zhao</na></co>
+<co c="0"><na f="z/Zheng:Kan" pid="77/6893">Kan Zheng</na></co>
+<co c="1"><na f="z/Zhong:Yi" pid="60/2931">Yi Zhong</na></co>
+<co c="0"><na f="z/Zhou:Huaming" pid="166/7576">Huaming Zhou</na></co>
+<co c="0"><na f="z/Zhu:Jiaying" pid="278/8488">Jiaying Zhu</na></co>
+</coauthors>
+</dblpperson>
+

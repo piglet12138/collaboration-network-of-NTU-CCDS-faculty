@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<dblpperson name="Dmitrii Ustiugov" pid="191/7824" n="19">
+<person key="homepages/191/7824" mdate="2016-12-20">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+</person>
+<r><inproceedings key="conf/osdi/FuXHBUPM24" mdate="2024-07-16">
+<author pid="08/2429">Yao Fu</author>
+<author pid="238/1349">Leyang Xue</author>
+<author pid="304/5959">Yeqi Huang</author>
+<author pid="237/9453">Andrei-Octavian Brabete</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="124/5787">Yuvraj Patel</author>
+<author pid="81/10470">Luo Mai</author>
+<title>ServerlessLLM: Low-Latency Serverless Inference for Large Language Models.</title>
+<pages>135-153</pages>
+<year>2024</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi24/presentation/fu</ee>
+<crossref>conf/osdi/2024</crossref>
+<url>db/conf/osdi/osdi2024.html#FuXHBUPM24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-14351" mdate="2024-10-06">
+<author orcid="0009-0009-0174-8823" pid="08/2429">Yao Fu</author>
+<author pid="238/1349">Leyang Xue</author>
+<author pid="304/5959">Yeqi Huang</author>
+<author pid="237/9453">Andrei-Octavian Brabete</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="124/5787">Yuvraj Patel</author>
+<author pid="81/10470">Luo Mai</author>
+<title>ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2401.14351</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.14351</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-14351</url>
+</article>
+</r>
+<r><inproceedings key="conf/words2/UstiugovPCDHGK23" mdate="2023-11-09">
+<author orcid="0000-0003-3156-010X" pid="191/7824">Dmitrii Ustiugov</author>
+<author orcid="0009-0009-2010-7757" pid="255/8177">Dohyun Park</author>
+<author orcid="0009-0000-1373-8395" pid="270/8316">Lazar Cvetkovic</author>
+<author orcid="0009-0001-4494-6979" pid="358/6786">Mihajlo Djokic</author>
+<author orcid="0009-0006-9707-7291" pid="352/3601">Hongyu H&#232;</author>
+<author orcid="0000-0001-6525-0762" pid="78/50">Boris Grot</author>
+<author orcid="0000-0001-8559-0529" pid="140/2247">Ana Klimovic</author>
+<title>Enabling In-Vitro Serverless Systems Research.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>WORDS@SOSP</booktitle>
+<ee>https://doi.org/10.1145/3605181.3626191</ee>
+<crossref>conf/words2/2023</crossref>
+<url>db/conf/words2/words2023.html#UstiugovPCDHGK23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sesame/2023" mdate="2023-05-08">
+<editor pid="191/7824">Dmitrii Ustiugov</editor>
+<editor pid="161/9002">Rodrigo Bruno</editor>
+<editor pid="11/3119-1">Pedro Fonseca 0001</editor>
+<editor pid="78/50">Boris Grot</editor>
+<editor pid="132/0327">Antonio Barbalace</editor>
+<title>Proceedings of the 1st Workshop on SErverless Systems, Applications and MEthodologies, SESAME 2023, Rome, Italy, 8 May 2023</title>
+<booktitle>SESAME@EuroSys</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3592533</ee>
+<url>db/conf/sesame/sesame2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-14821" mdate="2023-10-16">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="358/2562">Shyam Jesalpura</author>
+<author pid="358/2730">Mert Bora Alper</author>
+<author pid="358/2693">Michal Baczun</author>
+<author pid="353/0665">Rustem Feyzkhanov</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="78/50">Boris Grot</author>
+<author pid="144/7733">Marios Kogias</author>
+<title>Expedited Data Transfers for Serverless Clouds.</title>
+<year>2023</year>
+<volume>abs/2309.14821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.14821</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-14821</url>
+</article>
+</r>
+<r><inproceedings key="conf/isca/SchallMUSG22" mdate="2025-01-19">
+<author orcid="0000-0002-3587-3253" pid="321/3284">David Schall</author>
+<author pid="232/0157">Artemiy Margaritov</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author orcid="0000-0001-9349-5791" pid="88/9134">Andreas Sandberg</author>
+<author pid="78/50">Boris Grot</author>
+<title>Lukewarm serverless functions: characterization and optimization.</title>
+<pages>757-770</pages>
+<year>2022</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/3470496.3527390</ee>
+<ee>https://www.wikidata.org/entity/Q131021120</ee>
+<crossref>conf/isca/2022</crossref>
+<url>db/conf/isca/isca2022.html#SchallMUSG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/MargaritovUSG21" mdate="2025-01-19">
+<author orcid="0000-0003-2126-8906" pid="232/0157">Artemiy Margaritov</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author orcid="0000-0001-9896-1763" pid="232/0124">Amna Shahab</author>
+<author orcid="0000-0001-6525-0762" pid="78/50">Boris Grot</author>
+<title>PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds.</title>
+<pages>211-223</pages>
+<year>2021</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3445814.3446704</ee>
+<ee>https://www.wikidata.org/entity/Q130972802</ee>
+<crossref>conf/asplos/2021</crossref>
+<url>db/conf/asplos/asplos2021.html#MargaritovUSG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/Ustiugov0KBG21" mdate="2025-01-19">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="22/9945-3">Plamen Petrov 0003</author>
+<author pid="144/7733">Marios Kogias</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author orcid="0000-0001-6525-0762" pid="78/50">Boris Grot</author>
+<title>Benchmarking, analysis, and optimization of serverless function snapshots.</title>
+<pages>559-572</pages>
+<year>2021</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3445814.3446714</ee>
+<ee>https://www.wikidata.org/entity/Q131109865</ee>
+<crossref>conf/asplos/2021</crossref>
+<url>db/conf/asplos/asplos2021.html#Ustiugov0KBG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiswc/UstiugovAG21" mdate="2022-01-19">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="311/3546">Theodor Amariucai</author>
+<author pid="78/50">Boris Grot</author>
+<title>Analyzing Tail Latency in Serverless Clouds with STeLLAR.</title>
+<pages>51-62</pages>
+<year>2021</year>
+<booktitle>IISWC</booktitle>
+<ee>https://doi.org/10.1109/IISWC53511.2021.00016</ee>
+<crossref>conf/iiswc/2021</crossref>
+<url>db/conf/iiswc/iiswc2021.html#UstiugovAG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-09355" mdate="2021-01-30">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="22/9945-3">Plamen Petrov 0003</author>
+<author pid="144/7733">Marios Kogias</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="78/50">Boris Grot</author>
+<title>Benchmarking, Analysis, and Optimization of Serverless Function Snapshots.</title>
+<year>2021</year>
+<volume>abs/2101.09355</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.09355</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-09355</url>
+</article>
+</r>
+<r><inproceedings key="conf/woot/Ustiugov0KG20" mdate="2021-02-01">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="22/9945-3">Plamen Petrov 0003</author>
+<author pid="259/0319">M. R. Siavash Katebzadeh</author>
+<author pid="78/50">Boris Grot</author>
+<title>Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.</title>
+<year>2020</year>
+<booktitle>WOOT @ USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/woot20/presentation/ustiugov</ee>
+<crossref>conf/woot/2020</crossref>
+<url>db/conf/woot/woot2020.html#Ustiugov0KG20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-03854" mdate="2020-08-12">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="22/9945-3">Plamen Petrov 0003</author>
+<author pid="259/0319">M. R. Siavash Katebzadeh</author>
+<author pid="78/50">Boris Grot</author>
+<title>Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.</title>
+<year>2020</year>
+<volume>abs/2006.03854</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.03854</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-03854</url>
+</article>
+</r>
+<r><inproceedings key="conf/micro/MargaritovUBG19" mdate="2025-01-19">
+<author orcid="0000-0003-2126-8906" pid="232/0157">Artemiy Margaritov</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author orcid="0000-0001-6525-0762" pid="78/50">Boris Grot</author>
+<title>Prefetched Address Translation.</title>
+<pages>1023-1036</pages>
+<year>2019</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/3352460.3358294</ee>
+<ee>https://www.wikidata.org/entity/Q131127029</ee>
+<crossref>conf/micro/2019</crossref>
+<url>db/conf/micro/micro2019.html#MargaritovUBG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/DrumondDMUPFGP18" mdate="2025-01-19">
+<author pid="165/2485">Mario Drumond</author>
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="187/9973">Nooshin Sadat Mirzadeh</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="117/0579">Javier Picorel</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="78/50">Boris Grot</author>
+<author orcid="0000-0003-3533-2761" pid="04/3696">Dionisios N. Pnevmatikatos</author>
+<title>Algorithm/Architecture Co-Design for Near-Memory Processing.</title>
+<pages>109-122</pages>
+<year>2018</year>
+<volume>52</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3273982.3273992</ee>
+<ee>https://www.wikidata.org/entity/Q129319087</ee>
+<url>db/journals/sigops/sigops52.html#DrumondDMUPFGP18</url>
+</article>
+</r>
+<r><article key="journals/tocs/NovakovicDUBFG19" mdate="2025-01-19">
+<author pid="142/3209">Stanko Novakovic</author>
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="78/50">Boris Grot</author>
+<title>Mitigating Load Imbalance in Distributed Data Serving with Rack-Scale Memory Pooling.</title>
+<pages>6:1-6:37</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3309986</ee>
+<ee>https://www.wikidata.org/entity/Q128062662</ee>
+<url>db/journals/tocs/tocs36.html#NovakovicDUBFG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/memsys/UstiugovDPSBFP18" mdate="2025-01-19">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="117/0579">Javier Picorel</author>
+<author pid="148/4025">Mark Sutherland</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author orcid="0000-0003-3533-2761" pid="04/3696">Dionisios N. Pnevmatikatos</author>
+<title>Design guidelines for high-performance SCM hierarchies.</title>
+<pages>3-16</pages>
+<year>2018</year>
+<booktitle>MEMSYS</booktitle>
+<ee>https://doi.org/10.1145/3240302.3240310</ee>
+<ee>https://www.wikidata.org/entity/Q131016643</ee>
+<crossref>conf/memsys/2018</crossref>
+<url>db/conf/memsys/memsys2018.html#UstiugovDPSBFP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-06726" mdate="2018-08-13">
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="117/0579">Javier Picorel</author>
+<author pid="148/4025">Mark Sutherland</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="04/3696">Dionisios N. Pnevmatikatos</author>
+<title>Storage-Class Memory Hierarchies for Scale-Out Servers.</title>
+<year>2018</year>
+<volume>abs/1801.06726</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.06726</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-06726</url>
+</article>
+</r>
+<r><inproceedings key="conf/isca/DrumondDMUPFGP17" mdate="2022-05-09">
+<author pid="165/2485">Mario Drumond</author>
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="187/9973">Nooshin Sadat Mirzadeh</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="117/0579">Javier Picorel</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="78/50">Boris Grot</author>
+<author pid="04/3696">Dionisios N. Pnevmatikatos</author>
+<title>The Mondrian Data Engine.</title>
+<pages>639-651</pages>
+<year>2017</year>
+<booktitle>ISCA</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3080233</ee>
+<crossref>conf/isca/2017</crossref>
+<url>db/conf/isca/isca2017.html#DrumondDMUPFGP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/DaglisUNBFG16" mdate="2022-05-31">
+<author pid="142/3203">Alexandros Daglis</author>
+<author pid="191/7824">Dmitrii Ustiugov</author>
+<author pid="142/3209">Stanko Novakovic</author>
+<author pid="b/EBugnion">Edouard Bugnion</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author orcid="0000-0001-6525-0762" pid="78/50">Boris Grot</author>
+<title>SABRes: Atomic object reads for in-memory rack-scale computing.</title>
+<pages>6:1-6:13</pages>
+<year>2016</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2016.7783709</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2016.7783709</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3195646</ee>
+<crossref>conf/micro/2016</crossref>
+<url>db/conf/micro/micro2016.html#DaglisUNBFG16</url>
+</inproceedings>
+</r>
+<coauthors n="36" nc="2">
+<co c="0"><na f="a/Alper:Mert_Bora" pid="358/2730">Mert Bora Alper</na></co>
+<co c="0"><na f="a/Amariucai:Theodor" pid="311/3546">Theodor Amariucai</na></co>
+<co c="0"><na f="b/Baczun:Michal" pid="358/2693">Michal Baczun</na></co>
+<co c="0"><na f="b/Barbalace:Antonio" pid="132/0327">Antonio Barbalace</na></co>
+<co c="1"><na f="b/Brabete:Andrei=Octavian" pid="237/9453">Andrei-Octavian Brabete</na></co>
+<co c="0"><na f="b/Bruno:Rodrigo" pid="161/9002">Rodrigo Bruno</na></co>
+<co c="0"><na f="b/Bugnion:Edouard" pid="b/EBugnion">Edouard Bugnion</na></co>
+<co c="0" n="2"><na f="c/Cvetkovich:Lazar" pid="270/8316">Lazar Cvetkovich</na><na>Lazar Cvetkovic</na></co>
+<co c="0"><na f="d/Daglis:Alexandros" pid="142/3203">Alexandros Daglis</na></co>
+<co c="0"><na f="d/Djokic:Mihajlo" pid="358/6786">Mihajlo Djokic</na></co>
+<co c="0"><na f="d/Drumond:Mario" pid="165/2485">Mario Drumond</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0"><na f="f/Feyzkhanov:Rustem" pid="353/0665">Rustem Feyzkhanov</na></co>
+<co c="0"><na f="f/Fonseca_0001:Pedro" pid="11/3119-1">Pedro Fonseca 0001</na></co>
+<co c="1"><na f="f/Fu:Yao" pid="08/2429">Yao Fu</na></co>
+<co c="0"><na f="g/Grot:Boris" pid="78/50">Boris Grot</na></co>
+<co c="0"><na f="h/H=egrave=:Hongyu" pid="352/3601">Hongyu H&#232;</na></co>
+<co c="1"><na f="h/Huang:Yeqi" pid="304/5959">Yeqi Huang</na></co>
+<co c="0"><na f="j/Jesalpura:Shyam" pid="358/2562">Shyam Jesalpura</na></co>
+<co c="0"><na f="k/Katebzadeh:M=_R=_Siavash" pid="259/0319">M. R. Siavash Katebzadeh</na></co>
+<co c="0"><na f="k/Klimovic:Ana" pid="140/2247">Ana Klimovic</na></co>
+<co c="0"><na f="k/Kogias:Marios" pid="144/7733">Marios Kogias</na></co>
+<co c="1"><na f="m/Mai:Luo" pid="81/10470">Luo Mai</na></co>
+<co c="0"><na f="m/Margaritov:Artemiy" pid="232/0157">Artemiy Margaritov</na></co>
+<co c="0"><na f="m/Mirzadeh:Nooshin_Sadat" pid="187/9973">Nooshin Sadat Mirzadeh</na></co>
+<co c="0"><na f="n/Novakovic:Stanko" pid="142/3209">Stanko Novakovic</na></co>
+<co c="0"><na f="p/Park:Dohyun" pid="255/8177">Dohyun Park</na></co>
+<co c="1"><na f="p/Patel:Yuvraj" pid="124/5787">Yuvraj Patel</na></co>
+<co c="0"><na f="p/Petrov_0003:Plamen" pid="22/9945-3">Plamen Petrov 0003</na></co>
+<co c="0"><na f="p/Picorel:Javier" pid="117/0579">Javier Picorel</na></co>
+<co c="0"><na f="p/Pnevmatikatos:Dionisios_N=" pid="04/3696">Dionisios N. Pnevmatikatos</na></co>
+<co c="0"><na f="s/Sandberg:Andreas" pid="88/9134">Andreas Sandberg</na></co>
+<co c="0"><na f="s/Schall:David" pid="321/3284">David Schall</na></co>
+<co c="0"><na f="s/Shahab:Amna" pid="232/0124">Amna Shahab</na></co>
+<co c="0"><na f="s/Sutherland:Mark" pid="148/4025">Mark Sutherland</na></co>
+<co c="1"><na f="x/Xue:Leyang" pid="238/1349">Leyang Xue</na></co>
+</coauthors>
+</dblpperson>
+

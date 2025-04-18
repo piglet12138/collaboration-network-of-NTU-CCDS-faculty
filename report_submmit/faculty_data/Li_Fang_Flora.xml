@@ -1,0 +1,2619 @@
+<?xml version="1.0"?>
+<dblpperson name="Li Fang" pid="32/3735" n="142">
+<person publtype="disambiguation" key="homepages/32/3735" mdate="2024-12-29">
+<author pid="32/3735">Li Fang</author>
+</person>
+<r><article key="journals/aeog/FangLLS25" mdate="2025-01-08">
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author pid="393/6400">Xuanli Lan</author>
+<author orcid="0009-0006-4781-8397" pid="92/9835">Tianyu Li</author>
+<author orcid="0000-0002-2667-2484" pid="234/5951">Huifang Shen</author>
+<title>PCET: Patch Confidence-Enhanced Transformer with efficient spectral-spatial features for hyperspectral image classification.</title>
+<pages>104308</pages>
+<year>2025</year>
+<volume>136</volume>
+<journal>Int. J. Appl. Earth Obs. Geoinformation</journal>
+<ee type="oa">https://doi.org/10.1016/j.jag.2024.104308</ee>
+<url>db/journals/aeog/aeog136.html#FangLLS25</url>
+<stream>streams/journals/aeog</stream>
+</article>
+</r>
+<r><article key="journals/displays/YangYHFZCW25" mdate="2025-01-25">
+<author pid="23/3516">Xinyan Yang</author>
+<author pid="92/1942">Rui Yang</author>
+<author orcid="0000-0001-8510-2927" pid="92/1299">Fei Hu</author>
+<author orcid="0000-0001-9963-6110" pid="32/3735">Li Fang</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="156/8494">Zhiye Chen</author>
+<author pid="41/4982">George Wang</author>
+<title>ART-InvRec: An adversarial framework for rotation-invariant 3D object reconstruction.</title>
+<pages>102915</pages>
+<year>2025</year>
+<volume>87</volume>
+<journal>Displays</journal>
+<ee>https://doi.org/10.1016/j.displa.2024.102915</ee>
+<url>db/journals/displays/displays87.html#YangYHFZCW25</url>
+<stream>streams/journals/displays</stream>
+</article>
+</r>
+<r><article key="journals/inffus/YangZMLFZ25" mdate="2025-02-25">
+<author pid="92/1942">Rui Yang</author>
+<author pid="256/6598">Jiahao Zhu</author>
+<author pid="228/4830">Jianping Man</author>
+<author pid="58/41">Hongze Liu</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="01/1901">Yi Zhou</author>
+<title>GS-KGC: A generative subgraph-based framework for knowledge graph completion with large language models.</title>
+<pages>102868</pages>
+<year>2025</year>
+<volume>117</volume>
+<journal>Inf. Fusion</journal>
+<ee>https://doi.org/10.1016/j.inffus.2024.102868</ee>
+<url>db/journals/inffus/inffus117.html#YangZMLFZ25</url>
+<stream>streams/journals/inffus</stream>
+</article>
+</r>
+<r><article key="journals/tgrs/FangLZL25" mdate="2025-01-25">
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author orcid="0009-0006-4781-8397" pid="92/9835">Tianyu Li</author>
+<author orcid="0009-0008-8587-6365" pid="68/9071">Shudong Zhou</author>
+<author orcid="0009-0007-8923-9972" pid="369/9817">Yanghong Lin</author>
+<title>Robust Multiview Point Cloud Registration Using Algebraic Connectivity and Spatial Compatibility.</title>
+<pages>1-14</pages>
+<year>2025</year>
+<volume>63</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2024.3515203</ee>
+<url>db/journals/tgrs/tgrs63.html#FangLZL25</url>
+<stream>streams/journals/tgrs</stream>
+</article>
+</r>
+<r><article key="journals/tgrs/ShiHZFMP25" mdate="2025-02-14">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author pid="243/9013">Peiwen Han</author>
+<author orcid="0000-0001-8062-2982" pid="14/4623">Minghua Zhao</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author orcid="0000-0001-6766-8310" pid="03/4610">Qiguang Miao</author>
+<author orcid="0000-0003-1788-3746" pid="p/ChiManPun">Chi-Man Pun</author>
+<title>Adaptive Multitype Contrastive Views Generation for Remote Sensing Image Semantic Segmentation.</title>
+<pages>1-13</pages>
+<year>2025</year>
+<volume>63</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2024.3525133</ee>
+<url>db/journals/tgrs/tgrs63.html#ShiHZFMP25</url>
+<stream>streams/journals/tgrs</stream>
+</article>
+</r>
+<r><article key="journals/ijautcomp/ChenFYZ24" mdate="2025-01-19">
+<author orcid="0000-0002-3507-5446" pid="188/0571">Xiuwen Chen</author>
+<author orcid="0000-0001-9963-6110" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-3562-5612" pid="86/2624">Long Ye</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Deep Video Harmonization by Improving Spatial-temporal Consistency.</title>
+<pages>46-54</pages>
+<year>2024</year>
+<month>February</month>
+<volume>21</volume>
+<journal>Mach. Intell. Res.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11633-023-1447-3</ee>
+<ee>https://www.wikidata.org/entity/Q130046132</ee>
+<url>db/journals/ijautcomp/ijautcomp21.html#ChenFYZ24</url>
+</article>
+</r>
+<r><article key="journals/kbs/YangZMFZ24" mdate="2024-07-19">
+<author orcid="0000-0003-3803-6722" pid="92/1942">Rui Yang</author>
+<author pid="256/6598">Jiahao Zhu</author>
+<author pid="228/4830">Jianping Man</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="01/1901">Yi Zhou</author>
+<title>Enhancing text-based knowledge graph completion with zero-shot large language models: A focus on semantic enhancement.</title>
+<pages>112155</pages>
+<year>2024</year>
+<volume>300</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2024.112155</ee>
+<url>db/journals/kbs/kbs300.html#YangZMFZ24</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/LiLCAYF24" mdate="2025-01-20">
+<author orcid="0009-0006-4781-8397" pid="92/9835">Tianyu Li</author>
+<author orcid="0009-0007-8923-9972" pid="369/9817">Yanghong Lin</author>
+<author pid="05/2700">Bo Cheng</author>
+<author pid="241/5072">Guo Ai</author>
+<author orcid="0000-0003-2373-8799" pid="181/2854-34">Jian Yang 0034</author>
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<title>PU-CTG: A Point Cloud Upsampling Network Using Transformer Fusion and GRU Correction.</title>
+<pages>450</pages>
+<year>2024</year>
+<month>February</month>
+<volume>16</volume>
+<journal>Remote. Sens.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/rs16030450</ee>
+<url>db/journals/remotesensing/remotesensing16.html#LiLCAYF24</url>
+</article>
+</r>
+<r><article key="journals/scpe/ShiGFZS24" mdate="2024-05-10">
+<author pid="374/8134">Huixuan Shi</author>
+<author pid="285/1259">Zhengping Gao</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="374/8178">Jiqing Zhai</author>
+<author pid="348/6630">Hongzhi Sun</author>
+<title>Research on Inventory Control Method Based on Demand Response of Power Big Data.</title>
+<pages>1781-1789</pages>
+<year>2024</year>
+<volume>25</volume>
+<journal>Scalable Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.12694/scpe.v25i3.2695</ee>
+<url>db/journals/scpe/scpe25.html#ShiGFZS24</url>
+</article>
+</r>
+<r><article key="journals/tmm/HuMZYYFZ24" mdate="2025-01-19">
+<author orcid="0000-0001-8510-2927" pid="92/1299">Fei Hu</author>
+<author orcid="0000-0003-4491-7120" pid="236/0336">Yibo Ma</author>
+<author orcid="0000-0001-9325-6299" pid="60/1416">Wei Zhong</author>
+<author orcid="0000-0002-3562-5612" pid="86/2624">Long Ye</author>
+<author orcid="0009-0000-2887-2087" pid="23/3516">Xinyan Yang</author>
+<author orcid="0000-0001-9963-6110" pid="32/3735">Li Fang</author>
+<author orcid="0009-0001-0205-6986" pid="45/47-9">Qin Zhang 0009</author>
+<title>A Dataset and Benchmark for 3D Scene Plausibility Assessment.</title>
+<pages>6529-6541</pages>
+<year>2024</year>
+<volume>26</volume>
+<journal>IEEE Trans. Multim.</journal>
+<ee>https://doi.org/10.1109/TMM.2024.3353456</ee>
+<ee>https://www.wikidata.org/entity/Q130132557</ee>
+<url>db/journals/tmm/tmm26.html#HuMZYYFZ24</url>
+</article>
+</r>
+<r><article key="journals/visintelligence/FangWY24" mdate="2024-04-15">
+<author orcid="0000-0001-9963-6110" pid="32/3735">Li Fang</author>
+<author orcid="0000-0003-0288-9221" pid="75/5723">Qian Wang</author>
+<author orcid="0000-0002-3562-5612" pid="86/2624">Long Ye</author>
+<title>GLGNet: light field angular superresolution with arbitrary interpolation rates.</title>
+<year>2024</year>
+<volume>2</volume>
+<journal>Vis. Intell.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s44267-024-00039-w</ee>
+<url>db/journals/visintelligence/visintelligence2.html#FangWY24</url>
+</article>
+</r>
+<r><inproceedings key="conf/healthcom/PengLZHWFZ24" mdate="2025-03-10">
+<author pid="283/9846">Boyuan Peng</author>
+<author pid="56/8664">Yiyang Liu</author>
+<author pid="63/2408">Xin Zhu</author>
+<author pid="29/6643">Jie Huang</author>
+<author pid="33/9876">Wenwen Wang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="80/7814">Qin Zhou</author>
+<title>Multi-StudentNet: a Semi-supervised Deep-Learning Framework for Endometrial Segmentation in Transvaginal Ultrasound Images.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>HealthCom</booktitle>
+<ee>https://doi.org/10.1109/HealthCom60970.2024.10880821</ee>
+<crossref>conf/healthcom/2024</crossref>
+<url>db/conf/healthcom/healthcom2024.html#PengLZHWFZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/FangZCY24" mdate="2024-10-07">
+<author pid="32/3735">Li Fang</author>
+<author pid="386/8838">Kaijun Zou</author>
+<author pid="156/8494">Zhiye Chen</author>
+<author pid="86/2624">Long Ye</author>
+<title>HMDST: A Hybrid Model-Data Driven Approach for Spatio-Temporally Consistent Video Inpainting.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME57554.2024.10687810</ee>
+<crossref>conf/icmcs/2024</crossref>
+<url>db/conf/icmcs/icme2024.html#FangZCY24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/Yu0ZF024" mdate="2024-10-22">
+<author pid="24/5380">Xiangning Yu</author>
+<author pid="82/2187-1">Xiao Xue 0001</author>
+<author pid="79/2854">Deyu Zhou</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="48/195-2">Zhiyong Feng 0002</author>
+<title>Beyond Traditional Metrics: The Power of Value Entropy in Multidimensional Evaluation of the Service Ecosystem.</title>
+<pages>611-621</pages>
+<year>2024</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS62655.2024.00081</ee>
+<crossref>conf/icws/2024</crossref>
+<url>db/conf/icws/icws2024.html#Yu0ZF024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/Peng0ZJSF024" mdate="2024-10-22">
+<author pid="85/6436">Chao Peng</author>
+<author pid="82/2187-1">Xiao Xue 0001</author>
+<author pid="367/6945">Xuwen Zhang</author>
+<author pid="367/7319">Peilin Ji</author>
+<author pid="59/7950">Yifan Shen</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="48/195-2">Zhiyong Feng 0002</author>
+<title>A Two-level Learning Approach for Achieving the Sustainable Development of Service Ecosystem.</title>
+<pages>622-631</pages>
+<year>2024</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS62655.2024.00082</ee>
+<crossref>conf/icws/2024</crossref>
+<url>db/conf/icws/icws2024.html#Peng0ZJSF024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/ChenYFHM24" mdate="2024-09-26">
+<author pid="21/5521">Ying Chen</author>
+<author pid="34/10554">Shuai Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="78/744">Tao Han</author>
+<author pid="31/7844">Xiaoliang Meng</author>
+<title>Multi-Scale Adversarial Cross-Domain Vehicle Detection from UAV to Satellite Imagery.</title>
+<pages>7081-7084</pages>
+<year>2024</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS53475.2024.10640616</ee>
+<crossref>conf/igarss/2024</crossref>
+<url>db/conf/igarss/igarss2024.html#ChenYFHM24</url>
+<stream>streams/conf/igarss</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/ChenYFHYM24" mdate="2024-09-26">
+<author pid="21/5521">Ying Chen</author>
+<author pid="307/6543">Yuechi Yang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="78/744">Tao Han</author>
+<author pid="34/10554">Shuai Ye</author>
+<author pid="31/7844">Xiaoliang Meng</author>
+<title>Towards Robust Semantic Segmentation for Remote Sensing Images Under Adversarial Noise Condition.</title>
+<pages>8330-8333</pages>
+<year>2024</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS53475.2024.10642734</ee>
+<crossref>conf/igarss/2024</crossref>
+<url>db/conf/igarss/igarss2024.html#ChenYFHYM24</url>
+<stream>streams/conf/igarss</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-00375" mdate="2024-01-15">
+<author pid="309/2582">Liyuan Tan</author>
+<author pid="48/450">Yang Yang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="04/2275">David J. Cappelleri</author>
+<title>Shape-programmable Adaptive Multi-material Microrobots for Biomedical Applications.</title>
+<year>2024</year>
+<volume>abs/2401.00375</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.00375</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-00375</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-02830" mdate="2025-03-03">
+<author pid="32/3735">Li Fang</author>
+<author pid="92/9835">Tianyu Li</author>
+<author orcid="0009-0007-8923-9972" pid="369/9817">Yanghong Lin</author>
+<author pid="68/9071">Shudong Zhou</author>
+<author pid="72/4065">Wei Yao</author>
+<title>A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes.</title>
+<year>2024</year>
+<volume>abs/2407.02830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.02830</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-02830</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-10819" mdate="2024-09-24">
+<author pid="92/1942">Rui Yang</author>
+<author pid="256/6598">Jiahao Zhu</author>
+<author pid="228/4830">Jianping Man</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="01/1901">Yi Zhou</author>
+<title>Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains.</title>
+<year>2024</year>
+<volume>abs/2408.10819</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.10819</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-10819</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/aeog/FangLPYT23" mdate="2023-06-15">
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author pid="342/0922">Jinzhou Liu</author>
+<author orcid="0000-0003-1320-147X" pid="91/3754">Yue Pan</author>
+<author pid="46/5245">Zhen Ye</author>
+<author pid="89/5727">Xiaohua Tong</author>
+<title>Semantic supported urban change detection using ALS point clouds.</title>
+<pages>103271</pages>
+<year>2023</year>
+<month>April</month>
+<volume>118</volume>
+<journal>Int. J. Appl. Earth Obs. Geoinformation</journal>
+<ee type="oa">https://doi.org/10.1016/j.jag.2023.103271</ee>
+<url>db/journals/aeog/aeog118.html#FangLPYT23</url>
+</article>
+</r>
+<r><article key="journals/cbm/ZhaoYFLLLPZDLL23" mdate="2024-06-08">
+<author orcid="0000-0002-9470-0010" pid="63/9613">Zihao Zhao</author>
+<author pid="223/3021">Qianqian Yan</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="198/2457">Guangpu Li</author>
+<author pid="29/4867">Yong Liu</author>
+<author pid="23/6950">Jia Li</author>
+<author pid="238/6493">Shaokang Pan</author>
+<author pid="161/8608">Sijie Zhou</author>
+<author pid="257/1528">Jiayu Duan</author>
+<author pid="140/1719">Dongwei Liu</author>
+<author pid="253/8558">Zhangsuo Liu</author>
+<title>Identification of urinary extracellular vesicles differentially expressed RNAs in diabetic nephropathy via whole-transcriptome integrated analysis.</title>
+<pages>107480</pages>
+<year>2023</year>
+<month>November</month>
+<volume>166</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee type="oa">https://doi.org/10.1016/j.compbiomed.2023.107480</ee>
+<url>db/journals/cbm/cbm166.html#ZhaoYFLLLPZDLL23</url>
+</article>
+</r>
+<r><article key="journals/ijict/SunF23" mdate="2023-11-08">
+<author pid="31/3925">Hui Sun</author>
+<author pid="32/3735">Li Fang</author>
+<title>A deep mining method of enterprise financial risk data based on improved support vector machine.</title>
+<pages>253-265</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Int. J. Inf. Commun. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJICT.2023.134250</ee>
+<url>db/journals/ijict/ijict23.html#SunF23</url>
+</article>
+</r>
+<r><article key="journals/sensors/ChaiGGF23" mdate="2024-10-06">
+<author pid="283/0333">Shiyi Chai</author>
+<author pid="174/7445">Can Guo</author>
+<author pid="345/3004">Chenggang Guan</author>
+<author orcid="0000-0002-1160-3566" pid="32/3735">Li Fang</author>
+<title>Deep Learning-Based Speech Enhancement of an Extrinsic Fabry-Perot Interferometric Fiber Acoustic Sensor System.</title>
+<pages>3574</pages>
+<year>2023</year>
+<month>April</month>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/s23073574</ee>
+<url>db/journals/sensors/sensors23.html#ChaiGGF23</url>
+</article>
+</r>
+<r><article key="journals/sensors/HanDWZF23" mdate="2023-07-07">
+<author pid="79/4311">Yan Han</author>
+<author pid="59/2353">Lei Ding</author>
+<author pid="292/4973">Yingping Wang</author>
+<author pid="84/1066">Haiyang Zheng</author>
+<author pid="32/3735">Li Fang</author>
+<title>Shape Discrimination of Individual Aerosol Particles Using Light Scattering.</title>
+<pages>5464</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s23125464</ee>
+<url>db/journals/sensors/sensors23.html#HanDWZF23</url>
+</article>
+</r>
+<r><article key="journals/tie/Fang0Q23" mdate="2023-07-07">
+<author orcid="0000-0001-5253-2621" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-9048-5229" pid="13/5856-4">Dawei Li 0004</author>
+<author orcid="0000-0001-6375-0990" pid="173/9632">Ronghai Qu</author>
+<title>Torque Improvement of Vernier Permanent Magnet Machine With Larger Rotor Pole Pairs Than Stator Teeth Number.</title>
+<pages>12648-12659</pages>
+<year>2023</year>
+<volume>70</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TIE.2022.3232651</ee>
+<url>db/journals/tie/tie70.html#Fang0Q23</url>
+</article>
+</r>
+<r><inproceedings key="conf/iftc/ChengYFY23" mdate="2024-06-26">
+<author pid="198/3969">Haonan Cheng</author>
+<author pid="299/6078">Haixin Yu</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<title>MABC-Net: Multimodal Mixed Attentional Network with Balanced Class for Temporal Forgery Localization.</title>
+<pages>269-283</pages>
+<year>2023</year>
+<booktitle>IFTC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-3626-3_20</ee>
+<crossref>conf/iftc/2023-2</crossref>
+<url>db/conf/iftc/iftc2023-2.html#ChengYFY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pccnt/FangYLL23" mdate="2024-01-26">
+<author orcid="0009-0007-0427-4817" pid="32/3735">Li Fang</author>
+<author orcid="0009-0002-1326-9300" pid="62/5839">Jing Yang</author>
+<author orcid="0009-0001-1472-200X" pid="87/2948">Yuan Liu</author>
+<author orcid="0009-0008-7491-862X" pid="151/5885">Xiangju Liu</author>
+<title>Research on financial revenue forecast of Shandong Province Based on grey prediction and SVR.</title>
+<pages>69:1-69:4</pages>
+<year>2023</year>
+<booktitle>PCCNT</booktitle>
+<ee>https://doi.org/10.1145/3630138.3630487</ee>
+<crossref>conf/pccnt/2023</crossref>
+<url>db/conf/pccnt/pccnt2023.html#FangYLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pccnt/YangFLL23" mdate="2025-01-19">
+<author orcid="0009-0002-1326-9300" pid="62/5839">Jing Yang</author>
+<author orcid="0009-0007-0427-4817" pid="32/3735">Li Fang</author>
+<author orcid="0009-0008-7491-862X" pid="151/5885">Xiangju Liu</author>
+<author orcid="0009-0001-1472-200X" pid="87/2948">Yuan Liu</author>
+<title>Spark-based collaborative filtering recommendation system and improvement of cold start problem.</title>
+<pages>71:1-71:5</pages>
+<year>2023</year>
+<booktitle>PCCNT</booktitle>
+<ee>https://doi.org/10.1145/3630138.3630489</ee>
+<ee>https://www.wikidata.org/entity/Q131111626</ee>
+<crossref>conf/pccnt/2023</crossref>
+<url>db/conf/pccnt/pccnt2023.html#YangFLL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pccnt/LiuLFZWWZ23" mdate="2024-01-26">
+<author orcid="0009-0001-1472-200X" pid="87/2948">Yuan Liu</author>
+<author orcid="0009-0008-7491-862X" pid="151/5885">Xiangju Liu</author>
+<author orcid="0009-0007-0427-4817" pid="32/3735">Li Fang</author>
+<author orcid="0009-0009-3516-7373" pid="78/6217">Qing Zhao</author>
+<author orcid="0009-0001-8436-9651" pid="263/2316">Wanzhen Wang</author>
+<author orcid="0009-0004-9517-0527" pid="366/5524">Maoshuai Wang</author>
+<author orcid="0009-0001-0428-6291" pid="336/8146">Shuhao Zhang</author>
+<title>Research on Gait Recognition Based on Deep Learning.</title>
+<pages>83:1-83:5</pages>
+<year>2023</year>
+<booktitle>PCCNT</booktitle>
+<ee>https://doi.org/10.1145/3630138.3630532</ee>
+<crossref>conf/pccnt/2023</crossref>
+<url>db/conf/pccnt/pccnt2023.html#LiuLFZWWZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pccnt/LiuLHFY23" mdate="2025-01-19">
+<author orcid="0009-0008-7491-862X" pid="151/5885">Xiangju Liu</author>
+<author orcid="0009-0001-1472-200X" pid="87/2948">Yuan Liu</author>
+<author orcid="0009-0007-7978-2840" pid="55/7775">Qian Hu</author>
+<author orcid="0009-0007-0427-4817" pid="32/3735">Li Fang</author>
+<author orcid="0009-0002-1326-9300" pid="62/5839">Jing Yang</author>
+<title>Research on the Comprehensive Application of Cloud Technology and Web 3.0.</title>
+<pages>84:1-84:7</pages>
+<year>2023</year>
+<booktitle>PCCNT</booktitle>
+<ee>https://doi.org/10.1145/3630138.3630533</ee>
+<ee>https://www.wikidata.org/entity/Q130836758</ee>
+<crossref>conf/pccnt/2023</crossref>
+<url>db/conf/pccnt/pccnt2023.html#LiuLHFY23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-01588" mdate="2023-02-10">
+<author pid="32/3735">Li Fang</author>
+<author pid="28/5691-1">Qingyu Chen 0001</author>
+<author pid="15/7649">Chih-Hsuan Wei</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<author pid="78/2022">Kai Wang</author>
+<title>Bioformer: an efficient transformer language model for biomedical text mining.</title>
+<year>2023</year>
+<volume>abs/2302.01588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.01588</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-01588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-08279" mdate="2023-10-24">
+<author pid="92/1942">Rui Yang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="01/1901">Yi Zhou</author>
+<title>CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2310.08279</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.08279</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-08279</url>
+</article>
+</r>
+<r><article key="journals/biodb/ChenALIDFKXZBBB22" mdate="2025-03-12">
+<author pid="28/5691-1">Qingyu Chen 0001</author>
+<author orcid="0000-0002-2706-9054" pid="135/5929">Alexis Allot</author>
+<author pid="26/5019">Robert Leaman</author>
+<author orcid="0000-0001-5651-1860" pid="47/4850">Rezarta Islamaj</author>
+<author pid="156/1121">Jingcheng Du</author>
+<author orcid="0000-0001-5456-0255" pid="32/3735">Li Fang</author>
+<author pid="25/3560">Wang Kai</author>
+<author orcid="0000-0002-8602-1819" pid="90/2170-1">Shuo Xu 0001</author>
+<author pid="318/8962">Yuefu Zhang</author>
+<author pid="183/6381">Parsa Bagherzadeh</author>
+<author pid="b/SabineBergler">Sabine Bergler</author>
+<author pid="318/9374">Aakash Bhatnagar</author>
+<author pid="318/9487">Nidhir Bhavsar</author>
+<author pid="77/7498">Yung-Chun Chang</author>
+<author pid="318/4016">Sheng-Jie Lin</author>
+<author pid="303/3123">Wentai Tang</author>
+<author pid="318/9218">Hongtong Zhang</author>
+<author pid="318/9138">Ilija Tavchioski</author>
+<author pid="75/8154">Senja Pollak</author>
+<author pid="298/6926">Shubo Tian</author>
+<author pid="43/661">Jinfeng Zhang</author>
+<author pid="154/8271-1">Yulia Otmakhova 0001</author>
+<author pid="50/8088">Antonio Jimeno-Yepes</author>
+<author orcid="0000-0001-6828-6891" pid="135/8614-2">Hang Dong 0002</author>
+<author orcid="0000-0002-0213-5668" pid="99/6255">Honghan Wu</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="318/9338">Yanis Labrak</author>
+<author pid="03/545">Niladri Chatterjee</author>
+<author pid="297/4572">Kushagri Tandon</author>
+<author pid="161/0453">Fr&#233;jus A. A. Laleye</author>
+<author orcid="0000-0002-9420-8798" pid="306/1122">Lo&#239;c Rakotoson</author>
+<author pid="183/6610">Emmanuele Chersoni</author>
+<author pid="176/7458">Jinghang Gu</author>
+<author pid="126/8745">Annemarie Friedrich</author>
+<author pid="170/8391">Subhash Chandra Pujari</author>
+<author pid="318/9433">Mariia Chizhikova</author>
+<author pid="70/613">Naveen Sivadasan</author>
+<author pid="330/1038">Saipradeep Vg</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<title>Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations.</title>
+<year>2022</year>
+<volume>2022</volume>
+<journal>Database J. Biol. Databases Curation</journal>
+<number>2022</number>
+<ee type="oa">https://doi.org/10.1093/database/baac069</ee>
+<url>db/journals/biodb/biodb2022.html#ChenALIDFKXZBBB22</url>
+</article>
+</r>
+<r><article key="journals/fdata/FangZKYHAL22" mdate="2025-03-03">
+<author orcid="0000-0002-4621-2741" pid="32/3735">Li Fang</author>
+<author pid="84/8949">Xiwu Zhan</author>
+<author pid="136/3480">Satya Kalluri</author>
+<author orcid="0000-0002-3504-7541" pid="50/2599">Peng Yu</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="46/9898">Martha C. Anderson</author>
+<author orcid="0000-0002-5747-9708" pid="14/9625">Istvan Laszlo</author>
+<title>Application of a Machine Learning Algorithm in Generating an Evapotranspiration Data Product From Coupled Thermal Infrared and Microwave Satellite Observations.</title>
+<pages>768676</pages>
+<year>2022</year>
+<volume>5</volume>
+<journal>Frontiers Big Data</journal>
+<ee type="oa">https://doi.org/10.3389/fdata.2022.768676</ee>
+<ee>https://www.wikidata.org/entity/Q118175292</ee>
+<url>db/journals/fdata/fdata5.html#FangZKYHAL22</url>
+</article>
+</r>
+<r><article key="journals/ijon/ZhangFZX22" mdate="2022-03-22">
+<author pid="45/47-6">Qin Zhang 0006</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="272/6143">Qining Zhang</author>
+<author pid="55/1380">Caihua Xiong</author>
+<title>Simultaneous estimation of joint angle and interaction force towards sEMG-driven human-robot interaction during constrained tasks.</title>
+<pages>38-45</pages>
+<year>2022</year>
+<volume>484</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2021.05.113</ee>
+<url>db/journals/ijon/ijon484.html#ZhangFZX22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/ShiDFLZ22" mdate="2024-11-13">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author pid="310/5454">Yenan Dang</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author orcid="0000-0003-2595-4794" pid="135/7243">Zhiyong Lv</author>
+<author orcid="0000-0001-8062-2982" pid="14/4623">Minghua Zhao</author>
+<title>Hyperspectral Image Classification With Adversarial Attack.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2021.3122170</ee>
+<url>db/journals/lgrs/lgrs19.html#ShiDFLZ22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/ShiFLS22" mdate="2024-11-13">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author orcid="0000-0003-2595-4794" pid="135/7243">Zhiyong Lv</author>
+<author orcid="0000-0002-2667-2484" pid="234/5951">Huifang Shen</author>
+<title>Improved Generative Adversarial Networks for VHR Remote Sensing Image Classification.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2020.3025099</ee>
+<url>db/journals/lgrs/lgrs19.html#ShiFLS22</url>
+</article>
+</r>
+<r><article key="journals/pr/ShiFLZ22" mdate="2024-11-13">
+<author pid="86/1102-2">Cheng Shi 0002</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="135/7243">Zhiyong Lv</author>
+<author pid="14/4623">Minghua Zhao</author>
+<title>Explainable scale distillation for hyperspectral image classification.</title>
+<pages>108316</pages>
+<year>2022</year>
+<volume>122</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2021.108316</ee>
+<url>db/journals/pr/pr122.html#ShiFLZ22</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/FangHFGWWHT22" mdate="2024-10-06">
+<author pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-1494-2539" pid="240/0098">Otto Hasekamp</author>
+<author pid="256/6063">Guangliang Fu</author>
+<author pid="161/5194">Weishu Gong</author>
+<author pid="97/3618">Shupeng Wang</author>
+<author pid="122/1603">Weihe Wang</author>
+<author pid="171/0105">Qijin Han</author>
+<author pid="121/1329">Shihao Tang</author>
+<title>Retrieval of Aerosol Optical Properties over Land Using an Optimized Retrieval Algorithm Based on the Directional Polarimetric Camera.</title>
+<pages>4571</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Remote. Sens.</journal>
+<number>18</number>
+<ee type="oa">https://doi.org/10.3390/rs14184571</ee>
+<url>db/journals/remotesensing/remotesensing14.html#FangHFGWWHT22</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/ShenZFY22" mdate="2025-01-20">
+<author orcid="0000-0002-2667-2484" pid="234/5951">Huifang Shen</author>
+<author pid="68/9071">Shudong Zhou</author>
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author orcid="0000-0003-2373-8799" pid="181/2854-34">Jian Yang 0034</author>
+<title>Glacier Motion Monitoring Using a Novel Deep Matching Network with SAR Intensity Images.</title>
+<pages>5128</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Remote. Sens.</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3390/rs14205128</ee>
+<url>db/journals/remotesensing/remotesensing14.html#ShenZFY22</url>
+</article>
+</r>
+<r><article key="journals/tcasI/FangZHGLD22" mdate="2022-11-13">
+<author orcid="0000-0002-6908-7920" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-7550-5033" pid="45/3426-3">Hong Zhou 0003</author>
+<author orcid="0000-0002-1341-5921" pid="12/116">Wenshan Hu</author>
+<author orcid="0000-0001-5144-8575" pid="151/3652">Xingran Gao</author>
+<author pid="257/6087">Haitang Liu</author>
+<author orcid="0000-0002-6096-7278" pid="84/4982">Qijun Deng</author>
+<title>Design and Analysis of Flexible Capacitive Power Transfer With Stable Output Capability.</title>
+<pages>4691-4701</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCSI.2022.3194647</ee>
+<url>db/journals/tcasI/tcasI69.html#FangZHGLD22</url>
+</article>
+</r>
+<r><article key="journals/tcasI/LiuZDHGF22" mdate="2022-11-13">
+<author orcid="0000-0002-4673-3280" pid="257/6087">Haitang Liu</author>
+<author orcid="0000-0002-7550-5033" pid="45/3426-3">Hong Zhou 0003</author>
+<author orcid="0000-0002-6096-7278" pid="84/4982">Qijun Deng</author>
+<author orcid="0000-0002-1341-5921" pid="12/116">Wenshan Hu</author>
+<author orcid="0000-0001-5144-8575" pid="151/3652">Xingran Gao</author>
+<author orcid="0000-0002-6908-7920" pid="32/3735">Li Fang</author>
+<title>A Wireless DC Motor Drive Using LCCC-CCL Compensated Network With Bidirectional Motion Capability.</title>
+<pages>4714-4725</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCSI.2022.3197211</ee>
+<url>db/journals/tcasI/tcasI69.html#LiuZDHGF22</url>
+</article>
+</r>
+<r><article key="journals/tcasII/FangZHCZGD22" mdate="2022-04-27">
+<author orcid="0000-0002-6908-7920" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-7550-5033" pid="45/3426-3">Hong Zhou 0003</author>
+<author orcid="0000-0002-1341-5921" pid="12/116">Wenshan Hu</author>
+<author orcid="0000-0002-5300-6524" pid="27/4364">Jing Chen</author>
+<author orcid="0000-0002-3973-3944" pid="260/3753">Ao Zhu</author>
+<author orcid="0000-0001-5144-8575" pid="151/3652">Xingran Gao</author>
+<author orcid="0000-0002-6096-7278" pid="84/4982">Qijun Deng</author>
+<title>Design of Wireless Individual-Drive System for Variable-Reluctance Stepping Motor.</title>
+<pages>2141-2145</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCSII.2022.3143172</ee>
+<url>db/journals/tcasII/tcasII69.html#FangZHCZGD22</url>
+</article>
+</r>
+<r><article key="journals/tgrs/ShiDFZLMP22" mdate="2024-11-13">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author pid="310/5454">Yenan Dang</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author orcid="0000-0001-8062-2982" pid="14/4623">Minghua Zhao</author>
+<author orcid="0000-0003-2595-4794" pid="135/7243">Zhiyong Lv</author>
+<author orcid="0000-0001-6766-8310" pid="03/4610">Qiguang Miao</author>
+<author orcid="0000-0003-1788-3746" pid="p/ChiManPun">Chi-Man Pun</author>
+<title>Multifeature Collaborative Adversarial Attack in Multimodal Remote Sensing Image Classification.</title>
+<pages>1-15</pages>
+<year>2022</year>
+<volume>60</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2022.3208337</ee>
+<url>db/journals/tgrs/tgrs60.html#ShiDFZLMP22</url>
+</article>
+</r>
+<r><article key="journals/tgrs/XieLGHSAF22" mdate="2024-02-05">
+<author orcid="0000-0002-1847-690X" pid="211/2311">Yanqing Xie</author>
+<author orcid="0000-0002-7795-3630" pid="46/10339">Zhengqiang Li</author>
+<author orcid="0000-0003-4630-1645" pid="61/5164">Jie Guang</author>
+<author orcid="0000-0003-0610-7944" pid="62/3243">Weizhen Hou</author>
+<author orcid="0000-0002-5609-6828" pid="19/3176">Abdus Salam</author>
+<author orcid="0000-0003-3252-9884" pid="70/11450">Zahir Ali</author>
+<author pid="32/3735">Li Fang</author>
+<title>Aerosol Optical Depth Retrieval Over South Asia Using FY-4A/AGRI Data.</title>
+<pages>1-14</pages>
+<year>2022</year>
+<volume>60</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2021.3124421</ee>
+<url>db/journals/tgrs/tgrs60.html#XieLGHSAF22</url>
+</article>
+</r>
+<r><article key="journals/tie/FangLRQ22" mdate="2022-02-23">
+<author orcid="0000-0001-5253-2621" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-9048-5229" pid="13/5856-4">Dawei Li 0004</author>
+<author orcid="0000-0002-2120-3064" pid="36/360-2">Xiang Ren 0002</author>
+<author orcid="0000-0001-6375-0990" pid="173/9632">Ronghai Qu</author>
+<title>A Novel Permanent Magnet Vernier Machine With Coding-Shaped Tooth.</title>
+<pages>6058-6068</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIE.2021.3088331</ee>
+<url>db/journals/tie/tie69.html#FangLRQ22</url>
+</article>
+</r>
+<r><article key="journals/tnse/GengLFC22" mdate="2022-04-01">
+<author orcid="0000-0002-2156-6367" pid="317/0539">Jinke Geng</author>
+<author orcid="0000-0003-1603-0506" pid="59/871-6">Yi Li 0006</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>VW-DBG: A Dynamically Evolving Bitcoin Transaction Network Model.</title>
+<pages>356-363</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNSE.2021.3116243</ee>
+<url>db/journals/tnse/tnse9.html#GengLFC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/amia/YanLFVOGWSWL22" mdate="2024-04-17">
+<author pid="206/0550">Shankai Yan</author>
+<author pid="00/1811-1">Ling Luo 0001</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="126/7784">Daniel Veltri</author>
+<author pid="217/5731">Andrew J. Oler</author>
+<author pid="34/6255">Rajarshi Ghosh</author>
+<author pid="15/7649">Chih-Hsuan Wei</author>
+<author pid="225/3483">Morgan Similuk</author>
+<author pid="78/2022">Kai Wang</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<title>PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles.</title>
+<year>2022</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/76677-amia-1.4637602/f007-1.4641746/f007-1.4641747/358-1.4641772/347-1.4641769</ee>
+<crossref>conf/amia/2022</crossref>
+<url>db/conf/amia/amia2022.html#YanLFVOGWSWL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/ChuXFZY22" mdate="2022-11-13">
+<author orcid="0000-0002-9540-5961" pid="248/5235">Xuesen Chu</author>
+<author pid="332/6275">He Xiang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="14/9541">Liu Zhao</author>
+<author pid="67/3001">Guangwen Yang</author>
+<title>Development Progress of SWLBM a Framework Based on Lattice Boltzmann Method for Fluid Dynamics Simulation.</title>
+<pages>62-71</pages>
+<year>2022</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19983-7_5</ee>
+<crossref>conf/arc/2022</crossref>
+<url>db/conf/arc/arc2022.html#ChuXFZY22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caibda/GongFLX22" mdate="2023-12-06">
+<author pid="257/9796">Xueyan Gong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="87/2948">Yuan Liu</author>
+<author pid="98/3011">Song Xu</author>
+<title>Research of Machine Learning Algorithm in Early Warning Analysis of Bank Customer Churn.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>CAIBDA</booktitle>
+<ee>https://ieeexplore.ieee.org/document/10104471</ee>
+<crossref>conf/caibda/2022</crossref>
+<url>db/conf/caibda/caibda2022.html#GongFLX22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccchina/LuLF22" mdate="2023-04-23">
+<author pid="56/4816">Liming Lu</author>
+<author pid="59/871-6">Yi Li 0006</author>
+<author pid="32/3735">Li Fang</author>
+<title>An Improved 5G NR LDPC Decoding Algorithm Based On Box-Plus Operation.</title>
+<pages>110-114</pages>
+<year>2022</year>
+<booktitle>ICCC</booktitle>
+<ee>https://doi.org/10.1109/ICCC55456.2022.9880684</ee>
+<crossref>conf/iccchina/2022</crossref>
+<url>db/conf/iccchina/iccchina2022.html#LuLF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/XiangJMWLF22" mdate="2023-09-30">
+<author pid="336/7358">Jingchun Xiang</author>
+<author orcid="0000-0001-5374-364X" pid="224/8548">Chaoqiang Jiang</author>
+<author orcid="0000-0001-7484-0019" pid="309/7187">Tianlu Ma</author>
+<author orcid="0000-0002-5167-3972" pid="16/3302">Xiaosheng Wang</author>
+<author pid="71/2890">Bo Luo</author>
+<author pid="32/3735">Li Fang</author>
+<title>A Comparison of Advanced IPT Systems with Nanocrystalline and Ferrite Cores for Wireless EV Charging.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON49645.2022.9968711</ee>
+<crossref>conf/iecon/2022</crossref>
+<url>db/conf/iecon/iecon2022.html#XiangJMWLF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/LiFYY22" mdate="2023-03-10">
+<author pid="328/8296">Yanzhuo Li</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="23/3516">Xinyan Yang</author>
+<title>Deep Video Matting with Temporal Consistency.</title>
+<pages>339-352</pages>
+<year>2022</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-0856-1_25</ee>
+<crossref>conf/iftc/2022</crossref>
+<url>db/conf/iftc/iftc2022.html#LiFYY22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcsoc/LiuPZWZWJF22" mdate="2023-01-26">
+<author pid="56/8664">Yiyang Liu</author>
+<author pid="283/9846">Boyuan Peng</author>
+<author pid="63/2408-1">Xin Zhu 0001</author>
+<author pid="33/9876">Wenwen Wang</author>
+<author pid="80/7814">Qin Zhou</author>
+<author pid="23/2045">Shixuan Wang</author>
+<author pid="41/8612">Jingjing Jiang</author>
+<author pid="32/3735">Li Fang</author>
+<title>Automatic endometrial segmentation in ultrasound images using deep learning.</title>
+<pages>67-71</pages>
+<year>2022</year>
+<booktitle>MCSoC</booktitle>
+<ee>https://doi.org/10.1109/MCSoC57363.2022.00020</ee>
+<crossref>conf/mcsoc/2022</crossref>
+<url>db/conf/mcsoc/mcsoc2022.html#LiuPZWZWJF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monami/DengLWXF22" mdate="2023-07-06">
+<author pid="350/8438">Lizhou Deng</author>
+<author pid="16/4996">Teng Long</author>
+<author pid="41/3241">Yuan Wang</author>
+<author pid="207/6007">Jianmao Xiao</author>
+<author pid="32/3735">Li Fang</author>
+<title>Research of Electronic Medical Record System Based on Blockchain.</title>
+<pages>3-17</pages>
+<year>2022</year>
+<booktitle>MONAMI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-32443-7_1</ee>
+<crossref>conf/monami/2022</crossref>
+<url>db/conf/monami/monami2022.html#DengLWXF22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-06758" mdate="2023-03-21">
+<author orcid="0000-0001-5456-0255" pid="32/3735">Li Fang</author>
+<author pid="78/2022">Kai Wang</author>
+<title>Multi-label topic classification for COVID-19 literature with Bioformer.</title>
+<year>2022</year>
+<volume>abs/2204.06758</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.06758</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-06758</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-09781" mdate="2025-03-14">
+<author pid="28/5691-1">Qingyu Chen 0001</author>
+<author pid="135/5929">Alexis Allot</author>
+<author pid="26/5019">Robert Leaman</author>
+<author orcid="0000-0001-5651-1860" pid="47/4850">Rezarta Islamaj Dogan</author>
+<author pid="156/1121">Jingcheng Du</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="25/3560">Wang Kai</author>
+<author pid="90/2170-1">Shuo Xu 0001</author>
+<author pid="318/8962">Yuefu Zhang</author>
+<author pid="183/6381">Parsa Bagherzadeh</author>
+<author pid="b/SabineBergler">Sabine Bergler</author>
+<author pid="318/9374">Aakash Bhatnagar</author>
+<author pid="318/9487">Nidhir Bhavsar</author>
+<author pid="77/7498">Yung-Chun Chang</author>
+<author pid="318/4016">Sheng-Jie Lin</author>
+<author pid="303/3123">Wentai Tang</author>
+<author pid="318/9218">Hongtong Zhang</author>
+<author pid="318/9138">Ilija Tavchioski</author>
+<author pid="298/6926">Shubo Tian</author>
+<author pid="43/661">Jinfeng Zhang</author>
+<author pid="154/8271-1">Yulia Otmakhova 0001</author>
+<author pid="50/8088">Antonio Jimeno-Yepes</author>
+<author pid="135/8614-2">Hang Dong 0002</author>
+<author pid="99/6255">Honghan Wu</author>
+<author pid="83/7858">Richard Dufour</author>
+<author orcid="0000-0003-1072-3862" pid="318/9338">Yanis Labrak</author>
+<author pid="03/545">Niladri Chatterjee</author>
+<author pid="297/4572">Kushagri Tandon</author>
+<author pid="161/0453">Fr&#233;jus A. A. Laleye</author>
+<author orcid="0000-0002-9420-8798" pid="306/1122">Lo&#239;c Rakotoson</author>
+<author pid="183/6610">Emmanuele Chersoni</author>
+<author pid="176/7458">Jinghang Gu</author>
+<author pid="126/8745">Annemarie Friedrich</author>
+<author pid="170/8391">Subhash Chandra Pujari</author>
+<author pid="318/9433">Mariia Chizhikova</author>
+<author pid="70/613">Naveen Sivadasan</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<title>Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations.</title>
+<year>2022</year>
+<volume>abs/2204.09781</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.09781</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-09781</url>
+</article>
+</r>
+<r><article key="journals/ecr/ChenFS21" mdate="2025-01-19">
+<author orcid="0000-0002-1525-4236" pid="35/6864">Zhisong Chen</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="297/0359">Shong-Iee Ivan Su</author>
+<title>The value of offline channel subsidy in bricks and clicks: an O2O supply chain coordination perspective.</title>
+<pages>599-643</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Electron. Commer. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10660-019-09386-z</ee>
+<ee>https://www.wikidata.org/entity/Q126984990</ee>
+<url>db/journals/ecr/ecr21.html#ChenFS21</url>
+</article>
+</r>
+<r><article key="journals/nar/FangLMXTC21" mdate="2024-10-06">
+<author pid="32/3735">Li Fang</author>
+<author orcid="0009-0008-3202-7757" pid="237/4755">Yunjin Li</author>
+<author pid="30/14">Lu Ma</author>
+<author pid="291/1353">Qiyue Xu</author>
+<author pid="80/8352">Fei Tan</author>
+<author orcid="0000-0002-3452-9434" pid="76/4764-3">Geng Chen 0003</author>
+<title>GRNdb: decoding the gene regulatory networks in diverse human and mouse conditions.</title>
+<pages>D97-D103</pages>
+<year>2021</year>
+<volume>49</volume>
+<journal>Nucleic Acids Res.</journal>
+<number>Database-Issue</number>
+<ee type="oa">https://doi.org/10.1093/nar/gkaa995</ee>
+<ee>https://www.wikidata.org/entity/Q101340009</ee>
+<url>db/journals/nar/nar49.html#FangLMXTC21</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/ShiDFLS21" mdate="2024-11-14">
+<author pid="86/1102-2">Cheng Shi 0002</author>
+<author pid="310/5454">Yenan Dang</author>
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author pid="135/7243">Zhiyong Lv</author>
+<author pid="234/5951">Huifang Shen</author>
+<title>Attention-Guided Multispectral and Panchromatic Image Classification.</title>
+<pages>4823</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>Remote. Sens.</journal>
+<number>23</number>
+<ee type="oa">https://doi.org/10.3390/rs13234823</ee>
+<url>db/journals/remotesensing/remotesensing13.html#ShiDFLS21</url>
+</article>
+</r>
+<r><article key="journals/staeors/ShiLSFY21" mdate="2024-11-13">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author orcid="0000-0003-2595-4794" pid="135/7243">Zhiyong Lv</author>
+<author orcid="0000-0002-2667-2484" pid="234/5951">Huifang Shen</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author pid="191/2494">Zhenzhen You</author>
+<title>Improved Metric Learning With the CNN for Very-High-Resolution Remote Sensing Image Classification.</title>
+<pages>631-644</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2020.3033944</ee>
+<url>db/journals/staeors/staeors14.html#ShiLSFY21</url>
+</article>
+</r>
+<r><article key="journals/tgrs/SunWWFTXYY21" mdate="2022-04-29">
+<author pid="79/8492">Jinguang Sun</author>
+<author orcid="0000-0003-3042-7948" pid="195/2128">Wanli Wang</author>
+<author pid="139/0725">Xian Wei</author>
+<author orcid="0000-0002-4876-6975" pid="32/3735">Li Fang</author>
+<author pid="70/7577">Xiaoliang Tang</author>
+<author orcid="0000-0001-5571-7808" pid="10/138">Yusheng Xu</author>
+<author orcid="0000-0001-8670-9990" pid="26/6190">Hui Yu</author>
+<author orcid="0000-0001-7704-0615" pid="72/4065-8">Wei Yao 0008</author>
+<title>Deep Clustering With Intraclass Distance Constraint for Hyperspectral Images.</title>
+<pages>4135-4149</pages>
+<year>2021</year>
+<volume>59</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TGRS.2020.3019313</ee>
+<url>db/journals/tgrs/tgrs59.html#SunWWFTXYY21</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/PanLGFC21" mdate="2021-11-15">
+<author pid="306/0295">Ying-yu Pan</author>
+<author pid="59/871-6">Yi Li 0006</author>
+<author pid="306/0607">Ce-yu Gao</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>Flexible and Efficient Blockchain-Based Cloud Storage.</title>
+<pages>304-312</pages>
+<year>2021</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD53861.2021.00044</ee>
+<crossref>conf/IEEEcloud/2021</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2021.html#PanLGFC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/FangZSKHAL21" mdate="2025-03-03">
+<author orcid="0000-0002-4621-2741" pid="32/3735">Li Fang</author>
+<author pid="84/8949">Xiwu Zhan</author>
+<author pid="44/9910">Mitchell Schull</author>
+<author pid="136/3480">Satya Kalluri</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="46/9898">Martha C. Anderson</author>
+<author orcid="0000-0002-5747-9708" pid="14/9625">Istvan Laszlo</author>
+<title>All-Weather Daily Evapotranspiration Data Product Based on Microwave and Thermal Infrared Satellite Observations.</title>
+<pages>6451-6454</pages>
+<year>2021</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS47720.2021.9554948</ee>
+<crossref>conf/igarss/2021</crossref>
+<url>db/conf/igarss/igarss2021.html#FangZSKHAL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mipr/ZhengZYFZ21" mdate="2021-10-26">
+<author pid="304/6754">Zhengxin Zheng</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Violent Scene Detection of Film Videos Based on Multi-Task Learning of Temporal-Spatial Features.</title>
+<pages>360-365</pages>
+<year>2021</year>
+<booktitle>MIPR</booktitle>
+<ee>https://doi.org/10.1109/MIPR51284.2021.00067</ee>
+<crossref>conf/mipr/2021</crossref>
+<url>db/conf/mipr/mipr2021.html#ZhengZYFZ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mipr/WangYHFZZ21" mdate="2021-10-26">
+<author pid="38/9697">Minghao Wang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="92/1299">Fei Hu</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Respective Volumetric Heatmap Autoencoder for Multi-Person 3D Pose Estimation.</title>
+<pages>377-381</pages>
+<year>2021</year>
+<booktitle>MIPR</booktitle>
+<ee>https://doi.org/10.1109/MIPR51284.2021.00070</ee>
+<crossref>conf/mipr/2021</crossref>
+<url>db/conf/mipr/mipr2021.html#WangYHFZZ21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-14746" mdate="2022-10-02">
+<author pid="305/0253">Theodore Jiang</author>
+<author orcid="0000-0001-5456-0255" pid="32/3735">Li Fang</author>
+<author pid="78/2022">Kai Wang</author>
+<title>MutFormer: A context-dependent transformer-based model to predict pathogenic missense mutations.</title>
+<year>2021</year>
+<volume>abs/2110.14746</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.14746</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-14746</url>
+</article>
+</r>
+<r><article key="journals/access/ZhuLFC20" mdate="2020-07-13">
+<author orcid="0000-0002-4547-474X" pid="125/0228">Xiaoyu Zhu</author>
+<author orcid="0000-0003-1603-0506" pid="59/871-6">Yi Li 0006</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>An Improved Proof-of-Trust Consensus Algorithm for Credible Crowdsourcing Blockchain Services.</title>
+<pages>102177-102187</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2998803</ee>
+<url>db/journals/access/access8.html#ZhuLFC20</url>
+</article>
+</r>
+<r><article key="journals/access/ShiFS20" mdate="2024-11-13">
+<author orcid="0000-0001-8530-2005" pid="86/1102-2">Cheng Shi 0002</author>
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-2667-2484" pid="234/5951">Huifang Shen</author>
+<title>Convolutional Neural Networks With Class-Driven Loss for Multiscale VHR Remote Sensing Image Classification.</title>
+<pages>149162-149175</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3014975</ee>
+<url>db/journals/access/access8.html#ShiFS20</url>
+</article>
+</r>
+<r><article key="journals/access/FangZYLZ20" mdate="2021-09-16">
+<author orcid="0000-0001-9963-6110" pid="32/3735">Li Fang</author>
+<author orcid="0000-0001-9325-6299" pid="60/1416">Wei Zhong</author>
+<author orcid="0000-0002-3562-5612" pid="86/2624">Long Ye</author>
+<author pid="96/6628">Ran Li</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Light Field Reconstruction With a Hybrid Sparse Regularization-Pseudo 4DCNN Framework.</title>
+<pages>171009-171020</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3023505</ee>
+<url>db/journals/access/access8.html#FangZYLZ20</url>
+</article>
+</r>
+<r><article key="journals/midm/ZhaoFCB20" mdate="2023-08-28">
+<author pid="78/8508">Yueyang Zhao</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="47/5523">Lei Cui</author>
+<author pid="151/6422">Song Bai</author>
+<title>Application of data mining for predicting hemodynamics instability during pheochromocytoma surgery.</title>
+<pages>165</pages>
+<year>2020</year>
+<month>December</month>
+<volume>20</volume>
+<journal>BMC Medical Informatics Decis. Mak.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12911-020-01180-4</ee>
+<ee>https://www.wikidata.org/entity/Q97634421</ee>
+<url>db/journals/midm/midm20.html#ZhaoFCB20</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/WangASW0LF20" mdate="2020-07-31">
+<author pid="97/3618">Shupeng Wang</author>
+<author pid="271/2224">Ronald J. van der A</author>
+<author pid="35/10418">Piet Stammes</author>
+<author pid="122/1603">Weihe Wang</author>
+<author orcid="0000-0002-7115-1389" pid="21/1048-24">Peng Zhang 0024</author>
+<author pid="30/10371">Naimeng Lu</author>
+<author pid="32/3735">Li Fang</author>
+<title>Carbon Dioxide Retrieval from TanSat Observations and Validation with TCCON Measurements.</title>
+<pages>2204</pages>
+<year>2020</year>
+<volume>12</volume>
+<journal>Remote. Sens.</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.3390/rs12142204</ee>
+<url>db/journals/remotesensing/remotesensing12.html#WangASW0LF20</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/WangASWZLZBWF20" mdate="2020-12-29">
+<author pid="97/3618">Shupeng Wang</author>
+<author pid="271/2224">Ronald J. van der A</author>
+<author pid="35/10418">Piet Stammes</author>
+<author pid="122/1603">Weihe Wang</author>
+<author orcid="0000-0002-7115-1389" pid="21/1048-24">Peng Zhang 0024</author>
+<author pid="30/10371">Naimeng Lu</author>
+<author pid="42/9902">Xingying Zhang</author>
+<author pid="85/8963">Yanmeng Bi</author>
+<author pid="37/1304">Ping Wang</author>
+<author pid="32/3735">Li Fang</author>
+<title>Correction: Shupeng, W., et al. Carbon Dioxide Retrieval from TanSat Observations and Validation with TCCON Measurements. Remote Sensing 2020, 12(14), 2204.</title>
+<pages>3626</pages>
+<year>2020</year>
+<volume>12</volume>
+<journal>Remote. Sens.</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/rs12213626</ee>
+<url>db/journals/remotesensing/remotesensing12.html#WangASWZLZBWF20</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/FangZC20" mdate="2021-01-11">
+<author orcid="0000-0003-2793-8819" pid="32/3735">Li Fang</author>
+<author pid="269/6715">Xiaobei Zhou</author>
+<author orcid="0000-0002-2598-0637" pid="47/5523-8">Lei Cui 0008</author>
+<title>Biclustering high-frequency MeSH terms based on the co-occurrence of distinct semantic types in a MeSH tree.</title>
+<pages>1179-1190</pages>
+<year>2020</year>
+<volume>124</volume>
+<journal>Scientometrics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11192-020-03496-4</ee>
+<url>db/journals/scientometrics/scientometrics124.html#FangZC20</url>
+</article>
+</r>
+<r><article key="journals/sensors/FangYSKT20" mdate="2024-02-05">
+<author orcid="0000-0002-0969-4083" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-7178-9817" pid="46/5245">Zhen Ye</author>
+<author orcid="0000-0002-7122-9393" pid="125/3226">Shu Su</author>
+<author orcid="0000-0001-6284-3044" pid="56/6072-5">Jian Kang 0005</author>
+<author pid="89/5727">Xiaohua Tong</author>
+<title>Glacier Surface Motion Estimation from SAR Intensity Images Based on Subpixel Gradient Correlation.</title>
+<pages>4396</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.3390/s20164396</ee>
+<ee>https://www.wikidata.org/entity/Q98385267</ee>
+<url>db/journals/sensors/sensors20.html#FangYSKT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiuGSF20" mdate="2021-08-30">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="95/6619">Lin Sun</author>
+<author pid="32/3735">Li Fang</author>
+<title>IPG-Net: Image Pyramid Guidance Network for Small Object Detection.</title>
+<pages>4422-4430</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPRW_2020/html/w69/Liu_IPG-Net_Image_Pyramid_Guidance_Network_for_Small_Object_Detection_CVPRW_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00521</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#LiuGSF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ever/FangWZ20" mdate="2020-11-12">
+<author pid="32/3735">Li Fang</author>
+<author pid="249/9996">Lijian Wu</author>
+<author pid="264/6883">Jiabei Zhu</author>
+<title>A Doubly-Fed Variable Flux Reluctance Machine with Integrated Stator Field and Armature Winding and Rotor Armature Winding.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>EVER</booktitle>
+<ee>https://doi.org/10.1109/EVER48776.2020.9242999</ee>
+<crossref>conf/ever/2020</crossref>
+<url>db/conf/ever/ever2020.html#FangWZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/GuoZYFH020" mdate="2020-01-03">
+<author pid="144/1627">Xiaona Guo</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="251/4790">Yan Heng</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Global Affective Video Content Regression Based on Complementary Audio-Visual Features.</title>
+<pages>540-550</pages>
+<year>2020</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-37734-2_44</ee>
+<crossref>conf/mmm/2020-2</crossref>
+<url>db/conf/mmm/mmm2020-2.html#GuoZYFH020</url>
+</inproceedings>
+</r>
+<r><article key="journals/cvgip/HuYZFTZ19" mdate="2025-01-19">
+<author pid="92/1299">Fei Hu</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="66/1748">Yun Tie</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Semantic based autoencoder-attention 3D reconstruction network.</title>
+<year>2019</year>
+<volume>106</volume>
+<journal>Graph. Model.</journal>
+<ee>https://doi.org/10.1016/j.gmod.2019.101050</ee>
+<ee>https://www.wikidata.org/entity/Q126828518</ee>
+<url>db/journals/cvgip/cvgip106.html#HuYZFTZ19</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/FangZSKLYCHA19" mdate="2025-03-03">
+<author orcid="0000-0002-4621-2741" pid="32/3735">Li Fang</author>
+<author orcid="0000-0001-6178-7976" pid="84/8949">Xiwu Zhan</author>
+<author pid="44/9910">Mitchell Schull</author>
+<author pid="136/3480">Satya Kalluri</author>
+<author orcid="0000-0002-5747-9708" pid="14/9625">Istvan Laszlo</author>
+<author orcid="0000-0002-3504-7541" pid="50/2599">Peng Yu</author>
+<author pid="262/9199">Corinne Minette Carter</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author orcid="0000-0003-0748-5525" pid="46/9898">Martha C. Anderson</author>
+<title>Evapotranspiration Data Product from NESDIS GET-D System Upgraded for GOES-16 ABI Observations.</title>
+<pages>2639</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>Remote. Sens.</journal>
+<number>22</number>
+<ee type="oa">https://doi.org/10.3390/rs11222639</ee>
+<ee>https://www.wikidata.org/entity/Q109551186</ee>
+<url>db/journals/remotesensing/remotesensing11.html#FangZSKLYCHA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmei/XiaZYF0H19" mdate="2020-12-03">
+<author pid="240/8367">Kaiyang Xia</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<author pid="251/4790">Yan Heng</author>
+<title>Fine-Grained Footstep Image Classification.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>CISP-BMEI</booktitle>
+<ee>https://doi.org/10.1109/CISP-BMEI48845.2019.8965884</ee>
+<crossref>conf/bmei/2019</crossref>
+<url>db/conf/bmei/bmei2019.html#XiaZYF0H19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccbr/ZhongLFC19" mdate="2020-07-13">
+<author pid="249/9853">Kailun Zhong</author>
+<author pid="59/871-6">Yi Li 0006</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>Cross-Dimension Transfer Learning for Video-Based Facial Expression Recognition.</title>
+<pages>180-189</pages>
+<year>2019</year>
+<booktitle>CCBR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31456-9_20</ee>
+<crossref>conf/ccbr/2019</crossref>
+<url>db/conf/ccbr/ccbr2019.html#ZhongLFC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/GuoZYF019" mdate="2020-03-11">
+<author pid="144/1627">Xiaona Guo</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Affective Video Content Analysis Based on Two Compact Audio-Visual Features.</title>
+<pages>355-364</pages>
+<year>2019</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-3341-9_29</ee>
+<crossref>conf/iftc/2019</crossref>
+<url>db/conf/iftc/iftc2019.html#GuoZYF019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/LiYZFZ19" mdate="2020-10-07">
+<author pid="02/916">Qianqian Li</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Point Cloud Classification via the Views Generated from Coded Streaming Data.</title>
+<pages>384-392</pages>
+<year>2019</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-3341-9_31</ee>
+<crossref>conf/iftc/2019</crossref>
+<url>db/conf/iftc/iftc2019.html#LiYZFZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/LiFYZZ19" mdate="2020-10-07">
+<author pid="54/2788">Ao Li</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Geometry-Guided View Synthesis with Local Nonuniform Plane-Sweep Volume.</title>
+<pages>393-403</pages>
+<year>2019</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-3341-9_32</ee>
+<crossref>conf/iftc/2019</crossref>
+<url>db/conf/iftc/iftc2019.html#LiFYZZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-00562" mdate="2021-01-23">
+<author pid="79/8492">Jinguang Sun</author>
+<author orcid="0000-0003-3042-7948" pid="195/2128">Wanli Wang</author>
+<author pid="139/0725">Xian Wei</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="70/7577">Xiaoliang Tang</author>
+<author pid="10/138">Yusheng Xu</author>
+<author pid="26/6190">Hui Yu</author>
+<author pid="72/4065-8">Wei Yao 0008</author>
+<title>Deep Clustering With Intra-class Distance Constraint for Hyperspectral Images.</title>
+<year>2019</year>
+<volume>abs/1904.00562</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.00562</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-00562</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/FangHWW18" mdate="2023-06-26">
+<author orcid="0000-0003-2695-3961" pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-8521-9161" pid="20/5455">Jiang Hu</author>
+<author pid="220/2245">Depeng Wang</author>
+<author pid="78/2022">Kai Wang</author>
+<title>NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data.</title>
+<pages>180:1-180:11</pages>
+<year>2018</year>
+<volume>19</volume>
+<journal>BMC Bioinform.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12859-018-2207-1</ee>
+<ee>https://www.wikidata.org/entity/Q55242881</ee>
+<url>db/journals/bmcbi/bmcbi19.html#FangHWW18</url>
+</article>
+</r>
+<r><article key="journals/cee/YongdaFH18" mdate="2025-01-19">
+<author pid="230/5208">Deng Yongda</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="98/5766">Xin Huang</author>
+<title>Research on multimodal human-robot interaction based on speech and gesture.</title>
+<pages>443-454</pages>
+<year>2018</year>
+<volume>72</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2018.09.014</ee>
+<ee>https://www.wikidata.org/entity/Q129081954</ee>
+<url>db/journals/cee/cee72.html#YongdaFH18</url>
+</article>
+</r>
+<r><article key="journals/jvcir/FangYTZZ18" mdate="2020-02-22">
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="66/1748">Yun Tie</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Design of linear-phase nonsubsampled nonuniform directional filter bank with arbitrary directional partitioning.</title>
+<pages>23-28</pages>
+<year>2018</year>
+<volume>51</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2017.12.013</ee>
+<url>db/journals/jvcir/jvcir51.html#FangYTZZ18</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/FangZHYLS18" mdate="2025-03-03">
+<author orcid="0000-0002-4621-2741" pid="32/3735">Li Fang</author>
+<author orcid="0000-0001-6178-7976" pid="84/8949">Xiwu Zhan</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher R. Hain</author>
+<author pid="189/3080">Jifu Yin</author>
+<author pid="38/58">Jicheng Liu</author>
+<author pid="44/9910">Mitchell A. Schull</author>
+<title>An Assessment of the Impact of Land Thermal Infrared Observation on Regional Weather Forecasts Using Two Different Data Assimilation Approaches.</title>
+<year>2018</year>
+<volume>10</volume>
+<journal>Remote. Sens.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/rs10040625</ee>
+<ee>https://www.wikidata.org/entity/Q64125787</ee>
+<url>db/journals/remotesensing/remotesensing10.html#FangZHYLS18</url>
+<pages>625</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/ZhongLYFZ18" mdate="2019-04-20">
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/2948">Ke Liu</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Value-Based Local Connection Scheduling Algorithm for Distributed Video Transcoding System.</title>
+<pages>1211-1216</pages>
+<year>2018</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2018.8687218</ee>
+<crossref>conf/icnc/2018</crossref>
+<url>db/conf/icnc/icnc2018.html#ZhongLYFZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icncc/TangTWFW18" mdate="2021-02-19">
+<author pid="70/7577">Xiaoliang Tang</author>
+<author pid="95/5836">Xuan Tang</author>
+<author orcid="0000-0003-3042-7948" pid="195/2128">Wanli Wang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="139/0725">Xian Wei</author>
+<title>Deep Multi-view Sparse Subspace Clustering.</title>
+<pages>115-119</pages>
+<year>2018</year>
+<booktitle>ICNCC</booktitle>
+<ee>https://doi.org/10.1145/3301326.3301391</ee>
+<crossref>conf/icncc/2018</crossref>
+<url>db/conf/icncc/icncc2018.html#TangTWFW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/ZhongXFY018" mdate="2019-05-15">
+<author pid="60/1416">Wei Zhong</author>
+<author pid="240/8367">Kaiyang Xia</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Design of 2D Checkboard Nonuniform Directional Filter Banks and Its Application to Image Nonlinear Approximation.</title>
+<pages>45-54</pages>
+<year>2018</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-13-8138-6_4</ee>
+<crossref>conf/iftc/2018</crossref>
+<url>db/conf/iftc/iftc2018.html#ZhongXFY018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iftc/HanYZF18" mdate="2019-05-15">
+<author pid="224/2136">Yulin Han</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/3735">Li Fang</author>
+<title>A Gigapixel Image Browsing Scheme in Edge Computing Environment.</title>
+<pages>324-333</pages>
+<year>2018</year>
+<booktitle>IFTC</booktitle>
+<ee>https://doi.org/10.1007/978-981-13-8138-6_27</ee>
+<crossref>conf/iftc/2018</crossref>
+<url>db/conf/iftc/iftc2018.html#HanYZF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/HaoLDFC18" mdate="2020-07-13">
+<author pid="17/1995">Yue Hao</author>
+<author pid="59/871-6">Yi Li 0006</author>
+<author pid="163/1535">Xinghua Dong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>Performance Analysis of Consensus Algorithm in Private Blockchain.</title>
+<pages>280-285</pages>
+<year>2018</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2018.8500557</ee>
+<crossref>conf/ivs/2018</crossref>
+<url>db/conf/ivs/ivs2018.html#HaoLDFC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssci/SunGWFLWW18" mdate="2019-02-07">
+<author pid="87/1504">Weizhen Sun</author>
+<author pid="235/1852">Jielong Guo</author>
+<author pid="29/9754">Zeli Wang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="90/283">Yuanxiang Li</author>
+<author pid="145/0708">Fengxiang Wang</author>
+<author pid="139/0725">Xian Wei</author>
+<title>Point Cloud Semantic Segmentation Algorithm Based on Multi-information Markov Random Field.</title>
+<pages>287-294</pages>
+<year>2018</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI.2018.8628817</ee>
+<crossref>conf/ssci/2018</crossref>
+<url>db/conf/ssci/ssci2018.html#SunGWFLWW18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sivp/ZhongFZY17" mdate="2020-09-06">
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<author pid="86/2624">Long Ye</author>
+<title>Design of oversampled nonuniform filter banks with arbitrary rational frequency partitioning.</title>
+<pages>689-696</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Signal Image Video Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11760-016-1011-5</ee>
+<url>db/journals/sivp/sivp11.html#ZhongFZY17</url>
+</article>
+</r>
+<r><article key="journals/staeors/FangWYXS17" mdate="2020-12-18">
+<author pid="32/3735">Li Fang</author>
+<author pid="139/0725">Xian Wei</author>
+<author orcid="0000-0001-7704-0615" pid="72/4065-8">Wei Yao 0008</author>
+<author orcid="0000-0001-5571-7808" pid="10/138">Yusheng Xu</author>
+<author pid="s/UweStilla">Uwe Stilla</author>
+<title>Discriminative Features Based on Two Layers Sparse Learning for Glacier Area Classification Using SAR Intensity Imagery.</title>
+<pages>3200-3212</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/JSTARS.2017.2671021</ee>
+<url>db/journals/staeors/staeors10.html#FangWYXS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/chinacom/ZhaoLLFC17" mdate="2020-07-13">
+<author pid="206/3504">Mengdi Zhao</author>
+<author pid="01/405">Hongxing Li</author>
+<author pid="59/871-6">Yi Li 0006</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="33/3675">Ping Chen</author>
+<title>Non-orthogonal Multi-carrier Technology for Space-Based Internet of Things Applications.</title>
+<pages>37-45</pages>
+<year>2017</year>
+<booktitle>ChinaCom (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78130-3_5</ee>
+<crossref>conf/chinacom/2017-1</crossref>
+<url>db/conf/chinacom/chinacom2017-1.html#ZhaoLLFC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/ZhanFLHYSCWLYW17" mdate="2025-03-03">
+<author pid="84/8949">Xiwu Zhan</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="38/58">Jicheng Liu</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="189/3080">Jifu Yin</author>
+<author pid="44/9910">Mitchell Schull</author>
+<author pid="70/8949">Michael H. Cosh</author>
+<author pid="27/6367">Jun Wen</author>
+<author pid="80/9904">Tarendra Lakhankar</author>
+<author pid="63/1587-4">Kun Yang 0004</author>
+<author orcid="0000-0002-4817-2712" pid="28/4293">Jeffrey P. Walker</author>
+<title>Fusing microwave and optical satellite observations for high resolution soil moisture data products.</title>
+<pages>2519-2522</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127507</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#ZhanFLHYSCWLYW17</url>
+</inproceedings>
+</r>
+<r><article key="journals/aeog/FangHZA16" mdate="2025-03-03">
+<author pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="84/8949">Xiwu Zhan</author>
+<author pid="46/9898">Martha C. Anderson</author>
+<title>An inter-comparison of soil moisture data products from satellite remote sensing and a land surface model.</title>
+<pages>37-50</pages>
+<year>2016</year>
+<volume>48</volume>
+<journal>Int. J. Appl. Earth Obs. Geoinformation</journal>
+<ee>https://doi.org/10.1016/j.jag.2015.10.006</ee>
+<ee>https://www.wikidata.org/entity/Q109555321</ee>
+<url>db/journals/aeog/aeog48.html#FangHZA16</url>
+</article>
+</r>
+<r><article key="journals/iet-spr/FangZ016" mdate="2020-05-12">
+<author pid="32/3735">Li Fang</author>
+<author pid="60/1416">Wei Zhong</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<title>Design of <i>M</i>-channel linear-phase non-uniform filter banks with arbitrary rational sampling factors.</title>
+<pages>106-114</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>IET Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1049/iet-spr.2015.0075</ee>
+<url>db/journals/iet-spr/iet-spr10.html#FangZ016</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/FangWYGZWR16" mdate="2020-05-11">
+<author pid="32/3735">Li Fang</author>
+<author pid="97/3618">Shupeng Wang</author>
+<author pid="67/1014-1">Tao Yu 0001</author>
+<author pid="82/8502">Xingfa Gu</author>
+<author pid="42/9902">Xingying Zhang</author>
+<author pid="122/1603">Weihe Wang</author>
+<author pid="197/2828">Suling Ren</author>
+<title>Changes in Aerosol Optical and Micro-Physical Properties over Northeast Asia from a Severe Dust Storm in April 2014.</title>
+<pages>394</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>Remote. Sens.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/rs8050394</ee>
+<url>db/journals/remotesensing/remotesensing8.html#FangWYGZWR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/arso/FangWX16" mdate="2017-05-26">
+<author pid="32/3735">Li Fang</author>
+<author pid="02/10027">Junnan Wang</author>
+<author pid="49/4627">Rong Xiong</author>
+<title>A coarse-to-fine approach for industrial meter detection and its application.</title>
+<pages>214-220</pages>
+<year>2016</year>
+<booktitle>ARSO</booktitle>
+<ee>https://doi.org/10.1109/ARSO.2016.7736284</ee>
+<crossref>conf/arso/2016</crossref>
+<url>db/conf/arso/arso2016.html#FangWX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiuZHYFLZ16" mdate="2025-03-03">
+<author pid="38/58">Jicheng Liu</author>
+<author pid="84/8949">Xiwu Zhan</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="189/3080">Jifu Yin</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="140/4536">Zhengpeng Li</author>
+<author pid="45/8502">Limin Zhao</author>
+<title>NOaa Soil Moisture Operational Product System (SMOPS) and its validations.</title>
+<pages>3477-3480</pages>
+<year>2016</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2016.7729899</ee>
+<crossref>conf/igarss/2016</crossref>
+<url>db/conf/igarss/igarss2016.html#LiuZHYFLZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/ZhanZFLHYE16" mdate="2025-03-03">
+<author pid="84/8949">Xiwu Zhan</author>
+<author pid="91/10340">Weizhong Zheng</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="38/58">Jicheng Liu</author>
+<author orcid="0000-0002-0093-6816" pid="170/9614">Christopher Hain</author>
+<author pid="189/3080">Jifu Yin</author>
+<author pid="189/2959">Michael Ek</author>
+<title>A preliminary assessment of the impact of SMAP Soil Moisture on numerical weather Forecasts from GFS and NUWRF models.</title>
+<pages>5229-5232</pages>
+<year>2016</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2016.7730362</ee>
+<crossref>conf/igarss/2016</crossref>
+<url>db/conf/igarss/igarss2016.html#ZhanZFLHYE16</url>
+</inproceedings>
+</r>
+<r><article key="journals/digearth/SunYYFL015" mdate="2024-05-07">
+<author pid="37/8639">Donglian Sun</author>
+<author pid="58/8994">Yunyue Yu</author>
+<author pid="122/1580">Hequn Yang</author>
+<author pid="32/3735">Li Fang</author>
+<author orcid="0000-0002-3713-9511" pid="91/1361">Qinhuo Liu</author>
+<author pid="158/9304">Jiancheng Shi 0001</author>
+<title>A case study for intercomparison of land surface temperature retrieved from GOES and MODIS.</title>
+<pages>476-494</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Int. J. Digit. Earth</journal>
+<number>6</number>
+<ee>https://doi.org/10.1080/17538947.2014.906509</ee>
+<url>db/journals/digearth/digearth8.html#SunYYFL015</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/WangFZW15" mdate="2020-05-11">
+<author pid="97/3618">Shupeng Wang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="42/9902">Xingying Zhang</author>
+<author pid="122/1603">Weihe Wang</author>
+<title>Retrieval of Aerosol Properties for Fine/Coarse Mode Aerosol Mixtures over Beijing from PARASOL Measurements.</title>
+<pages>9311-9324</pages>
+<year>2015</year>
+<volume>7</volume>
+<journal>Remote. Sens.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/rs70709311</ee>
+<url>db/journals/remotesensing/remotesensing7.html#WangFZW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinformatics/FangWLY15" mdate="2017-05-21">
+<author pid="32/3735">Li Fang</author>
+<author pid="38/1956">Wenjie Wang</author>
+<author pid="174/4324">Chenfeng Liu</author>
+<author pid="39/8498">Zhuoyuan Yu</author>
+<title>Pollution load simulation of Dongting Lake basin based on SWAT and GIS.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>Geoinformatics</booktitle>
+<ee>https://doi.org/10.1109/GEOINFORMATICS.2015.7378624</ee>
+<crossref>conf/geoinformatics/2015</crossref>
+<url>db/conf/geoinformatics/geoinformatics2015.html#FangWLY15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tgrs/FangYXS14" mdate="2020-05-12">
+<author pid="32/3735">Li Fang</author>
+<author pid="58/8994">Yunyue Yu</author>
+<author orcid="0000-0002-0917-6526" pid="90/3055-4">Hui Xu 0004</author>
+<author pid="37/8639">Donglian Sun</author>
+<title>New Retrieval Algorithm for Deriving Land Surface Temperature From Geostationary Orbiting Satellite Observations.</title>
+<pages>819-828</pages>
+<year>2014</year>
+<volume>52</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TGRS.2013.2244213</ee>
+<url>db/journals/tgrs/tgrs52.html#FangYXS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/ZhongFYZS14" mdate="2017-07-26">
+<author pid="60/1416">Wei Zhong</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="86/2624">Long Ye</author>
+<author pid="45/47-9">Qin Zhang 0009</author>
+<author pid="88/5126">Siqi Shi</author>
+<title>Design of linear-phase oversampled nonuniform filter banks with arbitrary integer sampling factors.</title>
+<pages>915-920</pages>
+<year>2014</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC.2014.6975961</ee>
+<crossref>conf/icnc/2014</crossref>
+<url>db/conf/icnc/icnc2014.html#ZhongFYZS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/lgrs/LiuYSTF13" mdate="2020-04-09">
+<author pid="20/5225">Yuling Liu</author>
+<author pid="58/8994">Yunyue Yu</author>
+<author pid="37/8639">Donglian Sun</author>
+<author pid="27/8989">Dan Tarpley</author>
+<author pid="32/3735">Li Fang</author>
+<title>Effect of Different MODIS Emissivity Products on Land-Surface Temperature Retrieval From GOES Series.</title>
+<pages>510-514</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LGRS.2012.2211992</ee>
+<url>db/journals/lgrs/lgrs10.html#LiuYSTF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/appt/ChenLWZF13" mdate="2017-05-21">
+<author pid="65/4423-16">Chen Chen 0016</author>
+<author pid="31/6932">Kai Lu</author>
+<author pid="76/6429">Xiaoping Wang</author>
+<author pid="66/5686">Xu Zhou</author>
+<author pid="32/3735">Li Fang</author>
+<title>Pruning False Positives of Static Data-Race Detection via Thread Specialization.</title>
+<pages>77-90</pages>
+<year>2013</year>
+<booktitle>APPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45293-2_6</ee>
+<crossref>conf/appt/2013</crossref>
+<url>db/conf/appt/appt2013.html#ChenLWZF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/FangXQ13" mdate="2018-06-23">
+<author pid="32/3735">Li Fang</author>
+<author pid="37/5126-2">Jie Xu 0002</author>
+<author pid="35/587">Ling Qiu</author>
+<title>Energy Efficiency optimization for two-way relay channels.</title>
+<pages>425-430</pages>
+<year>2013</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCW.2013.6649271</ee>
+<crossref>conf/icc/2013w</crossref>
+<url>db/conf/icc/icc2013w.html#FangXQ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/ZhaoXTLF13" mdate="2019-08-20">
+<author pid="48/76">Yue Zhao</author>
+<author pid="49/4627">Rong Xiong</author>
+<author pid="148/3329">Hangjun Tong</author>
+<author pid="22/3837">Chuan Li</author>
+<author pid="32/3735">Li Fang</author>
+<title>ZJUNlict: RoboCup 2013 Small Size League Champion.</title>
+<pages>92-103</pages>
+<year>2013</year>
+<booktitle>RoboCup</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44468-9_9</ee>
+<crossref>conf/robocup/2013</crossref>
+<url>db/conf/robocup/robocup2013.html#ZhaoXTLF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/LiuFL13" mdate="2017-05-21">
+<author pid="132/6099">Bingchao Liu</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="07/2601">Daoben Li</author>
+<title>Transmit Diversity Design for Channels with Inter Symbol Interference.</title>
+<pages>1-5</pages>
+<year>2013</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2013.6692445</ee>
+<crossref>conf/vtc/2013f</crossref>
+<url>db/conf/vtc/vtc2013f.html#LiuFL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/aeog/LiuYXYF12" mdate="2020-02-20">
+<author pid="61/3234-9">Qiang Liu 0009</author>
+<author pid="02/6067">Chunyan Yan</author>
+<author pid="05/5929">Qing Xiao</author>
+<author orcid="0000-0001-5030-748X" pid="12/8994">Guangjian Yan</author>
+<author pid="32/3735">Li Fang</author>
+<title>Separating vegetation and soil temperature using airborne multiangular remote sensing image data.</title>
+<pages>66-75</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Int. J. Appl. Earth Obs. Geoinformation</journal>
+<ee>https://doi.org/10.1016/j.jag.2011.10.003</ee>
+<url>db/journals/aeog/aeog17.html#LiuYXYF12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/KuiFFL12" mdate="2024-12-23">
+<author pid="126/7732">Yu Kui</author>
+<author orcid="0000-0002-5155-8544" pid="44/10612">Jianqiao Fang</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="126/7750">Ping-Wen Li</author>
+<title>Abdominal acupuncture for Bi syndrome of casino workers in Macau: A randomized controlled trial.</title>
+<pages>511-513</pages>
+<year>2012</year>
+<booktitle>BIBM Workshops</booktitle>
+<ee>https://doi.org/10.1109/BIBMW.2012.6470375</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBMW.2012.6470375</ee>
+<crossref>conf/bibm/2012w</crossref>
+<url>db/conf/bibm/bibmw2012.html#KuiFFL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/WangZFL12" mdate="2022-12-21">
+<author pid="94/3104">Ying Wang</author>
+<author orcid="0000-0002-6299-5600" pid="01/2356-1">Jing Zhou 0001</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="07/2601">Daoben Li</author>
+<title>Analysis of a novel time domain pilot scheme in convolutional multiplexed multicarrier systems.</title>
+<pages>2007-2113</pages>
+<year>2012</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2012.6362702</ee>
+<crossref>conf/pimrc/2012</crossref>
+<url>db/conf/pimrc/pimrc2012.html#WangZFL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/YangZF12" mdate="2023-03-24">
+<author pid="34/7635">Menghui Yang</author>
+<author pid="119/3437">Yongzhong Zou</author>
+<author pid="32/3735">Li Fang</author>
+<title>Collision and Detection Performance with Three Overlap Signal Collisions in Space-Based AIS Reception.</title>
+<pages>1641-1648</pages>
+<year>2012</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2012.109</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TrustCom.2012.109</ee>
+<crossref>conf/trustcom/2012</crossref>
+<url>db/conf/trustcom/trustcom2012.html#YangZF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ibica/XianF11" mdate="2023-03-24">
+<author pid="141/7451">Tan Xian</author>
+<author pid="32/3735">Li Fang</author>
+<title>HAZARDS and Prevention of BLEVE.</title>
+<pages>261-263</pages>
+<year>2011</year>
+<booktitle>IBICA</booktitle>
+<ee>https://doi.org/10.1109/IBICA.2011.68</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IBICA.2011.68</ee>
+<crossref>conf/ibica/2011</crossref>
+<url>db/conf/ibica/ibica2011.html#XianF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscit/SunYLF11" mdate="2017-05-19">
+<author pid="88/619">Peng Sun</author>
+<author pid="48/2364">Xing Yang</author>
+<author pid="07/2601">Daoben Li</author>
+<author pid="32/3735">Li Fang</author>
+<title>Near-maximum-likelihood detection in spatially correlated MIMO systems using semi-definite relaxation with cutting planes.</title>
+<pages>412-416</pages>
+<year>2011</year>
+<booktitle>ISCIT</booktitle>
+<ee>https://doi.org/10.1109/ISCIT.2011.6089961</ee>
+<crossref>conf/iscit/2011</crossref>
+<url>db/conf/iscit/iscit2011.html#SunYLF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcsp/LiuFL11" mdate="2017-05-26">
+<author pid="132/6099">Bingchao Liu</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="07/2601">Daoben Li</author>
+<title>High-speed LMS equalizer for spread spectrum system based on FPGA.</title>
+<pages>1-3</pages>
+<year>2011</year>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP.2011.6096798</ee>
+<crossref>conf/wcsp/2011</crossref>
+<url>db/conf/wcsp/wcsp2011.html#LiuFL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcsp/SunLF11" mdate="2017-05-26">
+<author pid="88/619">Peng Sun</author>
+<author pid="07/2601">Daoben Li</author>
+<author pid="32/3735">Li Fang</author>
+<title>Design of simplified overlapped code division multiplexing system.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP.2011.6096936</ee>
+<crossref>conf/wcsp/2011</crossref>
+<url>db/conf/wcsp/wcsp2011.html#SunLF11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ecoi/SonwalkarFS10" mdate="2020-02-22">
+<author pid="73/8639">Mukul Sonwalkar</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="37/8639">Donglian Sun</author>
+<title>Use of NDVI dataset for a GIS based analysis: A sample study of TAR Creek superfund site.</title>
+<pages>484-491</pages>
+<year>2010</year>
+<volume>5</volume>
+<journal>Ecol. Informatics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.ecoinf.2010.07.003</ee>
+<url>db/journals/ecoi/ecoi5.html#SonwalkarFS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinformatics/FangYDMY10" mdate="2017-05-21">
+<author pid="32/3735">Li Fang</author>
+<author pid="91/2751">Jianwei Yue</author>
+<author pid="34/8500">Jiawen Dai</author>
+<author pid="31/8500">Guobin Ma</author>
+<author pid="39/8498">Zhuoyuan Yu</author>
+<title>A flood emergency response system based on flood disaster evaluation models.</title>
+<pages>1-4</pages>
+<year>2010</year>
+<booktitle>Geoinformatics</booktitle>
+<ee>https://doi.org/10.1109/GEOINFORMATICS.2010.5567665</ee>
+<crossref>conf/geoinformatics/2010</crossref>
+<url>db/conf/geoinformatics/geoinformatics2010.html#FangYDMY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinformatics/FangYY10" mdate="2017-05-21">
+<author pid="32/3735">Li Fang</author>
+<author pid="91/2751">Jianwei Yue</author>
+<author pid="39/8498">Zhuoyuan Yu</author>
+<title>A spatial data checking system based on quality rules.</title>
+<pages>1-4</pages>
+<year>2010</year>
+<booktitle>Geoinformatics</booktitle>
+<ee>https://doi.org/10.1109/GEOINFORMATICS.2010.5567975</ee>
+<crossref>conf/geoinformatics/2010</crossref>
+<url>db/conf/geoinformatics/geoinformatics2010.html#FangYY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinformatics/YuWF10" mdate="2017-05-21">
+<author pid="39/8498">Zhuoyuan Yu</author>
+<author pid="33/6297">Yingjie Wang</author>
+<author pid="32/3735">Li Fang</author>
+<title>Study on the intelligent map service for adaptive geo-visualization.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>Geoinformatics</booktitle>
+<ee>https://doi.org/10.1109/GEOINFORMATICS.2010.5567814</ee>
+<crossref>conf/geoinformatics/2010</crossref>
+<url>db/conf/geoinformatics/geoinformatics2010.html#YuWF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/FangYZ10" mdate="2017-05-25">
+<author pid="32/3735">Li Fang</author>
+<author pid="39/8498">Zhuoyuan Yu</author>
+<author pid="07/668">Xiang Zhao</author>
+<title>The design of a unified addressing schema and the matching mode of China.</title>
+<pages>3987-3990</pages>
+<year>2010</year>
+<crossref>conf/igarss/2010</crossref>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2010.5653116</ee>
+<url>db/conf/igarss/igarss2010.html#FangYZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/ZhaoXKLF10" mdate="2022-11-09">
+<author pid="07/668-4">Xiang Zhao 0004</author>
+<author pid="29/8996">Zhengqing Xiao</author>
+<author pid="11/9001">Qian Kang</author>
+<author pid="181/2689-23">Qing Li 0023</author>
+<author pid="32/3735">Li Fang</author>
+<title>Overview of the Fourier Transform Hyperspectral Imager (HSI) boarded on HJ-1A satellite.</title>
+<pages>4272-4274</pages>
+<year>2010</year>
+<crossref>conf/igarss/2010</crossref>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2010.5649250</ee>
+<url>db/conf/igarss/igarss2010.html#ZhaoXKLF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icetc/FangL09" mdate="2023-03-23">
+<author pid="32/3735">Li Fang</author>
+<author pid="25/3528">Xu Li</author>
+<title>Research Application of Task-driven Method in Teaching of the Course Operating System.</title>
+<pages>164-166</pages>
+<year>2009</year>
+<booktitle>ICETC</booktitle>
+<ee>https://doi.org/10.1109/ICETC.2009.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICETC.2009.23</ee>
+<crossref>conf/icetc/2009</crossref>
+<url>db/conf/icetc/icetc2009.html#FangL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icetc/FangMCH09" mdate="2023-03-23">
+<author pid="32/3735">Li Fang</author>
+<author pid="77/3825">Zhang Meng</author>
+<author pid="19/7720">Claire Chen</author>
+<author pid="98/7720">Qian Hui</author>
+<title>Smart Motion Detection Surveillance System.</title>
+<pages>171-175</pages>
+<year>2009</year>
+<booktitle>ICETC</booktitle>
+<ee>https://doi.org/10.1109/ICETC.2009.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICETC.2009.10</ee>
+<crossref>conf/icetc/2009</crossref>
+<url>db/conf/icetc/icetc2009.html#FangMCH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/JiangFWWZ09" mdate="2024-08-19">
+<author pid="32/7018-9">Jie Jiang 0009</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="27/6367">Jun Wen</author>
+<author pid="92/1373">Guofu Wu</author>
+<author pid="48/1816">Heying Zhang</author>
+<title>Random Scheduling for Wireless Sensor Networks.</title>
+<pages>324-332</pages>
+<year>2009</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2009.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2009.50</ee>
+<crossref>conf/ispa/2009</crossref>
+<url>db/conf/ispa/ispa2009.html#JiangFWWZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wgec/FangYC09" mdate="2023-03-23">
+<author pid="32/3735">Li Fang</author>
+<author pid="49/6574">Chen Yi</author>
+<author pid="94/7807">Wang Chong</author>
+<title>An Evidence Theory Decision Tree Algorithm for Uncertain Data.</title>
+<pages>393-396</pages>
+<year>2009</year>
+<booktitle>WGEC</booktitle>
+<ee>https://doi.org/10.1109/WGEC.2009.90</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WGEC.2009.90</ee>
+<crossref>conf/wgec/2009</crossref>
+<url>db/conf/wgec/wgec2009.html#FangYC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wgec/FangCY09" mdate="2023-03-23">
+<author pid="32/3735">Li Fang</author>
+<author pid="94/7807">Wang Chong</author>
+<author pid="49/6574">Chen Yi</author>
+<title>Parallel Multidimensional Uncertain Data Evidence Theory Decision Tree.</title>
+<pages>451-454</pages>
+<year>2009</year>
+<booktitle>WGEC</booktitle>
+<ee>https://doi.org/10.1109/WGEC.2009.197</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WGEC.2009.197</ee>
+<crossref>conf/wgec/2009</crossref>
+<url>db/conf/wgec/wgec2009.html#FangCY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/BorcociPMFW08" mdate="2023-04-29">
+<author pid="67/3587">Eugen Borcoci</author>
+<author orcid="0000-0002-5583-5772" pid="77/6837">Ant&#243;nio Pinto</author>
+<author pid="20/2900">Ahmed Mehaoua</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="46/2005-1">Ning Wang 0001</author>
+<title>Resource Management and Signalling Architecture of a Hybrid Multicast Service for Multimedia Distribution.</title>
+<pages>39-51</pages>
+<year>2008</year>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-87359-4_5</ee>
+<crossref>conf/mmns/2008</crossref>
+<url>db/conf/mmns/mmns2008.html#BorcociPMFW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/MehaouaFKS08" mdate="2018-06-26">
+<author pid="20/2900">Ahmed Mehaoua</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="k/GeorgeKormentzas">George Kormentzas</author>
+<author pid="60/2809">Dominique Seret</author>
+<title>Peer-to-Peer Overlay Multicast for Scalable Audiovisual Services over Converging Wired and Wireless Networks.</title>
+<pages>114-126</pages>
+<year>2008</year>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-87359-4_11</ee>
+<crossref>conf/mmns/2008</crossref>
+<url>db/conf/mmns/mmns2008.html#MehaouaFKS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobimedia/TimmererRKHSACC08" mdate="2021-03-17">
+<author pid="81/5358">Christian Timmerer</author>
+<author pid="92/4253">Michael Ransburg</author>
+<author pid="33/119">Ingo Kofler</author>
+<author orcid="0000-0003-1114-2584" pid="h/HermannHellwagner">Hermann Hellwagner</author>
+<author pid="141/0604">Pedro Souto</author>
+<author orcid="0000-0002-1363-5027" pid="134/5466">Maria T. Andrade 0001</author>
+<author pid="48/2540">Pedro Carvalho</author>
+<author orcid="0000-0003-3858-1616" pid="43/8706">Helder F. Castro</author>
+<author pid="23/5764">Mamadou Sidib&#233;</author>
+<author pid="20/2900">Ahmed Mehaoua</author>
+<author pid="32/3735">Li Fang</author>
+<author pid="50/2136">Adam Lindsay</author>
+<author pid="22/3732-1">Michael Mackay 0001</author>
+<author pid="20/6664">Artur Lugmayr</author>
+<author pid="19/204">Bernhard Feiten</author>
+<title>An Integrated Management Supervisor for End-to-End Management of Heterogeneous Contents, Networks, and Terminals enabling Quality of Service.</title>
+<year>2008</year>
+<booktitle>MobiMedia</booktitle>
+<ee>https://doi.org/10.4108/ICST.MOBIMEDIA2008.3880</ee>
+<crossref>conf/mobimedia/2008</crossref>
+<url>db/conf/mobimedia/mobimedia2008.html#TimmererRKHSACC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/FangLSCC06" mdate="2017-05-17">
+<author pid="32/3735">Li Fang</author>
+<author pid="24/2634">Maylor K. H. Leung</author>
+<author pid="127/0657">Tejas Shikhare</author>
+<author pid="32/264">Victor Chan</author>
+<author pid="127/0886">Kean Fatt Choon</author>
+<title>Palmprint Classification.</title>
+<pages>2965-2969</pages>
+<year>2006</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2006.384569</ee>
+<crossref>conf/smc/2006</crossref>
+<url>db/conf/smc/smc2006.html#FangLSCC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cata/OwrangMF05" mdate="2021-08-09">
+<author pid="63/3063">Mehdi Owrang</author>
+<author pid="m/LeslieLMiller">Les L. Miller</author>
+<author pid="32/3735">Li Fang</author>
+<title>Processing Multiple Relations in the Knowledge Discovery Process.</title>
+<pages>410-416</pages>
+<year>2005</year>
+<crossref>conf/cata/2005</crossref>
+<booktitle>CATA</booktitle>
+<url>db/conf/cata/cata2005.html#OwrangMF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aipr/FangH00" mdate="2023-03-24">
+<author pid="32/3735">Li Fang</author>
+<author pid="75/5328">Yew-Hock Ang</author>
+<title>Image Retrieval with Relevance Feedback.</title>
+<pages>85-91</pages>
+<year>2000</year>
+<crossref>conf/aipr/2000</crossref>
+<booktitle>AIPR</booktitle>
+<ee>https://doi.org/10.1109/AIPRW.2000.953608</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AIPRW.2000.953608</ee>
+<url>db/conf/aipr/aipr2000.html#FangH00</url>
+</inproceedings>
+</r>
+<coauthors n="356" nc="14">
+<co c="0"><na f="a/A:Ronald_J=_van_der" pid="271/2224">Ronald J. van der A</na></co>
+<co c="0"><na f="a/Ai:Guo" pid="241/5072">Guo Ai</na></co>
+<co c="0"><na f="a/Ali:Zahir" pid="70/11450">Zahir Ali</na></co>
+<co c="0"><na f="a/Allot:Alexis" pid="135/5929">Alexis Allot</na></co>
+<co c="0"><na f="a/Anderson:Martha_C=" pid="46/9898">Martha C. Anderson</na></co>
+<co c="0"><na f="a/Andrade_0001:Maria_T=" pid="134/5466">Maria T. Andrade 0001</na></co>
+<co c="-1"><na f="a/Ang:Yew=Hock" pid="75/5328">Yew-Hock Ang</na></co>
+<co c="0"><na f="b/Bagherzadeh:Parsa" pid="183/6381">Parsa Bagherzadeh</na></co>
+<co c="6"><na f="b/Bai:Song" pid="151/6422">Song Bai</na></co>
+<co c="0"><na f="b/Bergler:Sabine" pid="b/SabineBergler">Sabine Bergler</na></co>
+<co c="0"><na f="b/Bhatnagar:Aakash" pid="318/9374">Aakash Bhatnagar</na></co>
+<co c="0"><na f="b/Bhavsar:Nidhir" pid="318/9487">Nidhir Bhavsar</na></co>
+<co c="0"><na f="b/Bi:Yanmeng" pid="85/8963">Yanmeng Bi</na></co>
+<co c="0"><na f="b/Borcoci:Eugen" pid="67/3587">Eugen Borcoci</na></co>
+<co c="0"><na f="c/Cappelleri:David_J=" pid="04/2275">David J. Cappelleri</na></co>
+<co c="0"><na f="c/Carter:Corinne_Minette" pid="262/9199">Corinne Minette Carter</na></co>
+<co c="0"><na f="c/Carvalho:Pedro" pid="48/2540">Pedro Carvalho</na></co>
+<co c="0"><na f="c/Castro:Helder_F=" pid="43/8706">Helder F. Castro</na></co>
+<co c="7"><na f="c/Chai:Shiyi" pid="283/0333">Shiyi Chai</na></co>
+<co c="2"><na f="c/Chan:Victor" pid="32/264">Victor Chan</na></co>
+<co c="0"><na f="c/Chang:Yung=Chun" pid="77/7498">Yung-Chun Chang</na></co>
+<co c="0"><na f="c/Chatterjee:Niladri" pid="03/545">Niladri Chatterjee</na></co>
+<co c="0"><na f="c/Chen_0016:Chen" pid="65/4423-16">Chen Chen 0016</na></co>
+<co c="4"><na f="c/Chen:Claire" pid="19/7720">Claire Chen</na></co>
+<co c="1"><na f="c/Chen_0003:Geng" pid="76/4764-3">Geng Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Jing" pid="27/4364">Jing Chen</na></co>
+<co c="0"><na f="c/Chen:Ping" pid="33/3675">Ping Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Qingyu" pid="28/5691-1">Qingyu Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Xiuwen" pid="188/0571">Xiuwen Chen</na></co>
+<co c="0" n="2"><na f="c/Chen:Yi" pid="49/6574">Yi Chen</na><na>Chen Yi</na></co>
+<co c="0"><na f="c/Chen:Ying" pid="21/5521">Ying Chen</na></co>
+<co c="12"><na f="c/Chen:Zhisong" pid="35/6864">Zhisong Chen</na></co>
+<co c="0"><na f="c/Chen:Zhiye" pid="156/8494">Zhiye Chen</na></co>
+<co c="0"><na f="c/Cheng:Bo" pid="05/2700">Bo Cheng</na></co>
+<co c="0"><na f="c/Cheng:Haonan" pid="198/3969">Haonan Cheng</na></co>
+<co c="0"><na f="c/Chersoni:Emmanuele" pid="183/6610">Emmanuele Chersoni</na></co>
+<co c="0"><na f="c/Chizhikova:Mariia" pid="318/9433">Mariia Chizhikova</na></co>
+<co c="0"><na f="c/Chong:Wang" pid="94/7807">Wang Chong</na></co>
+<co c="2"><na f="c/Choon:Kean_Fatt" pid="127/0886">Kean Fatt Choon</na></co>
+<co c="0"><na f="c/Chu:Xuesen" pid="248/5235">Xuesen Chu</na></co>
+<co c="0"><na f="c/Cosh:Michael_H=" pid="70/8949">Michael H. Cosh</na></co>
+<co c="6"><na f="c/Cui:Lei" pid="47/5523">Lei Cui</na></co>
+<co c="13"><na f="c/Cui_0008:Lei" pid="47/5523-8">Lei Cui 0008</na></co>
+<co c="0"><na f="d/Dai:Jiawen" pid="34/8500">Jiawen Dai</na></co>
+<co c="0"><na f="d/Dang:Yenan" pid="310/5454">Yenan Dang</na></co>
+<co c="0"><na f="d/Deng:Lizhou" pid="350/8438">Lizhou Deng</na></co>
+<co c="0"><na f="d/Deng:Qijun" pid="84/4982">Qijun Deng</na></co>
+<co c="0"><na f="d/Ding:Lei" pid="59/2353">Lei Ding</na></co>
+<co c="0" n="2"><na f="d/Dogan:Rezarta_Islamaj" pid="47/4850">Rezarta Islamaj Dogan</na><na>Rezarta Islamaj</na></co>
+<co c="0"><na f="d/Dong_0002:Hang" pid="135/8614-2">Hang Dong 0002</na></co>
+<co c="0"><na f="d/Dong:Xinghua" pid="163/1535">Xinghua Dong</na></co>
+<co c="0"><na f="d/Du:Jingcheng" pid="156/1121">Jingcheng Du</na></co>
+<co c="0"><na f="d/Duan:Jiayu" pid="257/1528">Jiayu Duan</na></co>
+<co c="0"><na f="d/Dufour:Richard" pid="83/7858">Richard Dufour</na></co>
+<co c="0"><na f="e/Ek:Michael" pid="189/2959">Michael Ek</na></co>
+<co c="0"><na f="f/Fang:Jianqiao" pid="44/10612">Jianqiao Fang</na></co>
+<co c="0"><na f="f/Feiten:Bernhard" pid="19/204">Bernhard Feiten</na></co>
+<co c="0"><na f="f/Feng_0002:Zhiyong" pid="48/195-2">Zhiyong Feng 0002</na></co>
+<co c="0"><na f="f/Friedrich:Annemarie" pid="126/8745">Annemarie Friedrich</na></co>
+<co c="0"><na f="f/Fu:Guangliang" pid="256/6063">Guangliang Fu</na></co>
+<co c="0"><na f="g/Gao:Ce=yu" pid="306/0607">Ce-yu Gao</na></co>
+<co c="0"><na f="g/Gao:Guangyu" pid="33/7626">Guangyu Gao</na></co>
+<co c="0"><na f="g/Gao:Xingran" pid="151/3652">Xingran Gao</na></co>
+<co c="3"><na f="g/Gao:Zhengping" pid="285/1259">Zhengping Gao</na></co>
+<co c="0"><na f="g/Geng:Jinke" pid="317/0539">Jinke Geng</na></co>
+<co c="0"><na f="g/Ghosh:Rajarshi" pid="34/6255">Rajarshi Ghosh</na></co>
+<co c="0"><na f="g/Gong:Weishu" pid="161/5194">Weishu Gong</na></co>
+<co c="0"><na f="g/Gong:Xueyan" pid="257/9796">Xueyan Gong</na></co>
+<co c="0"><na f="g/Gu:Jinghang" pid="176/7458">Jinghang Gu</na></co>
+<co c="0"><na f="g/Gu:Xingfa" pid="82/8502">Xingfa Gu</na></co>
+<co c="7"><na f="g/Guan:Chenggang" pid="345/3004">Chenggang Guan</na></co>
+<co c="0"><na f="g/Guang:Jie" pid="61/5164">Jie Guang</na></co>
+<co c="7"><na f="g/Guo:Can" pid="174/7445">Can Guo</na></co>
+<co c="0"><na f="g/Guo:Jielong" pid="235/1852">Jielong Guo</na></co>
+<co c="0"><na f="g/Guo:Xiaona" pid="144/1627">Xiaona Guo</na></co>
+<co c="0" n="2"><na f="h/Hain:Christopher" pid="170/9614">Christopher Hain</na><na>Christopher R. Hain</na></co>
+<co c="0"><na f="h/Han:Peiwen" pid="243/9013">Peiwen Han</na></co>
+<co c="0"><na f="h/Han:Qijin" pid="171/0105">Qijin Han</na></co>
+<co c="0"><na f="h/Han:Tao" pid="78/744">Tao Han</na></co>
+<co c="0"><na f="h/Han:Yan" pid="79/4311">Yan Han</na></co>
+<co c="0"><na f="h/Han:Yulin" pid="224/2136">Yulin Han</na></co>
+<co c="0"><na f="h/Hao:Yue" pid="17/1995">Yue Hao</na></co>
+<co c="0"><na f="h/Hasekamp:Otto" pid="240/0098">Otto Hasekamp</na></co>
+<co c="0"><na f="h/Hellwagner:Hermann" pid="h/HermannHellwagner">Hermann Hellwagner</na></co>
+<co c="0"><na f="h/Heng:Yan" pid="251/4790">Yan Heng</na></co>
+<co c="0"><na f="h/Hou:Weizhen" pid="62/3243">Weizhen Hou</na></co>
+<co c="0"><na f="h/Hu:Fei" pid="92/1299">Fei Hu</na></co>
+<co c="0"><na f="h/Hu:Jiang" pid="20/5455">Jiang Hu</na></co>
+<co c="0"><na f="h/Hu:Qian" pid="55/7775">Qian Hu</na></co>
+<co c="0"><na f="h/Hu:Wenshan" pid="12/116">Wenshan Hu</na></co>
+<co c="0"><na f="h/Huang:Jie" pid="29/6643">Jie Huang</na></co>
+<co c="0"><na f="h/Huang:Xin" pid="98/5766">Xin Huang</na></co>
+<co c="4"><na f="h/Hui:Qian" pid="98/7720">Qian Hui</na></co>
+<co c="0"><na f="j/Ji:Peilin" pid="367/7319">Peilin Ji</na></co>
+<co c="0"><na f="j/Jiang:Chaoqiang" pid="224/8548">Chaoqiang Jiang</na></co>
+<co c="0"><na f="j/Jiang_0009:Jie" pid="32/7018-9">Jie Jiang 0009</na></co>
+<co c="0"><na f="j/Jiang:Jingjing" pid="41/8612">Jingjing Jiang</na></co>
+<co c="0"><na f="j/Jiang:Theodore" pid="305/0253">Theodore Jiang</na></co>
+<co c="0"><na f="j/Jimeno=Yepes:Antonio" pid="50/8088">Antonio Jimeno-Yepes</na></co>
+<co c="0"><na f="k/Kai:Wang" pid="25/3560">Wang Kai</na></co>
+<co c="0"><na f="k/Kalluri:Satya" pid="136/3480">Satya Kalluri</na></co>
+<co c="0"><na f="k/Kang_0005:Jian" pid="56/6072-5">Jian Kang 0005</na></co>
+<co c="0"><na f="k/Kang:Qian" pid="11/9001">Qian Kang</na></co>
+<co c="0"><na f="k/Kofler:Ingo" pid="33/119">Ingo Kofler</na></co>
+<co c="0"><na f="k/Kormentzas:George" pid="k/GeorgeKormentzas">George Kormentzas</na></co>
+<co c="0"><na f="k/Kui:Yu" pid="126/7732">Yu Kui</na></co>
+<co c="0"><na f="l/Labrak:Yanis" pid="318/9338">Yanis Labrak</na></co>
+<co c="0"><na f="l/Lakhankar:Tarendra" pid="80/9904">Tarendra Lakhankar</na></co>
+<co c="0"><na f="l/Laleye:Fr=eacute=jus_A=_A=" pid="161/0453">Fr&#233;jus A. A. Laleye</na></co>
+<co c="0"><na f="l/Lan:Xuanli" pid="393/6400">Xuanli Lan</na></co>
+<co c="0"><na f="l/Laszlo:Istvan" pid="14/9625">Istvan Laszlo</na></co>
+<co c="0"><na f="l/Leaman:Robert" pid="26/5019">Robert Leaman</na></co>
+<co c="2"><na f="l/Leung:Maylor_K=_H=" pid="24/2634">Maylor K. H. Leung</na></co>
+<co c="0"><na f="l/Li:Ao" pid="54/2788">Ao Li</na></co>
+<co c="0"><na f="l/Li:Chuan" pid="22/3837">Chuan Li</na></co>
+<co c="0"><na f="l/Li:Daoben" pid="07/2601">Daoben Li</na></co>
+<co c="8"><na f="l/Li_0004:Dawei" pid="13/5856-4">Dawei Li 0004</na></co>
+<co c="0"><na f="l/Li:Guangpu" pid="198/2457">Guangpu Li</na></co>
+<co c="0"><na f="l/Li:Hongxing" pid="01/405">Hongxing Li</na></co>
+<co c="0"><na f="l/Li:Jia" pid="23/6950">Jia Li</na></co>
+<co c="0"><na f="l/Li:Ping=Wen" pid="126/7750">Ping-Wen Li</na></co>
+<co c="0"><na f="l/Li:Qianqian" pid="02/916">Qianqian Li</na></co>
+<co c="0"><na f="l/Li_0023:Qing" pid="181/2689-23">Qing Li 0023</na></co>
+<co c="0"><na f="l/Li:Ran" pid="96/6628">Ran Li</na></co>
+<co c="0"><na f="l/Li:Tianyu" pid="92/9835">Tianyu Li</na></co>
+<co c="0"><na f="l/Li:Xu" pid="25/3528">Xu Li</na></co>
+<co c="0"><na f="l/Li:Yanzhuo" pid="328/8296">Yanzhuo Li</na></co>
+<co c="0"><na f="l/Li_0006:Yi" pid="59/871-6">Yi Li 0006</na></co>
+<co c="0"><na f="l/Li:Yuanxiang" pid="90/283">Yuanxiang Li</na></co>
+<co c="1"><na f="l/Li:Yunjin" pid="237/4755">Yunjin Li</na></co>
+<co c="0"><na f="l/Li:Zhengpeng" pid="140/4536">Zhengpeng Li</na></co>
+<co c="0"><na f="l/Li:Zhengqiang" pid="46/10339">Zhengqiang Li</na></co>
+<co c="0"><na f="l/Lin:Sheng=Jie" pid="318/4016">Sheng-Jie Lin</na></co>
+<co c="0"><na f="l/Lin:Yanghong" pid="369/9817">Yanghong Lin</na></co>
+<co c="0"><na f="l/Lindsay:Adam" pid="50/2136">Adam Lindsay</na></co>
+<co c="0"><na f="l/Liu:Bingchao" pid="132/6099">Bingchao Liu</na></co>
+<co c="0"><na f="l/Liu:Chenfeng" pid="174/4324">Chenfeng Liu</na></co>
+<co c="0"><na f="l/Liu:Dongwei" pid="140/1719">Dongwei Liu</na></co>
+<co c="0"><na f="l/Liu:Haitang" pid="257/6087">Haitang Liu</na></co>
+<co c="0"><na f="l/Liu:Hongze" pid="58/41">Hongze Liu</na></co>
+<co c="0"><na f="l/Liu:Jicheng" pid="38/58">Jicheng Liu</na></co>
+<co c="0"><na f="l/Liu:Jinzhou" pid="342/0922">Jinzhou Liu</na></co>
+<co c="0"><na f="l/Liu:Ke" pid="32/2948">Ke Liu</na></co>
+<co c="0"><na f="l/Liu_0009:Qiang" pid="61/3234-9">Qiang Liu 0009</na></co>
+<co c="0"><na f="l/Liu:Qinhuo" pid="91/1361">Qinhuo Liu</na></co>
+<co c="0"><na f="l/Liu:Xiangju" pid="151/5885">Xiangju Liu</na></co>
+<co c="0"><na f="l/Liu:Yiyang" pid="56/8664">Yiyang Liu</na></co>
+<co c="0"><na f="l/Liu:Yong" pid="29/4867">Yong Liu</na></co>
+<co c="0"><na f="l/Liu:Yuan" pid="87/2948">Yuan Liu</na></co>
+<co c="0"><na f="l/Liu:Yuling" pid="20/5225">Yuling Liu</na></co>
+<co c="0"><na f="l/Liu:Zhangsuo" pid="253/8558">Zhangsuo Liu</na></co>
+<co c="0"><na f="l/Liu:Ziming" pid="11/2023">Ziming Liu</na></co>
+<co c="0"><na f="l/Long:Teng" pid="16/4996">Teng Long</na></co>
+<co c="0"><na f="l/Lu:Kai" pid="31/6932">Kai Lu</na></co>
+<co c="0"><na f="l/Lu:Liming" pid="56/4816">Liming Lu</na></co>
+<co c="0"><na f="l/Lu:Naimeng" pid="30/10371">Naimeng Lu</na></co>
+<co c="0"><na f="l/Lu:Zhiyong" pid="66/6604">Zhiyong Lu</na></co>
+<co c="0"><na f="l/Lugmayr:Artur" pid="20/6664">Artur Lugmayr</na></co>
+<co c="0"><na f="l/Luo:Bo" pid="71/2890">Bo Luo</na></co>
+<co c="0"><na f="l/Luo_0001:Ling" pid="00/1811-1">Ling Luo 0001</na></co>
+<co c="0"><na f="l/Lv:Zhiyong" pid="135/7243">Zhiyong Lv</na></co>
+<co c="0"><na f="m/Ma:Guobin" pid="31/8500">Guobin Ma</na></co>
+<co c="1"><na f="m/Ma:Lu" pid="30/14">Lu Ma</na></co>
+<co c="0"><na f="m/Ma:Tianlu" pid="309/7187">Tianlu Ma</na></co>
+<co c="0"><na f="m/Ma:Yibo" pid="236/0336">Yibo Ma</na></co>
+<co c="0"><na f="m/Mackay_0001:Michael" pid="22/3732-1">Michael Mackay 0001</na></co>
+<co c="0"><na f="m/Man:Jianping" pid="228/4830">Jianping Man</na></co>
+<co c="0"><na f="m/Mehaoua:Ahmed" pid="20/2900">Ahmed Mehaoua</na></co>
+<co c="0"><na f="m/Meng:Xiaoliang" pid="31/7844">Xiaoliang Meng</na></co>
+<co c="4"><na f="m/Meng:Zhang" pid="77/3825">Zhang Meng</na></co>
+<co c="0"><na f="m/Miao:Qiguang" pid="03/4610">Qiguang Miao</na></co>
+<co c="11" n="2"><na f="m/Miller:Leslie_L=" pid="m/LeslieLMiller">Leslie L. Miller</na><na>Les L. Miller</na></co>
+<co c="11" n="2"><na f="o/O=:M=_Mehdi_Owrang" pid="63/3063">M. Mehdi Owrang O.</na><na>Mehdi Owrang</na></co>
+<co c="0"><na f="o/Oler:Andrew_J=" pid="217/5731">Andrew J. Oler</na></co>
+<co c="0"><na f="o/Otmakhova_0001:Yulia" pid="154/8271-1">Yulia Otmakhova 0001</na></co>
+<co c="0"><na f="p/Pan:Shaokang" pid="238/6493">Shaokang Pan</na></co>
+<co c="0"><na f="p/Pan:Ying=yu" pid="306/0295">Ying-yu Pan</na></co>
+<co c="0"><na f="p/Pan:Yue" pid="91/3754">Yue Pan</na></co>
+<co c="0"><na f="p/Peng:Boyuan" pid="283/9846">Boyuan Peng</na></co>
+<co c="0"><na f="p/Peng:Chao" pid="85/6436">Chao Peng</na></co>
+<co c="0"><na f="p/Pinto:Ant=oacute=nio" pid="77/6837">Ant&#243;nio Pinto</na></co>
+<co c="0"><na f="p/Pollak:Senja" pid="75/8154">Senja Pollak</na></co>
+<co c="0"><na f="p/Pujari:Subhash_Chandra" pid="170/8391">Subhash Chandra Pujari</na></co>
+<co c="0"><na f="p/Pun:Chi=Man" pid="p/ChiManPun">Chi-Man Pun</na></co>
+<co c="9"><na f="q/Qiu:Ling" pid="35/587">Ling Qiu</na></co>
+<co c="8"><na f="q/Qu:Ronghai" pid="173/9632">Ronghai Qu</na></co>
+<co c="0"><na f="r/Rakotoson:Lo=iuml=c" pid="306/1122">Lo&#239;c Rakotoson</na></co>
+<co c="0"><na f="r/Ransburg:Michael" pid="92/4253">Michael Ransburg</na></co>
+<co c="0"><na f="r/Ren:Suling" pid="197/2828">Suling Ren</na></co>
+<co c="8"><na f="r/Ren_0002:Xiang" pid="36/360-2">Xiang Ren 0002</na></co>
+<co c="0"><na f="s/Salam:Abdus" pid="19/3176">Abdus Salam</na></co>
+<co c="0" n="2"><na f="s/Schull:Mitchell" pid="44/9910">Mitchell Schull</na><na>Mitchell A. Schull</na></co>
+<co c="0"><na f="s/Seret:Dominique" pid="60/2809">Dominique Seret</na></co>
+<co c="0"><na f="s/Shen:Huifang" pid="234/5951">Huifang Shen</na></co>
+<co c="0"><na f="s/Shen:Yifan" pid="59/7950">Yifan Shen</na></co>
+<co c="0"><na f="s/Shi_0002:Cheng" pid="86/1102-2">Cheng Shi 0002</na></co>
+<co c="3"><na f="s/Shi:Huixuan" pid="374/8134">Huixuan Shi</na></co>
+<co c="0"><na f="s/Shi_0001:Jiancheng" pid="158/9304">Jiancheng Shi 0001</na></co>
+<co c="0"><na f="s/Shi:Siqi" pid="88/5126">Siqi Shi</na></co>
+<co c="2"><na f="s/Shikhare:Tejas" pid="127/0657">Tejas Shikhare</na></co>
+<co c="0"><na f="s/Sidib=eacute=:Mamadou" pid="23/5764">Mamadou Sidib&#233;</na></co>
+<co c="0"><na f="s/Similuk:Morgan" pid="225/3483">Morgan Similuk</na></co>
+<co c="0"><na f="s/Sivadasan:Naveen" pid="70/613">Naveen Sivadasan</na></co>
+<co c="0"><na f="s/Sonwalkar:Mukul" pid="73/8639">Mukul Sonwalkar</na></co>
+<co c="0"><na f="s/Souto:Pedro" pid="141/0604">Pedro Souto</na></co>
+<co c="0"><na f="s/Stammes:Piet" pid="35/10418">Piet Stammes</na></co>
+<co c="0"><na f="s/Stilla:Uwe" pid="s/UweStilla">Uwe Stilla</na></co>
+<co c="12"><na f="s/Su:Shong=Iee_Ivan" pid="297/0359">Shong-Iee Ivan Su</na></co>
+<co c="0"><na f="s/Su:Shu" pid="125/3226">Shu Su</na></co>
+<co c="0"><na f="s/Sun:Donglian" pid="37/8639">Donglian Sun</na></co>
+<co c="3"><na f="s/Sun:Hongzhi" pid="348/6630">Hongzhi Sun</na></co>
+<co c="0"><na f="s/Sun:Hui" pid="31/3925">Hui Sun</na></co>
+<co c="0"><na f="s/Sun:Jinguang" pid="79/8492">Jinguang Sun</na></co>
+<co c="0"><na f="s/Sun:Lin" pid="95/6619">Lin Sun</na></co>
+<co c="0"><na f="s/Sun:Peng" pid="88/619">Peng Sun</na></co>
+<co c="0"><na f="s/Sun:Weizhen" pid="87/1504">Weizhen Sun</na></co>
+<co c="1"><na f="t/Tan:Fei" pid="80/8352">Fei Tan</na></co>
+<co c="0"><na f="t/Tan:Liyuan" pid="309/2582">Liyuan Tan</na></co>
+<co c="0"><na f="t/Tandon:Kushagri" pid="297/4572">Kushagri Tandon</na></co>
+<co c="0"><na f="t/Tang:Shihao" pid="121/1329">Shihao Tang</na></co>
+<co c="0"><na f="t/Tang:Wentai" pid="303/3123">Wentai Tang</na></co>
+<co c="0"><na f="t/Tang:Xiaoliang" pid="70/7577">Xiaoliang Tang</na></co>
+<co c="0"><na f="t/Tang:Xuan" pid="95/5836">Xuan Tang</na></co>
+<co c="0"><na f="t/Tarpley:Dan" pid="27/8989">Dan Tarpley</na></co>
+<co c="0"><na f="t/Tavchioski:Ilija" pid="318/9138">Ilija Tavchioski</na></co>
+<co c="0"><na f="t/Tian:Shubo" pid="298/6926">Shubo Tian</na></co>
+<co c="0"><na f="t/Timmerer:Christian" pid="81/5358">Christian Timmerer</na></co>
+<co c="0"><na f="t/Tong:Hangjun" pid="148/3329">Hangjun Tong</na></co>
+<co c="0"><na f="t/Tong:Xiaohua" pid="89/5727">Xiaohua Tong</na></co>
+<co c="0"><na f="v/Veltri:Daniel" pid="126/7784">Daniel Veltri</na></co>
+<co c="0"><na f="v/Vg:Saipradeep" pid="330/1038">Saipradeep Vg</na></co>
+<co c="0"><na f="w/Walker:Jeffrey_P=" pid="28/4293">Jeffrey P. Walker</na></co>
+<co c="0"><na f="w/Wang:Depeng" pid="220/2245">Depeng Wang</na></co>
+<co c="0"><na f="w/Wang:Fengxiang" pid="145/0708">Fengxiang Wang</na></co>
+<co c="0"><na f="w/Wang:George" pid="41/4982">George Wang</na></co>
+<co c="0"><na f="w/Wang:Junnan" pid="02/10027">Junnan Wang</na></co>
+<co c="0"><na f="w/Wang:Kai" pid="78/2022">Kai Wang</na></co>
+<co c="0"><na f="w/Wang:Maoshuai" pid="366/5524">Maoshuai Wang</na></co>
+<co c="0"><na f="w/Wang:Minghao" pid="38/9697">Minghao Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ning" pid="46/2005-1">Ning Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ping" pid="37/1304">Ping Wang</na></co>
+<co c="0"><na f="w/Wang:Qian" pid="75/5723">Qian Wang</na></co>
+<co c="0"><na f="w/Wang:Shixuan" pid="23/2045">Shixuan Wang</na></co>
+<co c="0"><na f="w/Wang:Shupeng" pid="97/3618">Shupeng Wang</na></co>
+<co c="0"><na f="w/Wang:Wanli" pid="195/2128">Wanli Wang</na></co>
+<co c="0"><na f="w/Wang:Wanzhen" pid="263/2316">Wanzhen Wang</na></co>
+<co c="0"><na f="w/Wang:Weihe" pid="122/1603">Weihe Wang</na></co>
+<co c="0"><na f="w/Wang:Wenjie" pid="38/1956">Wenjie Wang</na></co>
+<co c="0"><na f="w/Wang:Wenwen" pid="33/9876">Wenwen Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaoping" pid="76/6429">Xiaoping Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaosheng" pid="16/3302">Xiaosheng Wang</na></co>
+<co c="0"><na f="w/Wang:Ying" pid="94/3104">Ying Wang</na></co>
+<co c="0"><na f="w/Wang:Yingjie" pid="33/6297">Yingjie Wang</na></co>
+<co c="0"><na f="w/Wang:Yingping" pid="292/4973">Yingping Wang</na></co>
+<co c="0"><na f="w/Wang:Yuan" pid="41/3241">Yuan Wang</na></co>
+<co c="0"><na f="w/Wang:Zeli" pid="29/9754">Zeli Wang</na></co>
+<co c="0"><na f="w/Wei:Chih=Hsuan" pid="15/7649">Chih-Hsuan Wei</na></co>
+<co c="0"><na f="w/Wei:Xian" pid="139/0725">Xian Wei</na></co>
+<co c="0"><na f="w/Wen:Jun" pid="27/6367">Jun Wen</na></co>
+<co c="0"><na f="w/Wu:Guofu" pid="92/1373">Guofu Wu</na></co>
+<co c="0"><na f="w/Wu:Honghan" pid="99/6255">Honghan Wu</na></co>
+<co c="10"><na f="w/Wu:Lijian" pid="249/9996">Lijian Wu</na></co>
+<co c="0"><na f="x/Xia:Kaiyang" pid="240/8367">Kaiyang Xia</na></co>
+<co c="-1"><na f="x/Xian:Tan" pid="141/7451">Tan Xian</na></co>
+<co c="0"><na f="x/Xiang:He" pid="332/6275">He Xiang</na></co>
+<co c="0"><na f="x/Xiang:Jingchun" pid="336/7358">Jingchun Xiang</na></co>
+<co c="0"><na f="x/Xiao:Jianmao" pid="207/6007">Jianmao Xiao</na></co>
+<co c="0"><na f="x/Xiao:Qing" pid="05/5929">Qing Xiao</na></co>
+<co c="0"><na f="x/Xiao:Zhengqing" pid="29/8996">Zhengqing Xiao</na></co>
+<co c="0"><na f="x/Xie:Yanqing" pid="211/2311">Yanqing Xie</na></co>
+<co c="5"><na f="x/Xiong:Caihua" pid="55/1380">Caihua Xiong</na></co>
+<co c="0"><na f="x/Xiong:Rong" pid="49/4627">Rong Xiong</na></co>
+<co c="0"><na f="x/Xu_0004:Hui" pid="90/3055-4">Hui Xu 0004</na></co>
+<co c="9"><na f="x/Xu_0002:Jie" pid="37/5126-2">Jie Xu 0002</na></co>
+<co c="1"><na f="x/Xu:Qiyue" pid="291/1353">Qiyue Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Shuo" pid="90/2170-1">Shuo Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Song" pid="98/3011">Song Xu</na></co>
+<co c="0"><na f="x/Xu:Yusheng" pid="10/138">Yusheng Xu</na></co>
+<co c="0"><na f="x/Xue_0001:Xiao" pid="82/2187-1">Xiao Xue 0001</na></co>
+<co c="0"><na f="y/Yan:Chunyan" pid="02/6067">Chunyan Yan</na></co>
+<co c="0"><na f="y/Yan:Guangjian" pid="12/8994">Guangjian Yan</na></co>
+<co c="0"><na f="y/Yan:Qianqian" pid="223/3021">Qianqian Yan</na></co>
+<co c="0"><na f="y/Yan:Shankai" pid="206/0550">Shankai Yan</na></co>
+<co c="0"><na f="y/Yang:Guangwen" pid="67/3001">Guangwen Yang</na></co>
+<co c="0"><na f="y/Yang:Hequn" pid="122/1580">Hequn Yang</na></co>
+<co c="0"><na f="y/Yang_0034:Jian" pid="181/2854-34">Jian Yang 0034</na></co>
+<co c="0"><na f="y/Yang:Jing" pid="62/5839">Jing Yang</na></co>
+<co c="0"><na f="y/Yang_0004:Kun" pid="63/1587-4">Kun Yang 0004</na></co>
+<co c="0"><na f="y/Yang:Menghui" pid="34/7635">Menghui Yang</na></co>
+<co c="0"><na f="y/Yang:Rui" pid="92/1942">Rui Yang</na></co>
+<co c="0"><na f="y/Yang:Xing" pid="48/2364">Xing Yang</na></co>
+<co c="0"><na f="y/Yang:Xinyan" pid="23/3516">Xinyan Yang</na></co>
+<co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
+<co c="0"><na f="y/Yang:Yuechi" pid="307/6543">Yuechi Yang</na></co>
+<co c="0"><na f="y/Yao:Wei" pid="72/4065">Wei Yao</na></co>
+<co c="0"><na f="y/Yao_0008:Wei" pid="72/4065-8">Wei Yao 0008</na></co>
+<co c="0"><na f="y/Ye:Long" pid="86/2624">Long Ye</na></co>
+<co c="0"><na f="y/Ye:Shuai" pid="34/10554">Shuai Ye</na></co>
+<co c="0"><na f="y/Ye:Zhen" pid="46/5245">Zhen Ye</na></co>
+<co c="0"><na f="y/Yin:Jifu" pid="189/3080">Jifu Yin</na></co>
+<co c="0"><na f="y/Yongda:Deng" pid="230/5208">Deng Yongda</na></co>
+<co c="0"><na f="y/You:Zhenzhen" pid="191/2494">Zhenzhen You</na></co>
+<co c="0"><na f="y/Yu:Haixin" pid="299/6078">Haixin Yu</na></co>
+<co c="0"><na f="y/Yu:Hui" pid="26/6190">Hui Yu</na></co>
+<co c="0"><na f="y/Yu:Peng" pid="50/2599">Peng Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Tao" pid="67/1014-1">Tao Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Xiangning" pid="24/5380">Xiangning Yu</na></co>
+<co c="0"><na f="y/Yu:Yunyue" pid="58/8994">Yunyue Yu</na></co>
+<co c="0"><na f="y/Yu:Zhuoyuan" pid="39/8498">Zhuoyuan Yu</na></co>
+<co c="0"><na f="y/Yue:Jianwei" pid="91/2751">Jianwei Yue</na></co>
+<co c="0" n="2"><na f="y/Yun:Tie" pid="66/1748">Tie Yun</na><na>Yun Tie</na></co>
+<co c="3"><na f="z/Zhai:Jiqing" pid="374/8178">Jiqing Zhai</na></co>
+<co c="0"><na f="z/Zhan:Xiwu" pid="84/8949">Xiwu Zhan</na></co>
+<co c="0"><na f="z/Zhang:Heying" pid="48/1816">Heying Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hongtong" pid="318/9218">Hongtong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jinfeng" pid="43/661">Jinfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0024:Peng" pid="21/1048-24">Peng Zhang 0024</na></co>
+<co c="5"><na f="z/Zhang_0006:Qin" pid="45/47-6">Qin Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang_0009:Qin" pid="45/47-9">Qin Zhang 0009</na></co>
+<co c="5"><na f="z/Zhang:Qining" pid="272/6143">Qining Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shuhao" pid="336/8146">Shuhao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xingying" pid="42/9902">Xingying Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xuwen" pid="367/6945">Xuwen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yuefu" pid="318/8962">Yuefu Zhang</na></co>
+<co c="0"><na f="z/Zhao:Limin" pid="45/8502">Limin Zhao</na></co>
+<co c="0"><na f="z/Zhao:Liu" pid="14/9541">Liu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Mengdi" pid="206/3504">Mengdi Zhao</na></co>
+<co c="0"><na f="z/Zhao:Minghua" pid="14/4623">Minghua Zhao</na></co>
+<co c="0"><na f="z/Zhao:Qing" pid="78/6217">Qing Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xiang" pid="07/668">Xiang Zhao</na></co>
+<co c="0"><na f="z/Zhao_0004:Xiang" pid="07/668-4">Xiang Zhao 0004</na></co>
+<co c="0"><na f="z/Zhao:Yue" pid="48/76">Yue Zhao</na></co>
+<co c="6"><na f="z/Zhao:Yueyang" pid="78/8508">Yueyang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zihao" pid="63/9613">Zihao Zhao</na></co>
+<co c="0"><na f="z/Zheng:Haiyang" pid="84/1066">Haiyang Zheng</na></co>
+<co c="0"><na f="z/Zheng:Weizhong" pid="91/10340">Weizhong Zheng</na></co>
+<co c="0"><na f="z/Zheng:Zhengxin" pid="304/6754">Zhengxin Zheng</na></co>
+<co c="0"><na f="z/Zhong:Kailun" pid="249/9853">Kailun Zhong</na></co>
+<co c="0"><na f="z/Zhong:Wei" pid="60/1416">Wei Zhong</na></co>
+<co c="0"><na f="z/Zhou:Deyu" pid="79/2854">Deyu Zhou</na></co>
+<co c="0"><na f="z/Zhou_0003:Hong" pid="45/3426-3">Hong Zhou 0003</na></co>
+<co c="0"><na f="z/Zhou_0001:Jing" pid="01/2356-1">Jing Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou:Qin" pid="80/7814">Qin Zhou</na></co>
+<co c="0"><na f="z/Zhou:Shudong" pid="68/9071">Shudong Zhou</na></co>
+<co c="0"><na f="z/Zhou:Sijie" pid="161/8608">Sijie Zhou</na></co>
+<co c="13"><na f="z/Zhou:Xiaobei" pid="269/6715">Xiaobei Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xu" pid="66/5686">Xu Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yi" pid="01/1901">Yi Zhou</na></co>
+<co c="0"><na f="z/Zhu:Ao" pid="260/3753">Ao Zhu</na></co>
+<co c="10"><na f="z/Zhu:Jiabei" pid="264/6883">Jiabei Zhu</na></co>
+<co c="0"><na f="z/Zhu:Jiahao" pid="256/6598">Jiahao Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xiaoyu" pid="125/0228">Xiaoyu Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xin" pid="63/2408">Xin Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Xin" pid="63/2408-1">Xin Zhu 0001</na></co>
+<co c="0"><na f="z/Zou:Kaijun" pid="386/8838">Kaijun Zou</na></co>
+<co c="0"><na f="z/Zou:Yongzhong" pid="119/3437">Yongzhong Zou</na></co>
+</coauthors>
+</dblpperson>
+
