@@ -782,8 +782,8 @@ def csrankings_scrape():
     "Economics & computation": "ecom",
     "Human-computer interaction": "chi",
     "Robotics": "robotics",
-    "Visualization": "visualization"}
-
+    "Visualization": "visualization"
+    }
    # XPath values for selecting Asia in the CSRankings dropdown menu
    ranking_asia ='//*[@id="regions"]/optgroup[2]/option[4]'
 
@@ -943,7 +943,8 @@ def csrankings_scrape():
         save_universities_to_csv(filename, universities)
         print(f"Data has been saved to {filename}")
         df = pd.read_csv(filename)
-        return df
+
+return df
 
 
 def add_excellence_to_faculty_csv(df, input_csv, output_csv):
