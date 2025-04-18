@@ -277,5 +277,5 @@ if __name__ == '__main__':
     # overallInfo()
     # network_degree_plot()
     get_network_statistics(year=2025)
-    get_comparable_random_network_statistics(=2025)
+    get_comparable_random_network_statistics(year=2025)
     # pass
