@@ -7,7 +7,18 @@ import matplotlib.pyplot as plt
 import glob
 from preprocessing import *
 
-#PageRank 1000 faculty extraction with degree betweeness for comparison:
+# Function: page_rank_network
+# Description:
+#   - Constructs an unweighted co-authorship graph from paper data.
+#   - Computes Degree Centrality and PageRank for all nodes (authors).
+#   - Filters out main authors from rankings.
+#   - Saves top 1000 authors (by each centrality) into CSV files.
+# Time Complexity:
+#   - Graph construction: O(N * A^2), where N = number of papers, A = average authors per paper
+#   - Degree Centrality: O(V + E)
+#   - PageRank: O(I * (V + E)), where I = number of iterations (~100)
+#   - Sorting top nodes: O(V log V)
+#   - Overall: ~O(N * A^2 + I * (V + E)), where V = #nodes, E = #edges
 def page_rank_network():
     # Define file paths
     base_path = r"" #subsitute with relative path
@@ -62,7 +73,20 @@ def page_rank_network():
     print("CSV files saved successfully:")
     print("- top_1000_degree_centrality.csv")
     print("- top_1000_pagerank.csv")
-
+    
+# Function: new_1000_network
+# Description:
+#   - Constructs a weighted co-authorship graph from paper data.
+#   - Calculates weighted degree and PageRank for all authors.
+#   - Saves top 1000 authors and filtered graph with top nodes + main authors.
+#
+# Time Complexity:
+#   - Graph construction with weights: O(N * A^2)
+#   - Weighted degree: O(E)
+#   - Weighted PageRank: O(I * (V + E)), where I = iterations
+#   - Sorting top nodes: O(V log V)
+#   - Graph filtering: O(V)
+#   - Overall: ~O(N * A^2 + I * (V + E))
 def new_1000_network():
 
     # Define file paths
@@ -136,6 +160,17 @@ def new_1000_network():
     print("- top_1000_weighted_pagerank.csv")
     print("Filtered graph saved as 'filtered_collab_network.graphml'")
 
+# Function: overall_info
+# Description:
+#   - Loads filtered collaboration graph and prints summary stats:
+#     node/edge counts, clustering coefficient, avg shortest path, avg degree.
+#
+# Time Complexity:
+#   - Clustering coefficient: O(V * d^2), where d = average degree
+#   - Shortest path (on giant component): O(V + E)
+#   - Degree sum: O(V)
+#   - Overall: ~O(V * d^2 + V + E)
+
 def overall_info():
     # Load filtered graph
     graphml_path = r"filtered_collab_network.graphml"
@@ -166,6 +201,16 @@ def overall_info():
     print(f"- Average clustering coefficient: {clustering_coeff:.4f}")
     print(f"- Average shortest path length (largest component): {avg_shortest_path:.4f}")
     print(f"- Average degree: {avg_degree:.2f}")
+
+# Function: network_degree_plot
+# Description:
+#   - Loads filtered graph and plots its degree distribution on log-log scale.
+#
+# Time Complexity:
+#   - Degree computation: O(V)
+#   - Frequency count: O(V)
+#   - Sorting and plotting: O(K log K), where K = number of unique degrees
+#   - Overall: O(V + K log K)
 
 def network_degree_plot():
     # Load your filtered graph
@@ -198,7 +243,17 @@ def network_degree_plot():
     plt.grid(True, which="both", ls="--", linewidth=0.5)
     plt.tight_layout()
     plt.show()
-    
+
+# Function: get_network_statistics
+# Description:
+#   - Computes core metrics (degree, clustering, path length) for a given year's graph.
+#
+# Time Complexity:
+#   - Degree: O(V)
+#   - Clustering coefficient: O(V * d^2)
+#   - Shortest path (giant component): O(V + E)
+#   - Overall: O(V * d^2 + V + E)
+
 def get_network_statistics(year = 2025):
     # Load your filtered graph
     graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
@@ -232,7 +287,20 @@ def get_network_statistics(year = 2025):
         "clustering_coefficient": clustering_coefficient,
         "avg_path_length": avg_path_length
     }
-    
+
+
+# Function: compare_with_random_network
+# Description:
+#   - Compares real collaboration network vs a random Erdős–Rényi graph.
+#   - Computes and plots degree distributions, clustering, etc.
+#
+# Time Complexity:
+#   - Real graph: same as `get_network_statistics` → O(V * d^2 + V + E)
+#   - Random graph generation: O(V + E)
+#   - Random graph stats: O(V * d^2 + V + E)
+#   - Degree histogram & plotting: O(V)
+#   - Overall: O(V * d^2 + V + E)
+
 def compare_with_random_network(year = 2025):
     graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
     collaboration_network = nx.read_graphml(graphml_path)
@@ -318,6 +386,18 @@ def compare_with_random_network(year = 2025):
         "clustering_coefficient": clustering_coefficient
     }
 
+
+# Function: visualize_statistics_change
+# Description:
+#   - Visualizes number of nodes, edges, average degree, and ln(N) over time.
+#
+# Time Complexity:
+#   - Assuming T years and each network has V nodes and E edges:
+#   - Node/edge extraction: O(T)
+#   - Degree computation per year: O(T * V)
+#   - Plotting: O(T)
+#   - Overall: O(T * V)
+
 def visualize_statistics_change():
     
     #create collaboration networks for each year
@@ -370,6 +450,18 @@ def visualize_statistics_change():
     # Show the plot
     plt.show()
     
+# Function: analyze_faculty_collaboration
+# Description:
+#   - Groups nodes by an attribute (e.g., position).
+#   - Calculates internal/external collaboration per group.
+#   - Builds cross-group collaboration matrix.
+#
+# Time Complexity:
+#   - Attribute extraction: O(V)
+#   - Collaboration analysis: O(V * d) = O(E)
+#   - Cross-attribute counting: O(E)
+#   - Matrix construction: O(G^2), where G = number of attribute groups
+#   - Overall: O(V + E + G^2)
     
 def analyze_faculty_collaboration(year = 2025, attribute_name="position"):
     """
@@ -461,6 +553,19 @@ def analyze_faculty_collaboration(year = 2025, attribute_name="position"):
         'unique_attributes': unique_attributes
     }
 
+
+# Function: visualize_collaboration_patterns
+# Description:
+#   - Uses analysis results to plot:
+#     1. Stacked bar chart (internal/external collabs)
+#     2. Attribute network
+#     3. Heatmap of cross-attribute collaboration
+#
+# Time Complexity:
+#   - Bar plot: O(G)
+#   - Network layout & drawing: O(G^2)
+#   - Heatmap: O(G^2)
+#   - Overall: O(G^2)
 
 def visualize_collaboration_patterns(results, attribute_name="position", min_faculty=3):
     """
@@ -563,7 +668,15 @@ def visualize_collaboration_patterns(results, attribute_name="position", min_fac
     plt.show()
 
 
-# Main function to run the analysis
+# Function: analyze_and_visualize_collaboration
+# Description:
+#   - High-level wrapper that runs both:
+#     analyze_faculty_collaboration + visualize_collaboration_patterns.
+#
+# Time Complexity:
+#   - Asymptotically same as: O(V + E + G^2)
+
+
 def analyze_and_visualize_collaboration(year = 2025, attribute_name="position", min_faculty=3):
     """
     Run full analysis and visualization of faculty collaboration network
