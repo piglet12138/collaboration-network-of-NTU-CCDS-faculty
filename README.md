@@ -26,8 +26,11 @@ To run the code in this project, follow these steps:
     pip install networkx matplotlib numpy pandas
     ```
 3. Run the main project file
-
+    
+    1. Option 1: From the command line
     ```bash
     python project.py
     ```
     Each question is addressed with specialized functions. Please follow the comments in `project.py` to run respective functions that generate metrics and visualizations for each question.
+
+    2. Option 2: In the Jupyter Notebook with `project.ipynb` file. Please open the file and execute each cell. 
