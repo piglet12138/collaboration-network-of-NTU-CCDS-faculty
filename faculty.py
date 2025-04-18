@@ -231,27 +231,27 @@ def get_network_statistics(year = 2025):
         "avg_path_length": avg_path_length
     }
     
-def get_comparable_random_network_statistics(year = 2025):
+def compare_with_random_network(year = 2025):
     graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
-    G = nx.read_graphml(graphml_path)
+    collaboration_network = nx.read_graphml(graphml_path)
 
     # Compute statistics
-    num_nodes = G.number_of_nodes()
-    num_edges = G.number_of_edges()
-    avg_degree = sum(dict(G.degree()).values()) / num_nodes
-    clustering_coefficient = nx.average_clustering(G)
+    num_nodes = collaboration_network.number_of_nodes()
+    num_edges = collaboration_network.number_of_edges()
+    avg_degree = sum(dict(collaboration_network.degree()).values()) / num_nodes
+    clustering_coefficient = nx.average_clustering(collaboration_network)
     # Generate an Erdős-Rényi random graph with same number of nodes and edges
     print("\nGenerating comparable random network...")
-    random_G = nx.gnm_random_graph(num_nodes, num_edges)
+    random_network = nx.gnm_random_graph(num_nodes, num_edges)
     
     # Compute statistics for random graph
-    random_avg_degree = sum(dict(random_G.degree()).values()) / num_nodes
-    random_clustering_coefficient = nx.average_clustering(random_G)
-    random_avg_path_length = nx.average_shortest_path_length(random_G) if nx.is_connected(random_G) else float('inf')
+    random_avg_degree = sum(dict(random_network.degree()).values()) / num_nodes
+    random_clustering_coefficient = nx.average_clustering(random_network)
+    random_avg_path_length = nx.average_shortest_path_length(random_network) if nx.is_connected(random_network) else float('inf')
     # Compare with original graph
     print("\nRandom Graph Statistics:")
-    print(f"Number of nodes: {random_G.number_of_nodes()}")
-    print(f"Number of edges: {random_G.number_of_edges()}")
+    print(f"Number of nodes: {random_network.number_of_nodes()}")
+    print(f"Number of edges: {random_network.number_of_edges()}")
     print(f"Average degree: {random_avg_degree:.2f}")
     print(f"Clustering coefficient: {random_clustering_coefficient:.4f}")
     
@@ -262,6 +262,52 @@ def get_comparable_random_network_statistics(year = 2025):
     print(f"Number of edges: {num_edges}")
     print(f"Average degree: {avg_degree:.2f}")
     print(f"Clustering coefficient: {clustering_coefficient:.4f}")
+    
+    
+    # visualization
+    # Calculate degree distribution for real network
+    degrees = [d for _, d in collaboration_network.degree()]
+    degree_counts = Counter(degrees)
+
+    # Convert to arrays for plotting
+    unique_degrees = sorted(degree_counts.keys())
+    count_values = [degree_counts[d] for d in unique_degrees]
+
+    # Calculate degree distribution for random network
+    random_degrees = [d for _, d in random_network.degree()]
+    random_degree_counts = Counter(random_degrees)
+
+    # Convert to arrays for plotting
+    random_unique_degrees = sorted(random_degree_counts.keys())
+    random_count_values = [random_degree_counts[d] for d in random_unique_degrees]
+
+    # Calculate average degree for random network
+    avg_degree_random = sum(dict(random_network.degree()).values()) / len(random_network)
+    # Create a figure with two subplots: linear scale and log scale
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
+
+    # Subplot 1: Linear scale (original plot)
+    ax1.scatter(unique_degrees, count_values, color='red', alpha=0.7, s=50)
+    ax1.scatter(random_unique_degrees, random_count_values, color='blue', alpha=0.7, s=50)
+    ax1.set_title("Degree Distribution - Linear Scale")
+    ax1.set_xlabel("Degree (k)")
+    ax1.set_ylabel("Number of Nodes with Degree k")
+    ax1.grid(True, which="both", linestyle='--', alpha=0.7)
+    ax1.legend(['Collaboration Network', 'Random Network'])
+
+    # Subplot 2: Log-log scale
+    ax2.scatter(unique_degrees, count_values, color='red', alpha=0.7, s=50)
+    ax2.scatter(random_unique_degrees, random_count_values, color='blue', alpha=0.7, s=50)
+    ax2.set_title("Degree Distribution - Log-Log Scale")
+    ax2.set_xlabel("Degree (k)")
+    ax2.set_ylabel("Number of Nodes with Degree k")
+    ax2.set_xscale("log")
+    ax2.set_yscale("log")
+    ax2.grid(True, which="both", linestyle='--', alpha=0.7)
+    ax2.legend(['Collaboration Network', 'Random Network'])
+
+    plt.tight_layout()
+    plt.show()
     
     return {
         "num_nodes": num_nodes,
@@ -277,5 +323,5 @@ if __name__ == '__main__':
     # overallInfo()
     # network_degree_plot()
     get_network_statistics(year=2025)
-    get_comparable_random_network_statistics(year=2025)
+    compare_with_random_network(year=2025)
     # pass
