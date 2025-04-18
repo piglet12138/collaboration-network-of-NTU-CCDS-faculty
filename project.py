@@ -25,6 +25,9 @@ analyze_and_visualize_collaboration(year = 2025, attribute_name="position", min_
 analyze_and_visualize_collaboration(year = 2025, attribute_name="management", min_faculty=3)
 analyze_and_visualize_collaboration(year = 2025, attribute_name="area", min_faculty=3)
 
+### Run this to get visualisation and statistics for Section 3 (central & excellence nodes)
+visualize_excellence_central()
+
 ### Run this to get new faculty data and analyze for section 4:
 folder_path = r"faculty_data" #subsitute with relative path
 output_json_path = r"papers_by_key.json" #relative path
