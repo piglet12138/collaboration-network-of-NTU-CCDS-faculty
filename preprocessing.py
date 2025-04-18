@@ -931,20 +931,18 @@ def csrankings_scrape():
         )
 
 
-    if __name__ == "__main__":
-        print_field_choices()
-        from_year = 2016
-        to_year = 2025
-        url = f"https://csrankings.org/#/fromyear/{from_year}/toyear/{to_year}/&world"
-        print(f"Your URL: {url}")
 
-        universities = fetch_universities(url,ranking_asia)
-        filename = f'CSRankings_Scrapped_{from_year}-{to_year}.csv'
-        save_universities_to_csv(filename, universities)
-        print(f"Data has been saved to {filename}")
-        df = pd.read_csv(filename)
+    from_year = 2016
+    to_year = 2025
+    url = f"https://csrankings.org/#/fromyear/{from_year}/toyear/{to_year}/&world"
+    print(f"Your URL: {url}")
 
-return df
+    universities = fetch_universities(url,ranking_asia)
+    filename = f'CSRankings_Scrapped_{from_year}-{to_year}.csv'
+    save_universities_to_csv(filename, universities)
+    print(f"Data has been saved to {filename}")
+    df = pd.read_csv(filename)
+    return df
 
 
 def add_excellence_to_faculty_csv(df, input_csv, output_csv):
