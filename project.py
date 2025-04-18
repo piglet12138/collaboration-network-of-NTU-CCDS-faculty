@@ -2,11 +2,12 @@ from preprocessing import *
 from parse_faculty import  *
 from faculty import *
 
-file = "Faculty.csv"
-download_dblp_xml(file)
-add_pid_to_faculty_csv("Faculty.csv")
-generate_raw_data()
-generate_network_links()
+# Only run this if you want to download the XML file from DBLP
+# file = "Faculty.csv"
+# download_dblp_xml(file)
+# add_pid_to_faculty_csv("Faculty.csv")
+# generate_raw_data()
+# generate_network_links()
 
 #1000 preprocessing:
 folder_path = r"faculty_data" #subsitute with relative path
