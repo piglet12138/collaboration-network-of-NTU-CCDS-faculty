@@ -792,16 +792,7 @@ def extract_paper_data(xml_file_path):
     return papers    
 
 #---------------------------------------------------------preprocessing for section 3 Excellence nodes-------------------------------------------#
-def csrankings_scrape():
-    """
-    Description:
-      - Uses Selenium to scrape CSRankings.org for faculty + publication data.
-
-    Time Complexity:
-      - DOM parsing: O(U * P), U = universities, P = professors/univ
-      - Request overhead dominates
-    """
-    fields_dict = {
+fields_dict = {
         "Artificial intelligence": "ai",
         "Computer vision": "vision",
         "Machine learning & data mining": "mlmining",
@@ -829,153 +820,161 @@ def csrankings_scrape():
         "Robotics": "robotics",
         "Visualization": "visualization"
         }
+def clean_text(text):
+    return re.sub(r"[^a-zA-Z ]+", "", text).strip()
+
+# Remove all non-numeric characters from a string
+def clean_number(num_text):
+    return re.sub(r"[^0-9]+", "", num_text).strip()
+
+
+def save_universities_to_csv(filename, universities):
+    with open(filename, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(
+            [
+                "University Name",
+                "Professor Name",
+                "Home Page",
+                "Google Scholar",
+                "DBLP Link",
+            ]
+        )
+        for university in universities:
+            for professor in university.get("professors", []):
+                writer.writerow(
+                    [
+                        university.get("name", ""),
+                        professor.get("name", ""),
+                        professor.get("home_page", ""),
+                        professor.get("google_scholar", ""),
+                        professor.get("dblp", ""),
+                    ]
+                )
+# Extract list of professor data from a given university section
+def parse_professors(tbody):
+    professors = []
+    prof_trs = tbody.find_all("tr", recursive=False)
+    # Professors' info are stored in another tr list
+    for prof_tr in prof_trs:
+        professor_info = parse_professor_info(prof_tr)
+        if professor_info:
+            professors.append(professor_info)
+    return professors
+
+# Extract 3 relevant links (Home page, DBLP, Google Scholar) for a professor
+def parse_professor_info(prof_tr):
+    tds = prof_tr.find_all("td")
+    if not tds:
+        return None
+    professor = {}
+    for j, td in enumerate(tds):
+        if j % 4 == 1:
+            homepage = td.find("a", title="Click for author's home page.")
+            if homepage:
+                professor["name"] = clean_text(homepage.text)
+                professor["home_page"] = homepage["href"]
+            google_scholar = td.find(
+                "a", title="Click for author's Google Scholar page."
+                )
+            if google_scholar:
+                professor["google_scholar"] = google_scholar["href"]
+            dblp_link = td.find("a", title="Click for author's DBLP entry.")
+            if dblp_link:
+                professor["dblp"] = dblp_link["href"]
+        return professor
+
+# Navigate to CSRankings, select a region, and extract university and professor info. The most complicated part...
+def fetch_universities(url,region):
+    driver = webdriver.Chrome()
+    driver.get(url)
+    time.sleep(5)
+
+    button1 = driver.find_element(By.XPATH,'//select[@id="regions"]')
+    action = ActionChains(driver)
+    action.click(button1).perform()
+    button2 = driver.find_element(By.XPATH,region).click()
+
+
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    driver.quit()
+
+    universities = []
+    table = soup.find("table", id="ranking")
+    tbody = table.find("tbody")
+    trs = tbody.find_all("tr", recursive=False)
+
+    for i, tr in enumerate(trs):
+        if i % 3 == 0:
+            # Parse university info
+            university_info = parse_university_info(tr)
+        if i % 3 == 2 and university_info:
+            # Parse professors
+            university_info["professors"] = parse_professors(tr.find("tbody"))
+            universities.append(university_info)
+    return universities
+
+# Extract rank and name of a university from the page
+def parse_university_info(tr):
+    tds = tr.find_all("td")
+    if not tds:
+        return None
+    university_info = {}
+    for j, td in enumerate(tds):
+        if j % 4 == 0:
+            university_info["rank"] = clean_number(td.text)
+        if j % 4 == 1:
+            university_info["name"] = clean_text(td.text)
+    return university_info
+
+# Command-line argument parser to configure the scraping parameters
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description="Fetch universities and professors data from CSRankings."
+    )
+
+    all_fields = ",".join(fields_dict.values())
+
+    parser.add_argument(
+        "--fields",
+        type=str,
+        default=all_fields,
+        help='Code of relevant fields, using "," to split multiple fields (e.g., "sec,ai" for Security and Artificial Intelligence)',
+    )
+    parser.add_argument(
+        "--start_year", type=int, default=2016, help="Start year (default 2016)"
+    )
+    parser.add_argument(
+        "--end_year", type=int, default=time.localtime().tm_year, help="End year (default 2025)"
+    )
+
+    args = parser.parse_args()
+
+    if args.start_year > args.end_year or args.end_year > time.localtime().tm_year:
+        parser.error("Invalid year range.")
+
+    if not all(field in set(fields_dict.values()) for field in args.fields.split(",")):
+        parser.error("Invalid field code.")
+
+    return (
+        args.fields.replace(" ", "").replace(",", "&"),
+        args.start_year,
+        args.end_year,
+    )
+def csrankings_scrape():
+    """
+    Description:
+      - Uses Selenium to scrape CSRankings.org for faculty + publication data.
+
+    Time Complexity:
+      - DOM parsing: O(U * P), U = universities, P = professors/univ
+      - Request overhead dominates
+    """
+
    # XPath values for selecting Asia in the CSRankings dropdown menu
-   ranking_asia ='//*[@id="regions"]/optgroup[2]/option[4]'
+    ranking_asia ='//*[@id="regions"]/optgroup[2]/option[4]'
 
    # Remove all non-alphabetic characters from a string
-   def clean_text(text):
-       return re.sub(r"[^a-zA-Z ]+", "", text).strip()
-
-   # Remove all non-numeric characters from a string
-   def clean_number(num_text):
-       return re.sub(r"[^0-9]+", "", num_text).strip()
-
-
-   def save_universities_to_csv(filename, universities):
-       with open(filename, "w", newline="", encoding="utf-8") as csvfile:
-           writer = csv.writer(csvfile)
-           writer.writerow(
-               [
-                   "University Name",
-                   "Professor Name",
-                   "Home Page",
-                   "Google Scholar",
-                   "DBLP Link",
-               ]
-           )
-           for university in universities:
-               for professor in university.get("professors", []):
-                   writer.writerow(
-                       [
-                           university.get("name", ""),
-                           professor.get("name", ""),
-                           professor.get("home_page", ""),
-                           professor.get("google_scholar", ""),
-                           professor.get("dblp", ""),
-                       ]
-                   )
-    # Extract list of professor data from a given university section
-    def parse_professors(tbody):
-        professors = []
-        prof_trs = tbody.find_all("tr", recursive=False)
-        # Professors' info are stored in another tr list
-        for prof_tr in prof_trs:
-            professor_info = parse_professor_info(prof_tr)
-            if professor_info:
-                professors.append(professor_info)
-        return professors
-
-    # Extract 3 relevant links (Home page, DBLP, Google Scholar) for a professor
-    def parse_professor_info(prof_tr):
-        tds = prof_tr.find_all("td")
-        if not tds:
-            return None
-        professor = {}
-        for j, td in enumerate(tds):
-            if j % 4 == 1:
-                homepage = td.find("a", title="Click for author's home page.")
-                if homepage:
-                    professor["name"] = clean_text(homepage.text)
-                    professor["home_page"] = homepage["href"]
-                google_scholar = td.find(
-                    "a", title="Click for author's Google Scholar page."
-                    )
-                if google_scholar:
-                    professor["google_scholar"] = google_scholar["href"]
-                dblp_link = td.find("a", title="Click for author's DBLP entry.")
-                if dblp_link:
-                    professor["dblp"] = dblp_link["href"]
-            return professor
-
-    # Navigate to CSRankings, select a region, and extract university and professor info. The most complicated part...
-    def fetch_universities(url,region):
-        driver = webdriver.Chrome()
-        driver.get(url)
-        time.sleep(5)
-    
-        button1 = driver.find_element(By.XPATH,'//select[@id="regions"]')
-        action = ActionChains(driver)
-        action.click(button1).perform()
-        button2 = driver.find_element(By.XPATH,region).click()
-
-
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        driver.quit()
-
-        universities = []
-        table = soup.find("table", id="ranking")
-        tbody = table.find("tbody")
-        trs = tbody.find_all("tr", recursive=False)
-
-        for i, tr in enumerate(trs):
-            if i % 3 == 0:
-                # Parse university info
-                university_info = parse_university_info(tr)
-            if i % 3 == 2 and university_info:
-                # Parse professors
-                university_info["professors"] = parse_professors(tr.find("tbody"))
-                universities.append(university_info)
-        return universities
-
-    # Extract rank and name of a university from the page
-    def parse_university_info(tr):
-        tds = tr.find_all("td")
-        if not tds:
-            return None
-        university_info = {}
-        for j, td in enumerate(tds):
-            if j % 4 == 0:
-                university_info["rank"] = clean_number(td.text)
-            if j % 4 == 1:
-                university_info["name"] = clean_text(td.text)
-        return university_info
-
-    # Command-line argument parser to configure the scraping parameters
-    def parse_arguments():
-        parser = argparse.ArgumentParser(
-            description="Fetch universities and professors data from CSRankings."
-        )
-    
-        all_fields = ",".join(fields_dict.values())
-    
-        parser.add_argument(
-            "--fields",
-            type=str,
-            default=all_fields,
-            help='Code of relevant fields, using "," to split multiple fields (e.g., "sec,ai" for Security and Artificial Intelligence)',
-        )
-        parser.add_argument(
-            "--start_year", type=int, default=2016, help="Start year (default 2016)"
-        )
-        parser.add_argument(
-            "--end_year", type=int, default=time.localtime().tm_year, help="End year (default 2025)"
-        )
-
-        args = parser.parse_args()
-
-        if args.start_year > args.end_year or args.end_year > time.localtime().tm_year:
-            parser.error("Invalid year range.")
-
-        if not all(field in set(fields_dict.values()) for field in args.fields.split(",")):
-            parser.error("Invalid field code.")
-
-        return (
-            args.fields.replace(" ", "").replace(",", "&"),
-            args.start_year,
-            args.end_year,
-        )
-
-
 
     from_year = 2016
     to_year = 2025
@@ -1066,147 +1065,6 @@ Created on Fri Apr 18 21:36:57 2025
 
 @author: Choo
 """
-
-def visualize_excellence_central():
-    """
-    Description:
-      - Visualizes centrality vs excellence tags in final network.
-
-    Time Complexity:
-      - Degree/Betweenness Centrality: O(V * E)
-      - Visualization: O(V^2)
-    """
-
-    def avg_metric(metric_dict, node_set):
-        values = [metric_dict[n] for n in node_set if n in metric_dict]
-        return np.mean(values) if values else 0 
-
-    def build_collaboration_networks(main_authors_collaborations_csv='main_authors_collaborations.csv', 
-                                     faculty_csv='Faculty_with_excellence.csv'):
-        df = pd.read_csv(main_authors_collaborations_csv)
-        faculty_info = pd.read_csv(faculty_csv)
-        print(faculty_info['Excellence'].value_counts())
-        print(faculty_info['Excellence'].unique())
-
-        df = pd.merge(df, faculty_info[['pid', 'Area', 'Management', 'Position','Excellence']],
-                      left_on='author_pid', right_on='pid', how='left')
-        df = df.rename(columns={
-            'Area': 'author_area',
-            'Management': 'author_management',
-            'Position': 'author_position',
-            'Excellence': 'author_excellence',
-        }).drop(columns=['pid'])
-
-        df = pd.merge(df, faculty_info[['pid', 'Area', 'Management', 'Position']],
-                      left_on='collaborator_pid', right_on='pid', how='left')
-        df = df.rename(columns={
-            'Area': 'collaborator_area',
-            'Management': 'collaborator_management',
-            'Position': 'collaborator_position',
-        }).drop(columns=['pid'])
-
-        years = sorted(df['year'].unique())
-        networks = {}
-        for year in years:
-            year_df = df[df['year'] <= year]
-            G = nx.Graph()
-            collaboration_counts = defaultdict(int)
-            for _, row in year_df.iterrows():
-                a1, a2 = row['author_pid'], row['collaborator_pid']
-                if not G.has_node(a1):
-                    G.add_node(a1, name=row['author_name'], area=row['author_area'],
-                               management=row['author_management'], position=row['author_position'],
-                               excellence=row['author_excellence'])
-                if not G.has_node(a2):
-                    G.add_node(a2, name=row['collaborator_name'], area=row['collaborator_area'],
-                               management=row['collaborator_management'], position=row['collaborator_position'])
-                if a1 != a2:
-                    pair = tuple(sorted([a1, a2]))
-                    collaboration_counts[pair] += 0.5
-                    G.add_edge(a1, a2, weight=collaboration_counts[pair])
-            networks[year] = G
-        return networks
-
-    def print_network_info(networks):
-        for year, G in sorted(networks.items()):
-            print(f"\nyear: {year}")
-            print(f"  number of nodes: {G.number_of_nodes()}")
-            print(f"  number of edges: {G.number_of_edges()}")
-            if G.number_of_edges() > 0:
-                u, v, data = max(G.edges(data=True), key=lambda x: x[2]['weight'])
-                print(f"  the most frequent collaboration (cumulative): {G.nodes[u]['name']} and {G.nodes[v]['name']} ({data['weight']} times)")
-
-    def visualize_network(G, title="Collaboration Network"):
-        plt.figure(figsize=(12, 10))
-        connected = [n for n in G.nodes if G.degree(n) > 0]
-        isolated = [n for n in G.nodes if G.degree(n) == 0]
-        pos = {}
-        if connected:
-            pos.update(nx.spring_layout(G.subgraph(connected), seed=42))
-        if isolated:
-            max_x = max([x for x, _ in pos.values()], default=0) + 0.2
-            min_y = min([y for _, y in pos.values()], default=0) - 0.2
-            cols = min(10, max(1, int(np.sqrt(len(isolated)))))
-            for i, node in enumerate(isolated):
-                row, col = divmod(i, cols)
-                pos[node] = (max_x + col * 0.1, min_y - row * 0.1)
-
-        edge_weights = [G[u][v]['weight'] * 0.03 + 0.3 for u, v in G.edges()]
-        degrees = dict(G.degree())
-        max_deg = max(degrees.values(), default=1)
-        deg_cent = nx.degree_centrality(G)
-        bet_cent = nx.betweenness_centrality(G)
-
-        N = int(0.10 * len(deg_cent))
-        top_deg = set(pid for pid, _ in sorted(deg_cent.items(), key=lambda x: x[1], reverse=True)[:N])
-        top_bet = set(pid for pid, _ in sorted(bet_cent.items(), key=lambda x: x[1], reverse=True)[:N])
-        central_nodes = top_deg | top_bet
-
-        print(f"Average network degree centrality: {avg_metric(deg_cent, G.nodes)}")
-        print(f"Average central nodes degree centrality: {avg_metric(deg_cent, central_nodes)}")
-        print(f"Average network betweenness centrality: {avg_metric(bet_cent, G.nodes)}")
-        print(f"Average central nodes betweenness centrality: {avg_metric(bet_cent, central_nodes)}")
-
-        excellent = {n for n in G.nodes if G.nodes[n].get('excellence', False)}
-        overlap = excellent & central_nodes
-        print(f"Number of excellent nodes: {len(excellent)}")
-        print(f"Number of central nodes: {len(central_nodes)}")
-        print(f"Number of nodes that are both: {len(overlap)}")
-        print(f"Percentage of excellent nodes that are central: {(len(overlap)/len(excellent)*100) if excellent else 0:.2f}%")
-        print(f"Percentage of central nodes that are excellent: {(len(overlap)/len(central_nodes)*100) if central_nodes else 0:.2f}%")
-
-        node_sizes, node_colors = [], []
-        for n in G.nodes():
-            degree = degrees.get(n, 0)
-            node_sizes.append(5 * degree + 5)
-            is_exc = G.nodes[n].get('excellence', False)
-            is_central = n in central_nodes
-            is_isolated = n in isolated
-            if is_exc and is_central:
-                node_colors.append('orange')
-            elif is_exc:
-                node_colors.append('yellow')
-            elif is_central:
-                node_colors.append('red')
-            elif is_isolated:
-                node_colors.append('grey')
-            else:
-                node_colors.append(plt.cm.Blues(degree * 0.5 / max_deg + 0.5))
-
-        nx.draw_networkx_nodes(G, pos, node_size=node_sizes, node_color=node_colors, alpha=0.8)
-        if G.edges:
-            nx.draw_networkx_edges(G, pos, width=edge_weights, alpha=0.6, edge_color='gray')
-
-        plt.title(title)
-        plt.axis('off')
-        plt.tight_layout()
-        plt.show()
-
-    # Main function logic
-    networks = build_collaboration_networks()
-    print_network_info(networks)
-    latest_year = max(networks.keys())
-    visualize_network(networks[latest_year], title=f"{latest_year} collaboration network")
 
 
 def process_faculty_folder(folder_path, output_path):
