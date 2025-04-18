@@ -4,6 +4,8 @@ import pandas as pd
 from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
+import glob
+from network import *
 
 #PageRank 1000 faculty extraction with degree betweeness for comparison:
 def page_rank_network():
@@ -368,11 +370,218 @@ def visualize_statistics_change():
     # Show the plot
     plt.show()
     
+    
+def analyze_faculty_collaboration(year = 2025, attribute_name="position"):
+    """
+    Analyze faculty collaboration network based on a specific attribute
+    
+    Parameters:
+    - collaboration_network: NetworkX graph of faculty collaborations
+    - attribute_name: The node attribute to analyze (e.g., "position", "area", "management")
+    
+    Returns:
+    - Dictionary containing analysis results
+    """
+    # Extract attribute information for each node
+    attribute_data = {}
+    node_attributes = {}
+    graphml_path = f"graphs/collaboration_network_{str(year)}.graphml"
+    collaboration_network = nx.read_graphml(graphml_path)
+    # Get attribute for each node
+    for node in collaboration_network.nodes():
+        attribute = collaboration_network.nodes[node].get(attribute_name, 'Unknown')
+        node_attributes[node] = attribute
+
+        if attribute not in attribute_data:
+            attribute_data[attribute] = []
+        attribute_data[attribute].append(node)
+
+    # Count the number of nodes in each attribute category
+    attribute_counts = {attr: len(nodes) for attr, nodes in attribute_data.items()}
+    print(f"Distribution of faculty by {attribute_name}:")
+    for attr, count in sorted(attribute_counts.items(), key=lambda x: x[1], reverse=True):
+        print(f"{attr}: {count} faculty")
+
+    # Calculate internal and external collaborations for each attribute value
+    attribute_collaborations = defaultdict(lambda: {'internal': 0, 'external': 0, 'nodes': 0})
+
+    for attribute, nodes in attribute_data.items():
+        attribute_collaborations[attribute]['nodes'] = len(nodes)
+
+        # Count internal collaborations (within same attribute value)
+        for node in nodes:
+            for neighbor in collaboration_network.neighbors(node):
+                neighbor_attribute = node_attributes.get(neighbor, 'Unknown')
+
+                if neighbor_attribute == attribute:
+                    attribute_collaborations[attribute]['internal'] += 0.5  # Count each edge once
+                else:
+                    attribute_collaborations[attribute]['external'] += 0.5  # Count each edge once
+
+    # Convert the defaultdict to a dataframe
+    collab_df = pd.DataFrame.from_dict(attribute_collaborations, orient='index')
+    collab_df['avg_internal'] = collab_df['internal'] / collab_df['nodes']
+    collab_df['avg_external'] = collab_df['external'] / collab_df['nodes']
+    collab_df['total_collaborations'] = collab_df['internal'] + collab_df['external']
+    collab_df['avg_total'] = collab_df['total_collaborations'] / collab_df['nodes']
+    collab_df['internal_ratio'] = collab_df['internal'] / collab_df['total_collaborations'].replace(0, np.nan)
+    collab_df['internal_ratio'] = collab_df['internal_ratio'].fillna(0)
+
+    # Sort by total collaborations
+    collab_df = collab_df.sort_values('avg_total', ascending=False)
+
+    # Analyze the collaboration across different attribute values
+    cross_attribute_edges = []
+    for u, v in collaboration_network.edges():
+        attr_u = node_attributes.get(u, 'Unknown')
+        attr_v = node_attributes.get(v, 'Unknown')
+        if attr_u != attr_v and attr_u != 'Unknown' and attr_v != 'Unknown':
+            cross_attribute_edges.append((attr_u, attr_v))
+
+    # Count the frequency of each collaboration type
+    cross_collab_counts = Counter(cross_attribute_edges)
+
+    # Create an adjacency matrix for attribute collaborations
+    unique_attributes = sorted(attribute_data.keys())
+    attribute_matrix = pd.DataFrame(0, index=unique_attributes, columns=unique_attributes)
+
+    for (attr1, attr2), count in cross_collab_counts.items():
+        attribute_matrix.loc[attr1, attr2] += count
+        attribute_matrix.loc[attr2, attr1] += count  # Make it symmetric
+
+    return {
+        'node_attributes': node_attributes,
+        'attribute_data': attribute_data,
+        'attribute_counts': attribute_counts,
+        'attribute_collaborations': attribute_collaborations,
+        'collab_df': collab_df,
+        'cross_attribute_edges': cross_attribute_edges,
+        'cross_collab_counts': cross_collab_counts,
+        'attribute_matrix': attribute_matrix,
+        'unique_attributes': unique_attributes
+    }
+
+
+def visualize_collaboration_patterns(results, attribute_name="position", min_faculty=3):
+    """
+    Create visualizations for faculty collaboration patterns
+    
+    Parameters:
+    - results: Dictionary containing analysis results
+    - attribute_name: The node attribute analyzed
+    - min_faculty: Minimum number of faculty to include in visualizations
+    """
+    collab_df = results['collab_df']
+    attribute_matrix = results['attribute_matrix']
+    attribute_data = results['attribute_data']
+    unique_attributes = results['unique_attributes']
+    
+    # Filter out attributes with very few faculty
+    filtered_df = collab_df[collab_df['nodes'] >= min_faculty]
+    attributes = filtered_df.index
+    ind = np.arange(len(attributes))
+    
+    # 1. Enhanced stacked bar chart
+    plt.figure(figsize=(14, 8))
+    
+    # First plot internal collaborations
+    plt.bar(ind, filtered_df['avg_internal'], width=0.6, label=f'Average Internal Collaborations',
+            color='#3274A1', edgecolor='white', linewidth=0.7)
+    # Then stack external collaborations on top
+    plt.bar(ind, filtered_df['avg_external'], width=0.6, bottom=filtered_df['avg_internal'],
+            label='Average External Collaborations', color='#E1812C', edgecolor='white', linewidth=0.7)
+
+    # Add total values on top of each bar
+    for i, total in enumerate(filtered_df['avg_total']):
+        plt.text(i, total + 0.1, f'{total:.1f}', ha='center', fontweight='bold')
+
+    plt.xlabel(f'Faculty {attribute_name.title()}', fontsize=12)
+    plt.ylabel('Average Number of Collaborations', fontsize=12)
+    plt.title(f'Academic Collaboration Patterns by Faculty {attribute_name.title()}', fontsize=14, fontweight='bold')
+    plt.xticks(ind, attributes, rotation=45, ha='right', fontsize=10)
+    plt.yticks(fontsize=10)
+    plt.legend(loc='upper right', fontsize=10)
+    plt.grid(axis='y', alpha=0.3)
+    plt.tight_layout()
+    plt.show()
+
+    # 2. Improved visualization: Attribute Network Graph
+    plt.figure(figsize=(14, 12))
+
+    # Create a directed graph
+    G = nx.Graph()
+
+    # Add nodes for each attribute value with size based on faculty count
+    for attribute in unique_attributes:
+        G.add_node(attribute, size=len(attribute_data[attribute]))
+
+    # Add edges with weights based on collaboration count
+    for i, attr1 in enumerate(unique_attributes):
+        for j, attr2 in enumerate(unique_attributes):
+            if i < j and attribute_matrix.loc[attr1, attr2] > 0:
+                G.add_edge(attr1, attr2, weight=attribute_matrix.loc[attr1, attr2])
+
+    # Define node positions using spring layout
+    pos = nx.spring_layout(G, seed=42, k=0.4)
+
+    # Get edge weights for line thickness
+    edge_weights = [G[u][v]['weight'] * 0.8 for u, v in G.edges()]
+    max_weight = max(edge_weights) if edge_weights else 1
+
+    # Get node sizes based on faculty count
+    node_sizes = [G.nodes[node]['size'] * 100 for node in G.nodes()]
+
+    # Draw the network
+    nx.draw_networkx_nodes(G, pos, node_size=node_sizes, node_color='skyblue',
+                           edgecolors='black', alpha=0.8)
+
+    # Draw edges with thickness based on weight
+    nx.draw_networkx_edges(G, pos, width=[w/max_weight * 5 for w in edge_weights],
+                           edge_color='gray', alpha=0.7)
+
+    # Draw labels with uniform font size
+    nx.draw_networkx_labels(G, pos, font_size=12, font_weight='bold')
+
+    # Add edge labels showing the number of collaborations
+    edge_labels = {(u, v): f"{G[u][v]['weight']:.0f}" for u, v in G.edges()}
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='red')
+
+    plt.title(f'{attribute_name.title()} Collaboration Network', fontsize=16, fontweight='bold')
+    plt.axis('off')
+    plt.tight_layout()
+    plt.show()
+
+    # 3. Heatmap visualization of collaboration counts
+    import seaborn as sns
+    plt.figure(figsize=(12, 10))
+    mask = np.zeros_like(attribute_matrix)
+    mask[np.triu_indices_from(mask, k=1)] = True  # Keep only the lower triangular part
+    sns.heatmap(attribute_matrix, annot=True, fmt=".0f", cmap="YlOrRd",
+                linewidths=1, mask=mask, cbar_kws={'label': 'Number of Collaborations'})
+    plt.title(f'Cross-{attribute_name.title()} Collaboration Matrix', fontsize=14, fontweight='bold')
+    plt.tight_layout()
+    plt.show()
+
+
+# Main function to run the analysis
+def analyze_and_visualize_collaboration(year = 2025, attribute_name="position", min_faculty=3):
+    """
+    Run full analysis and visualization of faculty collaboration network
+    
+    Parameters:
+    - collaboration_network: NetworkX graph of faculty collaborations
+    - attribute_name: The node attribute to analyze (e.g., "position", "area", "management")
+    - min_faculty: Minimum number of faculty to include in visualizations
+    """
+    results = analyze_faculty_collaboration(year, attribute_name)
+    visualize_collaboration_patterns(results, attribute_name, min_faculty)
+    return results
+
 if __name__ == '__main__':
     # Uncomment the function you want to run
     # pageRankNetWork()
     # new1000Network()
     # overallInfo()
     # network_degree_plot()
-    visualize_statistics_change()
+    analyze_and_visualize_collaboration()
     # pass
