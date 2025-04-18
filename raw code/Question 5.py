@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Answering Question 5 using this script
+Answering Section 3 using this script
  
 """
 # Import necessary libraries for data handling, network analysis, and visualisation
@@ -16,22 +16,19 @@ def avg_metric(metric_dict, node_set):
     return np.mean(values) if values else 0 
 
 # Read collaboration and faculty data, merge relevant metadata, and construct yearly collaboration networks (accumulative).
-def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors_collaborations.csv', faculty_csv = 'Faculty_with_excellence_v2.csv'):
+def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors_collaborations.csv', faculty_csv = 'Faculty_with_excellence.csv'):
 
     df = pd.read_csv(main_authors_collaborations_csv)
     faculty_info = pd.read_csv(faculty_csv)
     print(faculty_info['Excellence'].value_counts())
-    print(faculty_info['Top_10_Excellence'].value_counts())
     print(faculty_info['Excellence'].unique())
-    print(faculty_info['Top_10_Excellence'].unique())
 
     # Merge faculty information with collaboration data
 
     # Merge on author_pid = pid, keeping only the needed columns
     df = pd.merge(
         df,
-        faculty_info[['pid', 'Area', 'Management', 'Position','Excellence',
-                      'Top_10_Excellence'
+        faculty_info[['pid', 'Area', 'Management', 'Position','Excellence'
                       ]],
         left_on='author_pid',
         right_on='pid',
@@ -42,7 +39,6 @@ def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors
         'Management': 'author_management',
         'Position': 'author_position',
         'Excellence': 'author_excellence',
-        'Top_10_Excellence': 'author_top_excellence'
     })
     # Drop the redundant pid column from the merge
     df = df.drop(columns=['pid'])
@@ -87,8 +83,7 @@ def build_collaboration_networks(main_authors_collaborations_csv = 'main_authors
             # add nodes(if not exists)
             if not year_graph.has_node(author1):
                 year_graph.add_node(author1, name=row['author_name'], area=row['author_area'], management=row['author_management'], position = row['author_position'],
-                                    excellence=row['author_excellence'],
-                                    top_10_excellence=row['author_top_excellence']
+                                    excellence=row['author_excellence']
                                     )
             if not year_graph.has_node(author2):
                 year_graph.add_node(author2, name=row['collaborator_name'], area=row['collaborator_area'], management=row['collaborator_management'], position = row['collaborator_position'])
@@ -184,12 +179,13 @@ def visualize_network(graph, title="Collaboration network"):
     # Printing average centrality measures
     avg_deg_cent_all = avg_metric(degree_centrality, graph.nodes)
     avg_deg_cent_central = avg_metric(degree_centrality, central_degree_nodes)
-    print(avg_deg_cent_all, avg_deg_cent_central)
+    print(f"Average network degree centrality: {avg_deg_cent_all}")
+    print(f"Average central nodes degree centrality: {avg_deg_cent_central}")
 
     avg_bet_cent_all = avg_metric(betweenness_centrality, graph.nodes)
     avg_bet_cent_central = avg_metric(betweenness_centrality, central_degree_nodes)
-    print(avg_bet_cent_all, avg_bet_cent_central)
-   
+    print(f"Average network betweenness centrality: {avg_bet_cent_all}")
+    print(f"Average central nodes betweenness centrality: {avg_bet_cent_central}")
 
     # node size and color
     node_sizes = []
@@ -244,13 +240,13 @@ def visualize_network(graph, title="Collaboration network"):
                      xytext=(max_x, min_y - rows * 0.1 - 0.2),
                      ha='center', va='top',
                      bbox=dict(boxstyle="round,pad=0.3", fc="lightgray", alpha=0.8))
-
-   #annotate excellent nodes 
+        '''
+   # annotate excellent nodes 
     for node in graph.nodes():
         if graph.nodes[node].get('excellence', False):  # check if node is excellent
             name = graph.nodes[node].get('name', node)
             plt.annotate(name, xy=pos[node], textcoords="offset points", xytext=(0, 10), ha='center', fontsize=8, color='black')
-    
+   '''    
     
    #annotate the top 5 nodes
     for i, (node, degree) in enumerate(central_degree_nodes):
@@ -292,3 +288,6 @@ if __name__ == "__main__":
     networks = build_collaboration_networks('main_authors_collaborations.csv')
     print_network_info(networks)
     visualize_year_network(networks, 2025)
+    
+
+  
