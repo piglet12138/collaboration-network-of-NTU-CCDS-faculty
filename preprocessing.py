@@ -4,6 +4,8 @@ import requests
 from urllib.parse import urlparse
 import time
 import xml.etree.ElementTree as ET
+import json
+
 def download_dblp_xml(xlsx_file, output_dir="faculty_data"):
     """
     Read DBLP links from xlsx file, download XML data and save to specified directory
@@ -102,7 +104,72 @@ def add_pid_to_faculty_csv(input_csv, output_csv=None):
             print(f"{name} : {e}")
     df.to_csv(output_csv, index=False)
 
+def extract_paper_data(xml_file_path):
+    tree = ET.parse(xml_file_path)
+    root = tree.getroot()
+    papers = {}
 
+    for record in root.findall('.//r/*'):  # <article>, <inproceedings>, etc.
+        key = record.attrib.get("key")
+        title_elem = record.find("title")
+        year_elem = record.find("year")
+        authors = record.findall("author")
+
+        if not key or title_elem is None or year_elem is None or not authors:
+            continue
+
+        papers[key] = {
+            "title": title_elem.text.strip() if title_elem.text else "",
+            "year": year_elem.text.strip() if year_elem.text else "",
+            "authors": [
+                {
+                    "pid": a.attrib.get("pid", ""),
+                    "name": a.text.strip() if a.text else ""
+                } for a in authors
+            ]
+        }
+
+    return papers
+
+def process_faculty_folder(folder_path, output_path):
+    papers_by_key = {}
+
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".xml"):
+            xml_path = os.path.join(folder_path, filename)
+            papers_by_key.update(extract_paper_data(xml_path))
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(papers_by_key, f, indent=2, ensure_ascii=False)
+
+    print(f" Extracted paper data saved to: {output_path}")
+
+def deduplicate_paper_data(input_path, output_path):
+    with open(input_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    cleaned_data = {}
+
+    for key, paper in data.items():
+        seen_pids = set()
+        unique_authors = []
+
+        for author in paper.get("authors", []):
+            pid = author.get("pid")
+            if pid and pid not in seen_pids:
+                seen_pids.add(pid)
+                unique_authors.append(author)
+
+        cleaned_data[key] = {
+            "title": paper.get("title", ""),
+            "year": paper.get("year", ""),
+            "authors": unique_authors
+        }
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(cleaned_data, f, indent=2, ensure_ascii=False)
+
+    print(f" Cleaned JSON saved to: {output_path}")
 
 if __name__ == "__main__":
     # Usage example
