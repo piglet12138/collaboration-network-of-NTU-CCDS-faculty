@@ -9,6 +9,7 @@ Group members:
 - Nguyen Giang Son G2404606D
 
 Written Report: https://docs.google.com/document/d/11AptFtR-8v5_eyzy_mE80oHM_WLNTiO5I74IVBzTGH4/edit?tab=t.0
+PPT: https://entuedu-my.sharepoint.com/:p:/g/personal/c240066_e_ntu_edu_sg/Ecbxu_4o6vNNqWAWAcZnDbgB-5lEgiSPEjZFyfB49rFhzA?e=gTFZOQ
 
 ## Code files
 - `faculty.py`: code for analyzing the faculty network and gaining insights on aforementioned issues.
